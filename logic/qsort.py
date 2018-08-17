@@ -1,6 +1,7 @@
 
 #Code from http://rosettacode.org/wiki/Sorting_algorithms/Quicksort#Python
 
+#quick sort
 def qsort(inlist):
     if inlist == []: 
         return []

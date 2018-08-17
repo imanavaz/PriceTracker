@@ -1,6 +1,7 @@
 import csv
 import re
 
+#test function to use regex to separate units from sizes
 def processFile (inputCSV, outputCSV):
     
     with open(inputCSV,'r') as csvinput:
@@ -17,7 +18,7 @@ def processFile (inputCSV, outputCSV):
                 if (mStrResult):
                     amount = re.findall(r'\d*\.?\d+',psize)
                 else:
-                    amount = [""];
+                    amount = [""]
 
                 unit = psize.replace(amount[0],'')
 

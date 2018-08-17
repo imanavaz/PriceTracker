@@ -3,6 +3,9 @@ import time
 import datetime
 
 #this function will append a uniques ID to each row, reading the timestamp of each row, and adding a number to it.
+#This si how it is used: append ID to coles
+#appendIDtoRow('coles.csv', 'coles2.csv','C') #these would be the files with unique IDs
+
 def appendIDtoRow (inputCSV, outputCSV,seperator):
     with open(inputCSV,'r') as csvinput:
         with open(outputCSV, 'w') as csvoutput:
