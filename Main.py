@@ -11,7 +11,6 @@ from logic.scrapedDataChecker import extractSimilarData
 
 extractSimilarData('data\c.csv', 'data\w.csv')
 
-
 #processFile('coles2.csv','colesInfo2.csv')
 
 ###-----Woolies-----###
