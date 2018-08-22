@@ -49,8 +49,12 @@ gui = AppGUI(recl, root)
 root.mainloop()
 
 
-
-
+#def test(option):
+#    print option
+#for indx, option in enumerate(things):
+#    cmd = lambda opt=option: test(opt)
+#    btn = Tkinter.Button(text=option, command=cmd)
+#    btn.pack(side='left')
 
 #frame = Frame(root, width=600, height=550)
 #frame.bind("<Button-1>",leftClick)
