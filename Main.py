@@ -4,12 +4,68 @@ import csv
 #from logic.appendID import appendIDtoRow
 #from logic.preparations import processFile
 from logic.scrapedDataChecker import extractSimilarData
+from tkinter import *
+
+
+##------------------------------##
+# --------- (-: UI :-) --------- #
+##------------------------------##
+
+
+class AppGUI(Frame):
+    
+    def __init__(self, recList, master): 
+        Frame.__init__(self, master)
+        self.grid()
+        self.master.rowconfigure(len(recList), weight=1)   
+        self.master.columnconfigure(3, weight=1)
+
+        for i in range(0, len(recList)):
+            Button(master, text="Yes",
+                command=lambda: 
+                    print('accepted')).grid(row=i, column=0)
+                    #aB.acceptButton.config(state="disabled")
+                    #aB.rejectButton.config(state="disabled"))
+            #newButtonA.append(newButtonA)
+
+            Button(master, text="No", 
+                command=lambda: 
+                    print('rejected')).grid(row=i, column=1)
+                    #self.acceptButton.config(state="disabled")
+                    #self.rejectButton.config(state="disabled"))
+            #newButtonR.append(newButtonR)
+            Label(master, text=recList[i]).grid(row=i, column=2)
+    #def setRecommendationText(rectext):
+    #   self.recText.config(text='change the value')
+
+root = Tk()
+
+recl = ['test 1', 'test 2', 'test 3']
+
+gui = AppGUI(recl, root)
+
+#rec3.setRecommendationText("rec 3 hurray")
+
+root.mainloop()
+
+
+
+
+
+#frame = Frame(root, width=600, height=550)
+#frame.bind("<Button-1>",leftClick)
+#frame.bind("<Button-3>",rightClick) #
+#frame.pack()
+
+
+
+
 
 ##---------------------------------------##
-# --------- (-: CSV Process :-) --------- #
+# --------- (-:, CSV Process :-) --------- #
 ##---------------------------------------##
 
-extractSimilarData('data\c.csv', 'data\w.csv')
+#######extractSimilarData('data\c.csv', 'data\w.csv')
 
 #processFile('coles2.csv','colesInfo2.csv')
 
