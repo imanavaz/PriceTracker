@@ -22,21 +22,20 @@ class AppGUI(Frame):
 
         for i in range(0, len(recList)):
             Button(master, text="Yes",
-                command=lambda: 
-                    print('accepted')).grid(row=i, column=0)
+                command=lambda opt=recList[i]: 
+                    print(opt, ' is accepted')).grid(row=i, column=0)
                     #aB.acceptButton.config(state="disabled")
                     #aB.rejectButton.config(state="disabled"))
-            #newButtonA.append(newButtonA)
+
 
             Button(master, text="No", 
-                command=lambda: 
-                    print('rejected')).grid(row=i, column=1)
+                command=lambda opt=recList[i]: 
+                    print(opt,' is rejected')).grid(row=i, column=1)
                     #self.acceptButton.config(state="disabled")
                     #self.rejectButton.config(state="disabled"))
-            #newButtonR.append(newButtonR)
+
             Label(master, text=recList[i]).grid(row=i, column=2)
-    #def setRecommendationText(rectext):
-    #   self.recText.config(text='change the value')
+
 
 root = Tk()
 
