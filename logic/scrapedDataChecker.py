@@ -1,43 +1,61 @@
 import time
 import csv
-from logic.levenshtein import iterative_levenshtein
+#from logic.levenshtein import iterative_levenshtein
 from tqdm import tqdm
 from jellyfish import *
+from numpy import genfromtxt
 
 
-def checkTheSame (row1, row2):
-    if ((row1['Brand'].strip().lower() == row2['Brand'].strip().lower()) and 
-        (row1['Product name'].strip().lower() == row2['Product name'].strip().lower())): #and
-        #(row1['Pack size'].strip().lower() == row2['Pack size'].strip().lower())):
-        return True
-   
-    return False
 
+def checkTheSame (row1, row2):#higher is better
+    simScore = 0
+    if (row1['Brand'].strip().lower() == row2['Brand'].strip().lower()):
+        simScore = simScore + 1
 
-def checkSimilarJWink(row1, row2):
-    simScore = (jaro_winkler(row1['Brand'].strip().lower(), row2['Brand'].strip().lower()) + 
-                jaro_winkler(row1['Product name'].strip().lower(), row2['Product name'].strip().lower())) / 2 #+ 
-                #jaro_winkler(row1['Pack size'].strip().lower(), row2['Pack size'].strip().lower())) / 3
-    if (simScore >= 60):
-        return True
+    if (row1['Product name'].strip().lower() == row2['Product name'].strip().lower()):
+        simScore = simScore + 1
+
+    if (row1['Pack size'].strip().lower() == row2['Pack size'].strip().lower()):
+        simScore = simScore + 1
     
-    return False
-            
+    return simScore
 
+
+def checkSimilarJWink(row1, row2):#lower is better  
+    simScore2 = (jaro_winkler(row1['Brand'].strip().lower(), row2['Brand'].strip().lower()) + 
+                jaro_winkler(row1['Product name'].strip().lower(), row2['Product name'].strip().lower()) + 
+                jaro_winkler(row1['Pack size'].strip().lower(), row2['Pack size'].strip().lower()))# / 3
+    
+    return simScore2
+   
+
+#lower is better
 def checkSimilarLev(row1, row2):
+    simScore3 = levenshtein_distance(row1['Brand'].strip().lower(), row2['Brand'].strip().lower()) + 
+               levenshtein_distance(row1['Product name'].strip().lower(), row2['Product name'].strip().lower()) + 
+               levenshtein_distance(row1['Pack size'].strip().lower(), row2['Pack size'].strip().lower())
     #if (iterative_levenshtein(row1['Brand'].strip().lower(), row2['Brand'].strip().lower(), costs=(1, 1, 1)) <= 3 and
     #    iterative_levenshtein(row1['Product name'].strip().lower(), row2['Product name'].strip().lower(), costs=(1, 1, 1)) <= 3):
         #iterative_levenshtein(row1['Pack size'].strip().lower(), row2['Pack size'].strip().lower(), costs=(1, 1, 1)) <= 3):
-    if (levenshtein_distance(row1['Brand'].strip().lower(), row2['Brand'].strip().lower()) <= 3 and 
-        levenshtein_distance(row1['Product name'].strip().lower(), row2['Product name'].strip().lower()) <= 4):
-            return True
-    return False
+    
+    return simScore3
+
+
+def checkSimilarHamming(row1, row2): #lower is better
+    simScore4 = hamming_distance(row1['Brand'].strip().lower(), row2['Brand'].strip().lower()) +
+               hamming_distance(row1['Product name'].strip().lower(), row2['Product name'].strip().lower())+
+               hamming_distance(row1['Pack size'].strip().lower(), row2['Pack size'].strip().lower())
+
+   return simScore4     
 
 
 def extractSimilarData (inputCSV1, inputCSV2):
 
     print("--- Process started ---")
     
+    #first = genfromtxt('data\Woolies.csv', delimiter=',', skip_header=1, usecols=np.arange(0,22))
+
+
     first = []
     with open(inputCSV1,'r') as csvinput1:
         reader1 = csv.DictReader(csvinput1, delimiter=',', quotechar='|') 
@@ -53,24 +71,19 @@ def extractSimilarData (inputCSV1, inputCSV2):
     print("--- Reading the files complete ---")
     
     start_time = time.time()
+    
     simcounter = 0
-    for a in tqdm(first):
-        for b in second:
-            #simScore = 1/((levenshtein_distance(a['Brand'].strip().lower(), b['Brand'].strip().lower()) + 
-            #    levenshtein_distance(a['Product name'].strip().lower(), b['Product name'].strip().lower()) + 
-            #    levenshtein_distance(a['Pack size'].strip().lower(), b['Pack size'].strip().lower())) / 3)
 
-            #print('-- JW Similarity for Items: {0} , {1} , {2} <---> {3} , {4} , {5}\n-- is {6}\n\n'.format(a['Brand'], a['Product name'], a['Pack size'], b['Brand'], b['Product name'], b['Pack size'], simScore))
-            
-            if (checkTheSame(a,b)):
-                print('-- Found Same Item: {0} , {1} , {2} <---> {3} , {4} , {5}\n'.format(a['Brand'], a['Product name'], a['Pack size'], b['Brand'], b['Product name'], b['Pack size']))
-                simcounter = simcounter + 1
-            elif(checkSimilarLev(a,b)):
-                print('-- Found LV Similar Item: {0} , {1} , {2} <---> {3} , {4} , {5}\n'.format(a['Brand'], a['Product name'], a['Pack size'], b['Brand'], b['Product name'], b['Pack size']))
-                simcounter = simcounter + 1    
-            elif (checkSimilarJWink(a,b)):
-                print('-- Found JW Similar Item: {0} , {1} , {2} <---> {3} , {4} , {5}\n'.format(a['Brand'], a['Product name'], a['Pack size'], b['Brand'], b['Product name'], b['Pack size']))
-                simcounter = simcounter + 1
-            
-    print('--- process finished in {0} seconds and found {1} similar rows ---'.format((time.time() - start_time), simcounter))
+    simMatrixLev = np.zeros([len(first), len(second), dtype=float])
+    simMatrixNameSim = np.zeros([len(first), len(second), dtype=float])
+    simMatrixJWink = np.zeros([len(first), len(second), dtype=float])
+    simMatrixHamming = np.zeros([len(first), len(second), dtype=float])
+
+    #calculate similarities
+    for i in tqdm(range(len(first))):
+        for j in range(len(second):
+            simMatrixnameSim[i,j] = checkTheSame(first[i],second[j])
+            simMatrixLev[i,j] = checkSimilarLev(first[i],second[j])
+            simMatrixJWink[i,j] = checkSimilarJWink(first[i],second[j])
+            simMatrixHamming[i,j] = checkSimilarHamming(first[i],second[j])
 

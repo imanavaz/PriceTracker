@@ -1,0 +1,5 @@
+algorithm, weight
+levenshtein, 1.0
+nameSim, 1.0
+jwink, 1.0
+hamming, 1.0

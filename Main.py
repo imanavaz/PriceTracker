@@ -10,7 +10,7 @@ from tkinter import *
 ##------------------------------##
 # --------- (-: UI :-) --------- #
 ##------------------------------##
-
+extractSimilarData('data\c.csv', 'data\w.csv')
 
 class AppGUI(Frame):
     
@@ -24,16 +24,11 @@ class AppGUI(Frame):
             Button(master, text="Yes",
                 command=lambda opt=recList[i]: 
                     print(opt, ' is accepted')).grid(row=i, column=0)
-                    #aB.acceptButton.config(state="disabled")
-                    #aB.rejectButton.config(state="disabled"))
-
 
             Button(master, text="No", 
                 command=lambda opt=recList[i]: 
                     print(opt,' is rejected')).grid(row=i, column=1)
-                    #self.acceptButton.config(state="disabled")
-                    #self.rejectButton.config(state="disabled"))
-
+                    
             Label(master, text=recList[i]).grid(row=i, column=2)
 
 
