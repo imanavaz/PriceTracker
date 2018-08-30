@@ -10,7 +10,7 @@ from tkinter import *
 ##------------------------------##
 # --------- (-: UI :-) --------- #
 ##------------------------------##
-extractSimilarData('data\c.csv', 'data\w.csv')
+extractSimilarData('data\ctest.csv', 'data\wtest.csv')
 
 class AppGUI(Frame):
     
