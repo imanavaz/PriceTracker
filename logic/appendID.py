@@ -6,7 +6,7 @@ import datetime
 #This si how it is used: append ID to coles
 #appendIDtoRow('coles.csv', 'coles2.csv','C') #these would be the files with unique IDs
 
-def appendIDtoRow (inputCSV, outputCSV,seperator):
+def appendIDtoRow (inputCSV, outputCSV, seperator):
     with open(inputCSV,'r') as csvinput:
         with open(outputCSV, 'w') as csvoutput:
             writer = csv.writer(csvoutput, lineterminator='\n')
@@ -14,7 +14,7 @@ def appendIDtoRow (inputCSV, outputCSV,seperator):
 
             all = []
             row = next(reader)
-            row.append('ID')
+            row.append('UID')
             all.append(row)
 
             count = 1

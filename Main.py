@@ -1,7 +1,7 @@
 
 import csv
 #from logic.levenshtein import iterative_levenshtein
-#from logic.appendID import appendIDtoRow
+from logic.appendID import appendIDtoRow
 #from logic.preparations import processFile
 from logic.scrapedDataChecker import extractSimilarData
 from tkinter import *
@@ -10,7 +10,10 @@ from tkinter import *
 ##------------------------------##
 # --------- (-: UI :-) --------- #
 ##------------------------------##
-extractSimilarData('data\ctest.csv', 'data\wtest.csv')
+
+appendIDtoRow ('data\ctest.csv', 'data\ctest-i.csv', 'C')
+appendIDtoRow ('data\wtest.csv', 'data\wtest-i.csv', 'C')
+extractSimilarData('data\ctest-i.csv', 'data\wtest-i.csv')
 
 class AppGUI(Frame):
     

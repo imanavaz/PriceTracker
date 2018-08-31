@@ -1,0 +1,200 @@
+Date of data Extraction,Brand,Product name,ProductID,Category,Pack size,Serving size,Servings per pack,Product code,Energy per 100g (or 100ml),Protein per 100g (or 100ml),Total fat per 100g (or 100ml),Saturated fat per 100g (or 100ml),Carbohydrate per 100g (or 100ml),Sugars per 100g (or 100ml),Sodium per 100g (or 100ml),Original Price,Price Promoted,Price Promoted Price,Multi Buy Special,Multi Buy Special Details,Multi Buy Price,UID
+2018-08-15 08:29:41 UTC,1495,1495 Scotch Whisky ,363230,Liquor,700ml,Ml,,,,,,,,,,31,FALSE,31,FALSE,,,1534285781.0-C-1
+2018-08-15 08:29:44 UTC, peppercorn extra,Peppercorn Extra Lean Chicken Chipolatas ,652089,"Meat, Seafood & Deli",450g,g,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534285784.0-C-2
+2018-08-15 06:29:43 UTC, somersby,Somersby Cloudy Apple Cider Cans,667655,Liquor,10 pack,,,,,,,,,,,27,TRUE,22,FALSE,,,1534278583.0-C-3
+2018-08-15 08:49:37 UTC, somersby,Somersby Cloudy Apple Cider Cans,976914,Liquor,30 pack,,,,,,,,,,,69,FALSE,69,FALSE,,,1534286977.0-C-4
+2018-08-15 08:29:45 UTC,180 degrees,180 Degrees Oat Crackers Walnut,289839,"Meat, Seafood & Deli",150g,14g (3 Crackers),10.7,,100g,9.5g,34.5g,11.8g,42.8g,,809mg,6.5,FALSE,6.5,FALSE,,,1534285785.0-C-5
+2018-08-15 08:29:45 UTC,180 degrees,180 Degrees Oat Crackers Hazelnut,289908,"Meat, Seafood & Deli",150g,14g (3 Crackers),10.7,,100g,9.1g,31.9g,11.1g,41.6g,3.2g,8112mg,6.5,FALSE,6.5,FALSE,,,1534285785.0-C-6
+2018-08-15 08:29:45 UTC,180 degrees,180 Degrees Oat Crackers Natural,289909,"Meat, Seafood & Deli",150g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534285785.0-C-7
+2018-08-15 06:29:43 UTC,19 crimes,19 Crimes Red Blend ,464845,Liquor,750ml,Ml,,,,,,,,,,11,FALSE,11,FALSE,,,1534278583.0-C-8
+2018-08-15 06:29:43 UTC,19 crimes,19 Crimes Cabernet Sauvignon ,465065,Liquor,750ml,Ml,,,,,,,,,,11,FALSE,11,FALSE,,,1534278583.0-C-9
+2018-08-15 08:49:38 UTC,19 crimes,19 Crimes Shiraz ,541314,Liquor,750ml,Ml,,,,,,,,,,11,FALSE,11,FALSE,,,1534286978.0-C-10
+2018-08-15 08:29:42 UTC,23rd st distillery,23rd St Distillery Signature Gin ,561785,Liquor,700ml,Ml,,,,,,,,,,83,FALSE,83,FALSE,,,1534285782.0-C-11
+2018-08-15 09:29:39 UTC,333s,333s Sweet Sliced Beetroot ,678605,Pantry,415g,g,,,,,,,,,,3,FALSE,3,FALSE,,,1534289379.0-C-12
+2018-08-15 09:29:39 UTC,333s ,333s Sweet Whole Baby Beets ,678622,Pantry,415g,g,,,,,,,,,,3,FALSE,3,FALSE,,,1534289379.0-C-13
+2018-08-15 06:29:41 UTC,4 pines,4 Pines American Amber Ale ,983411,Liquor,24x330ml,Ml,,,,,,,,,,77,FALSE,77,FALSE,,,1534278581.0-C-14
+2018-08-15 08:49:37 UTC,4 pines,4 Pines American Amber Ale Bottle,518180,Liquor,330ml,Ml,,,,,,,,,,5,FALSE,5,FALSE,,,1534286977.0-C-15
+2018-08-15 08:49:37 UTC,4 pines,4 Pines American Amber Ale ,983412,Liquor,6x330ml,Ml,,,,,,,,,,25.3,FALSE,25.3,FALSE,,,1534286977.0-C-16
+2018-08-15 08:49:37 UTC,4 pines brewing company,4 Pines Brewing Company Pale Ale Bottles,379009,Liquor,24x330ml case,ml case,,,,,,,,,,77,FALSE,77,FALSE,,,1534286977.0-C-17
+2018-08-15 08:49:37 UTC,4 pines brewing company,4 Pines Brewing Company Pale Ale Bottles,379010,Liquor,6x330ml pack,ml pack,,,,,,,,,,25.3,FALSE,25.3,FALSE,,,1534286977.0-C-18
+2018-08-15 08:49:37 UTC,4 pines brewing company,4 Pines Brewing Company Pale Ale Bottle,379011,Liquor,330ml case,Ml,,,,,,,,,,5,FALSE,5,FALSE,,,1534286977.0-C-19
+2018-08-15 06:29:41 UTC,4 pines summer,4 Pines Summer Indian Pale Ale Can,403624,Liquor,375ml single,Ml,,,,,,,,,,5.2,FALSE,5.2,FALSE,,,1534278581.0-C-20
+2018-08-15 06:09:37 UTC,42 below pure,42 Below Pure Vodka ,906891,Liquor,700ml,Ml,,,,,,,,,,53,TRUE,42,FALSE,,,1534277377.0-C-21
+2018-08-15 06:29:42 UTC,5 seeds,5 Seeds Apple Cider Crisp Can,827985,Liquor,330ml single,Ml,,,,,,,,,,4.2,FALSE,4.2,FALSE,,,1534278582.0-C-22
+2018-08-15 06:29:42 UTC,5 seeds,5 Seeds Apple Cider Crisp Cans,653207,Liquor,10x330ml pack,ml pack,,,,,,,,,,23,FALSE,23,FALSE,,,1534278582.0-C-23
+2018-08-15 06:29:43 UTC,5 seeds,5 Seeds Apple Cider Crisp Cans,653208,Liquor,30x330ml case,ml case,,,,,,,,,,64,FALSE,64,FALSE,,,1534278583.0-C-24
+2018-08-15 08:49:37 UTC,5 seeds,5 Seeds Lower Sugar Cider,996711,Liquor,24x345ml case,ml case,,,,,,,,,,52,TRUE,47,FALSE,,,1534286977.0-C-25
+2018-08-15 08:49:37 UTC,5 seeds,5 Seeds Crisp Apple Cider,331384,Liquor,24x345ml,Ml,,,,,,,,,,52,TRUE,47,FALSE,,,1534286977.0-C-26
+2018-08-15 08:49:37 UTC,5 seeds,5 Seeds Crisp Apple Cider,331438,Liquor,345ml,Ml,,,,,,,,,,5,FALSE,5,FALSE,,,1534286977.0-C-27
+2018-08-15 08:49:37 UTC,5 seeds,5 Seeds Crisp Apple Cider,331437,Liquor,6x345ml,Ml,,,,,,,,,,18.5,FALSE,18.5,FALSE,,,1534286977.0-C-28
+2018-08-15 08:49:37 UTC,5 seeds,5 Seeds Lower Sugar Cider Bottle ,658249,Liquor,345ml,Ml,,,,,,,,,,5,FALSE,5,FALSE,,,1534286977.0-C-29
+2018-08-15 08:49:37 UTC,5 seeds,5 Seeds Lower Sugar Cider,996710,Liquor,6x345ml pack,ml pack,,,,,,,,,,18.5,FALSE,18.5,FALSE,,,1534286977.0-C-30
+2018-08-15 06:29:40 UTC,8 bit,8 Bit Indian Pale Ale,978204,Liquor,24x330ml case,ml case,,,,,,,,,,87,FALSE,87,FALSE,,,1534278580.0-C-31
+2018-08-15 08:49:37 UTC,8 bit,8 Bit Indian Pale Ale,978205,Liquor,6x330ml pack,ml pack,,,,,,,,,,28.5,FALSE,28.5,FALSE,,,1534286977.0-C-32
+2018-08-15 09:49:38 UTC,9 grain,9 Grain Tip Top Plus Wholemeal,263634,Bakery,750g,79g (2 Slices),9.5,,1040kJ,12.4g,6.4g,0.7g,30.6g,1.9g,370mg,3.3,TRUE,3.2,FALSE,,,1534290578.0-C-33
+2018-08-15 09:49:38 UTC,9 grain,9 Grain Tip Top Pumpkin Seed,244271,Bakery,700g,74g (2 slices),9.5,,1100kJ,13.8g,6.4g,1.0g,33.7g,2.1g,400mg,3.3,TRUE,3.2,FALSE,,,1534290578.0-C-34
+2018-08-15 09:49:38 UTC,9 grain,9 Grain Tip Top Bread Original,197276,Bakery,700g,74g (2 slices),9.5(17 slices + c crusts),,1040kJ,12.1g,5.0g,0.6g,35.1g,2.2g,400mg,3.3,TRUE,3.2,FALSE,,,1534290578.0-C-35
+2018-08-15 06:09:36 UTC,a by arras,A By Arras Non Vintage Premium Cuvee,794486,Liquor,750ml,Ml,,,,,,,,,,31,FALSE,31,FALSE,,,1534277376.0-C-36
+2018-08-15 09:09:39 UTC,a+ ,A+ Snacks Seaweed,788498,Pantry,4.5g,g,,,,,,,,,,1,TRUE,0.9,FALSE,,,1534288179.0-C-37
+2018-08-15 06:29:40 UTC,a2,A2 Skim Milk Powder,658532,Drinks,1kg,kg,,,,,,,,,,14,FALSE,14,FALSE,,,1534278580.0-C-38
+2018-08-15 06:29:40 UTC,a2,A2 Full Cream Milk Powder ,855562,Drinks,1kg,kg,,,,,,,,,,14,FALSE,14,FALSE,,,1534278580.0-C-39
+2018-08-15 08:09:47 UTC,a2,A2 Full Cream Milk,208064,"Dairy, Eggs & Fridge",2l,250mL,4,,275kJ,3.3g,3.5g,2.4g,5.0g,4.7g,33mg,4.8,FALSE,4.8,FALSE,,,1534284587.0-C-40
+2018-08-15 08:09:47 UTC,a2,A2 Full Cream Milk,216872,"Dairy, Eggs & Fridge",1l,250mL,4,,275kJ,3.3g,3.5g,2.4g,5.0g,4.7g,33mg,2.9,FALSE,2.9,FALSE,,,1534284587.0-C-41
+2018-08-15 08:09:47 UTC,a2,A2 Light Milk,208066,"Dairy, Eggs & Fridge",2l,250mL,8,,189kJ,3.3g,1.3g,0.9g,5.2g,5.2g,48mg,4.8,FALSE,4.8,FALSE,,,1534284587.0-C-42
+2018-08-15 08:09:47 UTC,a2,A2 Light Milk,216867,"Dairy, Eggs & Fridge",1l,250mL,4,,189kJ,3.3g,1.3g,0.9g,5.2g,5.2g,48mg,2.9,FALSE,2.9,FALSE,,,1534284587.0-C-43
+2018-08-15 06:09:38 UTC,a2 platinum,A2 Platinum Follow-on Formula Stage 2 6-12mnths,839242,Baby,900g,g,,,,,,,,,,0,FALSE,0,FALSE,,,1534277378.0-C-44
+2018-08-15 06:09:39 UTC,a2 platinum,A2 Platinum Premium Junior Milk Drink Stage 4 From 3 Years+,649428,Baby,900g,220mL,25,,309kJ,3.8g,3.0g,2.0g,7.5g,7.1g,36mg,29,FALSE,29,FALSE,,,1534277379.0-C-45
+2018-08-15 09:49:38 UTC,abbott's,Abbott's Village Bakery Bread Country Grains,690125,Bakery,800g,g,,,,,,,,,,5.39,TRUE,3.5,FALSE,,,1534290578.0-C-46
+2018-08-15 09:49:38 UTC,abbott's,Abbott's Village Bakery Bread Rustic White,690672,Bakery,700g,g,,,,,,,,,,5.39,TRUE,3.5,FALSE,,,1534290578.0-C-47
+2018-08-15 08:09:45 UTC,abbotts village bakery,Abbotts Village Bakery Gluten Free Mixed Seeds,535677,Bakery,500g,83g (2 slices),6,,1230kJ,6.3g,10.1g,1.1g,41.4g,4.2g,337mg,6.99,FALSE,6.99,FALSE,,,1534284585.0-C-48
+2018-08-15 08:09:45 UTC,abbotts village bakery,Abbotts Village Bakery Gluten Free Soy & Linseed,535646,Bakery,500g,83g (2slices),6,,1140kJ,6.5g,6.6g,0.7g,43.5g,5.0g,364mg,6.99,FALSE,6.99,FALSE,,,1534284585.0-C-49
+2018-08-15 08:09:45 UTC,abbott's village bakery,Abbott's Village Bakery Gluten Free Rustic White,706337,Bakery,500g,g,,,,,,,,,,6.99,FALSE,6.99,FALSE,,,1534284585.0-C-50
+2018-08-15 09:49:38 UTC,abbott's village bakery,Abbott's Village Bakery Light Rye Bread,331602,Bakery,680g,76g (2 slices),9(16 slices + 2 crusts),,1030kJ,9.7g,3.0g,0.5g,42.1g,2.8g,360mg,5.39,TRUE,3.5,FALSE,,,1534290578.0-C-51
+2018-08-15 09:49:38 UTC,abbott's village bakery,Abbott's Village Bakery Farmhouse Wholemeal Bread,331591,Bakery,750g,84g (2 slices),9(16 slices + 2 crusts),,987kJ,8.7g,2.9g,0.5g,40.0g,3.6g,348mg,5.39,TRUE,3.5,FALSE,,,1534290578.0-C-52
+2018-08-15 09:49:38 UTC,abbott's village bakery,Abbott's Village Bakery Harvest Seeds & Grains Bread,341277,Bakery,750g,84g (2 slices),9(16 slices + 2 crusts),,1090kJ,9.0g,4.8g,0.6g,42.9g,3.0g,400mg,5.39,TRUE,3.5,FALSE,,,1534290578.0-C-53
+2018-08-15 09:49:38 UTC,abbott's village bakery,Abbott's Village Bakery Sundried Tomato & Basil,693620,Bakery,750g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534290578.0-C-54
+2018-08-15 09:49:38 UTC,abbott's village bakery,Abbott's Village Bakery Toasted Soy Chickpea & Quinoa,693621,Bakery,750g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534290578.0-C-55
+2018-08-15 09:49:38 UTC,abbott's village bakery,Abbott's Village Bakery Pumpkin Sunflower Seed & Caramelised Onion,693627,Bakery,750g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534290578.0-C-56
+2018-08-15 07:09:43 UTC,abc,Abc Chilli Sauce Extra Hot,168680,Pantry,340ml,15mL,22,,813kJ,1.6g,0.6g,0.2g,44.1g,31.0g,2600mg,2.75,FALSE,2.75,FALSE,,,1534280983.0-C-57
+2018-08-15 09:09:39 UTC,abc,Abc Chilli Sauce ,826968,Pantry,335ml,Ml,,,,,,,,,,2,FALSE,2,FALSE,,,1534288179.0-C-58
+2018-08-15 09:09:40 UTC,abc,Abc Sweet Soy Sauce,720977,Pantry,275ml,15mL (1 tbsp),18,,1850kJ,1.9g,0.6g,0.4g,103.9g,79.0g,2220mg,2,FALSE,2,FALSE,,,1534288180.0-C-59
+2018-08-15 09:09:40 UTC,abc,Abc Sweet Soy Sauce,784997,Pantry,600ml,15mL (1 tbsp),40,,1850kJ,1.9g,0.6g,0.4g,103.9g,79.0g,2220mg,4.1,FALSE,4.1,FALSE,,,1534288180.0-C-60
+2018-08-15 08:29:42 UTC,abel's tempest,Abel's Tempest Chardonnay Pinot Noir ,513235,Liquor,750ml,Ml,,,,,,,,,,30,FALSE,30,FALSE,,,1534285782.0-C-61
+2018-08-15 08:29:41 UTC,aberlour,Aberlour Cask Whisky 12 Year Old,792092,Liquor,700ml,Ml,,,,,,,,,,96,FALSE,96,FALSE,,,1534285781.0-C-62
+2018-08-15 08:09:46 UTC,abes,Abes Blueberry Bagels ,682573,Bakery,4 pack,,,,,,,,,,,4.99,FALSE,4.99,FALSE,,,1534284586.0-C-63
+2018-08-15 08:09:46 UTC,abes,Abes Real Bagels Parmesan,270578,Bakery,4 pack,,,,,,,,,,,4.99,FALSE,4.99,FALSE,,,1534284586.0-C-64
+2018-08-15 06:09:39 UTC,abe's bagel bakery,Abe's Bagel Bakery Natural Bagels,270580,Lunch Box,360g 4pk,90g (1 bagel),4,,1120kJ,9.3g,1.3g,0.2g,52.4g,0m,411mg,4.99,FALSE,4.99,FALSE,,,1534277379.0-C-65
+2018-08-15 08:09:46 UTC,abe's bagel bakery,Abe's Bagel Bakery Multigrain Bagels,753766,Bakery,360g 4pk,90g (1 bagel),4,,1100kJ,11.5g,1.5g,0.3g,0mg,6.5g,390mg,4.99,FALSE,4.99,FALSE,,,1534284586.0-C-66
+2018-08-15 08:09:46 UTC,abe's bagel bakery,Abe's Bagel Bakery Sesame Seed Bagels,270583,Bakery,360g 4pk,g,,,,,,,,,,4.99,FALSE,4.99,FALSE,,,1534284586.0-C-67
+2018-08-15 09:29:35 UTC,abe's bagel bakery,Abe's Bagel Bakery Marlborough Seasalt Bagel Crisps,280499,Pantry,150g,25g,6,,1820kJ,10.5g,12.7g,1.2g,67.4g,6.9g,1160mg,3.2,FALSE,3.2,FALSE,,,1534289375.0-C-68
+2018-08-15 09:29:35 UTC,abe's bagel bakery,Abe's Bagel Bakery Roasted Garlic Bagel Crisps,267931,Pantry,150g,25g,6,,1850kJ,10.8g,12.7g,1.2g,68.6g,6.9g,530mg,3.2,FALSE,3.2,FALSE,,,1534289375.0-C-69
+2018-08-15 09:29:35 UTC,abe's bagel bakery,Abe's Bagel Bakery Vegemite Bagel Bites,661811,Pantry,150g,g,,,,,,,,,,3.2,FALSE,3.2,FALSE,,,1534289375.0-C-70
+2018-08-15 09:29:38 UTC,abe's bagel bakery,Abe's Bagel Bakery Bagel Bites Vegemite,640248,Pantry,8 pack,,,,,,,,,,,4,TRUE,3,FALSE,,,1534289378.0-C-71
+2018-08-15 06:09:37 UTC,absinth,Absinth Liqueur Green Fairy,908453,Liquor,40ml,Ml,,,,,,,,,,12,FALSE,12,FALSE,,,1534277377.0-C-72
+2018-08-15 06:09:37 UTC,absolut,Absolut Vodka Lime,630642,Liquor,700ml,Ml,,,,,,,,,,49,FALSE,49,FALSE,,,1534277377.0-C-73
+2018-08-15 06:09:37 UTC,absolut,Absolut Vodka ,902023,Liquor,1l,Litre,,,,,,,,,,70,FALSE,70,FALSE,,,1534277377.0-C-74
+2018-08-15 06:09:37 UTC,absolut,Absolut Vodka ,27720,Liquor,700ml,Ml,,,,,,,,,,49,TRUE,40,FALSE,,,1534277377.0-C-75
+2018-08-15 06:09:37 UTC,absolut raspberri,Absolut Raspberri Vodka ,906081,Liquor,700ml,Ml,,,,,,,,,,49,FALSE,49,FALSE,,,1534277377.0-C-76
+2018-08-15 06:09:37 UTC,absolut vanilia,Absolut Vanilia Vodka ,903508,Liquor,700ml,Ml,,,,,,,,,,49,FALSE,49,FALSE,,,1534277377.0-C-77
+2018-08-15 08:09:45 UTC,absolutely wrapped,Absolutely Wrapped Meat-lovers Platter,656725,"Meat, Seafood & Deli",each,each,,,,,,,,,,35,FALSE,35,FALSE,,,1534284585.0-C-78
+2018-08-15 08:09:45 UTC,absolutely wrapped,Absolutely Wrapped Vegetarian Platter,656723,"Meat, Seafood & Deli",each,each,,,,,,,,,,35,FALSE,35,FALSE,,,1534284585.0-C-79
+2018-08-15 07:09:45 UTC,abundant earth,Abundant Earth Sauce Tamari Low Salt,46723,Pantry,250ml,10mL,25,,327kJ,10.8g,0.2g,<0.1g,8.0g,<0.1g,4100mg,6.99,FALSE,6.99,FALSE,,,1534280985.0-C-80
+2018-08-15 06:49:43 UTC,acqua panna,Acqua Panna Still Mineral Water ,383846,Drinks,1l bottle,Litre,,,,,,,,,,3,FALSE,3,FALSE,,,1534279783.0-C-81
+2018-08-15 06:09:37 UTC,adelaide hills distillery,Adelaide Hills Distillery 78 Degrees Small Batch Gin ,508849,Liquor,700m,m,,,,,,,,,,82,FALSE,82,FALSE,,,1534277377.0-C-82
+2018-08-15 09:29:39 UTC,admiral,Admiral Mangoes Sliced In Natural Juice,52280,Pantry,800g,75g (of mango),6.5,,266kJ,0.4g,0.1g,0.0g,14.1g,14.1g,7mg,3.5,FALSE,3.5,FALSE,,,1534289379.0-C-83
+2018-08-15 09:09:36 UTC,adriano zumbo,Adriano Zumbo Brownie Mix Chocolate,741442,Pantry,600g,83g,9,,2060kJ,5.5g,23.1g,14.0g,64.5g,49.7g,175mg,6,FALSE,6,FALSE,,,1534288176.0-C-84
+2018-08-15 09:09:36 UTC,adriano zumbo,Adriano Zumbo Pink Finger Bun Slice Mix,661635,Pantry,490g,g,,,,,,,,,,6,FALSE,6,FALSE,,,1534288176.0-C-85
+2018-08-15 09:09:36 UTC,adriano zumbo ,Adriano Zumbo Pash Me Banana Bread,577118,Pantry,550g,g,,,,,,,,,,6,FALSE,6,FALSE,,,1534288176.0-C-86
+2018-08-15 06:09:39 UTC,aeroplane,Aeroplane Ready To Eat Jelly Raspberry,754521,Lunch Box,120g,g,,,,,,,,,,1.45,FALSE,1.45,FALSE,,,1534277379.0-C-87
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Original Orange,6081,Pantry,85g,125g,4,,266kJ,1.1g,0.0g,0.0g,14.6g,14.4g,32mg,1.15,FALSE,1.15,FALSE,,,1534280985.0-C-88
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Berry Blue,6086,Pantry,85g,125g,4,,244kJ,1.1g,0.0g,0.0g,14.6g,14.5g,32mg,1.15,FALSE,1.15,FALSE,,,1534280985.0-C-89
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Original Lemon,310378,Pantry,85g,125g,4,,264kJ,1.1g,0.0g,0.0g,14.5g,14.3g,32mg,1.15,FALSE,1.15,FALSE,,,1534280985.0-C-90
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Original Port Wine,6082,Pantry,85g,125g,4,,267kJ,1.1g,0.0g,0.0g,14.6g,14.5g,32mg,1.15,FALSE,1.15,FALSE,,,1534280985.0-C-91
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Original Mango,59407,Pantry,85g,125g,4,,266kJ,1.1g,0g,0g,14.6g,14.5g,32mg,1.15,FALSE,1.15,FALSE,,,1534280985.0-C-92
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Original Raspberry,6094,Pantry,85g,125g,4,,266kJ,1.1g,0.0g,0.0g,14.6g,14.4g,32mg,1.15,FALSE,1.15,FALSE,,,1534280985.0-C-93
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Original Strawberry,6089,Pantry,85g,125g,4,,266kJ,1.1g,0.0g,0.0g,14.6g,14.5g,32mg,1.15,FALSE,1.15,FALSE,,,1534280985.0-C-94
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Lite Mango Passionfruit,348802,Pantry,2x9g,125g,8,,24kJ,1.2g,0.0g,0.0g,0.1g,0.0g,24mg,1.9,FALSE,1.9,FALSE,,,1534280985.0-C-95
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Lite Vanilla Berry,380903,Pantry,2x9g,125g,8,,24kJ,1.2g,,,0.1g,0.0g,19mg,1.9,FALSE,1.9,FALSE,,,1534280985.0-C-96
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Original Lime,6092,Pantry,85g,125g,4,,266kJ,1.1g,0.0g,0.0g,14.6g,14.5g,32mg,1.15,FALSE,1.15,FALSE,,,1534280985.0-C-97
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Original Pure Grape,327942,Pantry,85g,125g,4,,277kJ,1.2g,0.0g,0.0g,15.1g,15.1g,33mg,1.15,FALSE,1.15,FALSE,,,1534280985.0-C-98
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Lite Strawberry,5665,Pantry,2x9g,125g,8,,25kJ,1.2g,0.0g,,0.1g,0.0g,20mg,1.9,FALSE,1.9,FALSE,,,1534280985.0-C-99
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Lite Pineapple,172715,Pantry,2x9g,125g,8,,24kJ,1.2g,0.0g,0.0g,0.1g,0.0g,19mg,1.9,FALSE,1.9,FALSE,,,1534280985.0-C-100
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Lite Twin Lemon,754480,Pantry,2x9g,125g,8,,24kJ,1.2g,0.0g,0.0g,0.1g,0.0g,19mg,1.9,FALSE,1.9,FALSE,,,1534280985.0-C-101
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Lite Port Wine,105926,Pantry,2x9g,125g,8,,24kJ,1.2g,0.0g,0.0g,0.1g,0.0g,22mg,1.9,FALSE,1.9,FALSE,,,1534280985.0-C-102
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Lite Lime,5669,Pantry,2x9g,125g,8,,24kJ,1.2g,0.0g,0.0g,0.1g,0.0g,19mg,1.9,FALSE,1.9,FALSE,,,1534280985.0-C-103
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Lite Cranberry & Raspberry,348800,Pantry,2x9g,125g,8,,23kJ,1.2g,0.0g,0.0g,0.1g,0.0g,19mg,1.9,FALSE,1.9,FALSE,,,1534280985.0-C-104
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Lite Orange Mango,5678,Pantry,2x9g,125g,8,,23.0kJ,1.2g,0.0g,0.0g,0.1g,0.0g,21.0mg,1.9,FALSE,1.9,FALSE,,,1534280985.0-C-105
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Lite Raspberry,36721,Pantry,2x9g,125g,8,,25kJ,1.2g,0.0g,0.0g,0.1g,0.0g,19mg,1.9,FALSE,1.9,FALSE,,,1534280985.0-C-106
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Naturals Blackcurrant,754525,Pantry,85g,125g,6,,171kJ,1.1g,0.0g,0.0g,8.9g,8.8g,34mg,1.3,TRUE,1,FALSE,,,1534280985.0-C-107
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Reduced Sugar Strawberry,310379,Pantry,85g,125g,6,,174kJ,1.2g,0.0g,0.0g,9.5g,9.4g,30mg,1.3,TRUE,1,FALSE,,,1534280985.0-C-108
+2018-08-15 07:09:45 UTC,aeroplane,Aeroplane Jelly Reduced Sugar Lime,350110,Pantry,85g,125g,6,,184kJ,1.2g,0.0g,0.0g,9.6g,9.6g,36mg,1.3,TRUE,1,FALSE,,,1534280985.0-C-109
+2018-08-15 07:09:46 UTC,aeroplane,Aeroplane Glitter Jelly Lime ,583781,Pantry,85g,g,,,,,,,,,,1.9,TRUE,1.5,FALSE,,,1534280986.0-C-110
+2018-08-15 07:09:46 UTC,aeroplane,Aeroplane Glitter Jelly Berryblue,583779,Pantry,85g,125g,4,,264kJ,<1g,<1g,<1g,15.5g,15.4g,36mg,1.9,TRUE,1.5,FALSE,,,1534280986.0-C-111
+2018-08-15 07:09:46 UTC,aeroplane,Aeroplane Jelly Orange Mango,754526,Pantry,85g,125g,6,,174kJ,1.1g,0.0g,0.0g,9.1g,8.9g,34mg,1.3,TRUE,1,FALSE,,,1534280986.0-C-112
+2018-08-15 07:09:46 UTC,aeroplane,Aeroplane Jelly Reduced Sugar Raspberry,310375,Pantry,85g,125g,6,,181kJ,1.2g,0.0g,0.0g,9.3g,9.3g,35mg,1.3,TRUE,1,FALSE,,,1534280986.0-C-113
+2018-08-15 07:09:46 UTC,aeroplane,Aeroplane Ready To Eat Jelly Orange Jelly,754460,Pantry,120g,g,,,,,,,,,,1.45,FALSE,1.45,FALSE,,,1534280986.0-C-114
+2018-08-15 07:09:46 UTC,aeroplane,Aeroplane Ready To Eat Jelly Pineapple,518052,Pantry,120g,120g,1,,340kJ,<0.1g,0.0g,0.0g,19.8g,19.5g,48mg,1.45,FALSE,1.45,FALSE,,,1534280986.0-C-115
+2018-08-15 07:09:46 UTC,aeroplane,Aeroplane Ready To Eat Jelly Strawberry,754498,Pantry,120g,120g,1,,340kJ,<0.1g,0.0g,0.0g,19.8g,19.5g,48mg,1.45,FALSE,1.45,FALSE,,,1534280986.0-C-116
+2018-08-15 07:09:46 UTC,aeroplane,Aeroplane Ready To Eat Jelly Blackcurrant,518053,Pantry,120g,120g,1,,340kJ,<0.1g,0.0g,0.0g,19.8g,19.5g,48mg,1.45,FALSE,1.45,FALSE,,,1534280986.0-C-117
+2018-08-15 09:09:36 UTC,aeroplane,Aeroplane Mug Cake Chocolate,517796,Pantry,65g,65g,1,,1180kJ,4.6g,4.9g,1.5g,53.5g,33.6g,290mg,1.9,TRUE,1.5,FALSE,,,1534288176.0-C-118
+2018-08-15 09:09:36 UTC,aeroplane,Aeroplane Mug Cake Caramel,517757,Pantry,65g,65,1,,1180kJ,4.7g,4.8g,1.3g,53.9g,28.8g,236mg,1.9,TRUE,1.5,FALSE,,,1534288176.0-C-119
+2018-08-15 09:09:36 UTC,aeroplane,Aeroplane Mug Cake Sticky Date,517797,Pantry,65g,65g,1,,1170kJ,4.6g,4.7g,1.3g,53.7g,29.3g,270mg,1.9,TRUE,1.5,FALSE,,,1534288176.0-C-120
+2018-08-15 09:09:36 UTC,aeroplane,Aeroplane Chocolate Mousse Mix,661997,Pantry,65g,16g,4,,1650kJ,2.8g,8.0g,7.6g,76.2g,48.8g,73mg,2.25,FALSE,2.25,FALSE,,,1534288176.0-C-121
+2018-08-15 07:29:46 UTC,aeroplane ,Aeroplane Dessert Mix Chocolate,583766,Pantry,100g,g,,,,,,,,,,1.9,TRUE,1.5,FALSE,,,1534282186.0-C-122
+2018-08-15 07:29:46 UTC,aeroplane ,Aeroplane Dessert Mix Vanilla,583774,Pantry,100g,g,,,,,,,,,,1.9,TRUE,1.5,FALSE,,,1534282186.0-C-123
+2018-08-15 07:29:49 UTC,ainsley harriot,Ainsley Harriot Cous Cous Roasted Vegetable,342678,Pantry,100g,100g,2,,Approx. 573kJ,Approx. 4.8g,Approx. 1.1g,Approx. 0.3g,Approx. 25.7g,Approx. 2.4g,Approx. 240mg,2.2,FALSE,2.2,FALSE,,,1534282189.0-C-124
+2018-08-15 07:29:49 UTC,ainsley harriot,Ainsley Harriot Cous Cous Moroccan Medley,342669,Pantry,100g,130g,2,,599kJ,5.1g,1.2g,0.3g,26.4g,3.4g,295mg,2.2,FALSE,2.2,FALSE,,,1534282189.0-C-125
+2018-08-15 07:29:49 UTC,ainsley harriot,Ainsley Harriot Cous Cous Wild Mushroom,326178,Pantry,100g,130g,2,,611kJ,5.3g,1.1g,0.4g,27.4g,1.6g,336mg,2.2,FALSE,2.2,FALSE,,,1534282189.0-C-126
+2018-08-15 07:29:49 UTC,ainsley harriot,Ainsley Harriot Cous Cous Spice Sensation,479743,Pantry,100g,,,,616kJ,5.5g,1.5g,0.4g,26.5g,2.6g,385mg,2.2,FALSE,2.2,FALSE,,,1534282189.0-C-127
+2018-08-15 07:29:49 UTC,ainsley harriot,Ainsley Harriot Cous Cous Tomato & Garlic,450544,Pantry,100g,130g,2,,595kJ,5.5g,0.9g,0.3g,26.9g,3.2g,270mg,2.2,FALSE,2.2,FALSE,,,1534282189.0-C-128
+2018-08-15 09:29:39 UTC,ainsley harriot,Ainsley Harriot Snack Pot Indian,680606,Pantry,70g,100g,1,,Approx. 601kJ,Approx. 4.4g,Approx. 1.3g,Approx. 0.5g,Approx. 26.8g,Approx. 2.1g,Approx. 190mg,3,TRUE,1.5,FALSE,,,1534289379.0-C-129
+2018-08-15 09:29:39 UTC,ainsley harriot,Ainsley Harriot Snack Pot Moroccan,680608,Pantry,70g,100g,1,,Approx. 631kJ,Approx. 4.4g,Approx. 2.5g,Approx. 0.6g,Approx. 26.2g,Approx. 3.2g,Approx. 185mg,3,TRUE,1.5,FALSE,,,1534289379.0-C-130
+2018-08-15 07:29:49 UTC,ainsley harriott,Ainsley Harriott Singapore Spice Rice Spice,599322,Pantry,105g,139g (cooked),100g (cooked),,587kJ,2.6g,2.1g,0.7g,27.1g,1.2g,220mg,2.2,FALSE,2.2,FALSE,,,1534282189.0-C-131
+2018-08-15 06:09:38 UTC,akropolis,Akropolis Ouzo ,55030,Liquor,700ml,Ml,,,,,,,,,,44,FALSE,44,FALSE,,,1534277378.0-C-132
+2018-08-15 06:29:40 UTC,akta vite,Akta Vite Drinking Chocolate ,35719,Drinks,375g,15g (3tsp),25,,1490kJ,4.4g,1.9g,1.2g,79.3g,62.9g,11mg,5.95,FALSE,5.95,FALSE,,,1534278580.0-C-133
+2018-08-15 07:09:44 UTC,al kanater,Al Kanater Spreads Lebanese Tahineh,140917,Pantry,450g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534280984.0-C-134
+2018-08-15 09:49:38 UTC,alambra,Alambra Cypriot Halloumi,702566,"Meat, Seafood & Deli",225g,25g,9,,1367kJ,22g,25g,15g,1.8g,0.9g,,6.49,FALSE,6.49,FALSE,,,1534290578.0-C-135
+2018-08-15 09:49:38 UTC,alambra,Alambra Cypriot Halloumi,702620,"Meat, Seafood & Deli",850g,25g,34,,1331kJ,22.0g,25.0g,16.0g,1.9g,1.6g,,18.99,FALSE,18.99,FALSE,,,1534290578.0-C-136
+2018-08-15 07:09:43 UTC,alfa one,Alfa One Rice Bran Oil,234923,Pantry,4l,15mL,267,,3400kj,0g,92g,21g,0g,0g,0g,24,TRUE,12,FALSE,,,1534280983.0-C-137
+2018-08-15 07:09:43 UTC,alfa one,Alfa One Rice Bran Oil,293543,Pantry,1l,15mL,67,,3400kj,0g,92g,21g,0g,0g,0g,8.5,TRUE,7,FALSE,,,1534280983.0-C-138
+2018-08-15 07:09:43 UTC,alfa one,Alfa One Rice Bran Oil,227756,Pantry,500ml,15mL,33,,3400kj,0g,92g,21g,0g,0g,0g,4.5,TRUE,4,FALSE,,,1534280983.0-C-139
+2018-08-15 06:09:37 UTC,alize bleu,Alize Bleu Liqueur ,908651,Liquor,750ml,Ml,,,,,,,,,,55,FALSE,55,FALSE,,,1534277377.0-C-140
+2018-08-15 06:09:41 UTC,alka power,Alka Power Alkaline Water ,507997,Lunch Box,1.5l bottle,Litre,,,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277381.0-C-141
+2018-08-15 06:09:41 UTC,alka power,Alka Power Alkaline Water ,508479,Lunch Box,600ml bottle,Ml,,,,,,,,,,2,FALSE,2,FALSE,,,1534277381.0-C-142
+2018-08-15 07:09:45 UTC,all natural bakery,All Natural Bakery Bars Slice Oat Almond & Apricot,192161,Pantry,100g,100g,1,,1796kJ,7.2g,19.9g,12.4g,52.2g,16.5g,189mg,2.69,FALSE,2.69,FALSE,,,1534280985.0-C-143
+2018-08-15 07:09:45 UTC,all natural bakery,All Natural Bakery Bars Oat Slice Yog Almond & Apricot,380715,Pantry,100g,100g,1,,1807kJ,7.5g,21.1g,14.1g,52.0g,19.5g,186mg,2.69,FALSE,2.69,FALSE,,,1534280985.0-C-144
+2018-08-15 07:09:45 UTC,all natural bakery,All Natural Bakery Bars Macadamia & Apricot Oat Slice,739520,Pantry,100g,100g,1,,1815kJ,7.5g,21.1g,13.9g,50.6g,19.4g,177mg,2.69,FALSE,2.69,FALSE,,,1534280985.0-C-145
+2018-08-15 07:09:45 UTC,all natural bakery,All Natural Bakery Bars Slice Oat Fruit & Nut,192179,Pantry,100g,100g,1,,1798kJ,7.1g,20.0g,12.3g,52.4g,16.9g,193mg,2.69,FALSE,2.69,FALSE,,,1534280985.0-C-146
+2018-08-15 07:09:45 UTC,all natural bakery,All Natural Bakery Bars Slice Oat Banana,217017,Pantry,100g,100g,1,,1770kJ,7.0g,18.5g,11.4g,53.9g,20.1g,179mg,2.69,FALSE,2.69,FALSE,,,1534280985.0-C-147
+2018-08-15 09:09:38 UTC,all natural bakery,All Natural Bakery Bars Oat Slice Yog Peach & Mango,291286,Pantry,100g,g,,,,,,,,,,2.69,FALSE,2.69,FALSE,,,1534288178.0-C-148
+2018-08-15 07:50:08 UTC,allens,Allens Fruits&cream ,677033,Pantry,170g,g,,,,,,,,,,3,TRUE,2,FALSE,,,1534283408.0-C-149
+2018-08-15 07:50:08 UTC,allens,Allens All About Red ,514271,Pantry,170g,20g(Approx 4 Pieces),8,,1430kJ,5.1g,<1g,<1g,78.5g,45.2g,100mg,3,TRUE,2,FALSE,,,1534283408.0-C-150
+2018-08-15 06:29:40 UTC,allen's,Allen's Fantales Hot Choc,690922,Drinks,10pk,,,,,,,,,,,6.6,TRUE,5,FALSE,,,1534278580.0-C-151
+2018-08-15 06:29:40 UTC,allen's,Allen's Jaffas Hot Choc,690923,Drinks,10pk,,,,,,,,,,,6.6,TRUE,5,FALSE,,,1534278580.0-C-152
+2018-08-15 07:50:08 UTC,allen's,Allen's Frosty Fruits ,680287,Pantry,170g,g,,,,,,,,,,3,TRUE,2,FALSE,,,1534283408.0-C-153
+2018-08-15 07:50:08 UTC,allen's,Allen's Drumstick ,680288,Pantry,170g,g,,,,,,,,,,3,TRUE,2,FALSE,,,1534283408.0-C-154
+2018-08-15 07:50:08 UTC,allen's,Allen's Pineapples ,409334,Pantry,170g bag,20g,8,,1460kJ,3.3g,<1g,<1g,81.6g,45.4g,100mg,3,TRUE,2,FALSE,,,1534283408.0-C-155
+2018-08-15 07:50:08 UTC,allen's,Allen's Peaches & Cream ,458038,Pantry,170g bag,20g (Approx 3 Peaches & Cream),8,,1470kJ,3.6g,<1g,<1g,82.6g,45.8g,100mg,3,TRUE,2,FALSE,,,1534283408.0-C-156
+2018-08-15 07:50:08 UTC,allen's,Allen's Jelly Beans ,307685,Pantry,190g bag,20g,9,,1560kJ,<1g,<1g,<1g,91.7g,61.0g,58mg,3,TRUE,2,FALSE,,,1534283408.0-C-157
+2018-08-15 07:50:08 UTC,allen's,Allen's Frog Family,658466,Pantry,170g,g,,,,,,,,,,3,TRUE,2,FALSE,,,1534283408.0-C-158
+2018-08-15 07:50:08 UTC,allen's,Allen's Minties ,840453,Pantry,370g bag,20g,18,,1560kJ,1.5g,<1g,<1g,89.6g,54.3g,58mg,5,FALSE,5,FALSE,,,1534283408.0-C-159
+2018-08-15 07:50:08 UTC,allen's,Allen's Minties ,213965,Pantry,150g bag,20g,7,,1560kJ,1.5g,<1g,<1g,89.6g,54.3g,58mg,3,TRUE,2,FALSE,,,1534283408.0-C-160
+2018-08-15 07:50:08 UTC,allen's,Allen's Kool Mints ,213966,Pantry,150g bag,15g,10,,1660kJ,<1g,2.3g,2.0g,92.2g,69.3g,29mg,3,TRUE,2,FALSE,,,1534283408.0-C-161
+2018-08-15 09:29:35 UTC,allen's,Allen's Freckles Family Size,362490,Pantry,340g bag,20g,17,,2010kJ,4.7g,18.6g,16.2g,72.0g,67.5g,100mg,5.2,FALSE,5.2,FALSE,,,1534289375.0-C-162
+2018-08-15 09:29:35 UTC,allen's,Allen's Snakes Alive Lollies,840455,Pantry,450g bag,25g,18,,1410kJ,4.6g,<1g,<1g,77.0g,44.1g,99mg,5,FALSE,5,FALSE,,,1534289375.0-C-163
+2018-08-15 09:29:36 UTC,allen's,Allen's Chicos ,307678,Pantry,190g bag,20g,9,,1440kJ,1.2g,1.0g,<1g,80.1g,43.1g,255mg,3,TRUE,2,FALSE,,,1534289376.0-C-164
+2018-08-15 09:29:36 UTC,allen's,Allen's Strawberries & Cream ,307689,Pantry,190g bag,20g,9,,1460kJ,3.5g,<1g,<1g,82.0g,45.5g,100mg,3,TRUE,2,FALSE,,,1534289376.0-C-165
+2018-08-15 09:29:36 UTC,allen's,Allen's Ripe Raspberries ,307975,Pantry,190g bag,20g,9,,1440kJ,4.2g,<1g,<1g,80.0g,44.1g,99mg,3,TRUE,2,FALSE,,,1534289376.0-C-166
+2018-08-15 09:29:36 UTC,allen's,Allen's Party Mix Retro ,307682,Pantry,190g bag,20g,9,,1450kJ,3.9g,<1g,<1g,80.6g,45.7g,100mg,3,TRUE,2,FALSE,,,1534289376.0-C-167
+2018-08-15 09:29:36 UTC,allen's,Allen's Frogs Alive ,307692,Pantry,190g bag,20g,9,,1440kJ,4.7g,<1g,<1g,79.4g,41.0g,105mg,3,TRUE,2,FALSE,,,1534289376.0-C-168
+2018-08-15 09:29:36 UTC,allen's,Allen's Party Mix Fat Free ,307681,Pantry,190g bag,20g,9,,1460kJ,,<1g,<1g,81.8g,48.5g,95mg,3,TRUE,2,FALSE,,,1534289376.0-C-169
+2018-08-15 09:29:36 UTC,allen's,Allen's Chewmix ,840454,Pantry,370g bag,15g,25,,1640kJ,1.3g,4.9g,3.8g,84.1g,57.3g,120mg,5,FALSE,5,FALSE,,,1534289376.0-C-170
+2018-08-15 09:29:36 UTC,allen's,Allen's Party Mix Classic Lollies,840467,Pantry,465g bag,20g,23,,1440kJ,4.2g,<1g,<1g,79.9g,45.7g,100mg,5,FALSE,5,FALSE,,,1534289376.0-C-171
+2018-08-15 09:29:36 UTC,allen's,Allen's Party Mix ,840466,Pantry,465g bag,20g,23,,1460kJ,3.7g,<1g,<1g,81.8g,48.5g,95mg,5,FALSE,5,FALSE,,,1534289376.0-C-172
+2018-08-15 09:29:36 UTC,allen's,Allen's Red Skins Family Bag ,682191,Pantry,330g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534289376.0-C-173
+2018-08-15 09:29:36 UTC,allen's,Allen's Fantales Jumbo,348170,Pantry,340g bag,20g,17,,1880kJ,2.9g,15.8g,13.4g,73g,56g,120mg,5.2,FALSE,5.2,FALSE,,,1534289376.0-C-174
+2018-08-15 09:29:36 UTC,allen's,Allen's Lollypops ,39568,Pantry,265g bag,,,,,<1g,,,,78.1g,,4.25,FALSE,4.25,FALSE,,,1534289376.0-C-175
+2018-08-15 09:29:37 UTC,allen's,Allen's Killer Python ,797937,Pantry,192g bag,24g,8,,1400kJ,4.9g,<1g,<1g,76.5g,43.7g,99mg,3,TRUE,2,FALSE,,,1534289377.0-C-176
+2018-08-15 09:29:38 UTC,allen's,Allen's Snakes Alive ,307695,Pantry,200g bag,25g,8,,1410kJ,4.6g,<1g,<1g,77g,44.1g,99mg,3,TRUE,2,FALSE,,,1534289378.0-C-177
+2018-08-15 07:50:08 UTC,allen's butter-menthol,Allen's Butter-menthol Throat Lozenge Liquid Centre Honey,187057,Pantry,3x10pk,,,,,,,,,,,4.2,FALSE,4.2,FALSE,,,1534283408.0-C-178
+2018-08-15 07:50:08 UTC,allen's butter-menthol,Allen's Butter-menthol Throat Lozenge Liquid Centre Honey & Lemon,346085,Pantry,10pk,,,,,,,,,,,2.2,FALSE,2.2,FALSE,,,1534283408.0-C-179
+2018-08-15 07:50:08 UTC,allen's butter-menthol,Allen's Butter-menthol Throat Lozenge Liquid Centre,49212,Pantry,10 pack,,,,,,,,,,,2.2,TRUE,2,FALSE,,,1534283408.0-C-180
+2018-08-15 07:50:08 UTC,allen's butter-menthol,Allen's Butter-menthol Throat Lozenge ,2867,Pantry,3 pack,,,,,,,,,,,4,FALSE,4,FALSE,,,1534283408.0-C-181
+2018-08-15 07:50:08 UTC,allen's butter-menthol,Allen's Butter-menthol Throat Lozenge ,98461,Pantry,20 pack,,,,,,,,,,,2.1,FALSE,2.1,FALSE,,,1534283408.0-C-182
+2018-08-15 09:29:36 UTC,allen's xxx,Allen's Xxx Mints ,8333,Pantry,45g bag,g,,,,,,,,,,1.5,FALSE,1.5,FALSE,,,1534289376.0-C-183
+2018-08-15 06:09:39 UTC,allowrie,Allowrie Mixed Blossom Honey,791860,Lunch Box,600g,15g,40,,1416kJ,0.3g,0g,0g,83.1g,82.5g,15mg,7,TRUE,6.8,FALSE,,,1534277379.0-C-184
+2018-08-15 06:09:39 UTC,allowrie,Allowrie Mixed Blossom Honey,787620,Lunch Box,1kg,15g,66,,1416kJ,0.3g,0g,0g,83.1g,82.5g,15mg,10.5,TRUE,9.5,FALSE,,,1534277379.0-C-185
+2018-08-15 07:50:10 UTC,allowrie,Allowrie Mixed Blossom Honey,801535,Pantry,500g,15g,33,,1416kJ,0.3g,0g,0g,83.1g,82.5g,15mg,5.3,TRUE,5,FALSE,,,1534283410.0-C-186
+2018-08-15 07:50:10 UTC,allowrie,Allowrie Mixed Blossom Upside Down Honey,801548,Pantry,400g,,,,,,,,,82.5g,,5,TRUE,4.8,FALSE,,,1534283410.0-C-187
+2018-08-15 07:50:10 UTC,allowrie,Allowrie Mixed Blossom Twist & Squeeze Honey,801547,Pantry,375g,15g,25,,1416kJ,0.3g,0g,0g,83.1g,82.5g,15mg,5.3,TRUE,4.5,FALSE,,,1534283410.0-C-188
+2018-08-15 08:09:48 UTC,allowrie,Allowrie Unsalted Cultured Butter,18805,"Dairy, Eggs & Fridge",250g,5g,50,,3090kJ,<1g,82.9g,54.7g,<1g,<1g,18mg,4.5,FALSE,4.5,FALSE,,,1534284588.0-C-189
+2018-08-15 08:09:48 UTC,allowrie,Allowrie Butter ,48272,"Dairy, Eggs & Fridge",250g,5g,50,,3060kJ,<1g,82.2g,54.2g,<1g,<1g,640mg,4.5,FALSE,4.5,FALSE,,,1534284588.0-C-190
+2018-08-15 08:09:48 UTC,allowrie,Allowrie Unsalted Butter,48285,"Dairy, Eggs & Fridge",250g,5g,50,,3080kJ,<1g,82.7g,54.6g,<1g,<1g,19mg,4.5,FALSE,4.5,FALSE,,,1534284588.0-C-191
+2018-08-15 09:09:38 UTC,almond,Almond Nut Kernels Roasted & Salted,637614,Pantry,750g,g,,,,,,,,,,12,FALSE,12,FALSE,,,1534288178.0-C-192
+2018-08-15 06:29:40 UTC,almond breeze,Almond Breeze Flavoured Chocolate Milk,761612,Drinks,1l,250mL,4,,167kJ,0.6g,1.2g,0.1g,6.5g,6.0g,51.0mg,3.59,TRUE,2.7,FALSE,,,1534278580.0-C-193
+2018-08-15 06:29:40 UTC,almond breeze,Almond Breeze Unsweetened Almond Milk,761604,Drinks,1l,250mL,4,,67kJ,0.5g,1.2g,<0.1g,0.7g,0.1g,51.6mg,3.25,TRUE,2.5,FALSE,,,1534278580.0-C-194
+2018-08-15 06:29:40 UTC,almond breeze,Almond Breeze Unsweetened Vanilla Almond Milk,796060,Drinks,1l,250mL,4,,67kJ,0.5g,1.2g,<0.1g,0.7g,0.1g,51.6mg,3.59,TRUE,2.7,FALSE,,,1534278580.0-C-195
+2018-08-15 09:29:37 UTC,almonds ,Almonds Loose Honey Roastd,767354,Pantry,per kg min. 100g,per,,,,,,,,,,34.5,FALSE,34.5,FALSE,,,1534289377.0-C-196
+2018-08-15 09:29:37 UTC,almonds ,Almonds Loose Dry Roasted,767320,Pantry,per kg min. 100g,per,,,,,,,,,,29,FALSE,29,FALSE,,,1534289377.0-C-197
+2018-08-15 09:09:40 UTC,alpen,Alpen Original Muesli,528155,Pantry,750g,g,,,,,,,,,,10.6,FALSE,10.6,FALSE,,,1534288180.0-C-198
+2018-08-15 08:09:46 UTC,alpine,Alpine Spelt & Sprouted Grains Bread,679315,Bakery,640g,g,,,,,,,,,,5.6,FALSE,5.6,FALSE,,,1534284586.0-C-199

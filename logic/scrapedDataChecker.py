@@ -49,7 +49,8 @@ def extractSimilarData (inputCSV1, inputCSV2):
         for row in reader2: # each row is a list
             second.append(row)
     
-    print("--- Reading the files complete ---\n")
+    print("--- Reading the files complete ---")
+    print("--- Calculating similarities ---")
     start_time = time.time()
     simMatrixLev = np.zeros(shape=(len(first), len(second)), dtype=float)
     simMatrixNameSim = np.zeros(shape=(len(first), len(second)), dtype=float)
@@ -65,10 +66,44 @@ def extractSimilarData (inputCSV1, inputCSV2):
             simMatrixJWink[i,j] = checkSimilarJWink(first[i],second[j])
             simMatrixHamming[i,j] = checkSimilarHamming(first[i],second[j])
 
-    np.savetxt("LEV.csv", simMatrixLev, delimiter=",")
-    np.savetxt("NAME.csv", simMatrixNameSim, delimiter=",")
-    np.savetxt("JWINK.csv",  simMatrixJWink, delimiter=",")
-    np.savetxt("HAM.csv", simMatrixHamming, delimiter=",")
+    np.savetxt('res/LEV.csv', simMatrixLev, delimiter=",")
+    np.savetxt('res/NAME.csv', simMatrixNameSim, delimiter=",")
+    np.savetxt('res/JWINK.csv',  simMatrixJWink, delimiter=",")
+    np.savetxt('res/HAM.csv', simMatrixHamming, delimiter=",")
 
     end_time = time.time()
-    print(" --- The process took "+end_time - start_time+" ---")
+    print(" --- Similarity calculations completed in %s seconds ---" % (end_time - start_time))
+    print(" --- Processing normalization ---")
+
+    #reverse valies (when higher means worse similarity)
+    smLev = simMatrixLev.max() 
+    simMatrixLev = smLev - simMatrixLev
+    smJW = simMatrixJWink.max()
+    simMatrixJWink = smJW - simMatrixJWink
+    smH = simMatrixHamming.max()
+    simMatrixHamming = smH - simMatrixHamming
+
+    #normalize values to [0-1]
+    simMatrixNameSim *= (1/simMatrixNameSim.max())
+    simMatrixLev *= (1/simMatrixLev.max())
+    simMatrixJWink *= (1/simMatrixHamming.max()) 
+    simMatrixHamming *= (1/simMatrixHamming.max())
+
+    np.savetxt('res/LEVn.csv', simMatrixLev, delimiter=",")
+    np.savetxt('res/NAMEn.csv', simMatrixNameSim, delimiter=",")
+    np.savetxt('res/JWINKn.csv',  simMatrixJWink, delimiter=",")
+    np.savetxt('res/HAMn.csv', simMatrixHamming, delimiter=",")
+    
+    print(" --- Nomalization complete ---")
+
+    similarityMatrix = np.zeros(shape=(len(first), len(second)), dtype=float)
+    similarityMatrix = simMatrixHamming + simMatrixNameSim + simMatrixJWink + simMatrixLev
+    
+    np.savetxt('res/simMatrix.csv', simMatrixHamming, delimiter=",")
+
+    
+
+    input("Press Enter to continue...")
+
+
+
