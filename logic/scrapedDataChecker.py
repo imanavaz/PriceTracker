@@ -31,7 +31,7 @@ def checkSimilarHamming(row1, row2): #lower is better
     return simScore4
 
 
-def extractSimilarData (inputCSV1, inputCSV2):
+def checkSimilarities (inputCSV1, inputCSV2):
 
     print("--- Process started ---")
     
@@ -56,7 +56,7 @@ def extractSimilarData (inputCSV1, inputCSV2):
     simMatrixNameSim = np.zeros(shape=(len(first), len(second)), dtype=float)
     simMatrixJWink = np.zeros(shape=(len(first), len(second)), dtype=float)
     simMatrixHamming = np.zeros(shape=(len(first), len(second)), dtype=float)
-    selectionMatrix = np.zeros(shape=(len(first), len(second)), dtype=float)
+    selectionMatrix = np.zeros(shape=(len(first), len(second)), dtype=int)
 
     #calculate similarities
     for i in tqdm(range(0,len(first))):
@@ -95,15 +95,9 @@ def extractSimilarData (inputCSV1, inputCSV2):
     np.savetxt('res/HAMn.csv', simMatrixHamming, delimiter=",")
     
     print(" --- Nomalization complete ---")
-
-    similarityMatrix = np.zeros(shape=(len(first), len(second)), dtype=float)
-    similarityMatrix = simMatrixHamming + simMatrixNameSim + simMatrixJWink + simMatrixLev
-    
-    np.savetxt('res/simMatrix.csv', simMatrixHamming, delimiter=",")
-
-    
-
-    input("Press Enter to continue...")
+    print(" --- Processing similarities complete ---")
+       
+    #input("Press Enter to continue...")
 
 
 
