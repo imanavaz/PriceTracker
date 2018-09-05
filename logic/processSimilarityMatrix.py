@@ -36,18 +36,17 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
         wJWink = float(ws[2])
         wHam = float(ws[3])
     
-    levSim = np.genfromtxt(simPath + 'LEVn.csv', delimiter=',')
-    levSim = np.multiply(levSim, wLev)
-    nameSim = np.genfromtxt(simPath + 'NAMEn.csv', delimiter=',')
-    nameSim = np.multiply(nameSim, wName)
-    hamSim = np.genfromtxt(simPath + 'HAMn.csv', delimiter=',')
-    hamSim = np.multiply(hamSim, wHam)
-    jwinkSim = np.genfromtxt(simPath + 'JWINKn.csv', delimiter=',')
-    jwinkSim = np.multiply(jwinkSim, wJWink)
+    levS = np.genfromtxt(simPath + 'LEVn.csv', delimiter=',')
+    levSim = np.multiply(levS, wLev)
+    nameS = np.genfromtxt(simPath + 'NAMEn.csv', delimiter=',')
+    nameSim = np.multiply(nameS, wName)
+    hamS = np.genfromtxt(simPath + 'HAMn.csv', delimiter=',')
+    hamSim = np.multiply(hamS, wHam)
+    jwinkS = np.genfromtxt(simPath + 'JWINKn.csv', delimiter=',')
+    jwinkSim = np.multiply(jwinkS, wJWink)
     
     simMatrix = np.zeros(shape=(len(first), len(second)), dtype=float)
     simMatrix = levSim + nameSim + hamSim + jwinkSim
-    print(simMatrix.shape)
     np.savetxt(simPath+'simMat.csv', simMatrix, delimiter=",")
     
     print(" --- Similarity matrix created ---")
@@ -57,44 +56,119 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
     swMat = np.copy(simMatrix)
 
     matches = [] #arraye to keep all the similar pairs as tuples of [(first, second)...]
-    countMatches = 0
+    getch = ''
 
     #read first batch of indices 
     indices =  np.argpartition(swMat.flatten(), -10)[-10:]
     indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     
-    while (swMat[indices[0][0]][indices[0][1]] > 1):
+    while (swMat[indices[0][0]][indices[0][1]] > 1.5):
         
         for i in range(0,len(indices)):
             #print(indices[i])
-            print(first[indices[i][0]]['Brand'] + " - " +  first[indices[i][0]]['Product name'] + " - " + first[indices[i][0]]['Pack size'] +
-                    " <-> " + 
-                    second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'] + " -- similarity is %s :" % swMat[indices[i][0]][indices[i][1]])
-            
-            print ('Is this recommendation true (y|n)?')
-            getch = rc.readchar()
-            if (getch == 'y' or getch =='Y'):
-                swMat[indices[i][0]][:] = -1 #remove the items from simMatrix & also needs to promote the recommenders 
-                swMat[:][indices[i][1]] = -1
-                matches[countMatches] = {first[indices[i][0]], second[indices[i][1]]}
-                countMatches += 1
-            else:
-                swMat[indices[i][0]][indices[i][1]] = -1 #cancel that similarity calculation & also needs to penalise the recommenders         
+            if (swMat[indices[i][0]][indices[i][1]] > 0): #if the item is not already matched in current batch
+                print(first[indices[i][0]]['Brand'] + " - " +  first[indices[i][0]]['Product name'] + " - " + first[indices[i][0]]['Pack size'] +
+                        " <-> " + 
+                        second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'] + " -- similarity is %s :" % swMat[indices[i][0]][indices[i][1]])
+                
+                print ('Is this recommendation true (y|n)?')
+                getch = rc.readchar()
+                
+                if (getch == b'y' or getch == b'Y'):
+                    #remove the items from simMatrix
+                    swMat[indices[i][0], :] = -1.0   
+                    swMat[:, indices[i][1]] = -1.0
+                    #save the match
+                    matches.append((first[indices[i][0]], second[indices[i][1]]))                    
+                    #penalise/promote the recommenders
+                    #haming's avg = 0.58 and median = 0.6
+                    if (hamS[indices[i][0]][indices[i][1]] >= 0.6):#correctly recommended (use original similarity matrix before applying weights)
+                        wHam += 0.0001 #promote
+                    else:
+                        wHam -= 0.0001 #penalise
+                    
+                    #jwink avg = 0.0143 median = 0.0137
+                    if (jwinkS[indices[i][0]][indices[i][1]] >= 0.0137):#correctly recommended 
+                        wJWink += 0.0001 #promote
+                    else:
+                        wJWink -= 0.0001 #penalise
+
+                    #lve avg = 0.560 median = 0.582
+                    if (levS[indices[i][0]][indices[i][1]] >= 0.582):#correctly recommended 
+                        wLev += 0.0001 #promote
+                    else:
+                        wLev -= 0.0001 #penalise
+                    
+                    #name avg = 0.017 median = 0
+                    if (nameS[indices[i][0]][indices[i][1]] > 0):#correctly recommended 
+                        wName += 0.0001 #promote
+                    else:
+                        wName -= 0.0001 #penalise
+                
+                elif (getch == b'n' or getch == b'N'):
+                    #void that similarity calculation
+                    swMat[indices[i][0], indices[i][1]] = -1  
+                    #penalise/promote the recommenders
+                    #haming's avg = 0.58 and median = 0.6
+                    if (hamS[indices[i][0]][indices[i][1]] < 0.6):#correctly not recommended (use original similarity matrix before applying weights)
+                        wHam += 0.0001 #promote
+                    else:
+                        wHam -= 0.0001 #penalise
+                    
+                    #jwink avg = 0.0143 median = 0.0137
+                    if (jwinkS[indices[i][0]][indices[i][1]] < 0.0137):#correctly not recommended 
+                        wJWink += 0.0001 #promote
+                    else:
+                        wJWink -= 0.0001 #penalise
+
+                    #lve avg = 0.560 median = 0.582
+                    if (levS[indices[i][0]][indices[i][1]] < 0.582):#correctly not recommended 
+                        wLev += 0.0001 #promote
+                    else:
+                        wLev -= 0.0001 #penalise
+                    
+                    #name avg = 0.017 median = 0
+                    if (nameS[indices[i][0]][indices[i][1]] == 0):#correctly not recommended 
+                        wName += 0.0001 #promote
+                    else:
+                        wName -= 0.0001 #penalise
+
+                elif (getch == b'q' or getch == b'Q'):
+                    break
+
+        print(" --- Saving results... ---")
+        np.savetxt('res/swMat.csv', swMat, delimiter=",")
+       
+        #save new weights
+        with open(weights, 'w') as csvfile:
+            fieldnames = ['levenshtein', 'name', 'jwink', 'hamming']
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerow({'levenshtein': wLev, 'name': wName, 'jwink': wJWink, 'hamming': wHam})
         
+        #save matches
+        print(matches)
         
-        np.savetxt('res/HAM.csv', simMatrixHamming, delimiter=",")
+
+
+        if (getch == b'q' or getch == b'Q'):
+            break
+
         #read new set of indexes
         indices =  np.argpartition(swMat.flatten(), -10)[-10:]
         indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     
-
-    
+    if (getch == b'q' or getch == b'Q'):
+        print(" --- Process interrupted ---")
+    else:
+        print(" --- No more similar items with similarity more than 1 found ---")
+       
     #### this was for top three items per row 
     #top3 = np.zeros(shape=(len(first),3), dtype=int)
     #for i in tqdm(range(0,len(first))):
     #    top3[i] = np.argsort(simMatrix[i,:])[-3:][::-1]
     #np.savetxt(simPath+'top3.csv', top3, delimiter=",")
 
-    print(" --- Recommendations complete ---")
+    print(" --- Process complete ---")
 
 
