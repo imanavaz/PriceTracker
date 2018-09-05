@@ -35,6 +35,16 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
         wName = float(ws[1])
         wJWink = float(ws[2])
         wHam = float(ws[3])
+
+    # clear the previous matches
+    #fc = open('res/Matches.csv', "w+")
+    #fc.close()
+    with open('res/Matches.csv', 'w+') as cM:
+        fM = ['Date of data Extraction 1', 'Brand 1', 'Product name 1', 'Category 1', 'Pack size 1', 'Serving size 1', 'Servings per pack 1', 'Product code 1', 'Energy per 100g (or 100ml) 1', 'Protein per 100g (or 100ml) 1', 'Total fat per 100g (or 100ml) 1', 'Saturated fat per 100g (or 100ml) 1', 'Carbohydrate per 100g (or 100ml) 1', 'Sugars per 100g (or 100ml) 1', 'Sodium per 100g (or 100ml) 1', 'Original Price 1', 'Price Promoted 1', 'Price Promoted Price 1', 'Multi Buy Special 1', 'Multi Buy Special Details 1', 'Multi Buy Price 1', 'UID 1',
+                            'Date of data Extraction 2', 'Brand 2', 'Product name 2', 'Category 2', 'Pack size 2', 'Serving size 2', 'Servings per pack 2', 'Product code 2', 'Energy per 100g (or 100ml) 2', 'Protein per 100g (or 100ml) 2', 'Total fat per 100g (or 100ml) 2', 'Saturated fat per 100g (or 100ml) 2', 'Carbohydrate per 100g (or 100ml) 2', 'Sugars per 100g (or 100ml) 2', 'Sodium per 100g (or 100ml) 2', 'Original Price 2', 'Price Promoted 2', 'Price Promoted Price 2', 'Multi Buy Special 2', 'Multi Buy Special Details 2', 'Multi Buy Price 2', 'UID 2' ]
+        mW = csv.DictWriter(cM, fieldnames=fM)
+        mW.writeheader()
+
     
     levS = np.genfromtxt(simPath + 'LEVn.csv', delimiter=',')
     levSim = np.multiply(levS, wLev)
@@ -65,7 +75,7 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
     while (swMat[indices[0][0]][indices[0][1]] > 1.5):
         
         for i in range(0,len(indices)):
-            #print(indices[i])
+            print(" ")
             if (swMat[indices[i][0]][indices[i][1]] > 0): #if the item is not already matched in current batch
                 print(first[indices[i][0]]['Brand'] + " - " +  first[indices[i][0]]['Product name'] + " - " + first[indices[i][0]]['Pack size'] +
                         " <-> " + 
@@ -147,8 +157,56 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
             writer.writerow({'levenshtein': wLev, 'name': wName, 'jwink': wJWink, 'hamming': wHam})
         
         #save matches
-        print(matches)
-        
+        with open('res/Matches.csv', 'a') as csvMatches:
+            fieldnamesMatch = ['Date of data Extraction 1', 'Brand 1', 'Product name 1', 'Category 1', 'Pack size 1', 'Serving size 1', 'Servings per pack 1', 'Product code 1', 'Energy per 100g (or 100ml) 1', 'Protein per 100g (or 100ml) 1', 'Total fat per 100g (or 100ml) 1', 'Saturated fat per 100g (or 100ml) 1', 'Carbohydrate per 100g (or 100ml) 1', 'Sugars per 100g (or 100ml) 1', 'Sodium per 100g (or 100ml) 1', 'Original Price 1', 'Price Promoted 1', 'Price Promoted Price 1', 'Multi Buy Special 1', 'Multi Buy Special Details 1', 'Multi Buy Price 1', 'UID 1',
+                               'Date of data Extraction 2', 'Brand 2', 'Product name 2', 'Category 2', 'Pack size 2', 'Serving size 2', 'Servings per pack 2', 'Product code 2', 'Energy per 100g (or 100ml) 2', 'Protein per 100g (or 100ml) 2', 'Total fat per 100g (or 100ml) 2', 'Saturated fat per 100g (or 100ml) 2', 'Carbohydrate per 100g (or 100ml) 2', 'Sugars per 100g (or 100ml) 2', 'Sodium per 100g (or 100ml) 2', 'Original Price 2', 'Price Promoted 2', 'Price Promoted Price 2', 'Multi Buy Special 2', 'Multi Buy Special Details 2', 'Multi Buy Price 2', 'UID 2' ]
+            matchWriter = csv.DictWriter(csvMatches, fieldnames=fieldnamesMatch)
+
+            for m in matches:
+                matchWriter.writerow({'Date of data Extraction 1': m[0]['Date of data Extraction'],
+                                    'Brand 1': m[0]['Brand'], 
+                                    'Product name 1': m[0]['Product name'], 
+                                    'Category 1': m[0]['Category'], 
+                                    'Pack size 1': m[0]['Pack size'], 
+                                    'Serving size 1': m[0]['Serving size'], 
+                                    'Servings per pack 1': m[0][ 'Servings per pack'], 
+                                    'Product code 1': m[0]['Product code'], 
+                                    'Energy per 100g (or 100ml) 1': m[0]['Energy per 100g (or 100ml)'], 
+                                    'Protein per 100g (or 100ml) 1': m[0]['Protein per 100g (or 100ml)'], 
+                                    'Total fat per 100g (or 100ml) 1': m[0]['Total fat per 100g (or 100ml)'], 
+                                    'Saturated fat per 100g (or 100ml) 1': m[0][ 'Saturated fat per 100g (or 100ml)'], 
+                                    'Carbohydrate per 100g (or 100ml) 1': m[0]['Carbohydrate per 100g (or 100ml)'], 
+                                    'Sugars per 100g (or 100ml) 1': m[0]['Sugars per 100g (or 100ml)'], 
+                                    'Sodium per 100g (or 100ml) 1': m[0][ 'Sodium per 100g (or 100ml)'], 
+                                    'Original Price 1': m[0]['Original Price'], 
+                                    'Price Promoted 1': m[0]['Price Promoted'], 
+                                    'Price Promoted Price 1': m[0]['Price Promoted Price'], 
+                                    'Multi Buy Special 1': m[0]['Multi Buy Special'], 
+                                    'Multi Buy Special Details 1': m[0][ 'Multi Buy Special Details'], 
+                                    'Multi Buy Price 1': m[0]['Multi Buy Price'], 
+                                    'UID 1': m[0]['UID'],
+                                    'Date of data Extraction 2': m[1]['Date of data Extraction'],
+                                    'Brand 2': m[1]['Brand'], 
+                                    'Product name 2': m[1]['Product name'], 
+                                    'Category 2': m[1]['Category'], 
+                                    'Pack size 2': m[1]['Pack size'], 
+                                    'Serving size 2': m[1]['Serving size'], 
+                                    'Servings per pack 2': m[1][ 'Servings per pack'], 
+                                    'Product code 2': m[1]['Product code'], 
+                                    'Energy per 100g (or 100ml) 2': m[1]['Energy per 100g (or 100ml)'], 
+                                    'Protein per 100g (or 100ml) 2': m[1]['Protein per 100g (or 100ml)'], 
+                                    'Total fat per 100g (or 100ml) 2': m[1]['Total fat per 100g (or 100ml)'], 
+                                    'Saturated fat per 100g (or 100ml) 2': m[1][ 'Saturated fat per 100g (or 100ml)'], 
+                                    'Carbohydrate per 100g (or 100ml) 2': m[1]['Carbohydrate per 100g (or 100ml)'], 
+                                    'Sugars per 100g (or 100ml) 2': m[1]['Sugars per 100g (or 100ml)'], 
+                                    'Sodium per 100g (or 100ml) 2': m[1][ 'Sodium per 100g (or 100ml)'], 
+                                    'Original Price 2': m[1]['Original Price'], 
+                                    'Price Promoted 2': m[1]['Price Promoted'], 
+                                    'Price Promoted Price 2': m[1]['Price Promoted Price'], 
+                                    'Multi Buy Special 2': m[1]['Multi Buy Special'], 
+                                    'Multi Buy Special Details 2': m[1][ 'Multi Buy Special Details'], 
+                                    'Multi Buy Price 2': m[1]['Multi Buy Price'], 
+                                    'UID 2': m[1]['UID']})
 
 
         if (getch == b'q' or getch == b'Q'):
@@ -161,7 +219,7 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
     if (getch == b'q' or getch == b'Q'):
         print(" --- Process interrupted ---")
     else:
-        print(" --- No more similar items with similarity more than 1 found ---")
+        print(" --- No more similar items with similarity more than 1.5 found ---")
        
     #### this was for top three items per row 
     #top3 = np.zeros(shape=(len(first),3), dtype=int)
