@@ -12,13 +12,13 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
 
     first = []
     with open(inputCSV1,'r') as csvinput1:
-        reader1 = csv.DictReader(csvinput1, delimiter=',', quotechar='|') 
+        reader1 = csv.DictReader(csvinput1, delimiter=',') 
         for row in reader1: # each row is a list
             first.append(row)
     
     second = []
     with open(inputCSV2,'r') as csvinput2:
-        reader2 = csv.DictReader(csvinput2, delimiter=',', quotechar='|') 
+        reader2 = csv.DictReader(csvinput2, delimiter=',') 
         for row in reader2: # each row is a list
             second.append(row)
     
@@ -39,11 +39,16 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
     # clear the previous matches
     #fc = open('res/Matches.csv', "w+")
     #fc.close()
-    with open('res/Matches.csv', 'w+') as cM:
+    with open('res/Matches.csv', 'w+', newline='') as cM:
         fM = ['Date of data Extraction 1', 'Brand 1', 'Product name 1', 'Category 1', 'Pack size 1', 'Serving size 1', 'Servings per pack 1', 'Product code 1', 'Energy per 100g (or 100ml) 1', 'Protein per 100g (or 100ml) 1', 'Total fat per 100g (or 100ml) 1', 'Saturated fat per 100g (or 100ml) 1', 'Carbohydrate per 100g (or 100ml) 1', 'Sugars per 100g (or 100ml) 1', 'Sodium per 100g (or 100ml) 1', 'Original Price 1', 'Price Promoted 1', 'Price Promoted Price 1', 'Multi Buy Special 1', 'Multi Buy Special Details 1', 'Multi Buy Price 1', 'UID 1',
                             'Date of data Extraction 2', 'Brand 2', 'Product name 2', 'Category 2', 'Pack size 2', 'Serving size 2', 'Servings per pack 2', 'Product code 2', 'Energy per 100g (or 100ml) 2', 'Protein per 100g (or 100ml) 2', 'Total fat per 100g (or 100ml) 2', 'Saturated fat per 100g (or 100ml) 2', 'Carbohydrate per 100g (or 100ml) 2', 'Sugars per 100g (or 100ml) 2', 'Sodium per 100g (or 100ml) 2', 'Original Price 2', 'Price Promoted 2', 'Price Promoted Price 2', 'Multi Buy Special 2', 'Multi Buy Special Details 2', 'Multi Buy Price 2', 'UID 2' ]
         mW = csv.DictWriter(cM, fieldnames=fM)
         mW.writeheader()
+
+    with open('res/unmatchedItems.csv', 'w+', newline='') as cUM:
+        fUM = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
+        umW = csv.DictWriter(cUM, fieldnames=fUM)
+        umW.writeheader()    
 
     
     levS = np.genfromtxt(simPath + 'LEVn.csv', delimiter=',')
@@ -150,14 +155,14 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
         np.savetxt('res/swMat.csv', swMat, delimiter=",")
        
         #save new weights
-        with open(weights, 'w') as csvfile:
+        with open(weights, 'w', newline='') as csvfile:
             fieldnames = ['levenshtein', 'name', 'jwink', 'hamming']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
             writer.writerow({'levenshtein': wLev, 'name': wName, 'jwink': wJWink, 'hamming': wHam})
         
         #save matches
-        with open('res/Matches.csv', 'a') as csvMatches:
+        with open('res/Matches.csv', 'a', newline='') as csvMatches:
             fieldnamesMatch = ['Date of data Extraction 1', 'Brand 1', 'Product name 1', 'Category 1', 'Pack size 1', 'Serving size 1', 'Servings per pack 1', 'Product code 1', 'Energy per 100g (or 100ml) 1', 'Protein per 100g (or 100ml) 1', 'Total fat per 100g (or 100ml) 1', 'Saturated fat per 100g (or 100ml) 1', 'Carbohydrate per 100g (or 100ml) 1', 'Sugars per 100g (or 100ml) 1', 'Sodium per 100g (or 100ml) 1', 'Original Price 1', 'Price Promoted 1', 'Price Promoted Price 1', 'Multi Buy Special 1', 'Multi Buy Special Details 1', 'Multi Buy Price 1', 'UID 1',
                                'Date of data Extraction 2', 'Brand 2', 'Product name 2', 'Category 2', 'Pack size 2', 'Serving size 2', 'Servings per pack 2', 'Product code 2', 'Energy per 100g (or 100ml) 2', 'Protein per 100g (or 100ml) 2', 'Total fat per 100g (or 100ml) 2', 'Saturated fat per 100g (or 100ml) 2', 'Carbohydrate per 100g (or 100ml) 2', 'Sugars per 100g (or 100ml) 2', 'Sodium per 100g (or 100ml) 2', 'Original Price 2', 'Price Promoted 2', 'Price Promoted Price 2', 'Multi Buy Special 2', 'Multi Buy Special Details 2', 'Multi Buy Price 2', 'UID 2' ]
             matchWriter = csv.DictWriter(csvMatches, fieldnames=fieldnamesMatch)
@@ -215,18 +220,77 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
         #read new set of indexes
         indices =  np.argpartition(swMat.flatten(), -10)[-10:]
         indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
-    
+    #end of recommendation process
+
+    #process remaining unmatched items
     if (getch == b'q' or getch == b'Q'):
         print(" --- Process interrupted ---")
-    else:
+    #else:
         print(" --- No more similar items with similarity more than 1.5 found ---")
-       
+        print(" --- Processing remainig items ---")
+        #list all unmatched items
+        with open('res/unmatchedItems.csv', 'a', newline='') as csvUMatches:
+            fieldnamesUMatch = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
+            unmatchWriter = csv.DictWriter(csvUMatches, fieldnames=fieldnamesUMatch)
+
+            for i in tqdm(range(0,np.size(swMat,0))): #process rows -> first[]
+                if (np.argmax(swMat[i,:]) > 0): #row has not been assigned
+                    #print(first[i])
+                    unmatchWriter.writerow({'Date of data Extraction': first[i]['Date of data Extraction'],
+                                    'Brand': first[i]['Brand'], 
+                                    'Product name': first[i]['Product name'], 
+                                    'Category': first[i]['Category'], 
+                                    'Pack size': first[i]['Pack size'], 
+                                    'Serving size': first[i]['Serving size'], 
+                                    'Servings per pack': first[i][ 'Servings per pack'], 
+                                    'Product code': first[i]['Product code'], 
+                                    'Energy per 100g (or 100ml)': first[i]['Energy per 100g (or 100ml)'], 
+                                    'Protein per 100g (or 100ml)': first[i]['Protein per 100g (or 100ml)'], 
+                                    'Total fat per 100g (or 100ml)': first[i]['Total fat per 100g (or 100ml)'], 
+                                    'Saturated fat per 100g (or 100ml)': first[i][ 'Saturated fat per 100g (or 100ml)'], 
+                                    'Carbohydrate per 100g (or 100ml)': first[i]['Carbohydrate per 100g (or 100ml)'], 
+                                    'Sugars per 100g (or 100ml)': first[i]['Sugars per 100g (or 100ml)'], 
+                                    'Sodium per 100g (or 100ml)': first[i][ 'Sodium per 100g (or 100ml)'], 
+                                    'Original Price': first[i]['Original Price'], 
+                                    'Price Promoted': first[i]['Price Promoted'], 
+                                    'Price Promoted Price': first[i]['Price Promoted Price'], 
+                                    'Multi Buy Special': first[i]['Multi Buy Special'], 
+                                    'Multi Buy Special Details': first[i][ 'Multi Buy Special Details'], 
+                                    'Multi Buy Price': first[i]['Multi Buy Price'], 
+                                    'UID': first[i]['UID']})
+
+            for j in tqdm(range(0,np.size(swMat,1))): #process columns -> second[]
+                if (np.argmax(swMat[:,j]) > 0): #column has not been assigned
+                    #print(second[j])
+                    unmatchWriter.writerow({'Date of data Extraction': second[j]['Date of data Extraction'],
+                                    'Brand': second[j]['Brand'], 
+                                    'Product name': second[j]['Product name'], 
+                                    'Category': second[j]['Category'], 
+                                    'Pack size': second[j]['Pack size'], 
+                                    'Serving size': second[j]['Serving size'], 
+                                    'Servings per pack': second[j][ 'Servings per pack'], 
+                                    'Product code': second[j]['Product code'], 
+                                    'Energy per 100g (or 100ml)': second[j]['Energy per 100g (or 100ml)'], 
+                                    'Protein per 100g (or 100ml)': second[j]['Protein per 100g (or 100ml)'], 
+                                    'Total fat per 100g (or 100ml)': second[j]['Total fat per 100g (or 100ml)'], 
+                                    'Saturated fat per 100g (or 100ml)': second[j][ 'Saturated fat per 100g (or 100ml)'], 
+                                    'Carbohydrate per 100g (or 100ml)': second[j]['Carbohydrate per 100g (or 100ml)'], 
+                                    'Sugars per 100g (or 100ml)': second[j]['Sugars per 100g (or 100ml)'], 
+                                    'Sodium per 100g (or 100ml)': second[j][ 'Sodium per 100g (or 100ml)'], 
+                                    'Original Price': second[j]['Original Price'], 
+                                    'Price Promoted': second[j]['Price Promoted'], 
+                                    'Price Promoted Price': second[j]['Price Promoted Price'], 
+                                    'Multi Buy Special': second[j]['Multi Buy Special'], 
+                                    'Multi Buy Special Details': second[j][ 'Multi Buy Special Details'], 
+                                    'Multi Buy Price': second[j]['Multi Buy Price'], 
+                                    'UID': second[j]['UID']})
+
+    print(" --- Process complete ---")
+
     #### this was for top three items per row 
     #top3 = np.zeros(shape=(len(first),3), dtype=int)
     #for i in tqdm(range(0,len(first))):
     #    top3[i] = np.argsort(simMatrix[i,:])[-3:][::-1]
     #np.savetxt(simPath+'top3.csv', top3, delimiter=",")
 
-    print(" --- Process complete ---")
-
-
+ 
