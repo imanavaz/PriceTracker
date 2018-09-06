@@ -3,7 +3,23 @@ import csv
 import readchar as rc
 from tqdm import tqdm
 import numpy as np
-import bottleneck as bn
+#import bottleneck as bn
+
+
+def loadFunFacts(funf):
+    #fun facts to improve user experience 
+    with open('res/funfacts.csv','r') as funfactsCSV:
+        readerf = csv.DictReader(funfactsCSV, delimiter=',') 
+        for ffact in readerf: # each row is a list
+            funf.append(ffact)
+
+def getFunFact(idx, funf):
+    if (idx >= len(funf)):
+        idx = 0
+    
+    ff = funf[idx]['fact']
+    idx += 1
+    return ff
 
 
 def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
@@ -22,6 +38,10 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
         for row in reader2: # each row is a list
             second.append(row)
     
+    funfacts = []
+    loadFunFacts(funfacts)
+    funfactIndex = 0
+
     wLev = 0.0
     wName = 0.0
     wHam = 0.0
@@ -37,8 +57,6 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
         wHam = float(ws[3])
 
     # clear the previous matches
-    #fc = open('res/Matches.csv', "w+")
-    #fc.close()
     with open('res/Matches.csv', 'w+', newline='') as cM:
         fM = ['Date of data Extraction 1', 'Brand 1', 'Product name 1', 'Category 1', 'Pack size 1', 'Serving size 1', 'Servings per pack 1', 'Product code 1', 'Energy per 100g (or 100ml) 1', 'Protein per 100g (or 100ml) 1', 'Total fat per 100g (or 100ml) 1', 'Saturated fat per 100g (or 100ml) 1', 'Carbohydrate per 100g (or 100ml) 1', 'Sugars per 100g (or 100ml) 1', 'Sodium per 100g (or 100ml) 1', 'Original Price 1', 'Price Promoted 1', 'Price Promoted Price 1', 'Multi Buy Special 1', 'Multi Buy Special Details 1', 'Multi Buy Price 1', 'UID 1',
                             'Date of data Extraction 2', 'Brand 2', 'Product name 2', 'Category 2', 'Pack size 2', 'Serving size 2', 'Servings per pack 2', 'Product code 2', 'Energy per 100g (or 100ml) 2', 'Protein per 100g (or 100ml) 2', 'Total fat per 100g (or 100ml) 2', 'Saturated fat per 100g (or 100ml) 2', 'Carbohydrate per 100g (or 100ml) 2', 'Sugars per 100g (or 100ml) 2', 'Sodium per 100g (or 100ml) 2', 'Original Price 2', 'Price Promoted 2', 'Price Promoted Price 2', 'Multi Buy Special 2', 'Multi Buy Special Details 2', 'Multi Buy Price 2', 'UID 2' ]
@@ -88,6 +106,10 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
                 
                 print ('Is this recommendation true (y|n)?')
                 getch = rc.readchar()
+
+                while not (getch == b'y' or getch == b'Y' or getch == b'n' or getch == b'N' or getch == b'q' or getch == b'Q'):
+                    print('Invalid input, sorry! - please answer by n or y')
+                    getch = rc.readchar()
                 
                 if (getch == b'y' or getch == b'Y'):
                     #remove the items from simMatrix
@@ -151,7 +173,16 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
                 elif (getch == b'q' or getch == b'Q'):
                     break
 
-        print(" --- Saving results... ---")
+        print(" --- Saving results... ---\n")
+        print(" * While I am saving the results so far...")
+        print(" * Did you know ...")
+        print(" * "+getFunFact(funfactIndex, funfacts))
+        funfactIndex += 1
+        if funfactIndex >= len(funfacts):
+            funfactIndex = 0
+        print()
+        time.sleep(3)
+
         np.savetxt('res/swMat.csv', swMat, delimiter=",")
        
         #save new weights
@@ -225,7 +256,7 @@ def findSimilarItems(inputCSV1, inputCSV2, weights, simPath):
     #process remaining unmatched items
     if (getch == b'q' or getch == b'Q'):
         print(" --- Process interrupted ---")
-    #else:
+    else:
         print(" --- No more similar items with similarity more than 1.5 found ---")
         print(" --- Processing remainig items ---")
         #list all unmatched items
