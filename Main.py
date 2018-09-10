@@ -5,20 +5,20 @@ from logic.appendID import appendIDtoRow
 #from logic.preparations import processFile
 from logic.scrapedDataChecker import checkSimilarities
 from logic.processSimilarityMatrix import findSimilarItems
-from tkinter import *
+#from tkinter import *
 
 
 ##------------------------------##
 # --------- (-: UI :-) --------- #
 ##------------------------------##
 
-#appendIDtoRow ('data\ctest.csv', 'data\ctest-i.csv', 'C')
-#appendIDtoRow ('data\wtest.csv', 'data\wtest-i.csv', 'W')
-#checkSimilarities('data/ctest-i.csv', 'data/wtest-i.csv')
+#ppendIDtoRow ('data/c.csv', 'data/c-i.csv', 'C')
+#appendIDtoRow ('data/w.csv', 'data/w-i.csv', 'W')
+checkSimilarities('data/c-i.csv', 'data/w-i.csv')
 
-findSimilarItems('data/ctest-i.csv', 'data/wtest-i.csv', 'weights.csv', 'res/')
+#findSimilarItems('data/ctest-i.csv', 'data/wtest-i.csv', 'weights.csv', 'res/')
 
-class AppGUI(Frame):
+""" class AppGUI(Frame):
     
     def __init__(self, recList, master): 
         Frame.__init__(self, master)
@@ -37,16 +37,13 @@ class AppGUI(Frame):
                     
             Label(master, text=recList[i]).grid(row=i, column=2)
 
-
-root = Tk()
-
-recl = ['test 1', 'test 2', 'test 3']
-
-gui = AppGUI(recl, root)
-
-#rec3.setRecommendationText("rec 3 hurray")
-
-root.mainloop()
+"""
+## for the TKinker 
+#root = Tk()
+#recl = ['test 1', 'test 2', 'test 3']
+#gui = AppGUI(recl, root)
+##rec3.setRecommendationText("rec 3 hurray")
+#root.mainloop()
 
 
 #def test(option):
