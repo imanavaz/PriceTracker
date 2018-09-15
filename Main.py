@@ -59,7 +59,7 @@ with open('data/w-i.csv','r') as csvinput2:
 #processSimilarItemsWithTraining(first, second, 'weights.csv', 'res/Fruit-A-Vegetables/', funfacts, funfactidx)
 
 #createSimMatrix ('weights.csv', 'res/Meat-Seafood-A-Deli/')
-#processSimilarItemsWithTraining(first, second, 'weights.csv', 'res/Meat-Seafood-A-Deli', funfacts, funfactidx)
+#processSimilarItemsWithTraining(first, second, 'weights.csv', 'res/Meat-Seafood-A-Deli/', funfacts, funfactidx)
 
 
 
