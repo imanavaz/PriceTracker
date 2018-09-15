@@ -39,27 +39,41 @@ with open('data/w-i.csv','r') as csvinput2:
         second.append(row)
 
 
+#WITH TRAINING SECTION
+#createSimMatrix ('weights.csv', 'res/Baby/')
+#processSimilarItemsWithTraining(first, second, 'weights.csv', 'res/Baby/', funfacts, funfactidx)
 
-#createSimMatrix ('weights.csv', 'res/ ')
-#processSimilarItems('data/.csv', 'data/.csv', 'res/', funfacts, funfactidx)
+#createSimMatrix ('weights.csv', 'res/Bread-A-Bakery/')
+#processSimilarItemsWithTraining(first, second, 'weights.csv', 'res/Bread-A-Bakery/', funfacts, funfactidx)
 
-#createSimMatrix ('weights.csv', 'res/ ')
+#createSimMatrix ('weights.csv', 'res/Dairy-Eggs-A-Meals/')
+#processSimilarItemsWithTraining(first, second, 'weights.csv', 'res/Dairy-Eggs-A-Meals/', funfacts, funfactidx)
 
+#createSimMatrix ('weights.csv', 'res/Drinks/')
+#processSimilarItemsWithTraining(first, second, 'weights.csv', 'res/Drinks/', funfacts, funfactidx)
+
+#createSimMatrix ('weights.csv', 'res/Frozen/')
+#processSimilarItemsWithTraining(first, second, 'weights.csv', 'res/Frozen/', funfacts, funfactidx)
+
+#createSimMatrix ('weights.csv', 'res/Fruit-A-Vegetables/')
+#processSimilarItemsWithTraining(first, second, 'weights.csv', 'res/Fruit-A-Vegetables/', funfacts, funfactidx)
 
 #createSimMatrix ('weights.csv', 'res/Meat-Seafood-A-Deli/')
+#processSimilarItemsWithTraining(first, second, 'weights.csv', 'res/Meat-Seafood-A-Deli', funfacts, funfactidx)
+
+
+
+
+#NO TRAINING SECTION 
+#createSimMatrix ('weights.csv', 'res/Liquor/')
+#processSimilarItemsNoTraining(first, second, 'res/Liquor/', funfacts, funfactidx)
 
 #createSimMatrix ('weights.csv', 'res/Pantry/')
+#processSimilarItemsNoTraining(first, second, 'res/Pantry/', funfacts, funfactidx)
 
 #createSimMatrix ('weights.csv', 'res/Lunch-Box/')
+#processSimilarItemsNoTraining(first, second, 'res/Lunch-Box/', funfacts, funfactidx)
 
-
-
-#checkSimilarities('data/c-i.csv', 'data/w-i.csv')
-
-
-
-#findSimilarItems('data/ctest-i.csv', 'data/wtest-i.csv', 'weights.csv', 'res/')
-#createSimMatrix('weights.csv', 'res/')
 
 
 ## for the TKinker 

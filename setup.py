@@ -12,3 +12,6 @@ setup(name = "PriceTracker" ,
       version = "0.1" ,
       description = "Part of Price tracker software, performing item matching ..." ,
       executables = [Executable("Main.py")])
+
+#instruction is: python setup.py build
+#if needed msi, instruction is: python setup.py pricetracker_msi
