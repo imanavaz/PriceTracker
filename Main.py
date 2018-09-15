@@ -1,43 +1,67 @@
 
 import csv
 #from logic.levenshtein import iterative_levenshtein
-from logic.appendID import appendIDtoRow
+from logic.dataPreparation import *
 #from logic.preparations import processFile
-from logic.scrapedDataChecker import checkSimilarities
-from logic.processSimilarityMatrix import findSimilarItems
+from logic.generateSimilarities import *
+from logic.processSimilarityMatrix import *
+import os
 #from tkinter import *
 
 
-##------------------------------##
-# --------- (-: UI :-) --------- #
-##------------------------------##
+#clear terminal 
+os.system('cls' if os.name == 'nt' else 'clear')
 
-#ppendIDtoRow ('data/c.csv', 'data/c-i.csv', 'C')
+#generateSimialrityMatrices('data/c-i-Meat-Seafood-A-Deli.csv', 'data/w-i-Meat-Seafood-A-Deli.csv', 'res/Meat-Seafood-A-Deli/')
+#generateSimialrityMatrices('data/c-i-Pantry.csv', 'data/w-i-Pantry.csv', 'res/Pantry/')
+#generateSimialrityMatrices('data/c-i.csv', 'data/w-i-Lunch-Box.csv', 'res/Lunch-Box/')
+
+#for user experience 
+funfactidx = 0
+funfacts = []
+loadFunFacts(funfacts)
+
+##needed only once
+#appendIDtoRow ('data/c.csv', 'data/c-i.csv', 'C')
 #appendIDtoRow ('data/w.csv', 'data/w-i.csv', 'W')
-checkSimilarities('data/c-i.csv', 'data/w-i.csv')
+
+#read scrapped data 
+first = []
+with open('data/c-i.csv','r') as csvinput1:
+    reader1 = csv.DictReader(csvinput1, delimiter=',') 
+    for row in reader1: # each row is a list
+        first.append(row)
+
+second = []
+with open('data/w-i.csv','r') as csvinput2:
+    reader2 = csv.DictReader(csvinput2, delimiter=',') 
+    for row in reader2: # each row is a list
+        second.append(row)
+
+
+
+#createSimMatrix ('weights.csv', 'res/ ')
+#processSimilarItems('data/.csv', 'data/.csv', 'res/', funfacts, funfactidx)
+
+#createSimMatrix ('weights.csv', 'res/ ')
+
+
+#createSimMatrix ('weights.csv', 'res/Meat-Seafood-A-Deli/')
+
+#createSimMatrix ('weights.csv', 'res/Pantry/')
+
+#createSimMatrix ('weights.csv', 'res/Lunch-Box/')
+
+
+
+#checkSimilarities('data/c-i.csv', 'data/w-i.csv')
+
+
 
 #findSimilarItems('data/ctest-i.csv', 'data/wtest-i.csv', 'weights.csv', 'res/')
+#createSimMatrix('weights.csv', 'res/')
 
-""" class AppGUI(Frame):
-    
-    def __init__(self, recList, master): 
-        Frame.__init__(self, master)
-        self.grid()
-        self.master.rowconfigure(len(recList), weight=1)   
-        self.master.columnconfigure(3, weight=1)
 
-        for i in range(0, len(recList)):
-            Button(master, text="Yes",
-                command=lambda opt=recList[i]: 
-                    print(opt, ' is accepted')).grid(row=i, column=0)
-
-            Button(master, text="No", 
-                command=lambda opt=recList[i]: 
-                    print(opt,' is rejected')).grid(row=i, column=1)
-                    
-            Label(master, text=recList[i]).grid(row=i, column=2)
-
-"""
 ## for the TKinker 
 #root = Tk()
 #recl = ['test 1', 'test 2', 'test 3']
@@ -65,6 +89,31 @@ checkSimilarities('data/c-i.csv', 'data/w-i.csv')
 ##---------------------------------------##
 # --------- (-:, CSV Process :-) --------- #
 ##---------------------------------------##
+
+#data partitioning by categories
+"""partitionData('data/c-i.csv', 'data/c-i-Pantry.csv', 'Pantry')
+partitionData('data/c-i.csv', 'data/c-i-Baby.csv', 'Baby')
+partitionData('data/c-i.csv', 'data/c-i-Bread-A-Bakery.csv', 'Bread & Bakery')
+partitionData('data/c-i.csv', 'data/c-i-Dairy-Eggs-A-Meals.csv', 'Dairy, Eggs & Meals')
+partitionData('data/c-i.csv', 'data/c-i-Drinks.csv', 'Drinks')
+partitionData('data/c-i.csv', 'data/c-i-Frozen.csv', 'Frozen')
+partitionData('data/c-i.csv', 'data/c-i-Fruit-A-Vegetables.csv', 'Fruit & Vegetables')
+partitionData('data/c-i.csv', 'data/c-i-Liquor.csv', 'Liquor')
+partitionData('data/c-i.csv', 'data/c-i-Meat-Seafood-A-Deli.csv', 'Meat, Seafood & Deli')"""
+
+"""partitionData('data/w-i.csv', 'data/w-i-Baby.csv', 'Baby')
+partitionData('data/w-i.csv', 'data/w-i-Bakery.csv', 'Bakery')
+partitionData('data/w-i.csv', 'data/w-i-Dairy-Eggs-A-Fridge.csv', 'Dairy, Eggs & Fridge')
+partitionData('data/w-i.csv', 'data/w-i-Drinks.csv', 'Drinks')
+partitionData('data/w-i.csv', 'data/w-i-Freezer.csv', 'Freezer')
+partitionData('data/w-i.csv', 'data/w-i-Fruit-A-Veg.csv', 'Fruit & Veg')
+partitionData('data/w-i.csv', 'data/w-i-Liquor.csv', 'Liquor')
+partitionData('data/w-i.csv', 'data/w-i-Lunch-Box.csv', 'Lunch Box')
+partitionData('data/w-i.csv', 'data/w-i-Meat-Seafood-A-Deli.csv', 'Meat, Seafood & Deli')
+partitionData('data/w-i.csv', 'data/w-i-Pantry.csv', 'Pantry')"""
+
+
+
 
 #######extractSimilarData('data\c.csv', 'data\w.csv')
 

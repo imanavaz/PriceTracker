@@ -31,7 +31,8 @@ def checkSimilarHamming(row1, row2): #lower is better
     return simScore4
 
 
-def checkSimilarities (inputCSV1, inputCSV2):
+#this creates individual similarity matrix for the given input files
+def generateSimialrityMatrices(inputCSV1, inputCSV2, simPath): 
 
     print("--- Process started ---")
     
@@ -39,7 +40,7 @@ def checkSimilarities (inputCSV1, inputCSV2):
 
     first = []
     with open(inputCSV1,'r') as csvinput1:
-        reader1 = csv.DictReader(csvinput1, delimiter=',', quotechar='|') 
+        reader1 = csv.DictReader(csvinput1, delimiter=',') 
         for row in reader1: # each row is a list
             first.append(row)
     
@@ -56,7 +57,7 @@ def checkSimilarities (inputCSV1, inputCSV2):
     simMatrixNameSim = np.zeros(shape=(len(first), len(second)), dtype=float)
     simMatrixJWink = np.zeros(shape=(len(first), len(second)), dtype=float)
     simMatrixHamming = np.zeros(shape=(len(first), len(second)), dtype=float)
-    selectionMatrix = np.zeros(shape=(len(first), len(second)), dtype=int)
+    #selectionMatrix = np.zeros(shape=(len(first), len(second)), dtype=int)
 
     #calculate similarities
     for i in tqdm(range(0,len(first))):
@@ -66,16 +67,16 @@ def checkSimilarities (inputCSV1, inputCSV2):
             simMatrixJWink[i,j] = checkSimilarJWink(first[i],second[j])
             simMatrixHamming[i,j] = checkSimilarHamming(first[i],second[j])
 
-    np.savetxt('res/LEV.csv', simMatrixLev, delimiter=",")
-    np.savetxt('res/NAME.csv', simMatrixNameSim, delimiter=",")
-    np.savetxt('res/JWINK.csv',  simMatrixJWink, delimiter=",")
-    np.savetxt('res/HAM.csv', simMatrixHamming, delimiter=",")
+    #np.savetxt(simPath + 'LEV.csv', simMatrixLev, delimiter=",")
+    #np.savetxt(simPath + 'NAME.csv', simMatrixNameSim, delimiter=",")
+    #np.savetxt(simPath + 'JWINK.csv',  simMatrixJWink, delimiter=",")
+    #np.savetxt(simPath + 'HAM.csv', simMatrixHamming, delimiter=",")
 
     end_time = time.time()
     print(" --- Similarity calculations completed in %s seconds ---" % (end_time - start_time))
     print(" --- Processing normalization ---")
 
-    #reverse valies (when higher means worse similarity)
+    #reverse values (when higher means worse similarity)
     smLev = simMatrixLev.max() 
     simMatrixLev = smLev - simMatrixLev
     smJW = simMatrixJWink.max()
@@ -86,15 +87,16 @@ def checkSimilarities (inputCSV1, inputCSV2):
     #normalize values to [0-1]
     simMatrixNameSim *= (1/simMatrixNameSim.max())
     simMatrixLev *= (1/simMatrixLev.max())
-    simMatrixJWink *= (1/simMatrixHamming.max()) 
+    simMatrixJWink *= (1/simMatrixJWink.max()) 
     simMatrixHamming *= (1/simMatrixHamming.max())
-
-    np.savetxt('res/LEVn.csv', simMatrixLev, delimiter=",")
-    np.savetxt('res/NAMEn.csv', simMatrixNameSim, delimiter=",")
-    np.savetxt('res/JWINKn.csv',  simMatrixJWink, delimiter=",")
-    np.savetxt('res/HAMn.csv', simMatrixHamming, delimiter=",")
-    
     print(" --- Nomalization complete ---")
+
+    np.savetxt(simPath + 'LEVn.csv', simMatrixLev, delimiter=",")
+    np.savetxt(simPath + 'NAMEn.csv', simMatrixNameSim, delimiter=",")
+    np.savetxt(simPath + 'JWINKn.csv',  simMatrixJWink, delimiter=",")
+    np.savetxt(simPath + 'HAMn.csv', simMatrixHamming, delimiter=",")
+    
+    print(" --- Normalized matrices are saved in %s ---" % simPath)
     print(" --- Processing similarities complete ---")
        
     #input("Press Enter to continue...")
