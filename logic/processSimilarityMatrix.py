@@ -7,11 +7,22 @@ import numpy as np
 
 
 
-def processSimilarItemsNoTraining(first, second, simPath, funfacts, funfactIndex):#this does not process/consider the feedback 
+def processSimilarItemsNoTraining(inputFirst, inputSecond, simPath, funfacts, funfactIndex):#this does not process/consider the feedback 
 
     print(" --- Processing similarity matrix at " + simPath + " ---")
     print(" This will take some time, please be patient...")
 
+    first = []
+    with open(inputFirst,'r') as csvinput1:
+        reader1 = csv.DictReader(csvinput1, delimiter=',') 
+        for row in reader1: # each row is a list
+            first.append(row)
+
+    second = []
+    with open(inputSecond,'r') as csvinput2:
+        reader2 = csv.DictReader(csvinput2, delimiter=',') 
+        for row in reader2: # each row is a list
+            second.append(row)
    
     # clear the previous matches
     with open(simPath + 'Matches.csv', 'w+', newline='') as cM:
@@ -34,7 +45,7 @@ def processSimilarItemsNoTraining(first, second, simPath, funfacts, funfactIndex
     getch = ''
 
     #read first batch of indices 
-    indices =  np.argpartition(swMat.flatten(), -5)[-5]
+    indices =  np.argpartition(swMat.flatten(), -100)[-100]
     indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     
     while (swMat[indices[0][0]][indices[0][1]] > 1.5):
@@ -195,7 +206,7 @@ def processSimilarItemsNoTraining(first, second, simPath, funfacts, funfactIndex
             break
 
         #read new set of indexes
-        indices =  np.argpartition(swMat.flatten(), -10)[-10:]
+        indices =  np.argpartition(swMat.flatten(), -100)[-100:]
         indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     #end of recommendation process
 
@@ -336,10 +347,23 @@ def getFunFact(idx, funf):
 
 
 #============================== the previous function which does not work with large files well     
-def processSimilarItemsWithTraining(first, second, weights, simPath, funfacts, funfactIndex):
+def processSimilarItemsWithTraining(inputFirst, inputSecond, weights, simPath, funfacts, funfactIndex):
 
     print(" --- Processing similarity matrix at " + simPath + " ---")
     print(" This will take some time, please be patient...")
+
+    #read scrapped data 
+    first = []
+    with open(inputFirst,'r') as csvinput1:
+        reader1 = csv.DictReader(csvinput1, delimiter=',') 
+        for row in reader1: # each row is a list
+            first.append(row)
+
+    second = []
+    with open(inputSecond,'r') as csvinput2:
+        reader2 = csv.DictReader(csvinput2, delimiter=',') 
+        for row in reader2: # each row is a list
+            second.append(row)    
 
     #read weights 
     wLev = 0.0
@@ -403,7 +427,7 @@ def processSimilarItemsWithTraining(first, second, weights, simPath, funfacts, f
     getch = ''
 
     #read first batch of indices 
-    indices =  np.argpartition(swMat.flatten(), -5)[-5:]
+    indices =  np.argpartition(swMat.flatten(), -100)[-100:]
     indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     
     while (swMat[indices[0][0]][indices[0][1]] > 1.5):
@@ -412,8 +436,8 @@ def processSimilarItemsWithTraining(first, second, weights, simPath, funfacts, f
             print(" ")
             if (swMat[indices[i][0]][indices[i][1]] > 0): #if the item is not already matched in current batch
                 print(first[indices[i][0]]['Brand'] + " - " +  first[indices[i][0]]['Product name'] + " - " + first[indices[i][0]]['Pack size'] +
-                        " <-> " + 
-                        second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'] + " -- similarity is %s :" % swMat[indices[i][0]][indices[i][1]])
+                        " <===> " + 
+                        second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'])# + " -- similarity is %s :" % swMat[indices[i][0]][indices[i][1]])
                 
                 print ('Is this recommendation true (y|n)?')
                 getch = rc.readchar()
@@ -560,7 +584,7 @@ def processSimilarItemsWithTraining(first, second, weights, simPath, funfacts, f
             break
 
         #read new set of indexes
-        indices =  np.argpartition(swMat.flatten(), -10)[-10:]
+        indices =  np.argpartition(swMat.flatten(), -100)[-100:]
         indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     #end of recommendation process
 
