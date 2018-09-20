@@ -48,7 +48,7 @@ def processSimilarItemsNoTraining(inputFirst, inputSecond, simPath, funfacts, fu
     indices =  np.argpartition(swMat.flatten(), -100)[-100]
     indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     
-    while (swMat[indices[0][0]][indices[0][1]] > 1.5):
+    while (swMat[indices[0][0]][indices[0][1]] >= 2):
         
         for i in range(0,len(indices)):
             print(" ")
@@ -206,7 +206,7 @@ def processSimilarItemsNoTraining(inputFirst, inputSecond, simPath, funfacts, fu
             break
 
         #read new set of indexes
-        indices =  np.argpartition(swMat.flatten(), -100)[-100:]
+        indices = np.argpartition(swMat.flatten(), -100)[-100:]
         indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     #end of recommendation process
 
@@ -427,11 +427,11 @@ def processSimilarItemsWithTraining(inputFirst, inputSecond, weights, simPath, f
     getch = ''
 
     #read first batch of indices 
-    indices =  np.argpartition(swMat.flatten(), -100)[-100:]
+    indices =  np.argpartition(swMat.flatten(), -50)[-50:]
     indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     
-    while (swMat[indices[0][0]][indices[0][1]] > 1.5):
-        
+    while (swMat[indices[0][0]][indices[0][1]] >= 2):
+        #print(swMat[indices[0][0]][indices[0][1]])
         for i in range(0,len(indices)):
             print(" ")
             if (swMat[indices[i][0]][indices[i][1]] > 0): #if the item is not already matched in current batch
@@ -518,7 +518,7 @@ def processSimilarItemsWithTraining(inputFirst, inputSecond, weights, simPath, f
         print()
         time.sleep(3)
 
-        #np.savetxt('res/swMat.csv', swMat, delimiter=",")
+        np.savetxt(simPath + 'swMatTest.csv', swMat, delimiter=",")
        
         #save new weights
         with open(weights, 'w', newline='') as csvfile:
@@ -584,7 +584,7 @@ def processSimilarItemsWithTraining(inputFirst, inputSecond, weights, simPath, f
             break
 
         #read new set of indexes
-        indices =  np.argpartition(swMat.flatten(), -100)[-100:]
+        indices =  np.argpartition(swMat.flatten(), -50)[-50:]
         indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     #end of recommendation process
 

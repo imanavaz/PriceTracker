@@ -21,19 +21,16 @@ funfactidx = 0
 funfacts = []
 loadFunFacts(funfacts)
 
+
 ##needed only once
 #appendIDtoRow ('data/c.csv', 'data/c-i.csv', 'C')
 #appendIDtoRow ('data/w.csv', 'data/w-i.csv', 'W')
 
 
 #WITH TRAINING SECTION
-print("\n\n --- Starting process for %s ---" % "Baby")
-createSimMatrix ('weights.csv', 'res/Baby/')
-processSimilarItemsWithTraining('data/c-i-Baby.csv', 'data/w-i-Baby.csv', 'weights.csv', 'res/Baby/', funfacts, 0)
-
 print("\n\n --- Starting process for %s ---" % "Bread & Bakery")
 createSimMatrix ('weights.csv', 'res/Bread-A-Bakery/')
-processSimilarItemsWithTraining('data/c-i-Bread-A-Bakery.csv', 'data/w-i-Bakery.csv', 'weights.csv', 'res/Bread-A-Bakery/', funfacts, 25)
+processSimilarItemsWithTraining('data/c-i-Bread-A-Bakery.csv', 'data/w-i-Bakery.csv', 'weights.csv', 'res/Bread-A-Bakery/', funfacts, 55)
 
 print("\n\n --- Starting process for %s ---" % "Dairy, Eggs & Meals")
 createSimMatrix ('weights.csv', 'res/Dairy-Eggs-A-Meals/')
@@ -41,21 +38,23 @@ processSimilarItemsWithTraining('data/c-i-Dairy-Eggs-A-Meals.csv', 'data/w-i-Dai
 
 print("\n\n --- Starting process for %s ---" % "Drinks")
 createSimMatrix ('weights.csv', 'res/Drinks/')
-processSimilarItemsWithTraining('data/c-i-Drinks.csv', 'data/w-i-Drinks.csv', 'weights.csv', 'res/Drinks/', funfacts, 15)
+processSimilarItemsWithTraining('data/c-i-Drinks.csv', 'data/w-i-Drinks.csv', 'weights.csv', 'res/Drinks/', funfacts, 45)
 
 print("\n\n --- Starting process for %s ---" % "Frozen")
 createSimMatrix ('weights.csv', 'res/Frozen/')
-processSimilarItemsWithTraining('data/c-i-Frozen.csv', 'data/w-i-Freezer.csv', 'weights.csv', 'res/Frozen/', funfacts, 5)
+processSimilarItemsWithTraining('data/c-i-Frozen.csv', 'data/w-i-Freezer.csv', 'weights.csv', 'res/Frozen/', funfacts, 15)
 
 print("\n\n --- Starting process for %s ---" % "Fruit & Vegetables")
 createSimMatrix ('weights.csv', 'res/Fruit-A-Vegetables/')
-processSimilarItemsWithTraining('data/c-i-Fruit-A-Vegetables.csv', 'data/w-i-Fruit-A-Veg.csv', 'weights.csv', 'res/Fruit-A-Vegetables/', funfacts, 2)
+processSimilarItemsWithTraining('data/c-i-Fruit-A-Vegetables.csv', 'data/w-i-Fruit-A-Veg.csv', 'weights.csv', 'res/Fruit-A-Vegetables/', funfacts, 20)
 
 print("\n\n --- Starting process for %s ---" % "Meat, Seafood & Deli")
 createSimMatrix ('weights.csv', 'res/Meat-Seafood-A-Deli/')
 processSimilarItemsWithTraining('data/c-i-Meat-Seafood-A-Deli.csv', 'data/w-i-Meat-Seafood-A-Deli.csv', 'weights.csv', 'res/Meat-Seafood-A-Deli/', funfacts, 8)
 
-
+print("\n\n --- Starting process for %s ---" % "Baby")
+createSimMatrix ('weights.csv', 'res/Baby/')
+processSimilarItemsWithTraining('data/c-i-Baby.csv', 'data/w-i-Baby.csv', 'weights.csv', 'res/Baby/', funfacts, 30)
 
 
 #NO TRAINING SECTION 
@@ -71,7 +70,7 @@ processSimilarItemsNoTraining('data/c-i-Pantry.csv', 'data/w-i-Pantry.csv', 'res
 
 print("\n\n --- Starting process for %s ---" % "Lunch Box")
 createSimMatrix ('weights.csv', 'res/Lunch-Box/')
-processSimilarItemsNoTraining('data/c-i.csv', 'data/w-i-Lunch-Box.csv', 'res/Lunch-Box/', funfacts, 6)
+processSimilarItemsNoTraining('data/c-i.csv', 'data/w-i-Lunch-Box.csv', 'res/Lunch-Box/', funfacts, 60)
 
 
 
