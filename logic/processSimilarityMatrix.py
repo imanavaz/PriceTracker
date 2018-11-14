@@ -48,7 +48,7 @@ def processSimilarItemsNoTraining(inputFirst, inputSecond, simPath, funfacts, fu
     indices =  np.argpartition(swMat.flatten(), -100)[-100]
     indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     
-    while (swMat[indices[0][0]][indices[0][1]] >= 2):
+    while (swMat[indices[0][0]][indices[0][1]] >= 1.5):
         
         for i in range(0,len(indices)):
             print(" ")
@@ -201,7 +201,8 @@ def processSimilarItemsNoTraining(inputFirst, inputSecond, simPath, funfacts, fu
                                     'Multi Buy Price 2': m[1]['Multi Buy Price'], 
                                     'UID 2': m[1]['UID']})
 
-
+            #clear matches
+            matches = []
         if (getch == b'q' or getch == b'Q'):
             break
 
@@ -430,7 +431,7 @@ def processSimilarItemsWithTraining(inputFirst, inputSecond, weights, simPath, f
     indices =  np.argpartition(swMat.flatten(), -50)[-50:]
     indices = np.vstack(np.unravel_index(indices, swMat.shape)).T
     
-    while (swMat[indices[0][0]][indices[0][1]] >= 2):
+    while (swMat[indices[0][0]][indices[0][1]] >= 1.5):
         #print(swMat[indices[0][0]][indices[0][1]])
         for i in range(0,len(indices)):
             print(" ")
@@ -579,6 +580,8 @@ def processSimilarItemsWithTraining(inputFirst, inputSecond, weights, simPath, f
                                     'Multi Buy Price 2': m[1]['Multi Buy Price'], 
                                     'UID 2': m[1]['UID']})
 
+            #clear matches
+            matches = []
 
         if (getch == b'q' or getch == b'Q'):
             break
@@ -592,7 +595,7 @@ def processSimilarItemsWithTraining(inputFirst, inputSecond, weights, simPath, f
     if (getch == b'q' or getch == b'Q'):
         print(" --- Process interrupted ---")
     else:
-        print(" --- No more similar items with similarity more than 1.5 found ---")
+        print(" --- No more similar items with similarity more than 1 found ---")
         print(" --- Processing remainig items ---")
         #list all unmatched items
         with open(simPath + 'unmatchedItems.csv', 'a', newline='') as csvUMatches:
