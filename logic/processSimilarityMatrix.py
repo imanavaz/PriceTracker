@@ -55,7 +55,7 @@ def processSimilarItemsNoTraining(inputFirst, inputSecond, simPath, funfacts, fu
             if (swMat[indices[i][0]][indices[i][1]] > 0): #if the item is not already matched in current batch
                 print(first[indices[i][0]]['Brand'] + " - " +  first[indices[i][0]]['Product name'] + " - " + first[indices[i][0]]['Pack size'] +
                         " <===> " + 
-                        second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'])# + " -- similarity is %s :" % swMat[indices[i][0]][indices[i][1]])
+                        second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'] + " -- similarity is %s :" % swMat[indices[i][0]][indices[i][1]])
                 
                 print ('Is this recommendation true (y|n)?')
                 getch = rc.readchar()
@@ -214,65 +214,66 @@ def processSimilarItemsNoTraining(inputFirst, inputSecond, simPath, funfacts, fu
     #process remaining unmatched items
     if (getch == b'q' or getch == b'Q'):
         print(" --- Process interrupted ---")
-    else:
-        print(" --- No more similar items with similarity more than 1.5 found ---")
-        print(" --- Processing remainig none-similar items ---")
-        #list all unmatched items
-        with open(simPath + 'unmatchedItems.csv', 'a', newline='') as csvUMatches:
-            fieldnamesUMatch = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
-            unmatchWriter = csv.DictWriter(csvUMatches, fieldnames=fieldnamesUMatch)
+    
+    #else:
+    print(" --- No more similar items with similarity more than 1.5 found ---")
+    print(" --- Processing remainig none-similar items ---")
+    #list all unmatched items
+    with open(simPath + 'unmatchedItems.csv', 'a', newline='') as csvUMatches:
+        fieldnamesUMatch = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
+        unmatchWriter = csv.DictWriter(csvUMatches, fieldnames=fieldnamesUMatch)
 
-            for i in tqdm(range(0,np.size(swMat,0))): #process rows -> first[]
-                if (np.argmax(swMat[i,:]) > 0): #row has not been assigned
-                    #print(first[i])
-                    unmatchWriter.writerow({'Date of data Extraction': first[i]['Date of data Extraction'],
-                                    'Brand': first[i]['Brand'], 
-                                    'Product name': first[i]['Product name'], 
-                                    'Category': first[i]['Category'], 
-                                    'Pack size': first[i]['Pack size'], 
-                                    'Serving size': first[i]['Serving size'], 
-                                    'Servings per pack': first[i][ 'Servings per pack'], 
-                                    'Product code': first[i]['Product code'], 
-                                    'Energy per 100g (or 100ml)': first[i]['Energy per 100g (or 100ml)'], 
-                                    'Protein per 100g (or 100ml)': first[i]['Protein per 100g (or 100ml)'], 
-                                    'Total fat per 100g (or 100ml)': first[i]['Total fat per 100g (or 100ml)'], 
-                                    'Saturated fat per 100g (or 100ml)': first[i][ 'Saturated fat per 100g (or 100ml)'], 
-                                    'Carbohydrate per 100g (or 100ml)': first[i]['Carbohydrate per 100g (or 100ml)'], 
-                                    'Sugars per 100g (or 100ml)': first[i]['Sugars per 100g (or 100ml)'], 
-                                    'Sodium per 100g (or 100ml)': first[i][ 'Sodium per 100g (or 100ml)'], 
-                                    'Original Price': first[i]['Original Price'], 
-                                    'Price Promoted': first[i]['Price Promoted'], 
-                                    'Price Promoted Price': first[i]['Price Promoted Price'], 
-                                    'Multi Buy Special': first[i]['Multi Buy Special'], 
-                                    'Multi Buy Special Details': first[i][ 'Multi Buy Special Details'], 
-                                    'Multi Buy Price': first[i]['Multi Buy Price'], 
-                                    'UID': first[i]['UID']})
+        for i in tqdm(range(0,np.size(swMat,0))): #process rows -> first[]
+            if (np.argmax(swMat[i,:]) > 0): #row has not been assigned
+                #print(first[i])
+                unmatchWriter.writerow({'Date of data Extraction': first[i]['Date of data Extraction'],
+                                'Brand': first[i]['Brand'], 
+                                'Product name': first[i]['Product name'], 
+                                'Category': first[i]['Category'], 
+                                'Pack size': first[i]['Pack size'], 
+                                'Serving size': first[i]['Serving size'], 
+                                'Servings per pack': first[i][ 'Servings per pack'], 
+                                'Product code': first[i]['Product code'], 
+                                'Energy per 100g (or 100ml)': first[i]['Energy per 100g (or 100ml)'], 
+                                'Protein per 100g (or 100ml)': first[i]['Protein per 100g (or 100ml)'], 
+                                'Total fat per 100g (or 100ml)': first[i]['Total fat per 100g (or 100ml)'], 
+                                'Saturated fat per 100g (or 100ml)': first[i][ 'Saturated fat per 100g (or 100ml)'], 
+                                'Carbohydrate per 100g (or 100ml)': first[i]['Carbohydrate per 100g (or 100ml)'], 
+                                'Sugars per 100g (or 100ml)': first[i]['Sugars per 100g (or 100ml)'], 
+                                'Sodium per 100g (or 100ml)': first[i][ 'Sodium per 100g (or 100ml)'], 
+                                'Original Price': first[i]['Original Price'], 
+                                'Price Promoted': first[i]['Price Promoted'], 
+                                'Price Promoted Price': first[i]['Price Promoted Price'], 
+                                'Multi Buy Special': first[i]['Multi Buy Special'], 
+                                'Multi Buy Special Details': first[i][ 'Multi Buy Special Details'], 
+                                'Multi Buy Price': first[i]['Multi Buy Price'], 
+                                'UID': first[i]['UID']})
 
-            for j in tqdm(range(0,np.size(swMat,1))): #process columns -> second[]
-                if (np.argmax(swMat[:,j]) > 0): #column has not been assigned
-                    #print(second[j])
-                    unmatchWriter.writerow({'Date of data Extraction': second[j]['Date of data Extraction'],
-                                    'Brand': second[j]['Brand'], 
-                                    'Product name': second[j]['Product name'], 
-                                    'Category': second[j]['Category'], 
-                                    'Pack size': second[j]['Pack size'], 
-                                    'Serving size': second[j]['Serving size'], 
-                                    'Servings per pack': second[j][ 'Servings per pack'], 
-                                    'Product code': second[j]['Product code'], 
-                                    'Energy per 100g (or 100ml)': second[j]['Energy per 100g (or 100ml)'], 
-                                    'Protein per 100g (or 100ml)': second[j]['Protein per 100g (or 100ml)'], 
-                                    'Total fat per 100g (or 100ml)': second[j]['Total fat per 100g (or 100ml)'], 
-                                    'Saturated fat per 100g (or 100ml)': second[j][ 'Saturated fat per 100g (or 100ml)'], 
-                                    'Carbohydrate per 100g (or 100ml)': second[j]['Carbohydrate per 100g (or 100ml)'], 
-                                    'Sugars per 100g (or 100ml)': second[j]['Sugars per 100g (or 100ml)'], 
-                                    'Sodium per 100g (or 100ml)': second[j][ 'Sodium per 100g (or 100ml)'], 
-                                    'Original Price': second[j]['Original Price'], 
-                                    'Price Promoted': second[j]['Price Promoted'], 
-                                    'Price Promoted Price': second[j]['Price Promoted Price'], 
-                                    'Multi Buy Special': second[j]['Multi Buy Special'], 
-                                    'Multi Buy Special Details': second[j][ 'Multi Buy Special Details'], 
-                                    'Multi Buy Price': second[j]['Multi Buy Price'], 
-                                    'UID': second[j]['UID']})
+        for j in tqdm(range(0,np.size(swMat,1))): #process columns -> second[]
+            if (np.argmax(swMat[:,j]) > 0): #column has not been assigned
+                #print(second[j])
+                unmatchWriter.writerow({'Date of data Extraction': second[j]['Date of data Extraction'],
+                                'Brand': second[j]['Brand'], 
+                                'Product name': second[j]['Product name'], 
+                                'Category': second[j]['Category'], 
+                                'Pack size': second[j]['Pack size'], 
+                                'Serving size': second[j]['Serving size'], 
+                                'Servings per pack': second[j][ 'Servings per pack'], 
+                                'Product code': second[j]['Product code'], 
+                                'Energy per 100g (or 100ml)': second[j]['Energy per 100g (or 100ml)'], 
+                                'Protein per 100g (or 100ml)': second[j]['Protein per 100g (or 100ml)'], 
+                                'Total fat per 100g (or 100ml)': second[j]['Total fat per 100g (or 100ml)'], 
+                                'Saturated fat per 100g (or 100ml)': second[j][ 'Saturated fat per 100g (or 100ml)'], 
+                                'Carbohydrate per 100g (or 100ml)': second[j]['Carbohydrate per 100g (or 100ml)'], 
+                                'Sugars per 100g (or 100ml)': second[j]['Sugars per 100g (or 100ml)'], 
+                                'Sodium per 100g (or 100ml)': second[j][ 'Sodium per 100g (or 100ml)'], 
+                                'Original Price': second[j]['Original Price'], 
+                                'Price Promoted': second[j]['Price Promoted'], 
+                                'Price Promoted Price': second[j]['Price Promoted Price'], 
+                                'Multi Buy Special': second[j]['Multi Buy Special'], 
+                                'Multi Buy Special Details': second[j][ 'Multi Buy Special Details'], 
+                                'Multi Buy Price': second[j]['Multi Buy Price'], 
+                                'UID': second[j]['UID']})
 
     print(" --- Process complete ---")
 #end of processSimilarItems
@@ -438,7 +439,7 @@ def processSimilarItemsWithTraining(inputFirst, inputSecond, weights, simPath, f
             if (swMat[indices[i][0]][indices[i][1]] > 0): #if the item is not already matched in current batch
                 print(first[indices[i][0]]['Brand'] + " - " +  first[indices[i][0]]['Product name'] + " - " + first[indices[i][0]]['Pack size'] +
                         " <===> " + 
-                        second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'])# + " -- similarity is %s :" % swMat[indices[i][0]][indices[i][1]])
+                        second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'] + " -- similarity is %s :" % swMat[indices[i][0]][indices[i][1]])
                 
                 print ('Is this recommendation true (y|n)?')
                 getch = rc.readchar()
@@ -594,65 +595,65 @@ def processSimilarItemsWithTraining(inputFirst, inputSecond, weights, simPath, f
     #process remaining unmatched items
     if (getch == b'q' or getch == b'Q'):
         print(" --- Process interrupted ---")
-    else:
-        print(" --- No more similar items with similarity more than 1 found ---")
-        print(" --- Processing remainig items ---")
-        #list all unmatched items
-        with open(simPath + 'unmatchedItems.csv', 'a', newline='') as csvUMatches:
-            fieldnamesUMatch = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
-            unmatchWriter = csv.DictWriter(csvUMatches, fieldnames=fieldnamesUMatch)
+    #else:
+    print(" --- No more similar items with similarity more than 1 found ---")
+    print(" --- Processing remainig items ---")
+    #list all unmatched items
+    with open(simPath + 'unmatchedItems.csv', 'a', newline='') as csvUMatches:
+        fieldnamesUMatch = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
+        unmatchWriter = csv.DictWriter(csvUMatches, fieldnames=fieldnamesUMatch)
 
-            for i in tqdm(range(0,np.size(swMat,0))): #process rows -> first[]
-                if (np.argmax(swMat[i,:]) > 0): #row has not been assigned
-                    #print(first[i])
-                    unmatchWriter.writerow({'Date of data Extraction': first[i]['Date of data Extraction'],
-                                    'Brand': first[i]['Brand'], 
-                                    'Product name': first[i]['Product name'], 
-                                    'Category': first[i]['Category'], 
-                                    'Pack size': first[i]['Pack size'], 
-                                    'Serving size': first[i]['Serving size'], 
-                                    'Servings per pack': first[i][ 'Servings per pack'], 
-                                    'Product code': first[i]['Product code'], 
-                                    'Energy per 100g (or 100ml)': first[i]['Energy per 100g (or 100ml)'], 
-                                    'Protein per 100g (or 100ml)': first[i]['Protein per 100g (or 100ml)'], 
-                                    'Total fat per 100g (or 100ml)': first[i]['Total fat per 100g (or 100ml)'], 
-                                    'Saturated fat per 100g (or 100ml)': first[i][ 'Saturated fat per 100g (or 100ml)'], 
-                                    'Carbohydrate per 100g (or 100ml)': first[i]['Carbohydrate per 100g (or 100ml)'], 
-                                    'Sugars per 100g (or 100ml)': first[i]['Sugars per 100g (or 100ml)'], 
-                                    'Sodium per 100g (or 100ml)': first[i][ 'Sodium per 100g (or 100ml)'], 
-                                    'Original Price': first[i]['Original Price'], 
-                                    'Price Promoted': first[i]['Price Promoted'], 
-                                    'Price Promoted Price': first[i]['Price Promoted Price'], 
-                                    'Multi Buy Special': first[i]['Multi Buy Special'], 
-                                    'Multi Buy Special Details': first[i][ 'Multi Buy Special Details'], 
-                                    'Multi Buy Price': first[i]['Multi Buy Price'], 
-                                    'UID': first[i]['UID']})
+        for i in tqdm(range(0,np.size(swMat,0))): #process rows -> first[]
+            if (np.argmax(swMat[i,:]) > 0): #row has not been assigned
+                #print(first[i])
+                unmatchWriter.writerow({'Date of data Extraction': first[i]['Date of data Extraction'],
+                                'Brand': first[i]['Brand'], 
+                                'Product name': first[i]['Product name'], 
+                                'Category': first[i]['Category'], 
+                                'Pack size': first[i]['Pack size'], 
+                                'Serving size': first[i]['Serving size'], 
+                                'Servings per pack': first[i][ 'Servings per pack'], 
+                                'Product code': first[i]['Product code'], 
+                                'Energy per 100g (or 100ml)': first[i]['Energy per 100g (or 100ml)'], 
+                                'Protein per 100g (or 100ml)': first[i]['Protein per 100g (or 100ml)'], 
+                                'Total fat per 100g (or 100ml)': first[i]['Total fat per 100g (or 100ml)'], 
+                                'Saturated fat per 100g (or 100ml)': first[i][ 'Saturated fat per 100g (or 100ml)'], 
+                                'Carbohydrate per 100g (or 100ml)': first[i]['Carbohydrate per 100g (or 100ml)'], 
+                                'Sugars per 100g (or 100ml)': first[i]['Sugars per 100g (or 100ml)'], 
+                                'Sodium per 100g (or 100ml)': first[i][ 'Sodium per 100g (or 100ml)'], 
+                                'Original Price': first[i]['Original Price'], 
+                                'Price Promoted': first[i]['Price Promoted'], 
+                                'Price Promoted Price': first[i]['Price Promoted Price'], 
+                                'Multi Buy Special': first[i]['Multi Buy Special'], 
+                                'Multi Buy Special Details': first[i][ 'Multi Buy Special Details'], 
+                                'Multi Buy Price': first[i]['Multi Buy Price'], 
+                                'UID': first[i]['UID']})
 
-            for j in tqdm(range(0,np.size(swMat,1))): #process columns -> second[]
-                if (np.argmax(swMat[:,j]) > 0): #column has not been assigned
-                    #print(second[j])
-                    unmatchWriter.writerow({'Date of data Extraction': second[j]['Date of data Extraction'],
-                                    'Brand': second[j]['Brand'], 
-                                    'Product name': second[j]['Product name'], 
-                                    'Category': second[j]['Category'], 
-                                    'Pack size': second[j]['Pack size'], 
-                                    'Serving size': second[j]['Serving size'], 
-                                    'Servings per pack': second[j][ 'Servings per pack'], 
-                                    'Product code': second[j]['Product code'], 
-                                    'Energy per 100g (or 100ml)': second[j]['Energy per 100g (or 100ml)'], 
-                                    'Protein per 100g (or 100ml)': second[j]['Protein per 100g (or 100ml)'], 
-                                    'Total fat per 100g (or 100ml)': second[j]['Total fat per 100g (or 100ml)'], 
-                                    'Saturated fat per 100g (or 100ml)': second[j][ 'Saturated fat per 100g (or 100ml)'], 
-                                    'Carbohydrate per 100g (or 100ml)': second[j]['Carbohydrate per 100g (or 100ml)'], 
-                                    'Sugars per 100g (or 100ml)': second[j]['Sugars per 100g (or 100ml)'], 
-                                    'Sodium per 100g (or 100ml)': second[j][ 'Sodium per 100g (or 100ml)'], 
-                                    'Original Price': second[j]['Original Price'], 
-                                    'Price Promoted': second[j]['Price Promoted'], 
-                                    'Price Promoted Price': second[j]['Price Promoted Price'], 
-                                    'Multi Buy Special': second[j]['Multi Buy Special'], 
-                                    'Multi Buy Special Details': second[j][ 'Multi Buy Special Details'], 
-                                    'Multi Buy Price': second[j]['Multi Buy Price'], 
-                                    'UID': second[j]['UID']})
+        for j in tqdm(range(0,np.size(swMat,1))): #process columns -> second[]
+            if (np.argmax(swMat[:,j]) > 0): #column has not been assigned
+                #print(second[j])
+                unmatchWriter.writerow({'Date of data Extraction': second[j]['Date of data Extraction'],
+                                'Brand': second[j]['Brand'], 
+                                'Product name': second[j]['Product name'], 
+                                'Category': second[j]['Category'], 
+                                'Pack size': second[j]['Pack size'], 
+                                'Serving size': second[j]['Serving size'], 
+                                'Servings per pack': second[j][ 'Servings per pack'], 
+                                'Product code': second[j]['Product code'], 
+                                'Energy per 100g (or 100ml)': second[j]['Energy per 100g (or 100ml)'], 
+                                'Protein per 100g (or 100ml)': second[j]['Protein per 100g (or 100ml)'], 
+                                'Total fat per 100g (or 100ml)': second[j]['Total fat per 100g (or 100ml)'], 
+                                'Saturated fat per 100g (or 100ml)': second[j][ 'Saturated fat per 100g (or 100ml)'], 
+                                'Carbohydrate per 100g (or 100ml)': second[j]['Carbohydrate per 100g (or 100ml)'], 
+                                'Sugars per 100g (or 100ml)': second[j]['Sugars per 100g (or 100ml)'], 
+                                'Sodium per 100g (or 100ml)': second[j][ 'Sodium per 100g (or 100ml)'], 
+                                'Original Price': second[j]['Original Price'], 
+                                'Price Promoted': second[j]['Price Promoted'], 
+                                'Price Promoted Price': second[j]['Price Promoted Price'], 
+                                'Multi Buy Special': second[j]['Multi Buy Special'], 
+                                'Multi Buy Special Details': second[j][ 'Multi Buy Special Details'], 
+                                'Multi Buy Price': second[j]['Multi Buy Price'], 
+                                'UID': second[j]['UID']})
 
     print(" --- Process complete ---")
 

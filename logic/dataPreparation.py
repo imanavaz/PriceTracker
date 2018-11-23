@@ -2,10 +2,8 @@ import csv
 import time
 import datetime
 
-#this function will append a uniques ID to each row, reading the timestamp of each row, and adding a number to it.
-#This si how it is used: append ID to coles
-#appendIDtoRow('coles.csv', 'coles2.csv','C') #these would be the files with unique IDs
 
+#partiotion large data items based on the given category (i.e. extract that category and save in new file)
 def partitionData(inputCSV, outputCSV, category):
     with open(inputCSV,'r') as csvinput:
         with open(outputCSV, 'w', newline='') as csvoutput:
@@ -48,6 +46,9 @@ def partitionData(inputCSV, outputCSV, category):
 #end of partitionData
 
 
+#this function will append a uniques ID to each row, reading the timestamp of each row, and adding a number to it.
+#This is how it is used: append ID to coles
+#appendIDtoRow('coles.csv', 'coles2.csv','C') #these would be the files with unique IDs
 def appendIDtoRow (inputCSV, outputCSV, seperator):
     with open(inputCSV,'r') as csvinput:
         with open(outputCSV, 'w') as csvoutput:
@@ -75,3 +76,4 @@ def appendIDtoRow (inputCSV, outputCSV, seperator):
 
         csvoutput.close()
 #end of appendIDtoRow
+

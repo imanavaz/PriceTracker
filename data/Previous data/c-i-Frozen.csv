@@ -1,0 +1,948 @@
+Date of data Extraction,Brand,Product name,Category,Pack size,Serving size,Servings per pack,Product code,Energy per 100g (or 100ml),Protein per 100g (or 100ml),Total fat per 100g (or 100ml),Saturated fat per 100g (or 100ml),Carbohydrate per 100g (or 100ml),Sugars per 100g (or 100ml),Sodium per 100g (or 100ml),Original Price,Price Promoted,Price Promoted Price,Multi Buy Special,Multi Buy Special Details,Multi Buy Price,UID
+2018-08-15 06:09:29 UTC,On The Menu,Chicken Parmigiana Frozen Meal,Frozen,320g,320g,1,8151892P,585kJ,5.8g,5.5g,1.4g,16.6g,2.2g,220mg,6.5,TRUE,5,FALSE,,,1534277369.0-C-295
+2018-08-15 06:09:29 UTC,McCain,Frozen Healthy Choice Apricot Chicken With Steamed Rice Meal Bowl,Frozen,350g,350g,1,5393170P,413kJ,3.2g,1.0g,0.3g,18.5g,7.4g,200mg,4,FALSE,4,FALSE,,,1534277369.0-C-306
+2018-08-15 06:09:29 UTC,On The Menu,BBQ Mixed Grill Frozen Meal,Frozen,320g,320g,1,8934980P,601kJ,5.6g,7.6g,3.3g,12.4g,2.9g,368mg,6.5,TRUE,5,FALSE,,,1534277369.0-C-312
+2018-08-15 06:09:29 UTC,Lean Cuisine,Steam Meals Indian Style Butter Chicken with Rice Frozen Meal,Frozen,370g,370,1,5700520P,,4.2g,2.5g,1.3g,14g,1.4g,240mg,6.7,FALSE,6.7,FALSE,,,1534277369.0-C-321
+2018-08-15 06:09:29 UTC,Sara Lee,Chocolate Bavarian Swirl Frozen Cheesecake,Frozen,375g,,,6125869P,,,,,,,,6.25,TRUE,4,FALSE,,,1534277369.0-C-322
+2018-08-15 06:09:29 UTC,Katzy's Kosher,Frozen Perogen Party Pie,Frozen,320g,45g,6,6872179P,,8.89g,,,20g,0.44g,222.22mg,16.5,FALSE,16.5,FALSE,,,1534277369.0-C-355
+2018-08-15 06:09:30 UTC,Super Nature,Collagen Wellness Bowl Creamy Chicken And Mushroom Wholemeal Pasta,Frozen,350g,,,3240135P,,,,,,,,6.93,TRUE,6.3,FALSE,,,1534277370.0-C-713
+2018-08-15 06:09:30 UTC,The Good Meal Co,Gluten Free Vegetarian Lentil & Veg Cottage Pie Frozen Meal,Frozen,400g,,,1983616P,,,,,,,,7,FALSE,7,FALSE,,,1534277370.0-C-714
+2018-08-15 06:09:30 UTC,Vegie Delights,Gluten Free Vegie Pakoras,Frozen,280g,70g (2 Pakoras),4,2532033P,,10.2 g,11.4 g,0.9 g,18.3 g,3.3 g,480 mg,7,FALSE,7,FALSE,,,1534277370.0-C-715
+2018-08-15 06:09:30 UTC,Lean Cuisine,Slow Cooked Beef with Pasta Frozen Steam Meal,Frozen,350g,,,8564269P,,,,,,,,0,FALSE,0,FALSE,,,1534277370.0-C-738
+2018-08-15 06:09:30 UTC,Lean Cuisine,Steam Vietnamese Chicken with Rice,Frozen,350g,,,3150430P,,,,,,,,6.7,FALSE,6.7,FALSE,,,1534277370.0-C-739
+2018-08-15 06:09:30 UTC,McCain,Healthy Choice Tomato & Bacon Penne With Mushrooms In a Creamy Tomato Sauce,Frozen,300g,,,3237844P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-740
+2018-08-15 06:09:30 UTC,On The Menu,Roast Pork Plated Meals,Frozen,320g,,,3240259P,,,,,,,,7.15,TRUE,5,FALSE,,,1534277370.0-C-741
+2018-08-15 06:09:30 UTC,Mccain,Malaysian Beef Curry,Frozen,350g,,,3150779P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277370.0-C-764
+2018-08-15 06:09:30 UTC,On The Menu,Satay Chicken King Size Power Bowl,Frozen,450g,,,3239646P,,,,,,,,8.25,TRUE,6,FALSE,,,1534277370.0-C-765
+2018-08-15 06:09:30 UTC,Super Nature,Pulses Thai Green Chicken Curry,Frozen,300g,,,3239930P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-766
+2018-08-15 06:09:30 UTC,Super Nature,Pulses Chinese Chia Chicken,Frozen,300g,,,3239770P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-767
+2018-08-15 06:09:30 UTC,Weight Watchers,Frozen Gourmet Menu Mango Coconut Chicken,Frozen,340g,340g,1,2745180P,410KJ,4.8g,,1.3g,10.5g,4.1g,195mg,6.5,TRUE,2.9,FALSE,,,1534277370.0-C-768
+2018-08-15 06:09:30 UTC,Coles,Frozen Cherries,Frozen,500g,,,2350207P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-782
+2018-08-15 06:09:30 UTC,Serious Smoothies,Bodyguard,Frozen,250g,,,3164671P,,,,,,,,5,TRUE,4,FALSE,,,1534277370.0-C-783
+2018-08-15 06:09:30 UTC,Creative Gourmet,Frozen Organic Acai Puree,Frozen,400g,,,2858573P,,,,,,,,8,FALSE,8,FALSE,,,1534277370.0-C-784
+2018-08-15 06:09:30 UTC,Serious Smoothies,Fighting Fit,Frozen,250g,,,3164649P,,,,,,,,5,TRUE,4,FALSE,,,1534277370.0-C-785
+2018-08-15 06:09:30 UTC,OOB Organic,Smoothie Revitalise,Frozen,450g,,,3152479P,,,,,,,,9.7,FALSE,9.7,FALSE,,,1534277370.0-C-786
+2018-08-15 06:09:30 UTC,Super Nature,"Wellness Bowl Slow Cooked Lamb With Chickpea, Amaranth And Sweet Potato Mash",Frozen,350g,,,3240237P,,,,,,,,6.93,TRUE,6.3,FALSE,,,1534277370.0-C-790
+2018-08-15 06:09:30 UTC,Coles,Vegetable Tikka Paneer,Frozen,375g,,,3218158P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277370.0-C-791
+2018-08-15 06:09:30 UTC,Coles,Sweet Potato Cottage Pie,Frozen,375g,,,3230914P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277370.0-C-792
+2018-08-15 06:09:30 UTC,McCain,Sweet Chilli Chicken Tenders,Frozen,310g,,,3150495P,,,,,,,,6,FALSE,6,FALSE,,,1534277370.0-C-793
+2018-08-15 06:09:30 UTC,Creative Gourmet,Frozen Banana Chunks,Frozen,500g,,,3059972P,,,,,,,,5,TRUE,2.5,FALSE,,,1534277370.0-C-799
+2018-08-15 06:09:30 UTC,OOB Organic,Frozen Blueberries,Frozen,450g,,,2508618P,,,,,,,,9.7,FALSE,9.7,FALSE,,,1534277370.0-C-800
+2018-08-15 06:09:30 UTC,Coles,Frozen Pineapple Pieces,Frozen,500g,,,2591600P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-801
+2018-08-15 06:09:30 UTC,Coles,Frozen Blackberries,Frozen,500g,,,1304770P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-802
+2018-08-15 06:09:30 UTC,OOB Organic,Frozen Mixed Berries,Frozen,500g,,,2508378P,,,,,,,,9.7,FALSE,9.7,FALSE,,,1534277370.0-C-803
+2018-08-15 06:09:30 UTC,Coles,Frozen Tropical Smoothie Mix,Frozen,500g,,,2849732P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-804
+2018-08-15 06:09:30 UTC,Coles,Frozen Green Smoothie Mix,Frozen,500g,,,2849765P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-805
+2018-08-15 06:09:30 UTC,OOB Organic,Smoothie Supercharge,Frozen,450g,,,3152468P,,,,,,,,9.7,FALSE,9.7,FALSE,,,1534277370.0-C-806
+2018-08-15 06:09:30 UTC,Creative Gourmet,Frozen Coconut Chunks,Frozen,300g,,,3059928P,,,,,,,,5.65,TRUE,2.82,FALSE,,,1534277370.0-C-807
+2018-08-15 06:09:30 UTC,Serious Smoothies,Immunity,Frozen,250g,,,3164650P,,,,,,,,5,TRUE,4,FALSE,,,1534277370.0-C-808
+2018-08-15 06:09:30 UTC,Quorn,Frozen Meat Free Soy Free Mince,Frozen,300g,75,4,7643064P,,14.9g,1.9g,0.4g,1.6g,<0.99g,58mg,6.2,TRUE,3.1,FALSE,,,1534277370.0-C-809
+2018-08-15 06:09:30 UTC,Amy's Kitchen,Gluten Free Frozen Vegetable Lasagne,Frozen,255g,,,2749862P,,,,,,,,8.8,TRUE,7.8,FALSE,,,1534277370.0-C-810
+2018-08-15 06:09:30 UTC,Lean Cuisine,Balance Creamy Fish Mornay With Potato Mash,Frozen,300g,,,3240113P,,,,,,,,6.27,TRUE,4,FALSE,,,1534277370.0-C-811
+2018-08-15 06:09:30 UTC,On The Menu,Frozen Beer Battered Fish & Chips,Frozen,320g,,,2946262P,,,,,,,,6.5,TRUE,5,FALSE,,,1534277370.0-C-812
+2018-08-15 06:09:30 UTC,Steggles,Frozen Southern Style Chicken Breast Burger,Frozen,450g,90g,5,6632696P,867kJ,11.6g,12.6g,3.4g,12.0g,3.5g,775mg,6.25,TRUE,5,FALSE,,,1534277370.0-C-821
+2018-08-15 06:09:30 UTC,Coles,Frozen Blueberries,Frozen,500g,,,6110023P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-822
+2018-08-15 06:09:30 UTC,Coles,Frozen Raspberries,Frozen,500g,,,6109975P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-823
+2018-08-15 06:09:30 UTC,Creative Gourmet,Frozen Raspberries,Frozen,300g,300 g (grammes),4,5164388P,225,1.2g,0.3g,0.1g,7.3g,7.0g,<.1%,5.65,TRUE,2.82,FALSE,,,1534277370.0-C-824
+2018-08-15 06:09:30 UTC,Creative Gourmet,Frozen Blueberries,Frozen,300g,100g,3,5164399P,220kJ,0.6g,0.1g,0g,11.6g,11.1g,0mg,5.65,TRUE,2.82,FALSE,,,1534277370.0-C-825
+2018-08-15 06:09:31 UTC,Coles,Frozen Mixed Fruits,Frozen,500g,,,2599690P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-826
+2018-08-15 06:09:31 UTC,Quorn,Gluten Free Sausages,Frozen,300g,,,2665490P,,,,,,,,6.2,TRUE,3.1,FALSE,,,1534277371.0-C-827
+2018-08-15 06:09:31 UTC,Quorn,Vegan Fillets,Frozen,252g,,,3015445P,,,,,,,,7,TRUE,3.5,FALSE,,,1534277371.0-C-828
+2018-08-15 06:09:31 UTC,Connoisseur,Ice Cream Coconut And Choc,Frozen,1L,,,2982335P,,,,,,,,10,FALSE,10,FALSE,,,1534277371.0-C-836
+2018-08-15 06:09:31 UTC,Birds Eye,Frozen Deep Sea Dory In A Zesty Lemon Fish Fillets Crumbed,Frozen,425g,70,,5405509P,,10.4g,8.9g,0.8g,20.1g,3.3g,380mg,10.45,TRUE,9.5,FALSE,,,1534277371.0-C-837
+2018-08-15 06:09:31 UTC,I&J,Salt And Pepper Calamari,Frozen,360g,120,3,2988003P,,8.7g,12.6g,2g,22.7g,>0.99g,449mg,8,FALSE,8,FALSE,,,1534277371.0-C-838
+2018-08-15 06:09:31 UTC,Coles,Frozen Marinara Seafood Mix,Frozen,1kg,,,4847385P,,,,,,,,14.75,FALSE,14.75,FALSE,,,1534277371.0-C-839
+2018-08-15 06:09:31 UTC,Coles,Frozen Cooked Peeled Prawns Tail On,Frozen,350g,,,2442247P,,,,,,,,10,FALSE,10,FALSE,,,1534277371.0-C-840
+2018-08-15 06:09:31 UTC,Coles,Frozen Mixed Berries,Frozen,500g,,,1301206P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-841
+2018-08-15 06:09:31 UTC,Coles,Frozen Sliced Strawberries,Frozen,500g,,,1301192P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-842
+2018-08-15 06:09:31 UTC,Coles,Frozen Diced Mango,Frozen,500g,,,1301170P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-843
+2018-08-15 06:09:31 UTC,Weight Watchers,Chicken & Vegetable Risotto Frozen Meal,Frozen,320g,,,9789912P,,,,,,,,5.8,TRUE,2.9,FALSE,,,1534277371.0-C-844
+2018-08-15 06:09:31 UTC,Fry's,Frozen Rice Protein & Quinoa Stir Fry Strips,Frozen,300g,,,2750045P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-845
+2018-08-15 06:09:31 UTC,Lean Cuisine,Wholegrain Beef Rendang Curry,Frozen,365g,365,1,2957214P,,,,,,,,6.7,FALSE,6.7,FALSE,,,1534277371.0-C-846
+2018-08-15 06:09:31 UTC,McCain,Red Box Veal Cordon Bleu Frozen Meal,Frozen,320g,,,5862180P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-847
+2018-08-15 06:09:31 UTC,McCain,Healthy Choice Whole Grains Italian Beef & Chia Meatballs Ready Meal,Frozen,350g,,,2409503P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277371.0-C-848
+2018-08-15 06:09:31 UTC,Birds Eye,Ocean Selections Frozen Salmon,Frozen,280g,140,2,2798959P,,19.6g,18g,2.5g,>0.99g,>0.99g,30mg,13,FALSE,13,FALSE,,,1534277371.0-C-859
+2018-08-15 06:09:31 UTC,Birds Eye,Deli Whiting Crisp Light Batter,Frozen,250g,100,2,3264010P,,11g,<14.9g,1.4g,13.1g,<0.99g,454mg,7.7,TRUE,7,FALSE,,,1534277371.0-C-860
+2018-08-15 06:09:31 UTC,Coles,Frozen Hoki Fillets,Frozen,700g,,,2442167P,,,,,,,,10,FALSE,10,FALSE,,,1534277371.0-C-861
+2018-08-15 06:09:31 UTC,Coles,Frozen Salmon 4 Fillets Skin On,Frozen,500g,,,2442101P,,,,,,,,17.9,TRUE,14,FALSE,,,1534277371.0-C-862
+2018-08-15 06:09:31 UTC,Sealord,Hoki Fries Classic Crumb,Frozen,350g,,,3024581P,,,,,,,,8.8,TRUE,6,FALSE,,,1534277371.0-C-863
+2018-08-15 06:09:31 UTC,Sealord,Frozen Gluten Free Crunchy Crumbed Hoki Fillets,Frozen,280g,150g,2,1303074P,760kj,9.8g,5.6g,0.8g,22.7g,0.7g,400mg,9.5,FALSE,9.5,FALSE,,,1534277371.0-C-864
+2018-08-15 06:09:31 UTC,Vegie Delights,Classic Not Burger,Frozen,340g,85g 1 Burger,4,2532022P,,15.9 g,10.8 g,1.1 g,20.2 g,2.2 g,430 mg,6.5,FALSE,6.5,FALSE,,,1534277371.0-C-865
+2018-08-15 06:09:31 UTC,Weight Watchers,Beef Hot Pot Frozen Meal,Frozen,320g,,,9632717P,260KJ,3.6g,,0.3g,8.3g,1.4g,265mg,5.8,TRUE,2.9,FALSE,,,1534277371.0-C-866
+2018-08-15 06:09:31 UTC,McCain,Man Size Butter Chicken Curry,Frozen,480g,,,3237855P,,,,,,,,8.8,TRUE,8,FALSE,,,1534277371.0-C-867
+2018-08-15 06:09:31 UTC,Quorn,Vegan Fishless Fingers,Frozen,200g,,,3015467P,,,,,,,,7,TRUE,3.5,FALSE,,,1534277371.0-C-868
+2018-08-15 06:09:31 UTC,Birds Eye,Ocean Selections Frozen Hoki,Frozen,700g,125,0,1991476P,,17.7g,1.5g,0.4g,0.99g,0.99g,43mg,12.6,FALSE,12.6,FALSE,,,1534277371.0-C-876
+2018-08-15 06:09:31 UTC,Birds Eye,Ocean Selection Frozen Atlantic Salmon,Frozen,700g,115,0,1992082P,,17.5g,19.8g,2.7g,>0.99g,>0.99g,36mg,32.5,FALSE,32.5,FALSE,,,1534277371.0-C-877
+2018-08-15 06:09:31 UTC,Birds Eye,Oven Bake Frozen Crunchy Potato Crumb Hoki Fish Fillets,Frozen,425g,141,3,5834039P,,,,,,,,8.8,FALSE,8.8,FALSE,,,1534277371.0-C-878
+2018-08-15 06:09:31 UTC,Pacific,West Lemon Pepper Salmon Portions,Frozen,500g,,,3074932P,,,,,,,,19,FALSE,19,FALSE,,,1534277371.0-C-879
+2018-08-15 06:09:31 UTC,Pacific West,Crispy Batter Frozen Fish Fillets,Frozen,230g,,,5603692P,,,,,,,,5.4,FALSE,5.4,FALSE,,,1534277371.0-C-880
+2018-08-15 06:09:31 UTC,Birds Eye,Ocean Selections Frozen Whiting,Frozen,700g,110,0,1992253P,,17.7g,0.4g,<0.1g,<0.99g,<0.99g,76mg,13.99,FALSE,13.99,FALSE,,,1534277371.0-C-881
+2018-08-15 06:09:31 UTC,Quorn,Vegan Nuggets,Frozen,280g,,,2749975P,,,,,,,,7,TRUE,3.5,FALSE,,,1534277371.0-C-882
+2018-08-15 06:09:31 UTC,Super Nature,Frozen Wholegrain Butter Chicken With Freekeh Ancient Grain Mix Wellness Bowl,Frozen,350g,,,2946310P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277371.0-C-883
+2018-08-15 06:09:31 UTC,Lean Cuisine,Frozen Malaysian Chicken Curry With Rice Balanced Serve,Frozen,280g,280,1,4988977P,,4.3g,2g,1.5g,18g,1.3g,237mg,6.27,TRUE,4,FALSE,,,1534277371.0-C-884
+2018-08-15 06:09:31 UTC,McCain,Frozen Red Box Roast Beef Meal,Frozen,320g,,,167946P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-885
+2018-08-15 06:09:31 UTC,Sealord,Frozen Hoki Lemon Pepper Bites,Frozen,525g,,,3024559P,,,,,,,,11.5,TRUE,9,FALSE,,,1534277371.0-C-897
+2018-08-15 06:09:31 UTC,Birds Eye,Frozen Atlantic Salmon Lemon Pepper Fillets,Frozen,260g,130,2,9461476P,1070kJ,18.6g,19.9g,3.9g,Less than 1.0g,Less than 1.0g,200mg,12.5,FALSE,12.5,FALSE,,,1534277371.0-C-898
+2018-08-15 06:09:31 UTC,Coles,Frozen 6 Crumbed Hoki Herb & Garlic Fish Fillets,Frozen,425g,,,2285535P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277371.0-C-899
+2018-08-15 06:09:31 UTC,I&J,Crispy Tempura Battered Frozen Fish Fillets 6 pack,Frozen,425g,,,8958275P,,,,,,,,5,FALSE,5,FALSE,,,1534277371.0-C-900
+2018-08-15 06:09:31 UTC,Sealord,Hoki Classic Crumb Fillets,Frozen,565g,,,3024490P,,,,,,,,11.5,TRUE,9,FALSE,,,1534277371.0-C-901
+2018-08-15 06:09:31 UTC,Birds Eye,Frozen Skin On Atlantic Salmon Fillets,Frozen,260g,130,2,7409511P,1010kJ,18.6g,18.8g,3.8g,Less than 1g,Less than 1g,30mg,12.5,FALSE,12.5,FALSE,,,1534277371.0-C-902
+2018-08-15 06:09:31 UTC,By George,Ginger Chilli & Lime Frozen Salmon,Frozen,250g,,,2351447P,,,,,,,,7,FALSE,7,FALSE,,,1534277371.0-C-903
+2018-08-15 06:09:31 UTC,Quorn,Frozen Garlic & Herb Meat Free Soy Free Fillets,Frozen,200g,100g,2,1026906P,870kJ,12.9g,8.6g,0.9g,17.3g,1.6g,500mg,6.2,TRUE,3.1,FALSE,,,1534277371.0-C-904
+2018-08-15 06:09:31 UTC,Super Nature,Chicken Quinoa Tabbouleh Frozen Meal,Frozen,350g,,,1837432P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277371.0-C-905
+2018-08-15 06:09:31 UTC,Lean Cuisine,Balanced Serve Beef in Red Wine Sauce with Garlic Mash Frozen Meal,Frozen,300g,300,1,4988988P,,4.2g,1.6g,0.9g,11.2g,3.5g,245mg,5.7,TRUE,4,FALSE,,,1534277371.0-C-906
+2018-08-15 06:09:31 UTC,McCain,Red Box Fettuccine Carbonara Frozen Meal,Frozen,375g,375g,1,5553685P,671kJ,5.0g,6.9g,4.3g,19.0g,1.0g,240mg,4.5,FALSE,4.5,FALSE,,,1534277371.0-C-907
+2018-08-15 06:09:31 UTC,On The Menu,Lamb Shank,Frozen,320g,,,2947822P,,,,,,,,6.5,TRUE,5,FALSE,,,1534277371.0-C-908
+2018-08-15 06:09:31 UTC,Coles,Frozen Spinach & Ricotta Cannelloni Meal,Frozen,400g,,,6392945P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277371.0-C-909
+2018-08-15 06:09:31 UTC,Connoisseur,Murray River Salted Caramel With White Chocolate Macadamia Cookies 4 Pack,Frozen,480mL,,,3251346P,,,,,,,,11,TRUE,10,FALSE,,,1534277371.0-C-918
+2018-08-15 06:09:31 UTC,Pacific West,Atlantic Salmon Portions,Frozen,500g,,,3074921P,,,,,,,,19,FALSE,19,FALSE,,,1534277371.0-C-925
+2018-08-15 06:09:31 UTC,Birds Eye,SteamFresh Frozen Thai Coconut Curry Fish Fillets,Frozen,360g,180,2,4345649P,,12.8g,2.4g,0.7g,1.9g,1g,245mg,8,FALSE,8,FALSE,,,1534277371.0-C-926
+2018-08-15 06:09:31 UTC,Coles,Frozen Southern Blue Whiting Crumbed Fillets,Frozen,1kg,,,4847181P,,,,,,,,10,FALSE,10,FALSE,,,1534277371.0-C-927
+2018-08-15 06:09:31 UTC,Weight Watchers,Beef Cannelloni Frozen Meal,Frozen,320g,320g,1,8101894P,330KJ,3.7g,,0.9g,11.5g,4.0g,245mg,5.8,TRUE,2.9,FALSE,,,1534277371.0-C-928
+2018-08-15 06:09:31 UTC,McCain,Red Box Plated Roast Lamb Frozen Meal,Frozen,320g,,,167902P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-929
+2018-08-15 06:09:31 UTC,On The Menu,Vegetable Lasagne Frozen Meal,Frozen,260g,260g,1,1167883P,,2.8g,,,14.8g,3.2g,220mg,3,FALSE,3,FALSE,,,1534277371.0-C-930
+2018-08-15 06:09:31 UTC,Lean Cuisine,Steam Meals Atlantic Salmon with Pasta Frozen Meal,Frozen,370g,370,1,5700509P,,5.8g,2.2g,0.9g,12g,2.4g,170mg,6.7,FALSE,6.7,FALSE,,,1534277371.0-C-931
+2018-08-15 06:09:31 UTC,Super Nature,Pasta With Beef & Chia Meatballs,Frozen,300g,,,3239952P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-932
+2018-08-15 06:09:31 UTC,Weight Watchers,Frozen Creamy Spaghetti With Prawns Meal,Frozen,350g,350g,1,2742251P,390KJ,4.9g,,1.1g,12.7g,2.3g,255mg,6.5,TRUE,2.9,FALSE,,,1534277371.0-C-933
+2018-08-15 06:09:31 UTC,Hanabi,Frozen Squid Tubes U7,Frozen,1kg,,,2143315P,,,,,,,,11,FALSE,11,FALSE,,,1534277371.0-C-947
+2018-08-15 06:09:31 UTC,Pacific West,Frozen Crispy Battered Barramundi Fillets,Frozen,230g,,,3024399P,,,,,,,,8,FALSE,8,FALSE,,,1534277371.0-C-948
+2018-08-15 06:09:31 UTC,Sealord,Kaffir Lime & Coconut Hoki Fillets,Frozen,300g,,,2749953P,,,,,,,,6.5,TRUE,5,FALSE,,,1534277371.0-C-949
+2018-08-15 06:09:31 UTC,Sealord,Frozen Hoki Sea Salt & Pepper Fries,Frozen,350g,,,3024592P,,,,,,,,8.8,TRUE,6,FALSE,,,1534277371.0-C-950
+2018-08-15 06:09:31 UTC,I&J,Seafood & Vegetable Frozen Sea Shantys 12 pack,Frozen,420g,105,4,5445809P,,7.3g,10.7g,1.1g,16.9g,2.8g,505mg,5,FALSE,5,FALSE,,,1534277371.0-C-951
+2018-08-15 06:09:31 UTC,Weight Watchers,Tuna Bake Frozen Meal,Frozen,320g,320g,1,5006762P,410KJ,6.0g,,1.0g,12.5g,1.5g,,5.8,TRUE,2.9,FALSE,,,1534277371.0-C-952
+2018-08-15 06:09:31 UTC,Coles,Chicken Fettuccine Carbonara,Frozen,375g,,,2742025P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277371.0-C-953
+2018-08-15 06:09:31 UTC,Mccain,Man Size Spaghetti & Meat Balls,Frozen,500g,,,3150473P,,,,,,,,8,FALSE,8,FALSE,,,1534277371.0-C-954
+2018-08-15 06:09:31 UTC,On The Menu,Frozen Beef Lasagne Meal,Frozen,2kg,,,1837680P,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534277371.0-C-955
+2018-08-15 06:09:31 UTC,Quorn,Frozen Meat Free Soy Free Pieces,Frozen,300g,75,4,7643042P,,14.8g,1.9g,0.4g,<1.3g,<0.99g,197mg,6.25,TRUE,3.12,FALSE,,,1534277371.0-C-956
+2018-08-15 06:09:31 UTC,Weight Watchers,Cottage Pie Frozen Meal,Frozen,320g,320g,1,5006900P,405KJ,4.0g,,0.9g,10.8g,3.4g,270mg,5.8,TRUE,2.9,FALSE,,,1534277371.0-C-957
+2018-08-15 06:09:31 UTC,On The Menu,Beef In Belgian Ale King Size Power Bowl,Frozen,450g,,,3239668P,,,,,,,,8.25,TRUE,6,FALSE,,,1534277371.0-C-958
+2018-08-15 06:09:31 UTC,On The Menu,Slow Cooked Lamb In Red Wine Sauce King Size Power Bowl,Frozen,450g,,,3239635P,,,,,,,,8.25,TRUE,6,FALSE,,,1534277371.0-C-959
+2018-08-15 06:09:31 UTC,On The Menu,Chicken Burrito King Size Power Bowl,Frozen,450g,,,3239657P,,,,,,,,8.25,TRUE,6,FALSE,,,1534277371.0-C-960
+2018-08-15 06:09:31 UTC,Quorn,Tikka Masala Ready Meal,Frozen,300g,,,3229019P,,,,,,,,7.7,TRUE,5,FALSE,,,1534277371.0-C-961
+2018-08-15 06:09:31 UTC,Super Nature,Pulses Creamy Chicken Carbonara,Frozen,300g,,,3239759P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-962
+2018-08-15 06:09:31 UTC,Vegie Delights,Thai Chilli and Lime Cakes,Frozen,280g,70g 2 cakes,4,1977260P,,14.0 g,10.3 g,1.0 g,18.3 g,2.8 g,630 mg,6.5,FALSE,6.5,FALSE,,,1534277371.0-C-963
+2018-08-15 06:09:31 UTC,Coles,Classic Mint Ice Cream 4 Pack,Frozen,468mL,,,8221772P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-966
+2018-08-15 06:09:31 UTC,Coles,Frozen Small Cooked & Peeled Prawns,Frozen,400g,,,4847206P,,,,,,,,12,FALSE,12,FALSE,,,1534277371.0-C-972
+2018-08-15 06:09:31 UTC,I&J,Crispy Battered Beer Batter Frozen Fish Fillets,Frozen,425g,70,,8958286P,,10.3g,8g,0.8g,15.7g,2.2g,417mg,5,FALSE,5,FALSE,,,1534277371.0-C-973
+2018-08-15 06:09:31 UTC,Pacific West,Frozen Flathead Fillets in Crispy Batter,Frozen,360g,,,2648082P,,,,,,,,8,FALSE,8,FALSE,,,1534277371.0-C-974
+2018-08-15 06:09:31 UTC,Sealord,Classic Crumb Bites,Frozen,525g,,,3024526P,,,,,,,,11.5,TRUE,9,FALSE,,,1534277371.0-C-975
+2018-08-15 06:09:31 UTC,Dagim,Crunchy Frozen Fish Fillets,Frozen,680g,90g (5 Pieces),8,6625249P,,8.9g,,,21.1g,1.1g,367mg,10,FALSE,10,FALSE,,,1534277371.0-C-976
+2018-08-15 06:09:31 UTC,Super Nature,Frozen Chicken Roast Pumpkin Wellness Bowl,Frozen,350g,,,2946309P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277371.0-C-977
+2018-08-15 06:09:31 UTC,Super Nature,"Frozen Super Nut Satay Chicken with Quinoa, Chickpea & Wild Rice mix Wellness Bowls",Frozen,350g,,,2946659P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277371.0-C-978
+2018-08-15 06:09:31 UTC,Coles,Frozen Tuna Bake Meal,Frozen,400g,,,7147109P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277371.0-C-979
+2018-08-15 06:09:31 UTC,McCain,Frozen Healthy Choice Chinese Chicken with Cashews Meal Bowl,Frozen,280g,280g,1,8057001P,405kJ ,3.9g,2.5g,0.4g,14.0g,2.0g,270mg,4,FALSE,4,FALSE,,,1534277371.0-C-980
+2018-08-15 06:09:31 UTC,Super Nature,Frozen Slow Cooked Lamb Ragu Wholemeal Pappardelle,Frozen,350g,,,2946284P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277371.0-C-981
+2018-08-15 06:09:31 UTC,Lean Cuisine,Balanced Serve Creamy Chicken & Basil Spaghetti Frozen Meal,Frozen,300g,300,1,1281415P,,,,,,,,5.7,TRUE,4,FALSE,,,1534277371.0-C-982
+2018-08-15 06:09:31 UTC,Coles,Vegan Penang Curry,Frozen,300g,,,3186030P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277371.0-C-983
+2018-08-15 06:09:31 UTC,Lean Cuisine,Frozen Wholegrains Mexican Chicken & Rice Steam Meal,Frozen,350g,350,1,2409489P,,,,,,,,6.7,FALSE,6.7,FALSE,,,1534277371.0-C-984
+2018-08-15 06:09:31 UTC,McCain,"Chicken Bites With A Garlic Sauce, Served With Wedges, Peas & Corn",Frozen,300g,,,3237866P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-985
+2018-08-15 06:09:31 UTC,McCain,Healthy Choice Whole Grains Roasted Pumpkin & Parmesan Pasta,Frozen,320g,,,2742466P,,,,,,,,5,TRUE,4.5,FALSE,,,1534277371.0-C-986
+2018-08-15 06:09:31 UTC,McCain,Healthy Choice Whole Grains Slow Cooked Beef Ragu,Frozen,320g,,,2742477P,,,,,,,,5,TRUE,4.5,FALSE,,,1534277371.0-C-987
+2018-08-15 06:09:31 UTC,On The Menu,Beef Schnitzel Plated Meal,Frozen,320g,,,2742375P,,,,,,,,6.5,TRUE,5,FALSE,,,1534277371.0-C-988
+2018-08-15 06:09:31 UTC,On The Menu,Kranksy Sausage Plated Meals,Frozen,320g,,,3239680P,,,,,,,,7.15,TRUE,5,FALSE,,,1534277371.0-C-989
+2018-08-15 06:09:31 UTC,Coles,Frozen 6 Battered Hoki Beer Battered Hoki Fish Fillets,Frozen,425g,,,2285546P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277371.0-C-994
+2018-08-15 06:09:31 UTC,Coles,Frozen Cooked Peeled Prawns Tail On,Frozen,350g,,,2442236P,,,,,,,,10,FALSE,10,FALSE,,,1534277371.0-C-995
+2018-08-15 06:09:31 UTC,Coles,Frozen 6 Crumbed Hoki Lemon Fish Fillets,Frozen,425g,,,2288249P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277371.0-C-996
+2018-08-15 06:09:31 UTC,Birds Eye,Deep Sea Dory Frozen Fish Fillets,Frozen,425g,140,3,5490235P,855kJ,10.4g,8.9g,0.8g,20.1g,3.3g,333mg,9.5,FALSE,9.5,FALSE,,,1534277371.0-C-997
+2018-08-15 06:09:31 UTC,Birds Eye,Oven Bake Lemon Pepper Frozen Fish Fillets 6 pack,Frozen,425g,141,3,4896121P,848kJ,12.1g,8.8g,0.9g,19.8g,3.8g,250mg,8.8,FALSE,8.8,FALSE,,,1534277371.0-C-998
+2018-08-15 06:09:31 UTC,Coles,Frozen Seafood Highlighter,Frozen,1kg,,,1973281P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-999
+2018-08-15 06:09:31 UTC,McCain,Healthy Choice Whole Grains Japanese Teriyaki Chicken Ready Meal,Frozen,340g,,,2409536P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277371.0-C-1004
+2018-08-15 06:09:31 UTC,On The Menu,Spaghetti & Meatballs Frozen Meal,Frozen,260g,260g,1,1168886P,,6.3g,,,14.6g,2.4g,269mg,3,FALSE,3,FALSE,,,1534277371.0-C-1005
+2018-08-15 06:09:31 UTC,Lean Cuisine,Steam Meals Thai Red Chicken Curry with Rice Frozen Meal,Frozen,380g,380,1,5700564P,,3.9g,1.6g,1.1g,14g,2.2g,240mg,6.7,FALSE,6.7,FALSE,,,1534277371.0-C-1006
+2018-08-15 06:09:31 UTC,Super Nature,Wellness Bowl Sri Lankan Root Vegetable And Ancient Grain Curry With Cauliflower And Brown Rice Mix,Frozen,350g,,,3240226P,,,,,,,,6.93,TRUE,6.3,FALSE,,,1534277371.0-C-1007
+2018-08-15 06:09:31 UTC,McCain,Healthy Choice Whole Grains Tandoori Chicken,Frozen,340g,,,2605487P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277371.0-C-1008
+2018-08-15 06:09:31 UTC,On The Menu,Roast Chicken Plated Frozen Meal,Frozen,320g,320g,1,8151906P,377kJ,7.3g,2.4g,0.6g,9.2g,1.4g,170mg,6.5,TRUE,5,FALSE,,,1534277371.0-C-1009
+2018-08-15 06:09:31 UTC,Quorn,Frozen Mince Bulk Pack,Frozen,900g,,,2749986P,,,,,,,,14.99,FALSE,14.99,FALSE,,,1534277371.0-C-1010
+2018-08-15 06:09:31 UTC,Super Nature,Pulses Vegan Bolognes,Frozen,300g,,,3239806P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-1011
+2018-08-15 06:09:31 UTC,Super Nature,Pulses Lamb Hot Pot,Frozen,300g,,,3239781P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-1012
+2018-08-15 06:09:31 UTC,Coles,Lamb Moussaka,Frozen,375g,,,2957258P,,,,,,,,5,FALSE,5,FALSE,,,1534277371.0-C-1013
+2018-08-15 06:09:31 UTC,Lean Cuisine,Steams Arrabiatan Meatball Spaghetti Frozen Meal,Frozen,380g,380,1,6569749P,,5.5g,1.6g,1.4g,10g,1.8g,180mg,6.7,FALSE,6.7,FALSE,,,1534277371.0-C-1014
+2018-08-15 06:09:31 UTC,Peters,Drumstick Cookies & Cream 4 pack,Frozen,475mL,72g,4,9875810P,1390kJ,3.6g,16.6g,11.9g,42.0g,23.8g,120mg,8,TRUE,5,FALSE,,,1534277371.0-C-1015
+2018-08-15 06:09:31 UTC,Coles,Frozen Southern Blue Whiting Fillets Skin On,Frozen,1kg,,,4847192P,,,,,,,,10,FALSE,10,FALSE,,,1534277371.0-C-1020
+2018-08-15 06:09:31 UTC,I&J,Frozen Calamari Rings,Frozen,400g,100,4,6248836P,,9.5g,12.6g,1.3g,22.6g,0.4g,530mg,8,FALSE,8,FALSE,,,1534277371.0-C-1021
+2018-08-15 06:09:31 UTC,Birds Eye,Oven Bake Barramundi Frozen Fish Fillets,Frozen,270g,134,2,6828949P,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534277371.0-C-1022
+2018-08-15 06:09:31 UTC,Birds Eye,Frozen Salmon Fish Cakes with Vegetables & Herbs,Frozen,480g,80,6,4344963P,,8.5g,10.3g,1.4g,18.3g,4.2g,260mg,7.4,FALSE,7.4,FALSE,,,1534277371.0-C-1023
+2018-08-15 06:09:31 UTC,I&J,Light & Crispy Lemon Crumbed Frozen Fish Fillets 6 pack,Frozen,425g,141,3,485817P,,12.5g,8.2g,0.6g,21.9g,1g,264mg,5,FALSE,5,FALSE,,,1534277371.0-C-1024
+2018-08-15 06:09:31 UTC,Fry's,4 Quinoa & Brown Rice Protien Burgers,Frozen,320g,,,2750089P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-1030
+2018-08-15 06:09:31 UTC,McCain,Red Box Roast Chicken Frozen Meal,Frozen,320g,320g,1,356950P,345kJ,7.0g,2.0g,0.9g,8.0g,1.5g,260mg,6,FALSE,6,FALSE,,,1534277371.0-C-1031
+2018-08-15 06:09:31 UTC,McCain,Man Size Southern Style Chicken,Frozen,480g,,,3237877P,,,,,,,,8.8,TRUE,8,FALSE,,,1534277371.0-C-1032
+2018-08-15 06:09:31 UTC,On The Menu,Chicken Kiev Plated Frozen Meal,Frozen,320g,,,2414671P,,,,,,,,6.5,TRUE,5,FALSE,,,1534277371.0-C-1033
+2018-08-15 06:09:31 UTC,Quorn,Lasagne Ready Meal,Frozen,300g,,,3229008P,,,,,,,,7.7,TRUE,5,FALSE,,,1534277371.0-C-1034
+2018-08-15 06:09:31 UTC,Coles,Mi Goreng,Frozen,375g,,,3218136P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277371.0-C-1035
+2018-08-15 06:09:31 UTC,Coles Simply Gluten Free,Frozen Chicken Nuggets,Frozen,400g,,,2750056P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-1036
+2018-08-15 06:09:31 UTC,Super Nature Bento Box,Frozen Bento Box Chicken Teriyaki with Black Wild Rice,Frozen,350g,,,2946273P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277371.0-C-1037
+2018-08-15 06:09:31 UTC,McCain,Herb And Parmesan Schnitzel With Farm Picked Vegetables,Frozen,310g,,,3150484P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-1038
+2018-08-15 06:09:31 UTC,Pasta al Naturale,Gluten Free Frozen Potato Gnocchi,Frozen,375g,125g Cooked,3,7982886P,864kJ,2.4g,0.5g,0.2g,39.6g,0.1g,662mg,10,FALSE,10,FALSE,,,1534277371.0-C-1039
+2018-08-15 06:09:31 UTC,By George,Raw Prawn Tail Off,Frozen,500g,,,3077205P,,,,,,,,17.6,FALSE,17.6,FALSE,,,1534277371.0-C-1045
+2018-08-15 06:09:31 UTC,Birds Eye,Frozen New Zealand Hoki Fish Fingers,Frozen,400g,120,3,2359711P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-1046
+2018-08-15 06:09:31 UTC,By George,Frozen Natural Salmon Fillets,Frozen,250g,,,2351425P,,,,,,,,7,FALSE,7,FALSE,,,1534277371.0-C-1047
+2018-08-15 06:09:31 UTC,Pacific West,Salmon Wellingtons With Cheese & White Wine Sauce,Frozen,280g,,,2648107P,,,,,,,,9.3,FALSE,9.3,FALSE,,,1534277371.0-C-1048
+2018-08-15 06:09:31 UTC,Birds Eye,Oven Bake Herb & Garlic Frozen Fish Fillets 6 pack,Frozen,425g,141,3,6621383P,,3.8g,0.1g,8.8g,878g,,12.1mg,8.8,FALSE,8.8,FALSE,,,1534277371.0-C-1049
+2018-08-15 06:09:31 UTC,Sealord,Wholemeal Crumbed Frozen Hoki Fillets,Frozen,300g,,,2362294P,,,,,,,,6.5,TRUE,5,FALSE,,,1534277371.0-C-1050
+2018-08-15 06:09:31 UTC,Quorn,Frozen Vegan Schnitzels,Frozen,200g,,,2749964P,,,,,,,,6.2,TRUE,3.1,FALSE,,,1534277371.0-C-1058
+2018-08-15 06:09:31 UTC,Lean Cuisine,Balanced Serve Creamy Salmon & Drill Linguine Frozen Meal,Frozen,300g,300,1,9230881P,,,,,,,,5.7,TRUE,4,FALSE,,,1534277371.0-C-1059
+2018-08-15 06:09:31 UTC,Lean Cuisine,Frozen Steam Spiced Satay Beef Satay with Rice Meal,Frozen,390g,390,1,5700644P,,5.5g,2.5g,0.7g,15g,1.9g,210mg,6.7,FALSE,6.7,FALSE,,,1534277371.0-C-1060
+2018-08-15 06:09:31 UTC,Quorn,Frozen 2 Cheese & Spinach Schnitzels Meat Free Soy Free,Frozen,240g,120,2,7642731P,,9.4g,11.9g,2.7g,16.2g,3.7g,488mg,6.2,TRUE,3.1,FALSE,,,1534277371.0-C-1061
+2018-08-15 06:09:31 UTC,Super Nature,Mediterranean Polenta,Frozen,350g,,,1837454P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277371.0-C-1062
+2018-08-15 06:09:31 UTC,Amy's Kitchen,Gluten Free Frozen Broccoli Cheddar Bake,Frozen,270g,,,2749840P,,,,,,,,8.8,TRUE,7.8,FALSE,,,1534277371.0-C-1063
+2018-08-15 06:09:31 UTC,Coles,Beef Chilli Con Carne,Frozen,375g,,,2742230P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277371.0-C-1064
+2018-08-15 06:09:31 UTC,By George,Frozen Basa Fillets,Frozen,1kg,,,4847294P,,,,,,,,7,FALSE,7,FALSE,,,1534277371.0-C-1070
+2018-08-15 06:09:31 UTC,Pacific West,Lemon Pepper Frozen Squid,Frozen,360g,,,6254941P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277371.0-C-1071
+2018-08-15 06:09:31 UTC,Birds Eye,Oven Bake Lemon Crumbed Frozen Fish Fillets 6 pack,Frozen,425g,141,3,80804P,,12.1g,8.8g,0.9g,19.8g,3.8g,300mg,8.8,FALSE,8.8,FALSE,,,1534277371.0-C-1072
+2018-08-15 06:09:31 UTC,Birds Eye,SteamFresh Frozen Lemon Parsley Fish Fillets,Frozen,360g,180,2,4345525P,,12.3g,2.8g,0.6g,1.5g,0g,320mg,8,FALSE,8,FALSE,,,1534277371.0-C-1073
+2018-08-15 06:09:31 UTC,Sara Lee,Frozen French Cream Cheesecake,Frozen,360g,,,9131290P,,,,,,,,6.25,TRUE,4,FALSE,,,1534277371.0-C-1074
+2018-08-15 06:09:31 UTC,Coles,Lemon Curd Frozen Cheesecake,Frozen,450g,,,1304951P,,,,,,,,3,FALSE,3,FALSE,,,1534277371.0-C-1075
+2018-08-15 06:09:31 UTC,Lean Cuisine,Balanced Serve Thai Green Curry with Rice Frozen Meal,Frozen,280g,280,1,9229747P,,4.3g,1.7g,1.1g,18.8g,1.1g,225mg,5.7,TRUE,4,FALSE,,,1534277371.0-C-1084
+2018-08-15 06:09:31 UTC,McCain,Frozen Man Size Chicken & Bacon Bake,Frozen,480g,,,2944176P,,,,,,,,8,FALSE,8,FALSE,,,1534277371.0-C-1085
+2018-08-15 06:09:31 UTC,Coles,Frozen Thai Green Chicken Curry Meal,Frozen,375g,,,6388256P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277371.0-C-1086
+2018-08-15 06:09:31 UTC,McCain,Healthy Choice Whole Grains Chicken & Mushroom Risotto Ready Meal,Frozen,350g,,,2409525P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277371.0-C-1087
+2018-08-15 06:09:31 UTC,Lean Cuisine,Steam Chicken Cheese & Pepper Pasta Frozen Meal,Frozen,380g,380,1,5700553P,,6.6g,1.9g,0.6g,13g,2.2g,215mg,6.7,FALSE,6.7,FALSE,,,1534277371.0-C-1088
+2018-08-15 06:09:31 UTC,Lean Cuisine,Steam Korean Beef,Frozen,380g,380,1,2957225P,,,,,,,,6.7,FALSE,6.7,FALSE,,,1534277371.0-C-1089
+2018-08-15 06:09:31 UTC,McCain,Frozen Healthy Choice Thai Green Curry Meal Bowl,Frozen,280g,280g,1,1276131P,469kJ,4.1g,2.8g,1.9g,17.0g,3.4g,160mg,4,FALSE,4,FALSE,,,1534277371.0-C-1090
+2018-08-15 06:09:31 UTC,Super Nature,Frozen Wholegrain Chicken Truffle Risotto Wellness Bowl,Frozen,350g,,,2946400P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277371.0-C-1091
+2018-08-15 06:09:31 UTC,Amy's Kitchen,Gluten Free Macaroni & Cheese Rice Frozen Meal,Frozen,255g,,,1994408P,,,,,,,,7.7,TRUE,6.8,FALSE,,,1534277371.0-C-1092
+2018-08-15 06:09:31 UTC,McCain,Frozen Red Box Spaghetti Bolognese Meal,Frozen,400g,400g,1,412802P,487kJ,5.3g,4.0g,1.6g,14.0g,2.5g,270mg,4.5,FALSE,4.5,FALSE,,,1534277371.0-C-1093
+2018-08-15 06:09:31 UTC,McCain,Red Box Lamb Cutlet with Gravy Frozen Meal,Frozen,320g,320g,1,8967618P,498kJ,4.2g,5.3g,2.6g,12.5g,1.5g,300mg,6,FALSE,6,FALSE,,,1534277371.0-C-1094
+2018-08-15 06:09:31 UTC,Super Nature,Super Foods Sweet Potato Cottage Pie Frozen Meal,Frozen,350g,,,2409354P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277371.0-C-1095
+2018-08-15 06:09:31 UTC,Birds Eye,Li'l Fishies Hoki & Veggies Frozen Fish Snacks,Frozen,330g,66,5,2359697P,,8.8g,8.9g,0.9g,22.9g,3.2g,268mg,5.6,FALSE,5.6,FALSE,,,1534277371.0-C-1100
+2018-08-15 06:09:31 UTC,I&J,Beer Battered Crispy Frozen Fish Portions,Frozen,1kg,141,7,1238824P,,10.3g,8g,0.8g,15.7g,2.2g,417mg,10,FALSE,10,FALSE,,,1534277371.0-C-1101
+2018-08-15 06:09:31 UTC,Pacific West,Frozen Salmon Wellingtons with Cheese & Dill Sauce,Frozen,280g,,,2648093P,,,,,,,,9.3,FALSE,9.3,FALSE,,,1534277371.0-C-1102
+2018-08-15 06:09:31 UTC,On The Menu,Beef Lasagne Frozen Meal,Frozen,260g,260g,1,1167894P,,6.3g,,,13.0g,2.8g,308mg,3,FALSE,3,FALSE,,,1534277371.0-C-1105
+2018-08-15 06:09:31 UTC,McCain,Frozen Healthy Choice Lemon Chicken Meal,Frozen,350g,350g,1,6557841P,526kJ,4.6g,2.5g,0.6g,20.5g,6.6g,120mg,4,FALSE,4,FALSE,,,1534277371.0-C-1106
+2018-08-15 06:09:31 UTC,Super Nature,Chicken Pad Thai With Rice Noodles Frozen Meal,Frozen,350g,,,2742397P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277371.0-C-1107
+2018-08-15 06:09:31 UTC,Coles,Frozen Shepherd's Pie,Frozen,400g,,,6392672P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277371.0-C-1108
+2018-08-15 06:09:31 UTC,Coles Simply Gluten Free,Frozen Chicken Tenders,Frozen,400g,,,1309060P,,,,,,,,8,FALSE,8,FALSE,,,1534277371.0-C-1109
+2018-08-15 06:09:32 UTC,McCain,Frozen Healthy Choice Indian Butter Chicken Meal Bowl,Frozen,300g,300g,1,1276120P,426 kJ,4.5g,3.0g,1.7g,13.8g,1.8g,250mg,4,FALSE,4,FALSE,,,1534277372.0-C-1110
+2018-08-15 06:09:32 UTC,Super Nature,Frozen Green Chickpea curry with Quinoa  and Brown Rice Wellness Bowl,Frozen,350g,,,2944846P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277372.0-C-1111
+2018-08-15 06:09:32 UTC,Weight Watchers,Pumpkin & Ricotta Cannelloni Frozen Meal,Frozen,330g,330g,1,8058398P,300KJ,2.4g,,0.6g,12.1g,2.5g,225mg,5.8,TRUE,2.9,FALSE,,,1534277372.0-C-1112
+2018-08-15 06:09:32 UTC,McCain,Red Box Lasagne Frozen Meal,Frozen,400g,250g,4,412799P,548kJ,4.8g,4.3g,2.4g,17.6g,1.8g,350mg,4.5,FALSE,4.5,FALSE,,,1534277372.0-C-1113
+2018-08-15 06:09:32 UTC,Lean Cuisine,Frozen Balanced Satay Chicken Noodles Meal,Frozen,300g,300,1,9229587P,,5.9g,2.8g,1g,14.1g,1.6g,225mg,5.7,TRUE,4,FALSE,,,1534277372.0-C-1114
+2018-08-15 06:09:32 UTC,Super Nature,Split Pea & Lentil Dahl Frozen Meal,Frozen,350g,,,1837443P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277372.0-C-1115
+2018-08-15 06:09:32 UTC,Coles,Sweet & Sour Chicken Meals,Frozen,375g,,,1307360P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277372.0-C-1116
+2018-08-15 06:09:32 UTC,On The Menu,Beef Ragu Pappardelle,Frozen,260g,,,2742364P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1117
+2018-08-15 06:09:32 UTC,Coles,Chicken Teriyaki,Frozen,375g,,,2742014P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277372.0-C-1118
+2018-08-15 06:09:32 UTC,Weight Watchers,Chicken & Mushroom Fettucine Frozen Meal,Frozen,300g,300g,1,8071046P,415KJ,5.2g,,1.2g,13.7g,2.3g,300mg,5.8,TRUE,2.9,FALSE,,,1534277372.0-C-1119
+2018-08-15 06:09:32 UTC,Birds Eye,SteamFresh Frozen Roast Garlic & Spring Onion Fish Fillets,Frozen,360g,180g,2,4345660P,338kJ,12.2g,2.7g,0.7g,1.8g,<1g,225mg,7.5,FALSE,7.5,FALSE,,,1534277372.0-C-1124
+2018-08-15 06:09:32 UTC,Birds Eye,Oven Bake Battered Frozen Fish Fillets 6 pack,Frozen,425g,141,3,84430P,952kJ,11.9g,14.1g,1.1g,11.8g,<1g,348mg,8.8,FALSE,8.8,FALSE,,,1534277372.0-C-1125
+2018-08-15 06:09:32 UTC,Coles,Frozen Original Crumbed Fish Fillets,Frozen,1kg,,,2285557P,,,,,,,,8,FALSE,8,FALSE,,,1534277372.0-C-1126
+2018-08-15 06:09:32 UTC,McCain,Frozen Healthy Choice Bowl Creamy Chicken Carbonara Meal Bowl,Frozen,300g,300g,1,8057078P,412kJ,4.3g,2.5g,1.5g,14.0g,1.7g,250mg,4,FALSE,4,FALSE,,,1534277372.0-C-1134
+2018-08-15 06:09:32 UTC,Fry's,Rice Protein & Chia Seed Frozen Nuggets,Frozen,240g,60g,4,2750034P,921kJ,8.1g,14.4g,2.2g,12.1g,2.5g,683mg,6,FALSE,6,FALSE,,,1534277372.0-C-1135
+2018-08-15 06:09:32 UTC,McCain,Frozen Healthy Choice Spinach & Ricotta Ravioli Meal Tray,Frozen,390g,390g,1,4732237P,455kJ,4.6g,3.0g,1.3g,14.8g,3.0g,200mg,4,FALSE,4,FALSE,,,1534277372.0-C-1136
+2018-08-15 06:09:32 UTC,Coles,Frozen Spaghetti Bolognese Meal,Frozen,400g,,,6115683P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277372.0-C-1137
+2018-08-15 06:09:32 UTC,Weight Watchers,Frozen Beef Lasagne,Frozen,370g,370g,1,5325024P,385KJ,5.1g,,0.7g,13.9g,3.3g,220mg,5.8,TRUE,2.9,FALSE,,,1534277372.0-C-1138
+2018-08-15 06:09:32 UTC,Lean Cuisine,Steam Meals Sundried Tomato Chicken with Pasta Frozen Meal,Frozen,370g,370,1,5700531P,,5.6g,2.5g,0.8g,15g,2.5g,225mg,6.7,FALSE,6.7,FALSE,,,1534277372.0-C-1139
+2018-08-15 06:09:32 UTC,McCain,Frozen Man Size Bangers & Mash,Frozen,500g,,,2944154P,,,,,,,,8,FALSE,8,FALSE,,,1534277372.0-C-1146
+2018-08-15 06:09:32 UTC,On The Menu,Frozen Cottage Pie Beef Meal,Frozen,260g,,,2315250P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1147
+2018-08-15 06:09:32 UTC,Birds Eye,Oven Bake Flathead,Frozen,270g,135,2,2988036P,,12.1g,7.9g,0.7g,18.7g,3.7g,403mg,9.5,FALSE,9.5,FALSE,,,1534277372.0-C-1149
+2018-08-15 06:09:32 UTC,By George,Frozen Crumbed Fish Fingers,Frozen,400g,,,3024446P,,,,,,,,3.8,TRUE,3,FALSE,,,1534277372.0-C-1150
+2018-08-15 06:09:32 UTC,I&J,Light & Crispy Crumbed Frozen Fish Fillets Jumbo Pack,Frozen,1kg,,,7266742P,,,,,,,,10,FALSE,10,FALSE,,,1534277372.0-C-1161
+2018-08-15 06:09:32 UTC,I&J,Light & Crispy Crumbed FrozenFish Fillets 6 pack,Frozen,425g,141,3,166262P,,12.4g,8.2g,0.6g,21.5g,<0.99g,399mg,5,FALSE,5,FALSE,,,1534277372.0-C-1162
+2018-08-15 06:09:32 UTC,Neptune,Frozen Fish Fingers,Frozen,1kg,,,2285568P,,,,,,,,4,FALSE,4,FALSE,,,1534277372.0-C-1171
+2018-08-15 06:09:32 UTC,Coles,Frozen Cookies & Cream Cheesecake,Frozen,450g,,,1304995P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1178
+2018-08-15 06:09:32 UTC,Pacific West,Salt & Pepper Frozen Squid,Frozen,360g,,,5409645P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277372.0-C-1185
+2018-08-15 06:09:32 UTC,Coles,Frozen French Style Cheesecake,Frozen,450g,75g,6,1307133P,1230,4.2,13.9,8.6,37.8,20.6,181,3,FALSE,3,FALSE,,,1534277372.0-C-1193
+2018-08-15 06:09:32 UTC,Birds Eye,Southern Blue Crumbed Frozen Whiting Fillets,Frozen,425g,140,3,7407877P,850kJ,11.5g,8.9g,0.7g,18.5g,4.2g,268mg,9.5,FALSE,9.5,FALSE,,,1534277372.0-C-1199
+2018-08-15 06:09:32 UTC,Lean Cuisine,Balanced Serve Hearty Lamb & Rosemary Hot Pot Frozen Meal,Frozen,290g,290,1,6567980P,,,,,,,,5.7,TRUE,4,FALSE,,,1534277372.0-C-1203
+2018-08-15 06:09:32 UTC,Fry's,Family Soy & Flaxseed Schnitzels,Frozen,320g,80g,4,9961774P,998kJ,10.0g,14.4g,2.0g,15.4g,2.5g,570mg,6,FALSE,6,FALSE,,,1534277372.0-C-1204
+2018-08-15 06:09:32 UTC,Lean Cuisine,Balanced Serve Beef Stroganoff with Pasta Frozen Meal,Frozen,280g,280,1,4480655P,,5.6g,2.6g,1.1g,14.9g,1.7g,285mg,5.7,TRUE,4,FALSE,,,1534277372.0-C-1205
+2018-08-15 06:09:32 UTC,McCain,Frozen Healthy Choice Plus Honey Stir Fry Chicken Meal Tray,Frozen,420g,420g,1,6774340P,377kJ,3.4g,1.5g,0.3g,15.0g,4.0g,160mg,4,FALSE,4,FALSE,,,1534277372.0-C-1206
+2018-08-15 06:09:32 UTC,Sara Lee,Strawberry Frozen Cheesecake,Frozen,410g,,,6125891P,,,,,,,,6.25,TRUE,4,FALSE,,,1534277372.0-C-1207
+2018-08-15 06:09:32 UTC,Coles,Frozen Chocolate Bavarian,Frozen,450g,,,1307177P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1208
+2018-08-15 06:09:32 UTC,Birds Eye,Oven Fry Frozen Fish Cakes 6 pack,Frozen,300g,50,6,5146896P,,,,,,,,5,FALSE,5,FALSE,,,1534277372.0-C-1212
+2018-08-15 06:09:32 UTC,Birds Eye,Oven Bake Crumbed Frozen Fish Fillets 6 pack,Frozen,425g,141,3,84452P,,3.8g,0.1g,8.8g,19.8g,,12.1mg,8.8,FALSE,8.8,FALSE,,,1534277372.0-C-1213
+2018-08-15 06:09:32 UTC,Birds Eye,Oven Bake Original Crumb Frozen Fish Fillets,Frozen,1kg,142,7,2359573P,,11.6g,9g,0.9g,19.2g,3.2g,263mg,13.9,TRUE,10,FALSE,,,1534277372.0-C-1214
+2018-08-15 06:09:32 UTC,Coles,Frozen Macaroni Cheese,Frozen,400g,,,6115708P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277372.0-C-1219
+2018-08-15 06:09:32 UTC,McCain,Frozen Man Size Chicken Kiev,Frozen,480g,,,2944165P,,,,,,,,8,FALSE,8,FALSE,,,1534277372.0-C-1220
+2018-08-15 06:09:32 UTC,Super Nature,Frozen Korean BBQ Beef Wellness Bowl,Frozen,350g,,,2946295P,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534277372.0-C-1221
+2018-08-15 06:09:32 UTC,On The Menu,Beef Lasagne Frozen Meal,Frozen,1kg,,,1837374P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1222
+2018-08-15 06:09:32 UTC,On The Menu,3 Cheese Macaroni Frozen Meal,Frozen,260g,260g,1,1167872P,,4.9g,,,17.0g,0.5g,249mg,3,FALSE,3,FALSE,,,1534277372.0-C-1223
+2018-08-15 06:09:32 UTC,Coles,Frozen Beef With Bechamel Meal,Frozen,400g,,,6115592P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277372.0-C-1224
+2018-08-15 06:09:32 UTC,Unger's,Kishke,Frozen,454g,,,2351550P,,,,,,,,7.7,FALSE,7.7,FALSE,,,1534277372.0-C-1229
+2018-08-15 06:09:32 UTC,Birds Eye,Frozen Fish Fingers 15 pack,Frozen,375g,75,5,186918P,849kJ,10.7g,8.8g,0.8g,20.1g,1.4g,252mg,5.6,FALSE,5.6,FALSE,,,1534277372.0-C-1230
+2018-08-15 06:09:32 UTC,McCain,Red Box Chicken Parmagiana Frozen Meal,Frozen,320g,320g,1,7401010P,635kJ,7.0g,8.0g,3.5g,12.0g,2.0g,285mg ,6,FALSE,6,FALSE,,,1534277372.0-C-1240
+2018-08-15 06:09:32 UTC,McCain,Red Box Tuna Mornay Frozen Meal,Frozen,400g,400g,1,6522552P,670kJ,6.0g,8.0g,5.2g,15.5g,2.1g,270mg ,4.5,FALSE,4.5,FALSE,,,1534277372.0-C-1241
+2018-08-15 06:09:32 UTC,Coles,Frozen Butter Chicken With Long Grain Rice Meal,Frozen,375g,,,6388121P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277372.0-C-1242
+2018-08-15 06:09:32 UTC,Coles,Frozen Satay Chicken Meal,Frozen,375g,,,1307359P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277372.0-C-1243
+2018-08-15 06:09:32 UTC,Syndian,Dal Makhani Curry,Frozen,400g,,,2351538P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277372.0-C-1247
+2018-08-15 06:09:32 UTC,Syndian,Pumpkin & Cashew Masala,Frozen,400g,,,2351516P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277372.0-C-1248
+2018-08-15 06:09:32 UTC,Syndian Natural Food,Frozen Chilli Falafels,Frozen,300g,,,2351491P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277372.0-C-1249
+2018-08-15 06:09:32 UTC,Taamti,Vegetarian Kibbeh,Frozen,400g,,,2359846P,,,,,,,,10,FALSE,10,FALSE,,,1534277372.0-C-1250
+2018-08-15 06:09:32 UTC,Katzy's Kosher,Frozen Steak & Pepper Pie,Frozen,425g,180g,2,4743029P,844.44kJ,8.89g,8.94g,,,0.44g,,10.39,FALSE,10.39,FALSE,,,1534277372.0-C-1268
+2018-08-15 06:09:32 UTC,Katzy's Kosher,Frozen Sausage Roll,Frozen,425g,170g,2,4743030P,947.06kJ,9.65g,10.41g,5.59g,22.47g,0.82g,281.18mg,10.39,FALSE,10.39,FALSE,,,1534277372.0-C-1269
+2018-08-15 06:09:32 UTC,Syndian,Frozen Adzuki & Kumara Burger,Frozen,340g,,,2351480P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277372.0-C-1270
+2018-08-15 06:09:32 UTC,Katzy's Kosher,Frozen Meat Pie,Frozen,480g,200g,2,4743040P,920kJ,7.65g,9.55g,5.15g,24.85g,0.7g,413mg,10.39,FALSE,10.39,FALSE,,,1534277372.0-C-1287
+2018-08-15 06:09:32 UTC,Streets,Blue Ribbon Golden Gaytime,Frozen,1.25L,,13,2250406P,,,,,,,,7,FALSE,7,FALSE,,,1534277372.0-C-1298
+2018-08-15 06:09:32 UTC,Katzy's Kosher,Frozen Meat Lasagne,Frozen,725g,285g,2,6838501P,452.63kJ,8.7g,4.63g,1.3g,7.54g,1.82g,144.56g,16,FALSE,16,FALSE,,,1534277372.0-C-1299
+2018-08-15 06:09:32 UTC,Katzy's Kosher,Frozen Steak & Mushroom Pie,Frozen,425g,180g,2,4743018P,822.22kJ,8.22g,8.72g,4.72g,20.22g,0.44g,202.78mg,10.39,FALSE,10.39,FALSE,,,1534277372.0-C-1300
+2018-08-15 06:09:32 UTC,Coles,Cheese & Tomato Subs,Frozen,250g,,,3160331P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277372.0-C-1309
+2018-08-15 06:09:32 UTC,Proud & Punch,Berry Passionate Juice Pops,Frozen,6 pack,,,2982619P,,,,,,,,8,FALSE,8,FALSE,,,1534277372.0-C-1310
+2018-08-15 06:09:32 UTC,Peters,Frosty Fruits Summer Sunset,Frozen,8 pack,,,2976966P,,,,,,,,6.7,FALSE,6.7,FALSE,,,1534277372.0-C-1319
+2018-08-15 06:09:32 UTC,Dagim,Crunchy Frozen Fish Sticks,Frozen,708g,,,6625034P,,,,,,,,16.55,FALSE,16.55,FALSE,,,1534277372.0-C-1321
+2018-08-15 06:09:32 UTC,Birds Eye,Deli Hoki Lemon Lime & Herb Crumb,Frozen,260g,130,2,2988058P,,13.4g,6.7g,0.7g,14.7g,2.2g,311mg,7,TRUE,5,FALSE,,,1534277372.0-C-1322
+2018-08-15 06:09:32 UTC,By George,Raw Prawn Cutlet Tail On,Frozen,500g,,,3077191P,,,,,,,,17.6,FALSE,17.6,FALSE,,,1534277372.0-C-1323
+2018-08-15 06:09:32 UTC,Paddle Pop,Icy Twist Lemonade 8 pack,Frozen,576mL,,,7806920P,,,,,,,,4.75,FALSE,4.75,FALSE,,,1534277372.0-C-1328
+2018-08-15 06:09:32 UTC,Sealord,3 Seed Crumbed Frozen Hoki Fillets,Frozen,300g,,,2362308P,,,,,,,,6.5,TRUE,5,FALSE,,,1534277372.0-C-1332
+2018-08-15 06:09:32 UTC,Sealord,Parmesan & Rosemary Ciabatta Crumb Fillets,Frozen,300g,,,3024560P,,,,,,,,6.5,TRUE,5,FALSE,,,1534277372.0-C-1333
+2018-08-15 06:09:32 UTC,ASP,Scottish Kippers,Frozen,335g,,,6573600P,,,,,,,,6.8,FALSE,6.8,FALSE,,,1534277372.0-C-1334
+2018-08-15 06:09:32 UTC,Cornetto,Golden Gaytime Toffee And Vanilla,Frozen,4 pack,,,2864656P,,,,,,,,7,FALSE,7,FALSE,,,1534277372.0-C-1337
+2018-08-15 06:09:32 UTC,Haagen -Dazs,Classic Collection Ice Cream Mini Cups,Frozen,4 pack,,,2983860P,,,,,,,,12.5,TRUE,9,FALSE,,,1534277372.0-C-1338
+2018-08-15 06:09:32 UTC,Magnum,Tub Ice Cream White,Frozen,440mL,,,2976150P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277372.0-C-1339
+2018-08-15 06:09:32 UTC,Magnum,Mini Dulce De Leche Biscuit Caramel,Frozen,360mL,,,3123459P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277372.0-C-1340
+2018-08-15 06:09:32 UTC,Pacific West,Frozen Lightly Dusted Salt & Pepper Fish Fillets,Frozen,280g,,,3024402P,,,,,,,,7,FALSE,7,FALSE,,,1534277372.0-C-1341
+2018-08-15 06:09:32 UTC,By George,Frozen Panko Prawns,Frozen,500g,,,2442098P,,,,,,,,9.2,FALSE,9.2,FALSE,,,1534277372.0-C-1342
+2018-08-15 06:09:32 UTC,Coles,Frozen Cooked Mussel Meat,Frozen,500g,,,1973340P,,,,,,,,7,FALSE,7,FALSE,,,1534277372.0-C-1343
+2018-08-15 06:09:32 UTC,Coles,Nutty Choc Caramel Ice Cream,Frozen,500mL,,,2988309P,,,,,,,,4,FALSE,4,FALSE,,,1534277372.0-C-1345
+2018-08-15 06:09:32 UTC,Coles,Ultimate Salted Caramel Fudge Ice Cream,Frozen,473mL,,,3146159P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1346
+2018-08-15 06:09:32 UTC,Coles,Frozen Crumbed Squid Rings,Frozen,500g,,,1973292P,,,,,,,,7,FALSE,7,FALSE,,,1534277372.0-C-1347
+2018-08-15 06:09:32 UTC,Ben & Jerry's,Brownie Batter Core,Frozen,458mL,,4,2976183P,,,,,,,,12,FALSE,12,FALSE,,,1534277372.0-C-1349
+2018-08-15 06:09:32 UTC,Bulla,Crunch Orange Mint & Vanilla Variety Ice Cream 8 pack,Frozen,631mL,60g,8,5974730P,1260 kJ,2.6 g,20.0 g,15.0 g,27.4 g,24.9 g,47 mg,6.8,TRUE,3.4,FALSE,,,1534277372.0-C-1350
+2018-08-15 06:09:32 UTC,Coles,Mini Classics Vanilla Ice Cream 6 pack,Frozen,360mL,,,7202874P,,,,,,,,4,FALSE,4,FALSE,,,1534277372.0-C-1351
+2018-08-15 06:09:32 UTC,Arnott's,Wagon Wheel,Frozen,4 pack,,,2978087P,,,,,,,,8,FALSE,8,FALSE,,,1534277372.0-C-1352
+2018-08-15 06:09:32 UTC,Baileys,Original Ice Cream,Frozen,500mL,,,2441969P,,,,,,,,8,FALSE,8,FALSE,,,1534277372.0-C-1353
+2018-08-15 06:09:32 UTC,Coles,Mussels In Tomato And Garlic Sauce,Frozen,450g,,,2930320P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1355
+2018-08-15 06:09:32 UTC,Coles,Frozen Squid Rings,Frozen,500g,,,1972096P,,,,,,,,7,FALSE,7,FALSE,,,1534277372.0-C-1356
+2018-08-15 06:09:32 UTC,Weis,Dairy Free Dark Chocolate Sorbet,Frozen,1L,,,2975920P,,,,,,,,8,TRUE,6,FALSE,,,1534277372.0-C-1357
+2018-08-15 06:09:32 UTC,Zing,Sour Fruit Ice Bars 10 pack,Frozen,850mL,,,2001627P,,,,,,,,3.15,FALSE,3.15,FALSE,,,1534277372.0-C-1358
+2018-08-15 06:09:32 UTC,By George,Frozen Crumbed Prawn Cutlets,Frozen,360g,Approximately 90g,,2362239P,1290,11.2,18.5,2,24.2,1.4,332,6,FALSE,6,FALSE,,,1534277372.0-C-1361
+2018-08-15 06:09:32 UTC,Streets,Calippo Lemon Orange & Lime Minis 10 pack,Frozen,575mL,,,4192606P,,,,,,,,7,FALSE,7,FALSE,,,1534277372.0-C-1362
+2018-08-15 06:09:32 UTC,Cadbury,Freddo Ice Cream Party Cake,Frozen,1.5L,71g,12,9093430P,872 kJ,2.7 g,11.1 g,7.4 g,24.5 g,22.5 g,50 mg,14,FALSE,14,FALSE,,,1534277372.0-C-1364
+2018-08-15 06:09:32 UTC,Peters,Ice Cream Party Cake,Frozen,1.5L,49g,15,5103340P,755kJ,1.9g,6.5g,4.0g,28.0g,22.2g,86mg,13,FALSE,13,FALSE,,,1534277372.0-C-1365
+2018-08-15 06:09:32 UTC,Peters,Drumstick Salted Caramel And White Chocolate,Frozen,475mL,,,2858041P,,,,,,,,8,TRUE,5,FALSE,,,1534277372.0-C-1367
+2018-08-15 06:09:32 UTC,Peters,Connoisseur Kangaroo Island Honey,Frozen,4 pack,,,2982561P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534277372.0-C-1368
+2018-08-15 06:09:32 UTC,Sara Lee,Peanut Butter Bavarian,Frozen,400g,,,3152366P,,,,,,,,6.25,TRUE,4,FALSE,,,1534277372.0-C-1370
+2018-08-15 06:09:32 UTC,Sara Lee,Red Velvet Cake,Frozen,350g,,,3062026P,,,,,,,,6.25,TRUE,4,FALSE,,,1534277372.0-C-1371
+2018-08-15 06:09:32 UTC,Nanna's,Frozen Apple Crumble,Frozen,550g,110g,5,9718506P,932kJ,2.2g,6.9g,3.1g,37.3g,18.9g,89mg,6,TRUE,4,FALSE,,,1534277372.0-C-1372
+2018-08-15 06:09:32 UTC,Nanna's Premium Crumble,Apple & Sticky Toffee,Frozen,400g,,,3148176P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1373
+2018-08-15 06:09:32 UTC,Peters,Frosty Fruits Watermelon & Pineapple,Frozen,600mL,86g,8,6036339P,410kJ,Less than 1g,Less than 0.1g,Less than 0.1g,23.5g,19.5g,Less than 5mg,6.7,FALSE,6.7,FALSE,,,1534277372.0-C-1374
+2018-08-15 06:09:32 UTC,Peters,Drumstick Caramel Swirl 4 pack,Frozen,475mL,79g,4,9091377P,1280kJ,2.8g,14.7g,11.9g,40.0g,26.9g,75mg,8,TRUE,5,FALSE,,,1534277372.0-C-1375
+2018-08-15 06:09:32 UTC,Peters,Mini Drumstick Super Choc & Caramel Nut 6 pack,Frozen,480mL,,,2408293P,,,,,,,,8,TRUE,5,FALSE,,,1534277372.0-C-1376
+2018-08-15 06:09:32 UTC,Sara Lee,Incredibly Triple Chocolate Bavarian,Frozen,510g,,,3062106P,,,,,,,,7,FALSE,7,FALSE,,,1534277372.0-C-1378
+2018-08-15 06:09:32 UTC,Coles,Frozen Trifle Strawberry,Frozen,600g,,,3147082P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277372.0-C-1379
+2018-08-15 06:09:32 UTC,Sara Lee,Frozen Chocolate Buttercake,Frozen,350g,,,268900P,,,,,,,,6.25,TRUE,4,FALSE,,,1534277372.0-C-1380
+2018-08-15 06:09:32 UTC,Coles,Frozen Mini Eclairs,Frozen,200g,,,1313384P,,,,,,,,5,FALSE,5,FALSE,,,1534277372.0-C-1381
+2018-08-15 06:09:32 UTC,Magnum,Ice Cream Peppermint 4 pack,Frozen,428mL,,4,6582805P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277372.0-C-1383
+2018-08-15 06:09:32 UTC,Over The Moo,I Fell For Caramel,Frozen,500mL,,,3146920P,,,,,,,,10,TRUE,8,FALSE,,,1534277372.0-C-1384
+2018-08-15 06:09:32 UTC,Coles,Frozen Mini Vanilla Slices,Frozen,220g,,,1313410P,,,,,,,,5,FALSE,5,FALSE,,,1534277372.0-C-1387
+2018-08-15 06:09:32 UTC,Nanna's,Frozen Rhubarb & Apple Crumble,Frozen,550g,,,2622760P,,,,,,,,6,TRUE,4,FALSE,,,1534277372.0-C-1388
+2018-08-15 06:09:32 UTC,Sara Lee,Brownie & Cheesecake,Frozen,475g,,,3152399P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277372.0-C-1389
+2018-08-15 06:09:32 UTC,Coles,Caramel Nut Ice Cream Cones,Frozen,475mL,,,1473245P,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534277372.0-C-1392
+2018-08-15 06:09:32 UTC,Genius,Gluten Free Frozen Apple Pies 2 pack,Frozen,320g,,,2523699P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277372.0-C-1393
+2018-08-15 06:09:32 UTC,Sara Lee,Frozen Apple Danish,Frozen,400g,,,188210P,,,,,,,,6.25,TRUE,4,FALSE,,,1534277372.0-C-1397
+2018-08-15 06:09:32 UTC,Sara Lee,Apple Berry Chocolate Crumble 4 pack,Frozen,400g,,,3152333P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277372.0-C-1398
+2018-08-15 06:09:32 UTC,Coles,Tiramisu,Frozen,500g,,,3145972P,,,,,,,,5,FALSE,5,FALSE,,,1534277372.0-C-1399
+2018-08-15 06:09:33 UTC,Zooper Dooper,Sour Water Ice,Frozen,24 pack,,,2744472P,,,,,,,,5.79,FALSE,5.79,FALSE,,,1534277373.0-C-1401
+2018-08-15 06:09:33 UTC,Coles,Rum & Raisin Ice Cream,Frozen,1L,Approx. 70g (100mL),10,8554130P,966,3.8,13.2,8.7,23.9,19.6,40,4.7,FALSE,4.7,FALSE,,,1534277373.0-C-1402
+2018-08-15 06:09:33 UTC,Zooper Dooper,Magic Flavours Ice Blocks 24 pack,Frozen,1.68kg,,,5309822P,,,,,,,,5.79,FALSE,5.79,FALSE,,,1534277373.0-C-1407
+2018-08-15 06:09:33 UTC,Streets,Magnum Mini Hazelnut Salted Vanilla,Frozen,360mL,,,3123437P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277373.0-C-1415
+2018-08-15 06:09:33 UTC,Streets,Golden Gaytime Unicorn,Frozen,4 pack,,,3101387P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277373.0-C-1424
+2018-08-15 06:09:33 UTC,Sealord,Tempura Batter Fillets,Frozen,520g,,,3024479P,,,,,,,,11.5,TRUE,9,FALSE,,,1534277373.0-C-1448
+2018-08-15 06:09:33 UTC,Birds Eye,Deli Hoki Wholegrain & Sea Salt Crumb,Frozen,260g,,,2988047P,,,,,,,,7,TRUE,5,FALSE,,,1534277373.0-C-1449
+2018-08-15 06:09:33 UTC,By George,Frozen Salt & Pepper Squid,Frozen,500g,,,2442112P,,,,,,,,8.3,FALSE,8.3,FALSE,,,1534277373.0-C-1450
+2018-08-15 06:09:33 UTC,Streets,Cornetto Classic Vanilla,Frozen,440mL,,,2846483P,,,,,,,,7,FALSE,7,FALSE,,,1534277373.0-C-1453
+2018-08-15 06:09:33 UTC,Sara Lee,Brownie Chocolate Fudge,Frozen,350g,,,3062081P,,,,,,,,6.25,TRUE,4,FALSE,,,1534277373.0-C-1462
+2018-08-15 06:09:33 UTC,Farm Pride,Frozen Egg White,Frozen,950mL,,,1909588P,,,,,,,,10,FALSE,10,FALSE,,,1534277373.0-C-1463
+2018-08-15 06:09:33 UTC,Coles,Apple Blackberry & Custard Frozen Strudel,Frozen,600g,,,7720176P,,,,,,,,4,FALSE,4,FALSE,,,1534277373.0-C-1464
+2018-08-15 06:09:33 UTC,Coles,Choc Chip Lava Cookies Frozen Dessert 2 pack,Frozen,228g,,,2599839P,,,,,,,,4,FALSE,4,FALSE,,,1534277373.0-C-1465
+2018-08-15 06:09:33 UTC,Coles Ultimate,Choc Brownie,Frozen,340g,,,3152640P,,,,,,,,6,FALSE,6,FALSE,,,1534277373.0-C-1466
+2018-08-15 06:09:33 UTC,Sara Lee,Frozen Sticky Date Pudding,Frozen,475g,,,6863815P,,,,,,,,6.25,TRUE,4,FALSE,,,1534277373.0-C-1467
+2018-08-15 06:09:33 UTC,Coles,Cooked & Peeled Tail On Prawns,Frozen,750g,,,1923523P,,,,,,,,20,FALSE,20,FALSE,,,1534277373.0-C-1468
+2018-08-15 06:09:33 UTC,Coles,Frozen Barramundi Portions Skin On,Frozen,600g,,,2930310P,,,,,,,,15,FALSE,15,FALSE,,,1534277373.0-C-1469
+2018-08-15 06:09:33 UTC,Sealord,Hoki Marlborough Sea Salt & Pepper Fillets,Frozen,300g,,,3045730P,,,,,,,,6.5,TRUE,5,FALSE,,,1534277373.0-C-1470
+2018-08-15 06:09:33 UTC,Peters,Light & Creamy Vanilla Slices 12 pack,Frozen,1.2L,46g,12,4811832P,660kJ,3.6g,2.8g,1.8g,28.9g,20.3g,75mg,8,FALSE,8,FALSE,,,1534277373.0-C-1471
+2018-08-15 06:09:33 UTC,Peters,Drumstick Boysenberry Swirl 4 pack,Frozen,475mL,84g,4,9360854P,1170kJ,2.7g,12.5g,9.7g,38.7g,26.0g,85mg,8,TRUE,5,FALSE,,,1534277373.0-C-1472
+2018-08-15 06:09:33 UTC,Bulla,Creamy Classics Chocolate Frozen Custard,Frozen,1L,,,2984079P,,,,,,,,8,TRUE,5,FALSE,,,1534277373.0-C-1490
+2018-08-15 06:09:33 UTC,Peters,Drumstick Super Chocolate 4 pack,Frozen,475mL,78g,4,5197274P,1350kJ,3.9g,17.4g,12.6g,37.4g,27.0g,66mg,8,TRUE,5,FALSE,,,1534277373.0-C-1491
+2018-08-15 06:09:33 UTC,Bulla,Chocolate Coated Vanilla Ice Cream Bars 10 pack,Frozen,768mL,60g,10,5938974P,1210 kJ,2.5 g,19.5 g,14.7 g,25.9 g,24.1 g,46 mg,6.8,TRUE,3.4,FALSE,,,1534277373.0-C-1492
+2018-08-15 06:09:33 UTC,Bulla,Splits Tropical Wildberry & Orange Selection 10 pack,Frozen,750mL,64g,10,5892308P,619 kJ,1.4 g,5.5 g,3.7 g,22.9 g,21.8 g,28 mg,6.8,TRUE,3.4,FALSE,,,1534277373.0-C-1493
+2018-08-15 06:09:33 UTC,Bulla,Splits Summer Fruits,Frozen,10 pack,,,2993080P,,,,,,,,6.8,TRUE,3.4,FALSE,,,1534277373.0-C-1494
+2018-08-15 06:09:33 UTC,Coles Simply Gluten Free,Garlic Bread,Frozen,400g,,,2750067P,,,,,,,,6,FALSE,6,FALSE,,,1534277373.0-C-1495
+2018-08-15 06:09:33 UTC,Zing,Yoghurt Fruit Bars 10 pack,Frozen,850mL,85mL,10,8856526P,,0g,0g,0g,10g,10g,0mg,3.15,FALSE,3.15,FALSE,,,1534277373.0-C-1496
+2018-08-15 06:09:33 UTC,Ben & Jerry's,Ice Cream Non-Dairy Peanut Butter & Cookies,Frozen,458mL,,,3123619P,,,,,,,,12,FALSE,12,FALSE,,,1534277373.0-C-1497
+2018-08-15 06:09:33 UTC,Ben & Jerry's,Ice Cream Non-Dairy Coconut Seven Layer Bar,Frozen,458mL,,,3123696P,,,,,,,,13.2,FALSE,13.2,FALSE,,,1534277373.0-C-1498
+2018-08-15 06:09:33 UTC,Peters,No Sugar Added Salted Caramel Ice Cream,Frozen,1.2L,,,2978000P,,,,,,,,7.6,FALSE,7.6,FALSE,,,1534277373.0-C-1499
+2018-08-15 06:09:33 UTC,Streets,Cornetto With Oreo Cookies 480mL,Frozen,4 pack,,,2863722P,,,,,,,,7,FALSE,7,FALSE,,,1534277373.0-C-1500
+2018-08-15 06:09:33 UTC,Streets,Golden Gaytime Ice Cream Sanga,Frozen,4 pack,,,2976911P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277373.0-C-1501
+2018-08-15 06:09:33 UTC,Coles,Ultimate Double Chocolate Brownie Icecream,Frozen,473mL,,,3245376P,,,,,,,,6,FALSE,6,FALSE,,,1534277373.0-C-1503
+2018-08-15 06:09:33 UTC,Peters,Drumstick Chocolate Mint 4 pack,Frozen,475mL,80g,4,7210293P,1240kJ,3.0g,13.5g,10.5g,40.3g,26.8g,59mg,8,TRUE,5,FALSE,,,1534277373.0-C-1504
+2018-08-15 06:09:33 UTC,Peters,Maxibon Caramel Rough Nut 4 pack,Frozen,620mL,102g,4,9178340P,1340kJ,4.0g,15.2g,10.9g,41.6g,28.6g,105mg,8.4,TRUE,5,FALSE,,,1534277373.0-C-1505
+2018-08-15 06:09:33 UTC,Peters,Drumstick Cookies & Cream Snack Size 6 pack,Frozen,480mL,50g,6,9177950P,1460kJ,3.9g,17.5g,13.1g,43.9g,25.3g,110mg,8,TRUE,5,FALSE,,,1534277373.0-C-1506
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Montana Mountain Mint Ice Cream 4 pack,Frozen,455mL,,,2406968P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534277373.0-C-1507
+2018-08-15 06:09:33 UTC,Bulla,Creamy Classics Double Fudge Ice Cream Sandwich,Frozen,4 pack,,,2984013P,,,,,,,,8,FALSE,8,FALSE,,,1534277373.0-C-1509
+2018-08-15 06:09:33 UTC,Coles,Cookies & Cream Ice Cream,Frozen,2L,Approx. 45g (100mL),20,1915773P,862,4.5,8,4.8,28.2,20.3,80,4.5,FALSE,4.5,FALSE,,,1534277373.0-C-1510
+2018-08-15 06:09:33 UTC,Coles,Cookies & Cream Ice Cream,Frozen,1L,Approx. 57g (100mL),10,2426273P,1170,4.7,15,8.9,30.4,19.9,115,4.7,FALSE,4.7,FALSE,,,1534277373.0-C-1511
+2018-08-15 06:09:33 UTC,Coles,Frozen Custard Ice Cream,Frozen,1L,Approximately 68g,10,2988320P,934,3,14.1,9.7,20.9,15.8,35,5,TRUE,4.7,FALSE,,,1534277373.0-C-1512
+2018-08-15 06:09:33 UTC,Coles,Classic Toffee Waffle,Frozen,4 pack,,,2988105P,,,,,,,,4.5,TRUE,4,FALSE,,,1534277373.0-C-1513
+2018-08-15 06:09:33 UTC,Streets,Magnum Mini Raspberry Choc Truffle,Frozen,360mL,,,3123448P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277373.0-C-1515
+2018-08-15 06:09:33 UTC,Coles,Vanilla Ice Cream Cones,Frozen,475mL,,,8559575P,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534277373.0-C-1516
+2018-08-15 06:09:33 UTC,Peters,Skinny Cow Mint Cookies 4 pack,Frozen,440mL,,,2752721P,,,,,,,,6,FALSE,6,FALSE,,,1534277373.0-C-1518
+2018-08-15 06:09:33 UTC,Ben & Jerry's,Chocolate Fudge Brownie Ice Cream,Frozen,458mL,,4,7806090P,,,,,,,,12,FALSE,12,FALSE,,,1534277373.0-C-1519
+2018-08-15 06:09:33 UTC,Berri,Juice Berry Icy Tubes,Frozen,24 pack,,,2971179P,,,,,,,,7,FALSE,7,FALSE,,,1534277373.0-C-1520
+2018-08-15 06:09:33 UTC,Halo Top,Sea Salt Caramel,Frozen,473mL,,,3146862P,,,,,,,,10,TRUE,8,FALSE,,,1534277373.0-C-1523
+2018-08-15 06:09:33 UTC,Peters,Life Savers 8 pack,Frozen,536mL,71g,8,7213575P,250kJ,Less than 1g,Less than 0.1g,Less than 0.1g,14.2g,14.2g,Less than 5mg,7,FALSE,7,FALSE,,,1534277373.0-C-1524
+2018-08-15 06:09:33 UTC,Peters,Drumstick Classic Vanilla Ice Cream Multipack 16 pack,Frozen,1.9L,74g,16,7105051P,1320kJ,3.9g,17.3g,12.4g,36.2g,21.5g,60mg,17,FALSE,17,FALSE,,,1534277373.0-C-1525
+2018-08-15 06:09:33 UTC,Peters,Light & Creamy Chocolate Caramel Vanilla,Frozen,1.8L,47g,18,7207051P,670kJ,3.5g,2.8g,1.8g,29.5g,20.8g,78mg,5,FALSE,5,FALSE,,,1534277373.0-C-1526
+2018-08-15 06:09:33 UTC,Peters,Frosty Fruits Tropical 8 pack,Frozen,536mL,83g,8,372606P,430kJ,Less than 1g,Less than 0.1g,Less than 0.1g,25.1g,20.7g,Less than 5mg,6.7,FALSE,6.7,FALSE,,,1534277373.0-C-1527
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Cookies & Cream Ice Cream 4 pack,Frozen,455mL,,,1745390P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534277373.0-C-1528
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Strawberries With Cream,Frozen,455mL,,,3251244P,,,,,,,,9.24,TRUE,8.4,FALSE,,,1534277373.0-C-1531
+2018-08-15 06:09:33 UTC,Coles,Mini Classics Choc Malt Ice Cream 6 Pack,Frozen,360mL,Approximately 48g,6,2425930P,1320,3.9,18.8,12.5,32,25,47,4,FALSE,4,FALSE,,,1534277373.0-C-1532
+2018-08-15 06:09:33 UTC,Coles,Salted Caramel Ice Cream,Frozen,1L,,,2426262P,,,,,,,,4.7,FALSE,4.7,FALSE,,,1534277373.0-C-1533
+2018-08-15 06:09:33 UTC,Connoisseur,Madagascan Vanilla With Chocolate Chip Cookies 4 Pack,Frozen,480mL,,,3251335P,,,,,,,,11,TRUE,10,FALSE,,,1534277373.0-C-1534
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Derwent Valley Raspberry & White Ice Cream,Frozen,1L,,,2442735P,,,,,,,,10,FALSE,10,FALSE,,,1534277373.0-C-1537
+2018-08-15 06:09:33 UTC,Peters,Skinny Cow Creamy Vanilla Cookies 4 pack,Frozen,440mL,60g,4,8153005P,900kJ,4.8g,2.7g,1.4g,40.8g,20.8g,165mg,6,FALSE,6,FALSE,,,1534277373.0-C-1538
+2018-08-15 06:09:33 UTC,Peters,Original Neapolitan,Frozen,4L,46g,40,5901340P,740kJ,2.0g,6.5g,4.0g,27.1g,21.3g,83mg,9.5,FALSE,9.5,FALSE,,,1534277373.0-C-1539
+2018-08-15 06:09:33 UTC,Peters,Cookies & Cream,Frozen,1.8L,,,2254688P,,,,,,,,5,FALSE,5,FALSE,,,1534277373.0-C-1540
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Himalayan Salted Chocolate Ice Cream 4 pack,Frozen,455mL,,,2406957P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534277373.0-C-1541
+2018-08-15 06:09:33 UTC,Skinny Cow,Triple Choc Ice Cream Sundaes,Frozen,680mL,,,2255206P,,,,,,,,6,FALSE,6,FALSE,,,1534277373.0-C-1542
+2018-08-15 06:09:33 UTC,Coles,Classics Chocolate Ice Cream 4 Pack,Frozen,468mL,,,8221761P,,,,,,,,4,FALSE,4,FALSE,,,1534277373.0-C-1543
+2018-08-15 06:09:33 UTC,Crazy Dragon,Chicken Dumplings,Frozen,1kg,,,2815661P,,,,,,,,20,FALSE,20,FALSE,,,1534277373.0-C-1547
+2018-08-15 06:09:33 UTC,Blue Ribbon,Reduced Fat Ice Cream Cookies & Cream,Frozen,2L,,20,1744411P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277373.0-C-1551
+2018-08-15 06:09:33 UTC,Coles,Australian Beef Burgers,Frozen,800g,,,2700580P,,,,,,,,7,FALSE,7,FALSE,,,1534277373.0-C-1566
+2018-08-15 06:09:33 UTC,Coles,Premium Australian Frozen Beef Burgers,Frozen,500g,,,2700590P,,,,,,,,7,FALSE,7,FALSE,,,1534277373.0-C-1567
+2018-08-15 06:09:33 UTC,On The Menu,Frozen Cheese Burger,Frozen,161g,,,1535105P,,,,,,,,3.15,FALSE,3.15,FALSE,,,1534277373.0-C-1568
+2018-08-15 06:09:33 UTC,Coles,Lemon Sorbet,Frozen,1L,,,6526021P,,,,,,,,4.7,FALSE,4.7,FALSE,,,1534277373.0-C-1579
+2018-08-15 06:09:33 UTC,Weis,Frozen Sorbet Australian Mango,Frozen,1L,,,7014681P,,,,,,,,7,TRUE,6,FALSE,,,1534277373.0-C-1580
+2018-08-15 06:09:33 UTC,Weis,Frozen Sorbet Refreshing Lemon,Frozen,1L,,,8240551P,,,,,,,,7,TRUE,6,FALSE,,,1534277373.0-C-1581
+2018-08-15 06:09:33 UTC,Weis,Dairy Free Dark Chocolate and Coconut Ice Bars,Frozen,4 pack,,,2975941P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277373.0-C-1582
+2018-08-15 06:09:33 UTC,On The Menu,Frozen Chicken Roll Roast,Frozen,179g,179g,1,6957191P,946kJ,12.3g,7.4g,1.3g,26.7g,3.3g,607mg,4.05,FALSE,4.05,FALSE,,,1534277373.0-C-1583
+2018-08-15 06:09:33 UTC,Connoisseur,Ice Cream Montana Mint,Frozen,1L,,,2982357P,,,,,,,,10,FALSE,10,FALSE,,,1534277373.0-C-1594
+2018-08-15 06:09:33 UTC,Coles,Mango Mini Sorbet Sticks 6 Pack,Frozen,360mL,,,1467195P,,,,,,,,4,FALSE,4,FALSE,,,1534277373.0-C-1595
+2018-08-15 06:09:33 UTC,Peters,Vanilla Lactose Free,Frozen,1.2L,49g (100mL),12,8601490P,880kJ,2.7g,10.9g,7.1g,25.3g,18.6g,70mg,7.6,FALSE,7.6,FALSE,,,1534277373.0-C-1596
+2018-08-15 06:09:33 UTC,Peters,No Sugar Added Creamy Vanilla Ice Cream,Frozen,1.2L,50g,12,7213440P,480kJ,5.6g,2.7g,1.8g,9.5g,9.5g,85mg,7.6,FALSE,7.6,FALSE,,,1534277373.0-C-1597
+2018-08-15 06:09:33 UTC,Coles,Honey Caramel & Macadamia Ice Cream,Frozen,1L,Approximately 72g,10,7695272P,1080,4.2,16,9.1,23.3,19.4,51,4.7,FALSE,4.7,FALSE,,,1534277373.0-C-1598
+2018-08-15 06:09:33 UTC,Coles,Vanilla Ice Cream,Frozen,1L,Approx. 78g (100mL),10,2426251P,976,3.8,14.4,9.3,21.6,18,41,4.7,FALSE,4.7,FALSE,,,1534277373.0-C-1599
+2018-08-15 06:09:33 UTC,Coles,Ultimate Peanut Butter Cookie Dough Ice Cream,Frozen,473mL,,,3146250P,,,,,,,,6,FALSE,6,FALSE,,,1534277373.0-C-1600
+2018-08-15 06:09:33 UTC,Halo Top,Peanut Butter Cup,Frozen,473mL,,,3146851P,,,,,,,,10,TRUE,8,FALSE,,,1534277373.0-C-1601
+2018-08-15 06:09:33 UTC,Weis,Frozen Sorbet Strawberry & Rasperry,Frozen,1L,,,5356720P,,,,,,,,7,TRUE,6,FALSE,,,1534277373.0-C-1602
+2018-08-15 06:09:33 UTC,Hanabi,Pork Spare Rib,Frozen,300g,,,2825643P,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534277373.0-C-1613
+2018-08-15 06:09:33 UTC,Peters,Original Vanilla Ice Cream,Frozen,2L,45g,20,239785P,750kJ,1.9g,6.4g,3.9g,28.0g,21.7g,85mg,5,TRUE,4,FALSE,,,1534277373.0-C-1614
+2018-08-15 06:09:33 UTC,Connoisseur,Vanilla Caramel Brownie Gourmet Ice Cream,Frozen,1L,,,3251233P,,,,,,,,11,TRUE,10,FALSE,,,1534277373.0-C-1615
+2018-08-15 06:09:33 UTC,Peters,Light & Creamy French Vanilla,Frozen,1.8L,46g,18,7207018P,650kJ,3.6g,2.7g,1.8g,28.9g,20.3g,75mg,5,FALSE,5,FALSE,,,1534277373.0-C-1616
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Cafe Grande Ice Cream,Frozen,1L,71g,10,5289995P,1150kJ,4.4g,15.6g,8.6g,28.6g,21.5g,59mg,10,FALSE,10,FALSE,,,1534277373.0-C-1617
+2018-08-15 06:09:33 UTC,Peters,Skinny Cow Chocolate Vanilla & Caramel Cups 4 pack,Frozen,680mL,91g,4,7210511P,530kJ,4.3g,2.5g,1.5g,10.7g,7.9g,110mg,6,FALSE,6,FALSE,,,1534277373.0-C-1618
+2018-08-15 06:09:33 UTC,Blue Ribbon,Caramel & Honeycomb Crunch Ice Cream,Frozen,2L,,,8609232P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277373.0-C-1619
+2018-08-15 06:09:33 UTC,Blue Ribbon,Reduced Fat Ice Cream Classic Chocolate,Frozen,2L,,,2976172P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277373.0-C-1620
+2018-08-15 06:09:33 UTC,Bulla,Creamy Classics Mint Chocolate Chip Ice Cream,Frozen,2L,47g,20,5049084P,921 kJ,3.1 g,12.3 g,8.6 g,24.3 g,21.9 g,49 mg,8,FALSE,8,FALSE,,,1534277373.0-C-1629
+2018-08-15 06:09:33 UTC,Coles,Neapolitan Ice Cream,Frozen,4L,,,208216P,,,,,,,,5.2,FALSE,5.2,FALSE,,,1534277373.0-C-1630
+2018-08-15 06:09:33 UTC,Peters,Original Vanilla,Frozen,4L,46g,40,5901329P,750kJ,1.9g,6.4g,3.9g,28.0g,21.7g,85mg,9.5,FALSE,9.5,FALSE,,,1534277373.0-C-1631
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Honey Macadamia Ice Cream,Frozen,1L,69g,10,5863864P,1140kJ,3.8g,16.9g,9.0g,26.5g,19.6g,62mg,10,FALSE,10,FALSE,,,1534277373.0-C-1632
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Chocolate Brownie & Chocolate Custard Ice Cream,Frozen,1L,,,2750395P,,,,,,,,10,FALSE,10,FALSE,,,1534277373.0-C-1633
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Murray River Salted Caramel Ice Cream,Frozen,1L,,,1892135P,,,,,,,,10,FALSE,10,FALSE,,,1534277373.0-C-1634
+2018-08-15 06:09:33 UTC,Cadbury,Boost Tub,Frozen,473mL,,,3259519P,,,,,,,,7.7,TRUE,7,FALSE,,,1534277373.0-C-1635
+2018-08-15 06:09:33 UTC,Peters,Light & Creamy Classic Vanilla,Frozen,1.8L,46g,18,7206977P,660kJ,3.6g,2.8g,1.8g,28.9g,20.3g,75mg,5,FALSE,5,FALSE,,,1534277373.0-C-1636
+2018-08-15 06:09:33 UTC,Peters,Original Neapolitan,Frozen,2L,46g,20,315690P,740kJ,2.0g,6.5g,4.0g,27.1g,21.3g,87mg,5,TRUE,4,FALSE,,,1534277373.0-C-1637
+2018-08-15 06:09:33 UTC,Peters,Original Rainbow,Frozen,2L,,,2858165P,,,,,,,,5,TRUE,4,FALSE,,,1534277373.0-C-1638
+2018-08-15 06:09:33 UTC,Cadbury,Crunchy Tub,Frozen,473mL,,,2984024P,,,,,,,,7,FALSE,7,FALSE,,,1534277373.0-C-1639
+2018-08-15 06:09:33 UTC,Edgell,Frozen Chiko Rolls 4 pack,Frozen,650g,162,4,6970032P,,5.4g,5.7g,2.4g,28.2g,2.1g,399mg,5.35,FALSE,5.35,FALSE,,,1534277373.0-C-1650
+2018-08-15 06:09:33 UTC,Nanna's,Frozen Family Apple Pie,Frozen,600g,100g,6,187477P,1000kJ,3.0g,9.8g,4.9g,33.9g,16.0g,239mg,5.7,FALSE,5.7,FALSE,,,1534277373.0-C-1651
+2018-08-15 06:09:33 UTC,Coles,Beef Frozen Pie 4 pack,Frozen,700g,,,5181729P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1652
+2018-08-15 06:09:33 UTC,Sanitarium,So Good Vanilla Bliss Ice Cream,Frozen,1L,51g,10,8264200P,630kJ,2.9g,2.9g,0.7g,27.5g,16.2g,60mg,6.6,FALSE,6.6,FALSE,,,1534277373.0-C-1653
+2018-08-15 06:09:33 UTC,Sara Lee,Classic Ultra Chocolate Ice Cream,Frozen,1L,,,5050163P,,,,,,,,9,TRUE,4.5,FALSE,,,1534277373.0-C-1654
+2018-08-15 06:09:33 UTC,Sara Lee,Classic Honeycomb & Butterscotch Ice Cream,Frozen,1L,,,5461124P,,,,,,,,9,TRUE,4.5,FALSE,,,1534277373.0-C-1655
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Classic Vanilla Ice Cream,Frozen,1L,91g,10,5615272P,1030kJ,3.8g,14.7g,9.5g,24.8g,19.5g,66mg,10,FALSE,10,FALSE,,,1534277373.0-C-1656
+2018-08-15 06:09:33 UTC,Coles,Vanilla,Frozen,4L,,,208205P,,,,,,,,5.2,FALSE,5.2,FALSE,,,1534277373.0-C-1657
+2018-08-15 06:09:33 UTC,Bulla,Creamy Classics Chocolate Chip Ice Cream,Frozen,2L,47g,20,9486397P,980 kJ,3.6 g,13.2 g,9.5 g,25.4 g,21.9 g,45 mg,8,FALSE,8,FALSE,,,1534277373.0-C-1658
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Cookies & Cream Ice Cream,Frozen,1L,65g,10,5832850P,1160kJ,4.2g,14.7g,9.0g,31.9g,20.7g,150mg,10,FALSE,10,FALSE,,,1534277373.0-C-1659
+2018-08-15 06:09:33 UTC,Coles,Vanilla,Frozen,2L,,,207971P,,,,,,,,2.65,FALSE,2.65,FALSE,,,1534277373.0-C-1660
+2018-08-15 06:09:33 UTC,Bulla,Creamy Classics Vanilla & Boysenberry Ice Cream,Frozen,2L,,,2858336P,,,,,,,,8,FALSE,8,FALSE,,,1534277373.0-C-1661
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Belgian Chocolate Ice Cream,Frozen,1L,72g,10,8591487P,1040kJ,3.9g,15.5g,10.1g,23.4g,22.6g,55mg,10,FALSE,10,FALSE,,,1534277373.0-C-1662
+2018-08-15 06:09:33 UTC,Cadbury,Picnic Tub,Frozen,473mL,,,2984035P,,,,,,,,7,FALSE,7,FALSE,,,1534277373.0-C-1663
+2018-08-15 06:09:33 UTC,Balfours,Traditional Frozen Pies 4 pack,Frozen,680g,170g,4,6070086P,1090kJ,7.7g,15.0g,7.8g,23.4g,0.3g,476mg,7.5,TRUE,3.75,FALSE,,,1534277373.0-C-1672
+2018-08-15 06:09:33 UTC,Marathon,Frozen Dim Sims 30 Pack,Frozen,1.5kg,50g (1 Dim Sim),30,182790P,802kJ,7.0g,5.2g,3.2g,28.4g,2.0g,540mg,8.4,FALSE,8.4,FALSE,,,1534277373.0-C-1673
+2018-08-15 06:09:33 UTC,Nanna's,Frozen Snack Apple Pies,Frozen,450g,,,2266246P,,,,,,,,5.7,FALSE,5.7,FALSE,,,1534277373.0-C-1674
+2018-08-15 06:09:33 UTC,Coles,Sausage Rolls,Frozen,1kg,,,2733090P,,,,,,,,5,FALSE,5,FALSE,,,1534277373.0-C-1675
+2018-08-15 06:09:33 UTC,Mrs Macs,Crispy Microwave Frozen Beef Pie,Frozen,200g,200,1,5040013P,,9.2g,15.1g,7.2g,25.7g,0.6g,430mg,2.25,FALSE,2.25,FALSE,,,1534277373.0-C-1676
+2018-08-15 06:09:33 UTC,Nanna's,Frozen Snack Size Blackberry & Apple Pies 4 pack,Frozen,450g,113g,4,5006547P,1240kJ,3.5g,12.9g,6.3g,40.2g,18.1g,296mg,5.7,FALSE,5.7,FALSE,,,1534277373.0-C-1677
+2018-08-15 06:09:33 UTC,Peters,Maxibon Vanilla 4 pack,Frozen,620mL,102g,4,6432008P,1330kJ,4.0g,15.6g,10.9g,39.7g,27.0g,105mg,8.4,TRUE,5,FALSE,,,1534277373.0-C-1678
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Murray River Salted Caramel & Macadamia Mini Ice Cream 6 pack,Frozen,360mL,,,1745389P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534277373.0-C-1679
+2018-08-15 06:09:33 UTC,Peters,Connoisseur Belgian Chocolate & Hazelnut Ice Cream 4 pack,Frozen,456mL,,,2751707P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534277373.0-C-1680
+2018-08-15 06:09:33 UTC,Bulla,Splits Tropical & Raspberry Mini 14 pack,Frozen,560mL,37g,14,6701416P,616 kJ,1.5 g,5.7 g,3.4 g,22.2 g,20.7 g,30 mg,6.8,TRUE,3.4,FALSE,,,1534277373.0-C-1681
+2018-08-15 06:09:33 UTC,Bulla,Splits Raspberry 10 pack,Frozen,750mL,64g,10,5892283P,619 kJ,1.4 g,5.5 g,3.7 g,22.9 g,21.8 g,28 mg,6.8,TRUE,3.4,FALSE,,,1534277373.0-C-1682
+2018-08-15 06:09:33 UTC,Bulla,Frozen Double Chocolate Crunch Ice Cream 8 pack,Frozen,631mL,60g,8,5974741P,1258 kJ,2.7 g,20.0 g,15.0 g,27.2 g,24.0 g,47 mg,6.8,TRUE,3.4,FALSE,,,1534277373.0-C-1683
+2018-08-15 06:09:33 UTC,Ben & Jerry's,Chocolate Chip Cookie Dough Ice Cream,Frozen,458mL,,4,7806125P,,,,,,,,12,FALSE,12,FALSE,,,1534277373.0-C-1684
+2018-08-15 06:09:33 UTC,Magnum,Tub Ice Cream Classic,Frozen,440mL,,,2976140P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277373.0-C-1685
+2018-08-15 06:09:33 UTC,Bulla,Creamy Classics Cookies & Cream Ice Cream,Frozen,2L,47g,20,9486411P,934 kJ,3.2 g,11.7 g,7.5 g,26.4 g,20.5 g,92 mg,8,FALSE,8,FALSE,,,1534277373.0-C-1686
+2018-08-15 06:09:33 UTC,Sanitarium,Almond Salted Caramel,Frozen,475mL,70g (119mL),4,2976955P,806kJ,1.5g,6.4g,1.0g,29.6g,17.1g,76mg,6.5,FALSE,6.5,FALSE,,,1534277373.0-C-1687
+2018-08-15 06:09:33 UTC,Sanitarium,Choc Almond,Frozen,475mL,69g (119mL),4,2976944P,781kJ,1.9g,6.6g,1.1g,27.1g,16.1g,53mg,6.5,FALSE,6.5,FALSE,,,1534277373.0-C-1688
+2018-08-15 06:09:33 UTC,Sara Lee,Classic French Vanilla Ice Cream,Frozen,1L,,,5050130P,,,,,,,,9,TRUE,4.5,FALSE,,,1534277373.0-C-1689
+2018-08-15 06:09:33 UTC,Steggles,Frozen Crunchy Southern Style Chicken Strips,Frozen,400g,100g,4,6624993P,996kJ,11.6g,14.6g,3.0g,14.7g,4.0g,719mg,7.48,TRUE,4,FALSE,,,1534277373.0-C-1692
+2018-08-15 06:09:33 UTC,Lilydale Free Range,Mexican Spiced,Frozen,350g,,,3081745P,,,,,,,,10,FALSE,10,FALSE,,,1534277373.0-C-1693
+2018-08-15 06:09:33 UTC,Lilydale Free Range,Lemon & Pepper,Frozen,350g,,,3081734P,,,,,,,,10,FALSE,10,FALSE,,,1534277373.0-C-1694
+2018-08-15 06:09:33 UTC,Steggles,Sweet Chilli Chicken Fingers,Frozen,400g,100g,4,2719985P,1050kJ,10.9g,11.1g,1.6g,26.7g,6.4g,640mg,7.48,TRUE,4,FALSE,,,1534277373.0-C-1695
+2018-08-15 06:09:33 UTC,Steggles,Southern Style Chicken Schnitzel,Frozen,400g,,,1981177P,,,,,,,,8.9,TRUE,7.1,FALSE,,,1534277373.0-C-1696
+2018-08-15 06:09:33 UTC,Coles,Garlic & Herb Frozen Chicken Schnitzels 2 pack,Frozen,380g,,,3186153P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277373.0-C-1697
+2018-08-15 06:09:33 UTC,Steggles,Frozen Turkey Breast Roast,Frozen,1kg,100g,10,5588646P,404kJ,20.2g,<1.0g,<1.0g,1.9g,<1.0g,423mg,22,FALSE,22,FALSE,,,1534277373.0-C-1698
+2018-08-15 06:09:33 UTC,Coles,Vegetable Cocktail Frozen Spring Rolls 60 pack,Frozen,1kg,,,2481952P,,,,,,,,5,FALSE,5,FALSE,,,1534277373.0-C-1699
+2018-08-15 06:09:33 UTC,Zooper Dooper,Multi Flavours Ice Blocks 24 pack,Frozen,1.68kg,70mL,24,198393P,255kJ,0g,0g,0g,16.2g,15.8g,20mg,5.79,FALSE,5.79,FALSE,,,1534277373.0-C-1700
+2018-08-15 06:09:33 UTC,Coles,Choc Pops 10 pack,Frozen,700mL,Approximately 67g,10,7172194P,733,3.7,5.5,2.7,26.4,18.6,51,3.75,FALSE,3.75,FALSE,,,1534277373.0-C-1701
+2018-08-15 06:09:33 UTC,Coles,Lemonade Ice Sticks 8 pack,Frozen,600mL,,,7181107P,,,,,,,,3.6,FALSE,3.6,FALSE,,,1534277373.0-C-1702
+2018-08-15 06:09:33 UTC,Magnum,Mini Almond Ice Cream 6 Pack,Frozen,360mL,,6,9091672P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277373.0-C-1703
+2018-08-15 06:09:33 UTC,Coles,Boysenberry Ice Cream Cones,Frozen,475mL,,,8559586P,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534277373.0-C-1704
+2018-08-15 06:09:33 UTC,Coles,Classic Vanilla Ice Cream 4 Pack,Frozen,468mL,,,7203039P,,,,,,,,4,FALSE,4,FALSE,,,1534277373.0-C-1705
+2018-08-15 06:09:33 UTC,Coles,Assorted Flavours Water Ice Sticks 20 Pack,Frozen,1.4L,,,5054583P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277373.0-C-1706
+2018-08-15 06:09:33 UTC,Coles,Classics Almond Ice Cream 4 pack,Frozen,468mL,,,7203017P,,,,,,,,4,FALSE,4,FALSE,,,1534277373.0-C-1707
+2018-08-15 06:09:33 UTC,Connoisseur,Mango And Coconut Ice Cream 4 Pack,Frozen,4 pack,,,2978010P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534277373.0-C-1708
+2018-08-15 06:09:34 UTC,Magnum,Ice Cream White 4 pack,Frozen,428mL,,,6583193P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277374.0-C-1709
+2018-08-15 06:09:34 UTC,Peters,Connoisseur Sicilian Blood Orange & Chocolate Ice Cream 4 pack,Frozen,455mL,,,2406979P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534277374.0-C-1710
+2018-08-15 06:09:34 UTC,Streets,Calippo Mini Water Ice Raspberry Pineapple 10 pack,Frozen,575mL,,,6050216P,,,,,,,,7,FALSE,7,FALSE,,,1534277374.0-C-1711
+2018-08-15 06:09:34 UTC,Magnum,White Almond,Frozen,388mL,,,3251594P,,,,,,,,9.35,TRUE,8.5,FALSE,,,1534277374.0-C-1712
+2018-08-15 06:09:34 UTC,Maxibon Monster,Cookie,Frozen,620mL,,,2858096P,,,,,,,,8.4,TRUE,5,FALSE,,,1534277374.0-C-1713
+2018-08-15 06:09:34 UTC,Peters,Drumstick Vanilla 4 pack,Frozen,475mL,74g,4,193844P,1320kJ,3.9g,17.3g,12.4g,36.2g,21.5g,60mg,8,TRUE,5,FALSE,,,1534277374.0-C-1714
+2018-08-15 06:09:34 UTC,Peters,Connoisseur Murray River Salted Caramel & Macadamia Ice Cream 4 pack,Frozen,455mL,,,1476210P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534277374.0-C-1715
+2018-08-15 06:09:34 UTC,Blue Ribbon,Classic Vanilla Ice cream,Frozen,2L,,20,207938P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277374.0-C-1716
+2018-08-15 06:09:34 UTC,Blue Ribbon,Light Vanilla Ice Cream,Frozen,2L,,20,5171270P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277374.0-C-1717
+2018-08-15 06:09:34 UTC,Ben & Jerry's,Ice Cream The Tonight Dough Starring Jimmy Fallon,Frozen,458mL,,,2750930P,,,,,,,,12,FALSE,12,FALSE,,,1534277374.0-C-1718
+2018-08-15 06:09:34 UTC,Bulla,Creamy Classics Vanilla Ice Cream,Frozen,2L,47g,20,9486590P,859 kJ,2.9 g,11.4 g,7.6 g,22.8 g,20 g,49 mg,8,FALSE,8,FALSE,,,1534277374.0-C-1719
+2018-08-15 06:09:34 UTC,Coles,Australian Beef Meatballs,Frozen,500g,,,2700604P,,,,,,,,7,FALSE,7,FALSE,,,1534277374.0-C-1720
+2018-08-15 06:09:34 UTC,Steggles,Frozen Crumbed Chicken Breast Tenders,Frozen,375g,100g,4,8434627P,829kJ,13.8g,11.6g,2.7g,8.8g,1.2g,380mg,7.8,TRUE,3.9,FALSE,,,1534277374.0-C-1721
+2018-08-15 06:09:34 UTC,Coles,Frozen Chicken Breast Tenders,Frozen,400g,Approximately 100g,4,5428275P,726,18,7.5,1.9,7.5,2.6,216,3.8,FALSE,3.8,FALSE,,,1534277374.0-C-1722
+2018-08-15 06:09:34 UTC,Steggles,Chicken Breast Tenders Southern Style,Frozen,400g,100g,4,2719963P,867kJ,13.3g,14.1g,3.4g,5.8g,1.2g,449mg,7.8,TRUE,3.9,FALSE,,,1534277374.0-C-1723
+2018-08-15 06:09:34 UTC,Steggles,Chicken Breast Fingers Sweet Chilli,Frozen,400g,100g,4,2719952P,938kJ,11.6g,12.0g,2.7g,16.9g,9.5g,535mg,7.8,TRUE,3.9,FALSE,,,1534277374.0-C-1724
+2018-08-15 06:09:34 UTC,Coles,Tempura Frozen Chicken Nuggets,Frozen,400g,100g (approx 5 nuggets),4,3182629P,949,16.4,12.7,1.5,11.2,LESS THAN 1g,387,3.6,FALSE,3.6,FALSE,,,1534277374.0-C-1725
+2018-08-15 06:09:34 UTC,Steggles,Frozen Spicy Chicken Tenders,Frozen,385g,100g,4,2719974P,757kJ,13.0g,11.0g,2.5g,6.9g,0.7g,444mg,7.8,TRUE,3.9,FALSE,,,1534277374.0-C-1726
+2018-08-15 06:09:34 UTC,Chiko,10 Mini Chicken Kievs,Frozen,400g,120,3,3288437P,,11.2g,21.1g,8.3g,13.7g,2.2g,470mg,7.7,FALSE,7.7,FALSE,,,1534277374.0-C-1727
+2018-08-15 06:09:34 UTC,Magnum,Ice Cream Almond 4 pack,Frozen,428mL,,4,6893703P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277374.0-C-1729
+2018-08-15 06:09:34 UTC,Magnum,Ice Cream Classic 4 pack,Frozen,428mL,,,6893736P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277374.0-C-1730
+2018-08-15 06:09:34 UTC,Peters,Proud & Punch Orange You Glad Frozen Juice Sticks 6 pack,Frozen,450mL,,,2752608P,,,,,,,,8,FALSE,8,FALSE,,,1534277374.0-C-1731
+2018-08-15 06:09:34 UTC,Bulla,Splits Lemon-Lime Mango & Raspberry Variety 10 pack,Frozen,750mL,64g,10,5892294P,619 kJ,1.4 g,5.5 g,3.7 g,22.9 g,21.8 g,28 mg,6.8,TRUE,3.4,FALSE,,,1534277374.0-C-1732
+2018-08-15 06:09:34 UTC,Bulla,Crunch Caramel Strawberry & Honeycomb Variety Ice Cream 8 pack,Frozen,631mL,60g,8,5974719P,1260 kJ,2.6 g,20.0 g,15.0 g,27.4 g,25.0 g,47 mg,6.8,TRUE,3.4,FALSE,,,1534277374.0-C-1733
+2018-08-15 06:09:34 UTC,Mars,Ice Bar,Frozen,6 Pack,,,9992122P,1440kJ,3.8g,18.3g,12.3g,40.4g,30.7g,91mg,8,FALSE,8,FALSE,,,1534277374.0-C-1734
+2018-08-15 06:09:34 UTC,Maltesers,Teasers Ice Stick,Frozen,360mL,,,2752142P,,,,,,,,8,FALSE,8,FALSE,,,1534277374.0-C-1735
+2018-08-15 06:09:34 UTC,Bulla,Mini Strawberry Mango Wildberry & Passionfruit Variety Mini Frozen Yoghurt Sticks 14 pack,Frozen,504g,34g,14,6043866P,533 kJ,4.5 g,3.0 g,2.0 g,20.7 g,19.4 g,55 mg,6.8,TRUE,3.4,FALSE,,,1534277374.0-C-1736
+2018-08-15 06:09:34 UTC,Coles,Choc Coated Ice Creams 10 Pack,Frozen,865mL,,,4695822P,,,,,,,,3,FALSE,3,FALSE,,,1534277374.0-C-1737
+2018-08-15 06:09:34 UTC,Magnum,Mini Classic Ice Cream 6 Pack,Frozen,360mL,,6,9091344P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277374.0-C-1738
+2018-08-15 06:09:34 UTC,Coles,Cookies & Cream Sandwich Ice Cream 4 Pack,Frozen,440mL,,,2426138P,,,,,,,,3,FALSE,3,FALSE,,,1534277374.0-C-1739
+2018-08-15 06:09:34 UTC,Coles,Vanilla Ice Cream Sandwich 4 Pack,Frozen,440mL,,,2232528P,,,,,,,,3,FALSE,3,FALSE,,,1534277374.0-C-1740
+2018-08-15 06:09:34 UTC,Bulla,Creamy Classics Vanilla Ice Cream Sandwich,Frozen,4 pack,,,2983892P,,,,,,,,8,FALSE,8,FALSE,,,1534277374.0-C-1741
+2018-08-15 06:09:34 UTC,Coles,Banana Pops 10 Pack,Frozen,700mL,Approx. 67g (70mL),10,7172208P,708,2.9,5.1,2.4,27.4,18.6,37,3.75,FALSE,3.75,FALSE,,,1534277374.0-C-1742
+2018-08-15 06:09:34 UTC,Connoisseur,Mini Vanilla Gourmet Ice Cream,Frozen,360mL,,,3124270P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534277374.0-C-1743
+2018-08-15 06:09:34 UTC,M & M's,Bar,Frozen,4 pack,,,3125181P,,,,,,,,8,FALSE,8,FALSE,,,1534277374.0-C-1744
+2018-08-15 06:09:34 UTC,Magnum,Ice Cream Honeycomb Crunch 4 pack,Frozen,428mL,,4,1467210P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277374.0-C-1745
+2018-08-15 06:09:34 UTC,Paddle Pop,Water Ice Cyclone 8 pack,Frozen,688mL,,,9368743P,,,,,,,,7,FALSE,7,FALSE,,,1534277374.0-C-1746
+2018-08-15 06:09:34 UTC,Peters,Drumstick Vanilla Minis 6 pack,Frozen,490mL,52g,6,5863445P,1410kJ,4.6g,18.5g,12.8g,37.8g,23.4g,56mg,8,TRUE,5,FALSE,,,1534277374.0-C-1747
+2018-08-15 06:09:34 UTC,Peters,Lemonade Icy Pole 8 pack,Frozen,600mL,80g,8,4192537P,250kJ,Less than 0.1g,Less than 0.1g,Less than 0.1g,14.2g,14.2g,Less than 5mg,4.6,FALSE,4.6,FALSE,,,1534277374.0-C-1748
+2018-08-15 06:09:34 UTC,Connoisseur,Barossa Valley Merlot With Blackberry And Chocolate Cookies 4 Pack,Frozen,480mL,,,3251288P,,,,,,,,11,TRUE,10,FALSE,,,1534277374.0-C-1749
+2018-08-15 06:09:34 UTC,Streets,Magnum Chocolate Strawberry Mini 6 pack,Frozen,360mL,,,2250440P,,,,,,,,8,FALSE,8,FALSE,,,1534277374.0-C-1750
+2018-08-15 06:09:34 UTC,Tofutti,Cuties Dairy Free Chocolate Ice Cream Sandwich 8 pack,Frozen,340g,,,5361221P,,,,,,,,7.2,FALSE,7.2,FALSE,,,1534277374.0-C-1751
+2018-08-15 06:09:34 UTC,Weis,Tropical Fruit & Cream Ice Bars 4 Pack,Frozen,280mL,,,424674P,,,,,,,,6.8,FALSE,6.8,FALSE,,,1534277374.0-C-1752
+2018-08-15 06:09:34 UTC,Weis,Mango & Toasted Coconut Ice Bars 6 Pack,Frozen,264mL,,,2427323P,,,,,,,,6.8,FALSE,6.8,FALSE,,,1534277374.0-C-1753
+2018-08-15 06:09:34 UTC,Streets,Golden Gaytime Ice Cream Original 4 Pack,Frozen,400mL,,,9611648P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277374.0-C-1766
+2018-08-15 06:09:34 UTC,Snickers,Ice Bar,Frozen,6 Pack,,,9979394P,1550kJ,6.3g,20.3g,11.1g,40.2g,28.9g,86mg,8,FALSE,8,FALSE,,,1534277374.0-C-1767
+2018-08-15 06:09:34 UTC,Gelato,Hazelnut Ice Cream,Frozen,500mL,100ml,5,8102332P,726kJ,4.9g,6.1g,4.0g,23.8g,19.8g,65mg,0,FALSE,0,FALSE,,,1534277374.0-C-1768
+2018-08-15 06:09:34 UTC,Magnum,Mini Ice Cream Double Caramel 6 pack,Frozen,360mL,,,2788285P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277374.0-C-1769
+2018-08-15 06:09:34 UTC,Magnum,Hazelnut Praline Ice Cream And Chocolate Shards,Frozen,440mL,,,3252757P,,,,,,,,9.35,TRUE,8.5,FALSE,,,1534277374.0-C-1770
+2018-08-15 06:09:34 UTC,Rio,Assorted Ice Cream,Frozen,1.8L,,,6989551P,,,,,,,,11.25,FALSE,11.25,FALSE,,,1534277374.0-C-1771
+2018-08-15 06:09:34 UTC,Rio,Minis Magic Vanilla Crunch Ice Cream,Frozen,360g,,,6591260P,,,,,,,,11,FALSE,11,FALSE,,,1534277374.0-C-1772
+2018-08-15 06:09:34 UTC,Bulla,Real Dairy Vanilla Gluten Free Ice Cream,Frozen,1L,,,3243825P,,,,,,,,5.5,TRUE,5,FALSE,,,1534277374.0-C-1784
+2018-08-15 06:09:34 UTC,Coles,Classics Almond Mini Ice Cream 6 Pack,Frozen,360mL,,,7202863P,,,,,,,,4,FALSE,4,FALSE,,,1534277374.0-C-1785
+2018-08-15 06:09:34 UTC,Coles,Ultimate Mint Choco Chips Ice Cream,Frozen,473mL,,,3146283P,,,,,,,,6,FALSE,6,FALSE,,,1534277374.0-C-1786
+2018-08-15 06:09:34 UTC,Gelato,Coffee Ice Cream,Frozen,500mL,100mL,5,8102343P,576kJ,4.4g,3.8g,2.4g,21.3g,16.8g,59mg,0,FALSE,0,FALSE,,,1534277374.0-C-1787
+2018-08-15 06:09:34 UTC,Haagen -Dazs,Salted Caramel Ice Cream,Frozen,457mL,,,2752700P,,,,,,,,11.5,TRUE,8,FALSE,,,1534277374.0-C-1788
+2018-08-15 06:09:34 UTC,Steggles,Frozen Sweet Chilli Chicken Tenders,Frozen,1kg,62.5g,16,3088438P,946kJ,13.7g,12.4g,1.9g,14.6g,2.2g,379mg,16,TRUE,11,FALSE,,,1534277374.0-C-1828
+2018-08-15 06:09:34 UTC,Dr. Oetker,Papa Giuseppis BBQ Meat Lovers Pizza,Frozen,460g,,,3155820P,,,,,,,,8,FALSE,8,FALSE,,,1534277374.0-C-1926
+2018-08-15 06:09:34 UTC,Birds Eye,Deli Frozen Roast Potatoes with Rosemary & Garlic,Frozen,600g,100,6,2256650P,,,,,,,,3.95,FALSE,3.95,FALSE,,,1534277374.0-C-1930
+2018-08-15 06:09:34 UTC,McCain,Ultra Thin Crust Pepperoni Frozen Pizza,Frozen,330g,,,9861747P,,,,,,,,7,TRUE,5,FALSE,,,1534277374.0-C-1932
+2018-08-15 06:09:34 UTC,Dr. Oetker,Ristorante Speciale Frozen Pizza,Frozen,345g,345g,1,2632231P,960 kJ,9.9 g,10.3 g,3.4 g,23.2 g,3.4 g,510 mg,7.5,FALSE,7.5,FALSE,,,1534277374.0-C-1933
+2018-08-15 06:09:34 UTC,Coles,Gluten Free 3 Puff Pastry Sheets,Frozen,600g,,,3228989P,,,,,,,,8,FALSE,8,FALSE,,,1534277374.0-C-1934
+2018-08-15 06:09:34 UTC,Dr. Oetker,Gluten Free Ristorante Pizza Mozzarella,Frozen,370g,,,3217949P,,,,,,,,10.45,TRUE,9.5,FALSE,,,1534277374.0-C-1935
+2018-08-15 06:09:34 UTC,McCain,Spinach & Mozzarella Sourdough Rustica Pizza,Frozen,365g,,,2876870P,,,,,,,,7.5,TRUE,6,FALSE,,,1534277374.0-C-1936
+2018-08-15 06:09:34 UTC,Dr. Oetker,Ristorante Funghi (Mushroom) Frozen Pizza,Frozen,365g,365g,1,7308059P,996 kJ,7.8 g,12.3 g,3.2 g,22.9 g,1.6 g,490 mg,7.5,FALSE,7.5,FALSE,,,1534277374.0-C-1937
+2018-08-15 06:09:34 UTC,McCain,Pumpkin & Spinach Rustica Pizza,Frozen,386g,,,3212286P,,,,,,,,7.5,TRUE,6,FALSE,,,1534277374.0-C-1938
+2018-08-15 06:09:34 UTC,Coles,Meatball Pizza Subs,Frozen,270g,,,3160353P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277374.0-C-1939
+2018-08-15 06:09:34 UTC,Dr. Oetker,Ristorante Hawaii Frozen Pizza,Frozen,355g,355g,1,8634954P,925 kJ,9.0 g,8.6 g,2.7 g,26.0 g,6.0 g,450 mg,7.5,FALSE,7.5,FALSE,,,1534277374.0-C-1940
+2018-08-15 06:09:34 UTC,Birds Eye,Deli Style Sea Salt & Rosemary Frozen Potato Chips,Frozen,600g,100,6,1194503P,,2g,7.9g,0.6g,21.3g,<0.99g,273mg,3.95,FALSE,3.95,FALSE,,,1534277374.0-C-1941
+2018-08-15 06:09:34 UTC,McCain,Supreme Frozen Pizza Singles 4 pack,Frozen,400g,100g,4,5446197P,883kJ,11.3g,5.8g,3.5g,26.8g,4.0g,290mg,7,FALSE,7,FALSE,,,1534277374.0-C-1942
+2018-08-15 06:09:34 UTC,Coles,Garlic Bread,Frozen,225g,,,3160320P,,,,,,,,2,FALSE,2,FALSE,,,1534277374.0-C-1943
+2018-08-15 06:09:34 UTC,McCain,Family Cheese & Bacon Frozen Pizza,Frozen,500g,125g,4,181572P,934kJ,12.9g,7.0g,3.9g,26.0g,5.0g,380mg,6.5,FALSE,6.5,FALSE,,,1534277374.0-C-1944
+2018-08-15 06:09:34 UTC,McCain,Meat Lovers Frozen Pizza Slices 6 pack,Frozen,600g,,,8544793P,,,,,,,,7,FALSE,7,FALSE,,,1534277374.0-C-1948
+2018-08-15 06:09:34 UTC,Coles,Pepperoni Pizza,Frozen,500g,,,3150575P,,,,,,,,3,FALSE,3,FALSE,,,1534277374.0-C-1949
+2018-08-15 06:09:34 UTC,McCain,Cheese & Bacon Frozen Pizza Slices 6 pack,Frozen,600g,,,8544829P,,,,,,,,7,FALSE,7,FALSE,,,1534277374.0-C-1950
+2018-08-15 06:09:34 UTC,Coles,Frozen Cauliflower Florets,Frozen,500g,,,186587P,,,,,,,,2.15,FALSE,2.15,FALSE,,,1534277374.0-C-1952
+2018-08-15 06:09:34 UTC,Coles,BBQ Meatlovers Frozen Pizza,Frozen,500g,,,2632184P,,,,,,,,3,FALSE,3,FALSE,,,1534277374.0-C-1953
+2018-08-15 06:09:34 UTC,Coles,Hawaiian Frozen Pizza,Frozen,500g,,,2632162P,,,,,,,,3,FALSE,3,FALSE,,,1534277374.0-C-1955
+2018-08-15 06:09:34 UTC,Dr. Oetker,Ristorante Mozzarella Frozen Pizza,Frozen,335g,335g,1,7308081P,1091 kJ,10.4 g,13.3 g,4.6 g,23.9 g,2.8 g,418 mg,7.5,FALSE,7.5,FALSE,,,1534277374.0-C-1956
+2018-08-15 06:09:34 UTC,Dr. Oetker,Ristorante Spinaci (Spinach) Frozen Pizza,Frozen,390g,390g,1,7308048P,943 kJ,7.2 g,11.7 g,2.8 g,21.6 g,1.7 g,482 mg,7.5,FALSE,7.5,FALSE,,,1534277374.0-C-1957
+2018-08-15 06:09:34 UTC,Dr. Oetker,Ristorante Pepperoni Frozen Pizza,Frozen,310g,310g,1,8634943P,1120 kJ,10.4 g,13.2 g,4.2 g,25.4 g,3.5 g,600 mg,7.5,FALSE,7.5,FALSE,,,1534277374.0-C-1958
+2018-08-15 06:09:34 UTC,Fry's,Family Meat Free Battered Prawn Style Pieces,Frozen,250g,,,3217960P,,,,,,,,6,FALSE,6,FALSE,,,1534277374.0-C-1959
+2018-08-15 06:09:34 UTC,McCain,Ultra Thin Crust Angus Beef Frozen Pizza,Frozen,320g,,,9861736P,,,,,,,,7,TRUE,5,FALSE,,,1534277374.0-C-1960
+2018-08-15 06:09:34 UTC,Pampas,Frozen Shortcrust Pastry Sheets 5 pack,Frozen,1kg,50g,20,4972387P,1710kJ,6.6g,22.6g,10.3g,44.6g,2.0g,425mg,5.5,TRUE,3.5,FALSE,,,1534277374.0-C-1961
+2018-08-15 06:09:34 UTC,Pampas,Frozen Reduced Fat Puff Pastry Sheets 6 pack,Frozen,1kg,,,9514561P,,,,,,,,5.5,TRUE,3.5,FALSE,,,1534277374.0-C-1962
+2018-08-15 06:09:34 UTC,Mai Hong,Frozen Spring Roll Pastry Sheets 20 pack,Frozen,250g,50g,20,5978334P,1260kJ,7.4g,0.5g,,64.8g,6.7g,220mg,3,FALSE,3,FALSE,,,1534277374.0-C-1963
+2018-08-15 06:09:34 UTC,Pampas,Frozen Puff Pastry Sheets 6 pack,Frozen,1kg,Approx. 50g,2,125345P,1390kJ,6.2g,15.8g,7.8g,41.3g,2.5g,345mg,5.5,TRUE,3.5,FALSE,,,1534277374.0-C-1964
+2018-08-15 06:09:34 UTC,Fry's,Family Meat Free Sausage Rolls,Frozen,400g,100 g (grammes),4,3217950P,1220 kJ,11.2 g,18.0 g,7.1 g,19.0 g,1.0 g,410 mg,6.6,TRUE,6,FALSE,,,1534277374.0-C-1965
+2018-08-15 06:09:34 UTC,Steggles,Chicken Breast Nuggets Microwavable,Frozen,400g,100g,4,3230776P,1111kJ,12.5g,16.7g,3.8g,15.5g,1.6g,431mg,5,FALSE,5,FALSE,,,1534277374.0-C-1968
+2018-08-15 06:09:34 UTC,Quorn,Frozen Meat Free Soy Free Sausage Rolls,Frozen,300g,100g,3,7644464P,1310kJ,9.0g,22.0g,10.0g,19.0g,1.6g,599mg,6.2,TRUE,3.1,FALSE,,,1534277374.0-C-1969
+2018-08-15 06:09:34 UTC,Coles,Mozzarella Dippers and Sauce,Frozen,330g,,,2481930P,,,,,,,,5,FALSE,5,FALSE,,,1534277374.0-C-1970
+2018-08-15 06:09:34 UTC,Amy's Kitchen,Gluten Free Cheddar Rice & Bean Burrito Frozen Meal,Frozen,156g,,,1991964P,,,,,,,,5.5,TRUE,4.9,FALSE,,,1534277374.0-C-1971
+2018-08-15 06:09:34 UTC,Steggles,Creamy Garlic Chicken Kiev,Frozen,600g,150g,4,3230787P,805kJ,14.8g,11.8g,3.9g,6.3g,1.8g,580mg,12.65,TRUE,9.2,FALSE,,,1534277374.0-C-1972
+2018-08-15 06:09:34 UTC,Steggles,Frozen Chicken Tempura Crackles,Frozen,400g,100g,4,5405881P,742kJ,13.8g,8.3g,2.5g,11.9g,Less than 1g,413mg,7.48,TRUE,4,FALSE,,,1534277374.0-C-1973
+2018-08-15 06:09:34 UTC,Coles,Mac & Cheese Balls 10 Pack,Frozen,300g,,,3051085P,,,,,,,,5,FALSE,5,FALSE,,,1534277374.0-C-1974
+2018-08-15 06:09:34 UTC,Steggles,Chicken Party Bucket,Frozen,600g,,,3230743P,,,,,,,,18.15,TRUE,16.5,FALSE,,,1534277374.0-C-1976
+2018-08-15 06:09:34 UTC,Vegie Delights,Smoked Chipotle Sausages,Frozen,300g,100g 2 sausages,3,2750001P,,17.4 g,11.1 g,1.4 g,10.9 g,2.3 g,470 mg,7,FALSE,7,FALSE,,,1534277374.0-C-1977
+2018-08-15 06:09:34 UTC,Patties,Mexican Beef & Salsa Party Pie,Frozen,560g,,,3171644P,,,,,,,,7.15,FALSE,7.15,FALSE,,,1534277374.0-C-1983
+2018-08-15 06:09:34 UTC,Mr.Chen's,Steamed Prawn Roll,Frozen,300g,,,3051405P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277374.0-C-1984
+2018-08-15 06:09:34 UTC,Sara Lee,Incredibly Fruity Apple Crumble Deep Dish Pie,Frozen,800g,,,6041871P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277374.0-C-1985
+2018-08-15 06:09:34 UTC,Temptation,Premium Tasty Cheese & Bacon Quiches 2 pack,Frozen,280g,,,3014318P,,,,,,,,5,FALSE,5,FALSE,,,1534277374.0-C-1986
+2018-08-15 06:09:34 UTC,Steggles,Chicken Dinosnacks,Frozen,1kg,100g (Approx 5 Dino Snacks),10,3088427P,671kJ,13.2g,7.6g,0.9g,9.7g,0.3g,320mg,16,TRUE,11,FALSE,,,1534277374.0-C-1988
+2018-08-15 06:09:34 UTC,Gluten Free Bakehouse,Chunky Aussie Beef Pies,Frozen,340g,,,3225007P,,,,,,,,8.8,TRUE,8,FALSE,,,1534277374.0-C-1989
+2018-08-15 06:09:34 UTC,Hanabi,Prawn & Pork Shao Mai,Frozen,300g,,,2770585P,,,,,,,,8,FALSE,8,FALSE,,,1534277374.0-C-1990
+2018-08-15 06:09:34 UTC,Kailis Bros,Frozen Green Curry Prawn Dumplings,Frozen,750 grams,,,2508516P,,,,,,,,16,FALSE,16,FALSE,,,1534277374.0-C-1991
+2018-08-15 06:09:34 UTC,Mr Chen's,Steam Selection 240 Gram,Frozen,240g,25g,9,9513467P,730kj,5g,6.3g,1.1g,23.9g,1.8g,570mg,7.5,FALSE,7.5,FALSE,,,1534277374.0-C-1992
+2018-08-15 06:09:34 UTC,Mr.Chen's,Crispy Prawn Wonton,Frozen,200g,,,3051121P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277374.0-C-1993
+2018-08-15 06:09:34 UTC,Steggles,Frozen Garlic Mini Chicken Kiev Balls,Frozen,400g,40g,1,1248158P,924kJ,14.1g,12.7g,4.0g,12.6g,4.0g,488mg,7,TRUE,5.6,FALSE,,,1534277374.0-C-1994
+2018-08-15 06:09:34 UTC,Crazy Dragon,Pork Dumplings,Frozen,1kg,,,2815650P,,,,,,,,20,FALSE,20,FALSE,,,1534277374.0-C-1995
+2018-08-15 06:09:34 UTC,Crazy Dragon,Prawn Dumplings,Frozen,1kg,,,2815640P,,,,,,,,20,FALSE,20,FALSE,,,1534277374.0-C-1996
+2018-08-15 06:09:34 UTC,Crazy Dragon,Chicken Karage,Frozen,750g,,,3051529P,,,,,,,,20,FALSE,20,FALSE,,,1534277374.0-C-1997
+2018-08-15 06:09:34 UTC,Easy Tiger,Classic Pork Balls,Frozen,250g,,,2770541P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277374.0-C-1998
+2018-08-15 06:09:34 UTC,Four'N Twenty,Angus Craft-Beer Smoky-Style Beef Pie,Frozen,700g,,,3050639P,,,,,,,,8.65,TRUE,5,FALSE,,,1534277374.0-C-1999
+2018-08-15 06:09:34 UTC,Mrs Quick,Frozen Sausage Rolls,Frozen,1kg,25g,40,5849273P,1129kJ,8.0g,14.5g,7.5g,26.9g,2.8g,450mg,7.54,FALSE,7.54,FALSE,,,1534277374.0-C-2000
+2018-08-15 06:09:34 UTC,Benny's,Kosher Frozen Mushroom Burekas,Frozen,800g,67g,12,6622885P,1675kJ,,25.4g,,,0.0g,,10.35,FALSE,10.35,FALSE,,,1534277374.0-C-2001
+2018-08-15 06:09:34 UTC,Coles,Chicken Kiev Balls,Frozen,480g,,,1575948P,,,,,,,,7,FALSE,7,FALSE,,,1534277374.0-C-2002
+2018-08-15 06:09:34 UTC,Coles,Spinach & Cheese Twirls 8 pack,Frozen,400g,,,2481850P,,,,,,,,5,FALSE,5,FALSE,,,1534277374.0-C-2003
+2018-08-15 06:09:34 UTC,Coles,Tempura Prawns 10 pack,Frozen,200g,,,2482004P,,,,,,,,7,FALSE,7,FALSE,,,1534277374.0-C-2004
+2018-08-15 06:09:34 UTC,Coles,Meatballs Crumbed Cheese & Chorizo,Frozen,400g,50g (2 balls),8,2796614P,1240,12.6,18.2,8.1,20.1,3.9,955,0,FALSE,0,FALSE,,,1534277374.0-C-2005
+2018-08-15 06:09:34 UTC,Coles,Corn Fritters 10 Pack,Frozen,300g,,,3051154P,,,,,,,,5,FALSE,5,FALSE,,,1534277374.0-C-2006
+2018-08-15 06:09:34 UTC,Coles,Prawn Sliders,Frozen,300g,,,3051100P,,,,,,,,5,FALSE,5,FALSE,,,1534277374.0-C-2007
+2018-08-15 06:09:35 UTC,Temptation,Frozen Petite Quiche Lorraines,Frozen,300g,17g,18,6941191P,1190kJ,7.7g,18.1g,9.9g,22.0g,1.8g,580mg,6,FALSE,6,FALSE,,,1534277375.0-C-2008
+2018-08-15 06:09:35 UTC,Hong Kong,Dim Sim Kitchen Sweet Egg Custard Bun,Frozen,200g,,,3051143P,,,,,,,,5,TRUE,2.5,FALSE,,,1534277375.0-C-2009
+2018-08-15 06:09:35 UTC,Kailis Bros,Prawn Hargow,Frozen,750g,,,3051074P,,,,,,,,16,FALSE,16,FALSE,,,1534277375.0-C-2010
+2018-08-15 06:09:35 UTC,Pacific West,Frozen Cocktail Spring Rolls,Frozen,430g,36g,12,5201236P,810kJ,4.3g,5.8g,1.8g,30.9g,0.5g,337mg,5.97,FALSE,5.97,FALSE,,,1534277375.0-C-2011
+2018-08-15 06:09:35 UTC,Vegie Delights,Herb & Garlic Sausages,Frozen,300g,,,3218260P,,,,,,,,7.7,TRUE,7,FALSE,,,1534277375.0-C-2012
+2018-08-15 06:09:35 UTC,Benny's,Kosher Frozen Potato Burekas,Frozen,800g,67g (1 piece),12,6624519P,,6.0g,,,43.3g,0.0g,0.0mg,10.8,FALSE,10.8,FALSE,,,1534277375.0-C-2013
+2018-08-15 06:09:35 UTC,Kailis Bros,Frozen Prawn Gyoza,Frozen,750 grams,125g,8,1548719P,930kj,6.8g,8.4g,2.5g,58.7g,2g,330mg,16,FALSE,16,FALSE,,,1534277375.0-C-2014
+2018-08-15 06:09:35 UTC,Coles,Gluten Free 10 Prawn Hargow,Frozen,200g,,,3222676P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277375.0-C-2015
+2018-08-15 06:09:35 UTC,Four'N Twenty,Angus Craft Beer & Classic Beef With Golden Ale Pies 4 Pack,Frozen,700g,,,3050617P,,,,,,,,8.65,TRUE,5,FALSE,,,1534277375.0-C-2016
+2018-08-15 06:09:35 UTC,Hanabi,Seaweed Spring Roll,Frozen,375g,,,2831872P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277375.0-C-2017
+2018-08-15 06:09:35 UTC,Hanabi,Prawn Wonton,Frozen,240g,,,2825654P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277375.0-C-2018
+2018-08-15 06:09:35 UTC,Herbert Adams,Moroccan Lamb Parties Pies,Frozen,420g,,,3171600P,,,,,,,,7.85,FALSE,7.85,FALSE,,,1534277375.0-C-2019
+2018-08-15 06:09:35 UTC,Pacific West,Frozen Thai Spring Rolls,Frozen,430g,36g,12,7765833P,810kJ,5.3g,4.9g,1.7g,31.9g,1.8g,358mg,5.97,FALSE,5.97,FALSE,,,1534277375.0-C-2020
+2018-08-15 06:09:35 UTC,Steggles,Frozen Chicken Tempura Dino Snacks,Frozen,400g,100g,4,5413937P,746kJ,11.5g,7.4g,1.7g,16.3g,3.7g,620mg,5,FALSE,5,FALSE,,,1534277375.0-C-2022
+2018-08-15 06:09:35 UTC,Steggles,Tempura Chicken Breast Pops,Frozen,1kg,,,3236976P,,,,,,,,17.6,TRUE,16,FALSE,,,1534277375.0-C-2023
+2018-08-15 06:09:35 UTC,Herbert Adams,Frozen Thai Green Chicken Curry Pies 2 pack,Frozen,420g,,,2900625P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277375.0-C-2024
+2018-08-15 06:09:35 UTC,Herbert Adams,Gourmet Slow Cooked Beef With Shiraz & Cracked Pepper,Frozen,400g,,,3171553P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277375.0-C-2025
+2018-08-15 06:09:35 UTC,Herbert Adams,Slow Cooked Beef with Portobello Mushroom & Merlot,Frozen,400g,,,3171564P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277375.0-C-2026
+2018-08-15 06:09:35 UTC,Hong Kong Dim Sim Kitchen,Frozen Siu Mai Bites,Frozen,200g,,,2356702P,,,,,,,,5,TRUE,2.5,FALSE,,,1534277375.0-C-2027
+2018-08-15 06:09:35 UTC,Vegie Delights,Tender Crumbed Schnitzel,Frozen,300g,75g 1 Schnitzel,4,4575140P,,15.9 g,13.1 g,1.3 g,21.5 g,3.1 g,660 mg,6.5,FALSE,6.5,FALSE,,,1534277375.0-C-2028
+2018-08-15 06:09:35 UTC,Aunty's Kitchen,Curry Puff Potato,Frozen,150g,,,2825665P,,,,,,,,4,FALSE,4,FALSE,,,1534277375.0-C-2029
+2018-08-15 06:09:35 UTC,Coles,Gluten Free 10 Golden Cheese Rings,Frozen,240g,,,3226870P,,,,,,,,6,FALSE,6,FALSE,,,1534277375.0-C-2030
+2018-08-15 06:09:35 UTC,Four'N Twenty,Beef Pies With A Hickory Bourbon Style Sauce 4 Pack,Frozen,700g,,,3171575P,,,,,,,,8,TRUE,5,FALSE,,,1534277375.0-C-2031
+2018-08-15 06:09:35 UTC,Patties,Frozen Party Pack 30 pack,Frozen,1.25kg,46g,18,6079240P,980kJ,7.1g,13.3g,6.6g,20.5g,1.1g,450mg,13.5,FALSE,13.5,FALSE,,,1534277375.0-C-2035
+2018-08-15 06:09:35 UTC,Vegie Delights,Gluten Free Lentil Patties,Frozen,300g,75g 1 patty,4,5173607P,,15.4 g,10.8 g,1.0 g,9.6 g,2.8 g,485 mg,6.5,FALSE,6.5,FALSE,,,1534277375.0-C-2036
+2018-08-15 06:09:35 UTC,Balfours,Premium Frozen Cornish Pasties 2 pack,Frozen,400g,200g,2,2476216P,1000kJ,5.0g,12.0g,5.8g,26.7g,1.2g,562mg,6.5,TRUE,3.25,FALSE,,,1534277375.0-C-2037
+2018-08-15 06:09:35 UTC,Coles,Ham & Cheese Croquette 12 pack,Frozen,360g,,,2482015P,,,,,,,,7,FALSE,7,FALSE,,,1534277375.0-C-2038
+2018-08-15 06:09:35 UTC,Coles,Salt & Pepper Fish Bites 14 pack,Frozen,126g,,,2481908P,,,,,,,,2,FALSE,2,FALSE,,,1534277375.0-C-2039
+2018-08-15 06:09:35 UTC,Four'N Twenty,Beef & Stout Pies,Frozen,700g,,,3050628P,,,,,,,,8.65,TRUE,5,FALSE,,,1534277375.0-C-2040
+2018-08-15 06:09:35 UTC,Golden Wok,Frozen Mini Chicken Dim Sims 40 pack,Frozen,660g,17,,5077986P,,11.4g,5g,2.6g,14.9g,2.9g,359mg,10,TRUE,7.9,FALSE,,,1534277375.0-C-2043
+2018-08-15 06:09:35 UTC,Herbert Adams,Slow Cooked Beef with Caramelised Onion & Cabernet Sauvignon,Frozen,400g,,,3171510P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277375.0-C-2044
+2018-08-15 06:09:35 UTC,Coles,Prawn Gyoza 12 pack,Frozen,300g,,,2481872P,,,,,,,,5,FALSE,5,FALSE,,,1534277375.0-C-2045
+2018-08-15 06:09:35 UTC,Coles,Frozen Ultimate Apple Pie,Frozen,1.1kg,Approx. 137g,8,3052598P,964,2.8,8.6,5.9,34.7,20.9,130,10,FALSE,10,FALSE,,,1534277375.0-C-2046
+2018-08-15 06:09:35 UTC,Herbert Adams,Chicken Leek & Creamy Camembert Party Pies,Frozen,420g,,,3171597P,,,,,,,,7.85,FALSE,7.85,FALSE,,,1534277375.0-C-2047
+2018-08-15 06:09:35 UTC,Mr Chen's,Prawn Hargow 300 Gram,Frozen,300g,25g,12,9513445P,730kj,5g,6.3g,1.1g,23.9g,1.8g,570mg,7.5,FALSE,7.5,FALSE,,,1534277375.0-C-2048
+2018-08-15 06:09:35 UTC,Coles,Gluten Free Meat Pie,Frozen,2 pack,Approximately 170g,2,1902487P,998,6.2,13.5,8.4,22.2,LESS THAN 1g,361,8,FALSE,8,FALSE,,,1534277375.0-C-2049
+2018-08-15 06:09:35 UTC,Steggles,Frozen Crumbed Chicken Nuggets,Frozen,1kg,,,3081825P,,,,,,,,16,TRUE,9,FALSE,,,1534277375.0-C-2056
+2018-08-15 06:09:35 UTC,Coles,Cocktail Beef Spring Rolls,Frozen,240g,,,2796625P,,,,,,,,2,FALSE,2,FALSE,,,1534277375.0-C-2057
+2018-08-15 06:09:35 UTC,Herbert Adams,Gourmet King Island Beef Frozen Pie 2 pack,Frozen,420g,210g,2,5043485P,972kJ,9.3g,12.7g,6.0g,19.5g,0.8g,460mg,6.3,FALSE,6.3,FALSE,,,1534277375.0-C-2058
+2018-08-15 06:09:35 UTC,Herbert Adams,Frozen Slow Cooked Chunky Beef Mushroom Pies,Frozen,400g,200g,2,1888310P,1040kJ,9.4g,12.7g,6.3g,23.8g,0.9g,460mg,6.3,FALSE,6.3,FALSE,,,1534277375.0-C-2059
+2018-08-15 06:09:35 UTC,Mr.Chen's,Prawn Spring Roll,Frozen,200g,,,3051110P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277375.0-C-2060
+2018-08-15 06:09:35 UTC,Patties,Combo Frozen Party Pie & Sausage Rolls 40 pack,Frozen,1kg,24g,20,8949591P,1060kJ,7.5g,11.7g,6.3g,28.5g,0.4g,465mg,13.5,FALSE,13.5,FALSE,,,1534277375.0-C-2067
+2018-08-15 06:09:35 UTC,Coles Smart Buy,Frozen Meat Pie,Frozen,150g,,,5028834P,,,,,,,,0.75,FALSE,0.75,FALSE,,,1534277375.0-C-2068
+2018-08-15 06:09:35 UTC,Four'N Twenty,Frozen Chicken & Vegetable Pie 4 pack,Frozen,700g,175g,4,5522422P,969kJ,6.5g,11.7g,5.3g,24.6g,2.8g,557mg,5,FALSE,5,FALSE,,,1534277375.0-C-2069
+2018-08-15 06:09:35 UTC,Herbert Adams,King Island Frozen Beef Sausage Rolls,Frozen,420g,,,2900636P,,,,,,,,7.85,FALSE,7.85,FALSE,,,1534277375.0-C-2070
+2018-08-15 06:09:35 UTC,Mr Chen's,Ginger Prawn Dumpling 240gram,Frozen,240g,,,2508550P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277375.0-C-2071
+2018-08-15 06:09:35 UTC,Herbert Adams,Chicken & Leek Frozen Pie 2 pack,Frozen,420g,210g,2,7144734P,861kJ,8.6g,9.6g,4.8g,20.6g,2.0g,330mg,6.3,FALSE,6.3,FALSE,,,1534277375.0-C-2072
+2018-08-15 06:09:35 UTC,Herbert Adams,Chunky Beef & Pepper Pies,Frozen,400g,,,2900669P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277375.0-C-2073
+2018-08-15 06:09:35 UTC,Hanabi,Frozen Surimi Fried Fish Balls,Frozen,500g,,,2143417P,,,,,,,,4,FALSE,4,FALSE,,,1534277375.0-C-2074
+2018-08-15 06:09:35 UTC,Hanabi,Frozen Surimi Fish Balls,Frozen,500g,,,2143406P,,,,,,,,4,FALSE,4,FALSE,,,1534277375.0-C-2075
+2018-08-15 06:09:35 UTC,Patties,Frozen Party Sausage Rolls 12 pack,Frozen,450g,38g,12,6868080P,988kJ,7.7g,12.6g,6.3g,22.2g,0.5g,662mg,7.15,FALSE,7.15,FALSE,,,1534277375.0-C-2082
+2018-08-15 06:09:35 UTC,Herbert Adams,Frozen Slow Cooked Chunky Beef Pies,Frozen,400g,200g,2,1888320P,1120kJ,10.7g,13.5g,6.7g,25.1g,0.6g,528mg,6.3,FALSE,6.3,FALSE,,,1534277375.0-C-2083
+2018-08-15 06:09:35 UTC,Ho Mai,Frozen Yum Cha Entertainer Pack,Frozen,1kg,,,5886780P,,,,,,,,14,FALSE,14,FALSE,,,1534277375.0-C-2084
+2018-08-15 06:09:35 UTC,Pacific West,Frozen Asian Banquet Mega Value Pack,Frozen,1kg,48g (3 pieces),20,4675520P,883kJ,6.9g,7.9g,2.9g,29.0g,0.5g,352mg,11,FALSE,11,FALSE,,,1534277375.0-C-2085
+2018-08-15 06:09:35 UTC,Coles,Frozen Family Apple Pie,Frozen,600g,,,187546P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277375.0-C-2086
+2018-08-15 06:09:35 UTC,Four'N Twenty,Frozen Angus Beef Cheese & Bacon Pie,Frozen,760g,190g,4,7785400P,1110kJ,9.3g,14.5g,7.7g,24.7g,0.3g,606mg,8.65,FALSE,8.65,FALSE,,,1534277375.0-C-2087
+2018-08-15 06:09:35 UTC,Birds Eye,Stir Fry Frozen Chinese Vegetables,Frozen,850g,125g,6.8,8145798P,127kJ,2.2g,0.25g,0.03g,3.3g,2.8g,18mg,5,FALSE,5,FALSE,,,1534277375.0-C-2088
+2018-08-15 06:09:35 UTC,Birds Eye,Stir Fry Frozen Supreme Mixed Vegetables,Frozen,850g,125,7,9110358P,,1.1g,0.3g,0.1g,5.7g,3.3g,29mg,5,FALSE,5,FALSE,,,1534277375.0-C-2089
+2018-08-15 06:09:35 UTC,Birds Eye,Stir Fry Frozen Malaysian Vegetables,Frozen,500g,125,4,6879134P,,4.8g,0.3g,277g,8.8g,7.9g,10mg,3.7,FALSE,3.7,FALSE,,,1534277375.0-C-2090
+2018-08-15 06:09:35 UTC,Birds Eye,Frozen Cauliflower Cheese,Frozen,600g,150,4,2257777P,,3.7g,6g,2.9g,6g,3g,300mg,5,TRUE,4,FALSE,,,1534277375.0-C-2091
+2018-08-15 06:09:35 UTC,Patties,Frozen Party Pies 12 pack,Frozen,560g,47g,12,5237153P,945kJ,7.6g,11.7g,6.1g,22.2g,1.5g,430mg,7.15,FALSE,7.15,FALSE,,,1534277375.0-C-2093
+2018-08-15 06:09:35 UTC,Four'N Twenty,Legendary Frozen Angus Beef & Pepper Pie,Frozen,760g,190g,4,7785386P,1090kJ,9.0g,14.2g,7.2g,24.0g,0.2g,526mg,8.65,FALSE,8.65,FALSE,,,1534277375.0-C-2094
+2018-08-15 06:09:35 UTC,Hong Kong Dim Sim Kitchen,Pork & Chive Dumplings,Frozen,200g,,,2356724P,,,,,,,,5,TRUE,2.5,FALSE,,,1534277375.0-C-2095
+2018-08-15 06:09:35 UTC,Sargents,Premium Frozen Vegetable Pies 2 pack,Frozen,420g,,,1905372P,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534277375.0-C-2096
+2018-08-15 06:09:35 UTC,Coles,Frozen 30 Party Pack,Frozen,1.25kg,,,2733104P,,,,,,,,8,FALSE,8,FALSE,,,1534277375.0-C-2097
+2018-08-15 06:09:35 UTC,Scott's,Frozen Meat Pie,Frozen,900g,,,5524632P,1070kJ,8.6g,14.0g,7.0g,23.0g,1.6g,370mg,6.99,FALSE,6.99,FALSE,,,1534277375.0-C-2098
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Frozen Broccoli Cauliflower & Carrot,Frozen,450g,,,1777240P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277375.0-C-2099
+2018-08-15 06:09:35 UTC,Birds Eye,Steam Fresh Penne Mediterranean Veg,Frozen,400g,200,2,3192440P,,,,,,,,4.2,FALSE,4.2,FALSE,,,1534277375.0-C-2100
+2018-08-15 06:09:35 UTC,Birds Eye,Stir Fry Frozen Thai Vegetables,Frozen,500g,125,4,6879123P,,1.5g,0.4g,0.1g,4.7g,2.7g,17mg,3.7,FALSE,3.7,FALSE,,,1534277375.0-C-2101
+2018-08-15 06:09:35 UTC,Birds Eye,Frozen Onion Rings,Frozen,500g,100,5,2270287P,,,,,,,,4,TRUE,3,FALSE,,,1534277375.0-C-2102
+2018-08-15 06:09:35 UTC,Birds Eye,Stir Fry Frozen Oriental Vegetables,Frozen,850g,125g,6.8,1333778P,,2.4g,,,4.2g,2.7g,16mg,5,FALSE,5,FALSE,,,1534277375.0-C-2103
+2018-08-15 06:09:35 UTC,Birds Eye,Stir Fry Frozen Shanghai Mixed Vegetables,Frozen,500g,125,4,9730385P,,3g,0.2g,206g,7.5g,6.6g,19mg,3.7,FALSE,3.7,FALSE,,,1534277375.0-C-2104
+2018-08-15 06:09:35 UTC,Birds Eye,Stir Fry Asian Greens,Frozen,850g,125,7,2738844P,,,,,,,,5,FALSE,5,FALSE,,,1534277375.0-C-2105
+2018-08-15 06:09:35 UTC,Nanna's,Snack Size Frozen Apricot Pies 4 pack,Frozen,450g,113g,4,9718492P,1170kJ,3.4g,12.1g,5.9g,38.5g,17.7g,320mg,5.7,FALSE,5.7,FALSE,,,1534277375.0-C-2107
+2018-08-15 06:09:35 UTC,Coles,Spinach Feta Ricotta Roll,Frozen,400g,Avgerage Qualtity per 40g,10,3169960P,1230,7.7,16.4,8.6,28.2,1.7,380,5,FALSE,5,FALSE,,,1534277375.0-C-2108
+2018-08-15 06:09:35 UTC,Hong Kong Dim Sim Kitchen,BBQ Pork Buns,Frozen,200g,,,2356688P,,,,,,,,5,TRUE,2.5,FALSE,,,1534277375.0-C-2109
+2018-08-15 06:09:35 UTC,Pacific West,Frozen Japanese Gyoza,Frozen,700g,,,1549370P,,,5.6g,1.6g,25.2g,1.4g,,11.55,FALSE,11.55,FALSE,,,1534277375.0-C-2110
+2018-08-15 06:09:35 UTC,Pampas,Frozen Lemon Meringue 4 pack,Frozen,400g,,,464522P,,,,,,,,5.8,FALSE,5.8,FALSE,,,1534277375.0-C-2111
+2018-08-15 06:09:35 UTC,Sargents,Aussie Angus Beef Family Pie,Frozen,550g,,,8693385P,976kJ,8.3g,13.6g,6.4g,19.2g,1.3g,385mg,7,FALSE,7,FALSE,,,1534277375.0-C-2112
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Frozen Bean Carrot & Broccoli Mix,Frozen,450g,75,6,2740041P,,1.9g,0.6g,0.1g,3.8g,2.7g,36mg,3.5,FALSE,3.5,FALSE,,,1534277375.0-C-2117
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Frozen Bean Broccoli & Sugar Snap Peas,Frozen,450g,75,6,2740052P,,2.6g,0.6g,0.1g,4.2g,2.5g,5mg,3.5,FALSE,3.5,FALSE,,,1534277375.0-C-2118
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Frozen Broccoli Cauliflower Corn & Peas,Frozen,450g,75,6,1777272P,,3.4g,0.9g,0.1g,8.5g,2.6g,9mg,3.5,FALSE,3.5,FALSE,,,1534277375.0-C-2119
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Plus Frozen Quinoa with Brown Rice & Cherry Tomatoes Onion Capsicum Peas Wild Rice Orzo Pasta,Frozen,400g,200,2,2257290P,,3.5g,2.1g,0.3g,16.8g,1.8g,121mg,5,TRUE,4,FALSE,,,1534277375.0-C-2120
+2018-08-15 06:09:35 UTC,Birds Eye,Frozen Steamfresh Potato Mash With Butter,Frozen,400g,200,2,2912974P,,,,,,,,4.2,FALSE,4.2,FALSE,,,1534277375.0-C-2121
+2018-08-15 06:09:35 UTC,Birds Eye,Frozen Steam Fresh Scallop Potato,Frozen,400g,200,2,2912963P,,,,,,,,4.2,FALSE,4.2,FALSE,,,1534277375.0-C-2122
+2018-08-15 06:09:35 UTC,Four'N Twenty,Legendary Frozen Angus Beef Pie,Frozen,760g,190g,4,7785375P,1060kJ,8.8g,13.5g,6.9g,24.0g,0.2g,521mg,8.65,FALSE,8.65,FALSE,,,1534277375.0-C-2124
+2018-08-15 06:09:35 UTC,Pacific West,Mega Value Pack Frozen Cocktail Spring Rolls 68 pack,Frozen,1kg,30g (2 Rolls),34,4675530P,,4.3g,,,30.9g,0.5g,337mg,11,FALSE,11,FALSE,,,1534277375.0-C-2125
+2018-08-15 06:09:35 UTC,Coles,Cocktail Vegetable Spring Rolls,Frozen,270g,,,2481963P,,,,,,,,2,FALSE,2,FALSE,,,1534277375.0-C-2126
+2018-08-15 06:09:35 UTC,Four'N Twenty,Beef & Cheese Pies 4 pack,Frozen,700g,175g,4,4541272P,988kJ,9.6g,12.7g,6.5g,20.0g,Less than 1g,487mg,5,FALSE,5,FALSE,,,1534277375.0-C-2127
+2018-08-15 06:09:35 UTC,Marathon,Frozen Spring Rolls 4 pack,Frozen,640g,1 Spring Roll (160g),4,311973P,631kJ,4.2g,4.6g,2.6g,21.9g,3.5g,650mg,5.3,FALSE,5.3,FALSE,,,1534277375.0-C-2128
+2018-08-15 06:09:35 UTC,Coles,Frozen Chicken & Vegetable Pie 4 pack,Frozen,700g,,,1517839P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277375.0-C-2129
+2018-08-15 06:09:35 UTC,Coles,Frozen Egg & Bacon Pies,Frozen,700g,,,2732473P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277375.0-C-2130
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Plus Frozen Pearl CousCous with Chick Peas,Frozen,400g,200,2,2257278P,,5.1g,2.1g,0.3g,21.8g,2.3g,237mg,5,TRUE,4,FALSE,,,1534277375.0-C-2137
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Frozen Peas Beans Corn & Broccoli,Frozen,750g,,,2740096P,,,,,,,,5,FALSE,5,FALSE,,,1534277375.0-C-2138
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Frozen Carrot Corn & Broccoli,Frozen,750g,75,10,2741011P,,2.7g,0.7g,0.1g,7.9g,3.4g,26mg,5,FALSE,5,FALSE,,,1534277375.0-C-2139
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Frozen Carrot Cauliflower & Broccoli,Frozen,750g,75,10,2740085P,,2.5g,0.2g,<0.1g,2.7g,2.6g,28mg,5,FALSE,5,FALSE,,,1534277375.0-C-2140
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Frozen Broccoli Cauliflower & Carrots With Cheese Sauce,Frozen,400g,200,2,1777228P,,3.9g,6.5g,4.2g,5.6g,2.7g,230mg,4.2,FALSE,4.2,FALSE,,,1534277375.0-C-2141
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Frozen Rice with Mediterranean Vegetables,Frozen,400g,,,1307520P,,,,,,,,4.2,FALSE,4.2,FALSE,,,1534277375.0-C-2142
+2018-08-15 06:09:35 UTC,Luv A Duck,No 21 Frozen Duck to Frozen Whole Duck,Frozen,2.1kg,Random Weight,,4683889P,,,,,,,,23,FALSE,23,FALSE,,,1534277375.0-C-2144
+2018-08-15 06:09:35 UTC,Balfours,Premium Potato Frozen Pie 2 pack,Frozen,440g,220g,2,7961729P,912kJ,6.7g,12.3g,6.4g,19.4g,1.0g,339mg,5.25,TRUE,2.62,FALSE,,,1534277375.0-C-2145
+2018-08-15 06:09:35 UTC,Four'N Twenty,Frozen Traditional Meat Pie 4 Pack,Frozen,700g,175g,4,5112318P,959kJ,9.3g,11.3g,5.7g,21.8g,Less than 1g,481mg,5,FALSE,5,FALSE,,,1534277375.0-C-2146
+2018-08-15 06:09:35 UTC,Coles,Frozen Meat Pies 6 Pack,Frozen,900g,,,79394P,,,,,,,,3.55,FALSE,3.55,FALSE,,,1534277375.0-C-2147
+2018-08-15 06:09:35 UTC,Mr.Chen's,Family Dumpling Pack,Frozen,625g,,,3051132P,,,,,,,,17,FALSE,17,FALSE,,,1534277375.0-C-2148
+2018-08-15 06:09:35 UTC,Coles,Frozen Mini Dim Sims 15 pack,Frozen,250g,,,1093721P,,,,,,,,2,FALSE,2,FALSE,,,1534277375.0-C-2149
+2018-08-15 06:09:35 UTC,Coles,Beef & Onion Party Sausage Roll,Frozen,450g,,,3169959P,,,,,,,,5,FALSE,5,FALSE,,,1534277375.0-C-2150
+2018-08-15 06:09:35 UTC,Birds Eye,Frozen French Fries Garlic Herb Lemon,Frozen,600g,100,6,2915280P,,2.4g,9.2g,0.8g,21.5g,<0.99g,472mg,3.95,FALSE,3.95,FALSE,,,1534277375.0-C-2159
+2018-08-15 06:09:35 UTC,Birds Eye,Frozen Golden Crunch Crisps,Frozen,500g,100,5,2915327P,,,,,,,,4,TRUE,3,FALSE,,,1534277375.0-C-2160
+2018-08-15 06:09:35 UTC,Birds Eye,Oven Roast Italian Herb Frozen Mixed Vegetable,Frozen,570g,,,1587787P,,,,,,,,5,FALSE,5,FALSE,,,1534277375.0-C-2161
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Frozen Carrots Peas & Corn,Frozen,450g,75,6,1777250P,,2.7g,0.8g,0.1g,9.7g,4.1g,20mg,3.5,FALSE,3.5,FALSE,,,1534277375.0-C-2162
+2018-08-15 06:09:35 UTC,Birds Eye,SteamFresh Frozen Broccoli Corn Peas & Beans,Frozen,450g,,,1777261P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277375.0-C-2163
+2018-08-15 06:09:35 UTC,Lilydale Free Range,Herb Ciabatta Schnitzels,Frozen,400g,,,3081621P,,,,,,,,10,FALSE,10,FALSE,,,1534277375.0-C-2165
+2018-08-15 06:09:35 UTC,Steggles,Frozen Salt & Pepper Chicken Breast Fingers,Frozen,400g,100g,4,6632200P,838kJ,10.8g,7.3g,1.1g,22.6g,1.0g,790mg,7.48,TRUE,4,FALSE,,,1534277375.0-C-2166
+2018-08-15 06:09:35 UTC,Lilydale Free Range,Herb & Parmesan Schnitzels,Frozen,400g,,,3081814P,,,,,,,,10,FALSE,10,FALSE,,,1534277375.0-C-2167
+2018-08-15 06:09:35 UTC,Coles,Chicken Breast Schnitzel Original Crumb,Frozen,300g,,,3187531P,,,,,,,,5,FALSE,5,FALSE,,,1534277375.0-C-2168
+2018-08-15 06:09:35 UTC,Luv A Duck,Slow Cooked Frozen Peking Duck Legs,Frozen,400g,,,2256821P,,,,,,,,12.5,FALSE,12.5,FALSE,,,1534277375.0-C-2169
+2018-08-15 06:09:35 UTC,Coles,Corn Chip Frozen Crumbed Chicken Tenders,Frozen,400g,,,3186186P,,,,,,,,6,FALSE,6,FALSE,,,1534277375.0-C-2170
+2018-08-15 06:09:35 UTC,Colonial Farm,Frozen Vienna Style Beef Schnitzels,Frozen,540g,,,1866623P,,,,,,,,8,FALSE,8,FALSE,,,1534277375.0-C-2171
+2018-08-15 06:09:35 UTC,Coles Smart Buy,Frozen Dim Sims 30 Pack,Frozen,1.5kg,,,5028845P,,,,,,,,4,FALSE,4,FALSE,,,1534277375.0-C-2172
+2018-08-15 06:09:35 UTC,Borg's,Spanakopita Frozen Spinach & Fetta Pastizzi,Frozen,625g,60g,10,5233174P,1170kJ,6.1g,13.9g,7.4g,31.8g,1.7g,400mg,6,TRUE,4.8,FALSE,,,1534277375.0-C-2176
+2018-08-15 06:09:35 UTC,Borgs,Corn Cheese & Bacon Pastizzi,Frozen,1KG,,,3051063P,,,,,,,,6,FALSE,6,FALSE,,,1534277375.0-C-2177
+2018-08-15 06:09:35 UTC,Pampas,Frozen Sweet Pastry Tart Cases 12 pack,Frozen,275g,,,175037P,,,,,,,,5.1,FALSE,5.1,FALSE,,,1534277375.0-C-2178
+2018-08-15 06:09:35 UTC,Weis,Blackberry & Vanilla Ice Bars 4 Pack,Frozen,280mL,,,2761868P,,,,,,,,6.8,FALSE,6.8,FALSE,,,1534277375.0-C-2180
+2018-08-15 06:09:35 UTC,Weis,Dairy Free Ice Bars Mango Passionfruit & Coconut 4 Pack,Frozen,280mL,,,2975952P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277375.0-C-2181
+2018-08-15 06:09:35 UTC,On The Menu,Beef Burrito,Frozen,170g,,,3223001P,,,,,,,,4.4,TRUE,4,FALSE,,,1534277375.0-C-2182
+2018-08-15 06:09:35 UTC,Coles,Frozen Chicken Breast Nuggets,Frozen,400g,Approximately 100g,4,6324821P,816,10.6,10.4,2.4,13.9,3.2,390,3.6,FALSE,3.6,FALSE,,,1534277375.0-C-2183
+2018-08-15 06:09:35 UTC,Steggles,Crumbed Chicken Breast Goujons,Frozen,1kg,100g (6 Goujons approx),10,8434332P,936kJ,10.9g,11.3g,2.9g,19.1g,<0.5g,443mg,16,FALSE,16,FALSE,,,1534277375.0-C-2184
+2018-08-15 06:09:35 UTC,Steggles,Flaming Wing Nibbles,Frozen,1kg,100g,4,1873108P,1080kJ,15.7g,16.0g,3.7g,12.9g,0.5g,587mg,16,FALSE,16,FALSE,,,1534277375.0-C-2185
+2018-08-15 06:09:35 UTC,Steggles,Frozen Chicken Breast Fingers,Frozen,400g,100g,4,6632528P,934kJ,11.4g,11.1g,2.5g,19.4g,2.0g,620mg,7.48,TRUE,4,FALSE,,,1534277375.0-C-2186
+2018-08-15 06:09:35 UTC,Pampas,Frozen Filo Pastry,Frozen,375g,50g,7.5,295764P,1300kJ,9.1g,3.3g,0.6g,60.0g,1.7g,700mg,4,FALSE,4,FALSE,,,1534277375.0-C-2190
+2018-08-15 06:09:35 UTC,Pampas,Frozen Sweet Pastry Pie Flan,Frozen,220g,,,5788690P,1880kJ,6.3g,23.1g,10.9g,53.9g,13.6g,290mg,3.45,FALSE,3.45,FALSE,,,1534277375.0-C-2191
+2018-08-15 06:09:35 UTC,Pampas,Frozen Savoury Pastry Pie Flan,Frozen,220g,,,5528225P,1890kJ,6.5g,25.9g,11.8g,48.3g,2.2g,380mg,3.45,FALSE,3.45,FALSE,,,1534277375.0-C-2192
+2018-08-15 06:09:35 UTC,Peters,Raspberry White Choc,Frozen,475mL,,,3124167P,,,,,,,,8,TRUE,5,FALSE,,,1534277375.0-C-2194
+2018-08-15 06:09:35 UTC,Rio,Minis Vanilla Coated Ice Cream,Frozen,700g,,,6592842P,,3.5g,,,35g,,62mg,18.5,FALSE,18.5,FALSE,,,1534277375.0-C-2195
+2018-08-15 06:09:35 UTC,Sara Lee,Rocky Road,Frozen,1L,,,3126989P,,,,,,,,9,TRUE,4.5,FALSE,,,1534277375.0-C-2196
+2018-08-15 06:09:35 UTC,Tofutti,Dairy Free Chocolate Fudge Treats Sugarfree Ice Cream,Frozen,540g,,,7185378P,,,,,,,,10.29,FALSE,10.29,FALSE,,,1534277375.0-C-2197
+2018-08-15 06:09:35 UTC,Tofutti,Dairy Free Almond Bark Ice Cream,Frozen,474mL,,,7183408P,,,,,,,,7.2,FALSE,7.2,FALSE,,,1534277375.0-C-2198
+2018-08-15 06:09:35 UTC,Weis,Mango & Macadamia Ice Bars 4 pack,Frozen,280mL,,,4462755P,,,,,,,,6.8,FALSE,6.8,FALSE,,,1534277375.0-C-2199
+2018-08-15 06:09:35 UTC,Weis,Mango Ice Bars 4 Pack,Frozen,280mL,,,424685P,,,,,,,,6.8,FALSE,6.8,FALSE,,,1534277375.0-C-2200
+2018-08-15 06:09:35 UTC,Weis,Mango Fruit Ice Mini Bars 8 pack,Frozen,280mL,,,5124168P,,,,,,,,6.8,FALSE,6.8,FALSE,,,1534277375.0-C-2201
+2018-08-15 06:09:35 UTC,Borgs,Frozen Fetta Triangles,Frozen,360g,30g,12,9319715P,1139kJ,5.8g,9.7g,5.2g,40.1g,1.3g,372mg,3,FALSE,3,FALSE,,,1534277375.0-C-2204
+2018-08-15 06:09:35 UTC,Mrs Macs,Frozen Crispy Microwave Pastie,Frozen,165g,165,1,5039954P,,6.6g,15.1g,7.7g,26.2g,0.9g,528mg,2.25,FALSE,2.25,FALSE,,,1534277375.0-C-2205
+2018-08-15 06:09:35 UTC,Herbert Adams,Frozen Cheese & Spinach Rolls 2 pack,Frozen,440g,220g,2,8963581P,1100kJ,5.6g,15.6g,8.8g,24.0g,2.7g,629mg,5.35,FALSE,5.35,FALSE,,,1534277375.0-C-2206
+2018-08-15 06:09:35 UTC,Borgs,Frozen Spinach & Ricotta Cheese Pastizzi,Frozen,625g,60g,10,9317480P,1029kJ,6.6g,10.3g,5.9g,31.5g,1.9g,340mg,6,TRUE,4.8,FALSE,,,1534277375.0-C-2207
+2018-08-15 06:09:35 UTC,Herbert Adams,Frozen Mixed Vegetable Pasties 4 pack,Frozen,700g,175g,4,5368719P,901kJ,4.6g,10.2g,5.6g,24.9g,3.2g,554mg,7.5,FALSE,7.5,FALSE,,,1534277375.0-C-2208
+2018-08-15 06:09:35 UTC,Coles,Honeycomb Ice Cream,Frozen,500mL,,,2612121P,,,,,,,,0,FALSE,0,FALSE,,,1534277375.0-C-2211
+2018-08-15 06:09:35 UTC,Gelato,Chocolate Hazelnut Ice Cream,Frozen,500mL,100mL,5,8102376P,726kJ,4.9g,6.1g,4.0g,23.8g,19.8g,65mg,0,FALSE,0,FALSE,,,1534277375.0-C-2212
+2018-08-15 06:09:35 UTC,Gelato,Pistacio Ice Cream,Frozen,500mL,100ml,5,8102387P,750kJ,5.7g,7.7g,5.0g,20.8g,16.6g,59mg,0,FALSE,0,FALSE,,,1534277375.0-C-2213
+2018-08-15 06:09:35 UTC,Magnum,Tub Ice Cream Almond,Frozen,440mL,,,2976161P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277375.0-C-2214
+2018-08-15 06:09:35 UTC,Nestle,Milo Confectionary Tubs,Frozen,470mL,,,2680187P,,,,,,,,7,TRUE,5,FALSE,,,1534277375.0-C-2215
+2018-08-15 06:09:35 UTC,Peters,Proud & Punch Paging Dr Green Frozen Juice Sticks 6 pack,Frozen,450mL,,,2752619P,,,,,,,,8,FALSE,8,FALSE,,,1534277375.0-C-2216
+2018-08-15 06:09:35 UTC,Mrs Macs,Crispy Microwave Frozen Sausage Roll,Frozen,175g,175,1,5039976P,,8.1g,16.1g,8.3g,27.8g,0.5g,520mg,2.25,FALSE,2.25,FALSE,,,1534277375.0-C-2220
+2018-08-15 06:09:35 UTC,Four'N Twenty,Jumbo Frozen Sausage Roll,Frozen,700g,117g,6,5522488P,1080kJ,7.8g,13.1g,6.2g,26.2g,1.8g,720mg,7.5,FALSE,7.5,FALSE,,,1534277375.0-C-2221
+2018-08-15 06:09:35 UTC,Borg's,Frozen Spinach & Ricotta Cheese Pastizzis,Frozen,1kg,50g,20,6956450P,1170kJ,5.4g,13.7g,6.7g,33.6g,1.9g,340mg,7,FALSE,7,FALSE,,,1534277375.0-C-2222
+2018-08-15 06:09:35 UTC,Zooper Dooper,Aussie Favourites,Frozen,24 pack,,,2531937P,,,,,,,,5.79,FALSE,5.79,FALSE,,,1534277375.0-C-2231
+2018-08-15 06:09:35 UTC,Arnott's,Mint Slice,Frozen,4 pack,,,2978112P,,,,,,,,8,FALSE,8,FALSE,,,1534277375.0-C-2232
+2018-08-15 06:09:35 UTC,Bulla,Creamy Classics Caramel & Peanut Ice Cream 4 Bars,Frozen,360mL,,,3258731P,,,,,,,,8.8,TRUE,8,FALSE,,,1534277375.0-C-2233
+2018-08-15 06:09:35 UTC,Haagen -Dazs,Mango Raspberry,Frozen,457mL,,,3125080P,,,,,,,,11.5,TRUE,8,FALSE,,,1534277375.0-C-2234
+2018-08-15 06:09:35 UTC,Borg's,Frozen Spinach & Cheese Triangles,Frozen,360g,30g,12,9319680P,948kJ,5.7g,11.6g,6.3g,24.1g,2.7g,340mg,3,FALSE,3,FALSE,,,1534277375.0-C-2237
+2018-08-15 06:09:35 UTC,Balfours,Frozen Pasties 4 pack,Frozen,600g,150g,4,6069600P,852kJ,3.9g,9.8g,6.7g,24.4g,0.1g,592mg,6.99,TRUE,3.49,FALSE,,,1534277375.0-C-2250
+2018-08-15 06:09:36 UTC,McCain,Sweet Potato Chips,Frozen,750g,,,2137800P,,,,,,,,5.8,FALSE,5.8,FALSE,,,1534277376.0-C-2356
+2018-08-15 06:09:36 UTC,Coles,Frozen Peas,Frozen,500g,Approximately 75g,7,186328P,253,5.2,LESS THAN 1g,0.0g,6.4,2.5,LESS THAN 5mg,1.6,FALSE,1.6,FALSE,,,1534277376.0-C-2357
+2018-08-15 06:09:36 UTC,Birds Eye,Frozen Whole Baby Peas,Frozen,500g,75,7,6847127P,,4.6g,0.6g,0.1g,7.2g,4.2g,1mg,3.35,FALSE,3.35,FALSE,,,1534277376.0-C-2358
+2018-08-15 06:09:36 UTC,Birds Eye,Frozen Bubble & Squeak,Frozen,620g,77,8,9730239P,867kJ,3.7g,12.6g,1.2g,19.1g,1.5g,443mg,3,FALSE,3,FALSE,,,1534277376.0-C-2375
+2018-08-15 06:09:36 UTC,McCain,Crunchy Frozen Potato Wedges,Frozen,750g,125g,6,5394810P,627kJ,3.0g,4.2g,0.4g,23.9g,Less than 1.0g,280mg,4,FALSE,4,FALSE,,,1534277376.0-C-2376
+2018-08-15 06:09:36 UTC,Birds Eye,Golden Crunch Beer Batter Frozen Potato Chips,Frozen,750g,100,8,5867479P,,2.1g,4.1g,0.4g,20.9g,0g,232mg,3.79,FALSE,3.79,FALSE,,,1534277376.0-C-2377
+2018-08-15 06:09:36 UTC,Birds Eye,Frozen Scallop Potatoes,Frozen,600g,150,4,2257733P,,3.2g,7.1g,4.6g,13.3g,2g,330mg,5,TRUE,4,FALSE,,,1534277376.0-C-2378
+2018-08-15 06:09:36 UTC,Birds Eye,Golden Crunch Crinkles,Frozen,500g,,,3192542P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277376.0-C-2379
+2018-08-15 06:09:36 UTC,Dr. Oetker,Ristorante Quattro Formaggi  Frozen Pizza,Frozen,340g,340g,1,7817904P,1110 kJ,10.7 g,13.7 g,6.2 g,23.9 g,2.9 g,420 mg,7.5,FALSE,7.5,FALSE,,,1534277376.0-C-2381
+2018-08-15 06:09:36 UTC,Coles,Frozen Snap Peas,Frozen,1kg,Approximately 75g,13,186339P,253,5.2,LESS THAN 1g,0.0g,6.4,2.5,LESS THAN 5mg,2.9,FALSE,2.9,FALSE,,,1534277376.0-C-2393
+2018-08-15 06:09:36 UTC,McCain,Beer Battered Frozen Shoestring Fries,Frozen,750g,,,5841023P,,,,,,,,4,TRUE,3,FALSE,,,1534277376.0-C-2394
+2018-08-15 06:09:36 UTC,McCain,Shake Shake Salt & Vinegar,Frozen,500g,,,3208675P,,,,,,,,4,FALSE,4,FALSE,,,1534277376.0-C-2395
+2018-08-15 06:09:36 UTC,Unger's,Frozen French Fries,Frozen,907g,,,6561099P,,,,,,,,6.65,FALSE,6.65,FALSE,,,1534277376.0-C-2396
+2018-08-15 06:09:36 UTC,Coles,Frozen Snap Whole Baby Beans,Frozen,500g,Approximately 75g,7,8977575P,159,2,LESS THAN 1g,LESS THAN 1g,5.6,2.7,LESS THAN 5mg,2.35,FALSE,2.35,FALSE,,,1534277376.0-C-2397
+2018-08-15 06:09:36 UTC,Hanabi,Frozen Edamame Soybean Pods,Frozen,400g,,,2143224P,,,,,,,,3,FALSE,3,FALSE,,,1534277376.0-C-2398
+2018-08-15 06:09:36 UTC,Birds Eye,Frozen Beans,Frozen,1kg,75,13,226783P,,1.4g,0.2g,>0.1g,2.8g,1.3g,2mg,4.89,TRUE,3.7,FALSE,,,1534277376.0-C-2399
+2018-08-15 06:09:36 UTC,Coles,Frozen Potato Royals,Frozen,1kg,Approximately 100g,10,52128P,733,1.9,8.8,LESS THAN 1g,20.9,LESS THAN 1g,333,3,FALSE,3,FALSE,,,1534277376.0-C-2400
+2018-08-15 06:09:36 UTC,McCain,Cheese & Bacon Frozen Pizza Pockets,Frozen,400g,100g,4,8697604P,1110kJ,11.0g,10.6g,4.6g,30.4g,3.9g,460mg,7.5,FALSE,7.5,FALSE,,,1534277376.0-C-2401
+2018-08-15 06:09:36 UTC,McCain,Ham & Pineapple Frozen Pizza Slices 6 pack,Frozen,600g,,,5179501P,,,,,,,,7,FALSE,7,FALSE,,,1534277376.0-C-2402
+2018-08-15 06:09:36 UTC,McCain,Frozen Super Supreme Pizza,Frozen,530g,,,2632016P,,,,,,,,7.5,TRUE,6.5,FALSE,,,1534277376.0-C-2403
+2018-08-15 06:09:36 UTC,McCain,Frozen Angus Steak And Bacon Takeaway Pizza,Frozen,530g,,,2631986P,,,,,,,,7.5,TRUE,6.5,FALSE,,,1534277376.0-C-2404
+2018-08-15 06:09:36 UTC,McCain,Rustica Margherita Frozen Pizza,Frozen,350g,,,2876860P,,,,,,,,7.5,TRUE,6,FALSE,,,1534277376.0-C-2405
+2018-08-15 06:09:36 UTC,Mccain,Ultra Thin Deli Inspired Roast Chicken Smoked Ham With Garlic Aioli Dizzle Pizza,Frozen,320g,,,3157235P,,,,,,,,7,TRUE,5,FALSE,,,1534277376.0-C-2406
+2018-08-15 06:09:36 UTC,Dr. Oetker,Papa Giuseppis Four Cheese Pizza,Frozen,480g,,,3155841P,,,,,,,,8,FALSE,8,FALSE,,,1534277376.0-C-2407
+2018-08-15 06:09:36 UTC,Coles,Frozen Australian Potatoes French Fries,Frozen,1kg,Approximately 100g,10,52139P,606,2.4,5,LESS THAN 1g,21.3,LESS THAN 1g,46,2,FALSE,2,FALSE,,,1534277376.0-C-2411
+2018-08-15 06:09:36 UTC,McCain,Shake Shake Chicken,Frozen,500g,,,3208686P,,,,,,,,4,FALSE,4,FALSE,,,1534277376.0-C-2412
+2018-08-15 06:09:36 UTC,Birds Eye,Golden Crunch Frozen Potato Wedges,Frozen,1kg,100,10,8745503P,,1.9g,4.1g,0.3g,19.2g,0g,249mg,4.3,FALSE,4.3,FALSE,,,1534277376.0-C-2413
+2018-08-15 06:09:36 UTC,Birds Eye,Frozen Mint Peas,Frozen,500g,75,7,123984P,,5.2g,0.3g,0g,6.4g,2.5g,3mg,2.35,FALSE,2.35,FALSE,,,1534277376.0-C-2414
+2018-08-15 06:09:36 UTC,McCain,Frozen Superfries Crinkle Cut Potato Chips,Frozen,900g,,,5066946P,,,,,,,,3,FALSE,3,FALSE,,,1534277376.0-C-2415
+2018-08-15 06:09:36 UTC,McCain,Frozen Superfries Straight Cut Potato Chips,Frozen,900g,,,91710P,,,,,,,,3,FALSE,3,FALSE,,,1534277376.0-C-2416
+2018-08-15 06:09:36 UTC,Coles,Frozen Australian Baby Peas,Frozen,1kg,,,9738026P,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534277376.0-C-2417
+2018-08-15 06:09:36 UTC,Pampas,Frozen Puff Pastry Sheets 10 pack,Frozen,1.6kg,50g,32,8469177P,1390kJ,6.2g,15.8g,7.8g,41.3g,2.5g,345mg,6.85,FALSE,6.85,FALSE,,,1534277376.0-C-2418
+2018-08-15 06:09:36 UTC,Pampas,Frozen Puff Pastry,Frozen,550g,50g,11,6362730P,1500kJ,5.9g,19.2g,13.5g,40.8g,2.0g,110mg,5.35,FALSE,5.35,FALSE,,,1534277376.0-C-2419
+2018-08-15 06:09:36 UTC,Pampas,Reduced Fat Frozen Shortcrust Pastry Sheets,Frozen,1kg,,,9758555P,,,,,,,,5.5,TRUE,3.5,FALSE,,,1534277376.0-C-2420
+2018-08-15 06:09:36 UTC,McCain,Family BBQ Meatlovers Frozen Pizza,Frozen,500g,125g,4,7010250P,992kJ,11.8g,8.0g,3.9g,27.9g,5.1g,420mg,6.5,FALSE,6.5,FALSE,,,1534277376.0-C-2421
+2018-08-15 06:09:36 UTC,McCain,Ultra Thin Crust Tandoori Chicken Frozen Pizza,Frozen,320g,,,8634739P,,,,,,,,7,TRUE,5,FALSE,,,1534277376.0-C-2422
+2018-08-15 06:09:36 UTC,McCain,Family Supreme Frozen Pizza,Frozen,500g,125g,4,251124P,955kJ,10.5g,6.8g,3.5g,30.2g,4.9g,350mg,6.5,FALSE,6.5,FALSE,,,1534277376.0-C-2423
+2018-08-15 06:09:36 UTC,Coles,Margherita Pizza,Frozen,470g,,,2662196P,,,,,,,,3,FALSE,3,FALSE,,,1534277376.0-C-2424
+2018-08-15 06:09:36 UTC,McCain,Family Ham & Pineapple Frozen Pizza,Frozen,500g,125g,4,403765P,963kJ,11.7g,6.3g,3.4g,30.5g,3.7g,340mg,6.5,FALSE,6.5,FALSE,,,1534277376.0-C-2425
+2018-08-15 06:09:36 UTC,McCain,Frozen Garlic Pizza,Frozen,320g,160g,2,9847269P,1070kJ,10.3g,7.2g,3.5g,35.9g,6.5g,220mg,4,FALSE,4,FALSE,,,1534277376.0-C-2426
+2018-08-15 06:09:36 UTC,Coles,Supreme Pizza,Frozen,500g,,,2632173P,,,,,,,,3,FALSE,3,FALSE,,,1534277376.0-C-2427
+2018-08-15 06:09:36 UTC,McCain,Ham & Pineapple Frozen Pizza Singles 4 pack,Frozen,400g,Approx. 100g,4,5446200P,935kJ,11.5g,6.5g,3.4g,28.1g,5.6g,300mg,7,FALSE,7,FALSE,,,1534277376.0-C-2428
+2018-08-15 06:09:36 UTC,Mccain,BBQ Chicken & Pineapple Family Pizza,Frozen,500g,,,3157246P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277376.0-C-2429
+2018-08-15 06:09:36 UTC,Birds Eye,Frozen Peas,Frozen,500g,75,7,186383P,,,,,,,,2.35,FALSE,2.35,FALSE,,,1534277376.0-C-2435
+2018-08-15 06:09:36 UTC,Coles,Frozen Corn Kernels,Frozen,1kg,Approximately 75g,13,203642P,279,2.5,1.8,LESS THAN 1g,8.6,7.7,LESS THAN 5mg,2.7,FALSE,2.7,FALSE,,,1534277376.0-C-2436
+2018-08-15 06:09:36 UTC,Coles,Frozen Hash Browns,Frozen,1kg,Approximately 64g,15,9728215P,782,2.1,10.7,LESS THAN 1g,19.5,LESS THAN 1g,367,3,FALSE,3,FALSE,,,1534277376.0-C-2437
+2018-08-15 06:09:36 UTC,Coles,Snap Frozen Corn Cobs,Frozen,1kg,Approximately 125g (Approx 2 corn cobs),4,293565P,385,3.5,2.9,LESS THAN 1g,11.3,7.3,LESS THAN 5mg,2.5,FALSE,2.5,FALSE,,,1534277376.0-C-2438
+2018-08-15 06:09:36 UTC,Coles,Frozen Australian Baby Peas,Frozen,500g,,,5431644P,,,,,,,,1.7,FALSE,1.7,FALSE,,,1534277376.0-C-2439
+2018-08-15 06:09:36 UTC,Coles,Frozen Chunky Potato Wedges,Frozen,750g,Approximately 100g,7.5,6068969P,491,2,4.2,LESS THAN 1g,16.6,LESS THAN 1g,185,2.5,FALSE,2.5,FALSE,,,1534277376.0-C-2440
+2018-08-15 06:09:36 UTC,Coles,Australian Frozen Sliced Beans,Frozen,1kg,Approximately 75g,13,186474P,100,1.4,LESS THAN 1g,LESS THAN 1g,2.8,1.3,LESS THAN 5mg,2,FALSE,2,FALSE,,,1534277376.0-C-2441
+2018-08-15 06:09:36 UTC,Birds Eye,Deli Style Parmesan Garlic & Basil Frozen Potato Chips,Frozen,600g,100,6,1194490P,,2g,10.7g,0.8g,21.3g,0.5g,328mg,3.95,FALSE,3.95,FALSE,,,1534277376.0-C-2442
+2018-08-15 06:09:36 UTC,Coles,Gluten Free Vegan 12 Vegetable Gyozas,Frozen,300g,,,3222654P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277376.0-C-2443
+2018-08-15 06:09:36 UTC,Coles,Vegetable Samosas 10 pack,Frozen,300g,,,2482081P,,,,,,,,5,FALSE,5,FALSE,,,1534277376.0-C-2444
+2018-08-15 06:09:36 UTC,Steggles,Honey Soy Frozen Chicken Breast Tenders,Frozen,400g,100g,4,3230754P,861kJ,11.4g,11.1g,2.7g,14.2g,6.1g,512mg,8.58,TRUE,3.9,FALSE,,,1534277376.0-C-2445
+2018-08-15 06:09:36 UTC,Coles,Frozen Beef Party Pies 12 pack,Frozen,550g,,,9351525P,,,,,,,,4,FALSE,4,FALSE,,,1534277376.0-C-2446
+2018-08-15 06:09:36 UTC,Patties,Sausage Rolls,Frozen,900g,,,3048590P,,,,,,,,12.3,FALSE,12.3,FALSE,,,1534277376.0-C-2447
+2018-08-15 06:09:36 UTC,Coles,Greek Style Meatballs,Frozen,400g,,,8686630P,,,,,,,,7,FALSE,7,FALSE,,,1534277376.0-C-2448
+2018-08-15 06:09:36 UTC,Coles,Frozen Puff Pastry Ready Rolled Sheets 6 pack,Frozen,1kg,,,450550P,,,,,,,,2.3,FALSE,2.3,FALSE,,,1534277376.0-C-2449
+2018-08-15 06:09:36 UTC,Coles,Frozen Shortcrust Pastry Sheets 5 pack,Frozen,1kg,,,5826992P,,,,,,,,2.3,FALSE,2.3,FALSE,,,1534277376.0-C-2450
+2018-08-15 06:09:36 UTC,Steggles,Frozen Flavoured Turkey Breast Roast,Frozen,1kg,,,2124401P,,,,,,,,15,FALSE,15,FALSE,,,1534277376.0-C-2454
+2018-08-15 06:09:36 UTC,Birds Eye,Australia Field Fresh Frozen Corn Cobs,Frozen,1kg,50,8,176812P,,3.5g,2.9g,0.7g,11.3g,7.3g,1mg,5,FALSE,5,FALSE,,,1534277376.0-C-2455
+2018-08-15 06:09:36 UTC,McCain,Beer Battered Steak Cut Frozen Potato Chips,Frozen,750g,,,5070637P,,,,,,,,4,TRUE,3,FALSE,,,1534277376.0-C-2456
+2018-08-15 06:09:36 UTC,Birds Eye,Golden Crunch Frozen Potato Chips,Frozen,1kg,100,10,8472295P,,2g,4.5g,0.3g,20.1g,0g,283mg,4.3,FALSE,4.3,FALSE,,,1534277376.0-C-2457
+2018-08-15 06:09:36 UTC,Birds Eye,Sweet Extra Juicy Frozen Corn Kernels,Frozen,1kg,75,13,5179454P,,2.5g,1.8g,0.4g,8.6g,7.7g,1mg,5,FALSE,5,FALSE,,,1534277376.0-C-2458
+2018-08-15 06:09:36 UTC,McCain,Frozen Superfries Shoestring Potato Chips,Frozen,900g,,,476022P,,,,,,,,3,FALSE,3,FALSE,,,1534277376.0-C-2459
+2018-08-15 06:09:36 UTC,Birds Eye,Sweet Extra Juicy Frozen Corn Kernels,Frozen,500g,75,7,466903P,,2.5g,1.8g,0.4g,8.6g,7.7g,1mg,2.69,FALSE,2.69,FALSE,,,1534277376.0-C-2460
+2018-08-15 06:09:36 UTC,Coles,Frozen Crinkle Cut Potato Chips,Frozen,1kg,Approximately 100g,10,344269P,601,2.3,5.4,LESS THAN 1g,20.5,LESS THAN 1g,44,2,FALSE,2,FALSE,,,1534277376.0-C-2461
+2018-08-15 06:09:36 UTC,Coles,Frozen Peas,Frozen,1kg,75g,,399067P,253,,LESS THAN 1g,LESS THAN 1g,,,LESS THAN 5mg,2,FALSE,2,FALSE,,,1534277376.0-C-2462
+2018-08-15 06:09:36 UTC,Coles Smart Buy,Frozen Party Pies 24 Pack,Frozen,1.1kg,,,5613641P,,,,,,,,5,FALSE,5,FALSE,,,1534277376.0-C-2463
+2018-08-15 06:09:36 UTC,Patties,Frozen Party Pasties 12 pack,Frozen,500g,42g,12,5237131P,970kJ,5.1g,11.6g,5.9g,25.4g,2.4g,552mg,7.15,FALSE,7.15,FALSE,,,1534277376.0-C-2464
+2018-08-15 06:09:36 UTC,Coles,Frozen Party Sausage Rolls 12 pack,Frozen,500g,,,5079030P,,,,,,,,4,FALSE,4,FALSE,,,1534277376.0-C-2465
+2018-08-15 06:09:36 UTC,Steggles,Frozen Garlic Chicken Kiev,Frozen,350g,175g,2,1248136P,783kJ,13.0g,8.2g,2.9g,15.2g,2.5g,510mg,8,TRUE,6.4,FALSE,,,1534277376.0-C-2466
+2018-08-15 06:09:36 UTC,Marathon,Frozen Cocktail Puffy Dogs 20 pack,Frozen,600g,,,9666800P,,,,,,,,6.85,FALSE,6.85,FALSE,,,1534277376.0-C-2467
+2018-08-15 06:09:36 UTC,Patties,Frozen Party Pies 24 pack,Frozen,1.12kg,47g,24,6865300P,945kJ,7.6g,11.7g,6.1g,22.2g,1.5g,430mg,12.3,FALSE,12.3,FALSE,,,1534277376.0-C-2468
+2018-08-15 06:09:36 UTC,Herbert Adams,Gourmet King Island Beef Frozen Party Pies 12 pack,Frozen,420g,35g,12,8693170P,1030kJ,9.1g,13.6g,7.4g,21.1g,1.7g,490mg,7.88,FALSE,7.88,FALSE,,,1534277376.0-C-2469
+2018-08-15 06:09:36 UTC,Vegie Delights,Crispy Chicken Style Burgers,Frozen,300g,,,3218271P,,,,,,,,7.15,TRUE,6.5,FALSE,,,1534277376.0-C-2470
+2018-08-15 06:09:36 UTC,Temptation,Petite Quiches Variety Pack,Frozen,500g,17g,15,7984611P,1150kJ,7.5g,16.7g,9.2g,22.7g,2.6g,535mg,10.5,FALSE,10.5,FALSE,,,1534277376.0-C-2471
+2018-08-15 06:09:36 UTC,Sargents,Frozen 18 Party Pies and 18 Sausage Rolls,Frozen,1.2kg,,,9572058P,1113kJ,8.0g,12.4g,6.1g,29.7g,1.2g,375mg,13.5,TRUE,10,FALSE,,,1534277376.0-C-2472
+2018-08-15 06:09:36 UTC,Kailis Bros,Frozen Vegetable Gyoza,Frozen,750g,,,2815151P,,,,,,,,16,FALSE,16,FALSE,,,1534277376.0-C-2473
+2018-08-15 06:09:36 UTC,Steggles,Classic Crumb Chicken Breast Tenders,Frozen,1kg,63g,16,3230710P,920kJ,12.7g,14.5g,2.0g,9.4g,0.5g,376mg,16,FALSE,16,FALSE,,,1534277376.0-C-2477
+2018-08-15 06:09:36 UTC,Steggles,Veggie Frozen Chicken Breast Nuggets,Frozen,400g,100g,4,3230696P,922kJ,11.3g,12.5g,2.0g,14.8g,4.0g,475mg,5,FALSE,5,FALSE,,,1534277376.0-C-2478
+2018-08-15 06:09:36 UTC,Coles,Frozen Chicken Kiev 2 pack,Frozen,350g,,,5428264P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277376.0-C-2479
+2018-08-15 06:09:36 UTC,Coles,Sweet Chilli Frozen Chicken Breast Tenders,Frozen,400g,,,3187509P,,,,,,,,3.8,FALSE,3.8,FALSE,,,1534277376.0-C-2480
+2018-08-15 06:09:36 UTC,Coles,Corn & Cheese Frozen Chicken Nuggets,Frozen,400g,,,3186200P,,,,,,,,6,FALSE,6,FALSE,,,1534277376.0-C-2481
+2018-08-15 06:09:36 UTC,Coles,Chicken Breast Gravy Frozen Kiev 2 pack,Frozen,350g,,,3186164P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277376.0-C-2482
+2018-08-15 06:09:36 UTC,Coles,Roast Garlic Frozen Chicken Wing Nibbles,Frozen,550g,,,3186131P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277376.0-C-2483
+2018-08-15 06:09:36 UTC,Steggles,Frozen Turkey Thigh Roast Serves 5,Frozen,1kg,200g,5,4179561P,486kJ,15.4g,5.3g,1.4g,1.2g,<0.5g,562mg,12,FALSE,12,FALSE,,,1534277376.0-C-2484
+2018-08-15 06:09:36 UTC,Steggles,Frozen Turkey Breast Roast,Frozen,2kg,100g,20,4178638P,404kJ,20.2g,<1.0g,<1.0g,1.9g,<1.0g,423mg,30,FALSE,30,FALSE,,,1534277376.0-C-2485
+2018-08-15 06:09:36 UTC,Tivall,Frozen Vegetarian Schnitzels,Frozen,400g,,,6631536P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277376.0-C-2486
+2018-08-15 06:09:36 UTC,Birds Eye,Sliced Frozen Beans,Frozen,500g,75,7,186430P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277376.0-C-2487
+2018-08-15 06:09:36 UTC,Balfours,Frozen Party Pies 12 pack,Frozen,600g,,,9550521P,,,,,,,,7.25,TRUE,5,FALSE,,,1534277376.0-C-2495
+2018-08-15 06:09:36 UTC,Coles Smart Buy,Frozen Chicken Nuggets,Frozen,500g,Approximately 100g,5,5613685P,942,10.9,11.8,2.6,18,3.6,610,2.9,FALSE,2.9,FALSE,,,1534277376.0-C-2496
+2018-08-15 06:09:36 UTC,Steggles,Tempura Chicken Breast Nuggets,Frozen,400g,100g,4,3088493P,720kJ,13.6g,7.0g,1.6g,13.5g,3.4g,460mg,5,FALSE,5,FALSE,,,1534277376.0-C-2497
+2018-08-15 06:09:36 UTC,Steggles,Frozen Whole Chicken,Frozen,2.4kg,,,5778663P,,,,,,,,10,FALSE,10,FALSE,,,1534277376.0-C-2508
+2018-08-15 06:09:36 UTC,Vegie Delights,Gluten Free Mediterranean Koftas,Frozen,300g,100g 2 Koftas,3,1329067P,,10.5 g,11.9 g,1.1 g,15.0 g,1.5 g,430 mg,6.5,FALSE,6.5,FALSE,,,1534277376.0-C-2544
+2018-08-15 06:09:36 UTC,Syndian Natural Food,Frozen Brown Rice & Veg Burgers,Frozen,400g,,,1269114P,,,,,,,,7,FALSE,7,FALSE,,,1534277376.0-C-2545
+2018-08-15 06:09:36 UTC,Bayview,Gluten Free Frozen Vegetable Nuggets,Frozen,300g,,,1072335P,,,,,,,,7.7,FALSE,7.7,FALSE,,,1534277376.0-C-2569
+2018-08-15 06:09:36 UTC,Birds Eye,Frozen Broccoli,Frozen,500g,75,7,9738729P,,2.7g,0.3g,<0.1g,2g,1.4g,3mg,4,FALSE,4,FALSE,,,1534277376.0-C-2570
+2018-08-15 06:09:36 UTC,Vegie Delights,Smokey Barbeque Burger,Frozen,300g,75g 1 Burger,4,1329056P,,16.9 g,11.6 g,1.1 g,10.7 g,1.4 g,551 mg,6.5,FALSE,6.5,FALSE,,,1534277376.0-C-2571
+2018-08-15 06:09:36 UTC,McCain,Crunchy Frozen Potato Fries,Frozen,750g,,,5766020P,,,,,,,,4,FALSE,4,FALSE,,,1534277376.0-C-2581
+2018-08-15 06:09:36 UTC,Birds Eye,Pommes Frozen Crunchy Potato Puffs,Frozen,350g,87,4,283040P,,3g,7.7g,0.6g,23.4g,<0.99g,458mg,3.95,TRUE,3,FALSE,,,1534277376.0-C-2582
+2018-08-15 06:09:36 UTC,Birds Eye,Deli Garlic Thyme & Olive Oil Frozen Roast Potatoes,Frozen,600g,100,6,2256661P,,2.1g,5.2g,0.4g,17.8g,1g,208mg,3.95,FALSE,3.95,FALSE,,,1534277376.0-C-2583
+2018-08-15 06:09:36 UTC,Birds Eye,Golden Crunch Beer Battered Frozen Potato Wedges,Frozen,750g,100,8,5867526P,,1.6g,4.9g,0.4g,19.8g,0g,225mg,3.79,FALSE,3.79,FALSE,,,1534277376.0-C-2584
+2018-08-15 06:09:36 UTC,Coles,Frozen Minted Peas,Frozen,1kg,,,297453P,,,,,,,,2.9,FALSE,2.9,FALSE,,,1534277376.0-C-2585
+2018-08-15 06:09:36 UTC,Aunt Betty's,Yorkshire Puddings 12 pack,Frozen,220g,18g approx. (One pudding),12,7702979P,,10.5g,,,36.6g,1.7g,600mg,5.2,TRUE,4.5,FALSE,,,1534277376.0-C-2593
+2018-08-15 06:09:36 UTC,Birds Eye,Frozen Chopped Kale,Frozen,250g,75,3,2271326P,,2.7g,0.8g,0.4g,2g,>0.99g,8mg,2.5,FALSE,2.5,FALSE,,,1534277376.0-C-2594
+2018-08-15 06:09:36 UTC,Syndian Natural Food,Frozen Lentil Burgers,Frozen,400g,100g,4,7601891P,805kJ,6g,9.3g,0.99g,19.1g,1.4g,208mg,7,FALSE,7,FALSE,,,1534277376.0-C-2595
+2018-08-15 06:09:36 UTC,Coles,Frozen Straight Cut Potato Chips,Frozen,1kg,Approximately 100g,10,293485P,491,2.1,3.1,LESS THAN 1g,19.2,LESS THAN 1g,31,2,FALSE,2,FALSE,,,1534277376.0-C-2607
+2018-08-15 06:09:36 UTC,Birds Eye,Golden Crunch Frozen Hash Browns,Frozen,800g,64,12,4545717P,777kJ,1.8g,10.6g,0.8g,19.6g,Less than 1g,350mg,3.85,TRUE,3.3,FALSE,,,1534277376.0-C-2608
+2018-08-15 06:09:36 UTC,Birds Eye,Golden Crunch Beer Batter Chips,Frozen,500g,,,3192473P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277376.0-C-2609
+2018-08-15 06:09:36 UTC,McCain,Frozen Shredded Potato Hash Browns,Frozen,750g,,,8217844P,,,,,,,,3.4,FALSE,3.4,FALSE,,,1534277376.0-C-2610
+2018-08-15 06:09:36 UTC,Birds Eye,Frozen Vegetable Fingers,Frozen,425g,90,5,9730217P,792kJ,5.2g,7.7g,0.7g,23.0g,2.3g,504mg,4.8,FALSE,4.8,FALSE,,,1534277376.0-C-2611
+2018-08-15 06:09:36 UTC,McCain,Beer Battered Frozen Potato Wedges,Frozen,750g,,,5069387P,,,,,,,,4,TRUE,3,FALSE,,,1534277376.0-C-2612
+2018-08-15 06:09:36 UTC,Birds Eye,Golden Crunch Crinkle Frozen Potato Chips,Frozen,1kg,100,10,8747780P,,2.2g,5g,0.4g,23.1g,2.2g,286mg,4.3,FALSE,4.3,FALSE,,,1534277376.0-C-2613
+2018-08-15 06:09:36 UTC,Birds Eye,Deli Seasoned Golden Ale Beer Batter Chips,Frozen,600g,,,3192553P,,,,,,,,3.95,FALSE,3.95,FALSE,,,1534277376.0-C-2614
+2018-08-15 06:09:36 UTC,Birds Eye,Frozen Hash Browns,Frozen,375g,62,6,99427P,,1.8g,10.6g,0.8g,19.6g,0.5g,350mg,3.2,TRUE,3,FALSE,,,1534277376.0-C-2615
+2018-08-15 06:09:36 UTC,McCain,Healthy Choice Straight Cut Frozen Potato Chips,Frozen,1kg,,,5442709P,,,,,,,,4.29,FALSE,4.29,FALSE,,,1534277376.0-C-2616
+2018-08-15 06:09:36 UTC,Birds Eye,Traditional Style Frozen Mashed Potato,Frozen,1kg,125,8,1678372P,,,,,,,,4.95,FALSE,4.95,FALSE,,,1534277376.0-C-2618
+2018-08-15 06:09:36 UTC,Coles,Frozen Carrots Batons,Frozen,500g,Approximately 75g,6.7,2270276P,120,1.2,LESS THAN 1g,LESS THAN 1g,4.1,3.7,40,2,FALSE,2,FALSE,,,1534277376.0-C-2619
+2018-08-15 06:09:36 UTC,Coles,Frozen Brussels Sprouts,Frozen,500g,,,208894P,,,,,,,,2.35,FALSE,2.35,FALSE,,,1534277376.0-C-2620
+2018-08-15 06:09:36 UTC,Birds Eye,Sweet Potato Mash,Frozen,600g,150,4,3192575P,,0.8g,0.3g,0.1g,18.4g,8.8g,52mg,4,FALSE,4,FALSE,,,1534277376.0-C-2621
+2018-08-15 06:09:37 UTC,Steggles,Premium Frozen Chicken Nuggets,Frozen,400g,100g,4,3088450P,919kJ,10.3g,11.8g,2.1g,18.1g,2.2g,650mg,5,FALSE,5,FALSE,,,1534277377.0-C-2637
+2018-08-15 06:09:37 UTC,Birds Eye,Golden Crunch Frozen Potato Gems,Frozen,1kg,100,10,237520P,,2.3g,7.6g,0.6g,20.8g,>0.99g,370mg,4.3,TRUE,3,FALSE,,,1534277377.0-C-2638
+2018-08-15 06:09:37 UTC,Birds Eye,Frozen Baby Peas,Frozen,1kg,75,13,9257582P,,4.6g,0.6g,0.1g,7.2g,4.2g,1mg,4.7,FALSE,4.7,FALSE,,,1534277377.0-C-2639
+2018-08-15 06:09:37 UTC,Birds Eye,Frozen Broad Beans,Frozen,500g,75,7,1777148P,,5g,0.7g,0.2g,5.4g,2.1g,1mg,3,FALSE,3,FALSE,,,1534277377.0-C-2640
+2018-08-15 06:09:37 UTC,Birds Eye,Frozen Peas,Frozen,1kg,75,13,222396P,,5.2g,0.3g,>0.1g,6.4g,2.5g,3mg,4.39,TRUE,3.7,FALSE,,,1534277377.0-C-2641
+2018-08-15 06:09:37 UTC,McCain,Beer Battered Chunky Frozen Potato Chips,Frozen,750g,,,5070648P,,,,,,,,4,TRUE,3,FALSE,,,1534277377.0-C-2642
+2018-08-15 06:09:37 UTC,Birds Eye,Whole Frozen Baby Beans,Frozen,500g,75,7,300729P,,,,,,,,3.1,FALSE,3.1,FALSE,,,1534277377.0-C-2643
+2018-08-15 06:09:37 UTC,Coles,Australian Potatoes Beer Batter Steakhouse Chips,Frozen,750g,Approximately 100g,7.5,2271348P,591,2.4,5.1,LESS THAN 1g,20.4,LESS THAN 1g,192,2.7,FALSE,2.7,FALSE,,,1534277377.0-C-2644
+2018-08-15 06:09:37 UTC,Coles,Australian Frozen Broccoli Florets,Frozen,500g,,,5341010P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277377.0-C-2648
+2018-08-15 06:09:37 UTC,Natures Nutrients,Chopped Frozen Spinach,Frozen,250g,,,1313760P,114kJ,2.6g,<1g,<1g,3.9g,<1g,110mg,1,FALSE,1,FALSE,,,1534277377.0-C-2649
+2018-08-15 06:09:37 UTC,Coles,Frozen Chopped Onions,Frozen,500g,,,9321761P,,,,,,,,2.1,FALSE,2.1,FALSE,,,1534277377.0-C-2650
+2018-08-15 06:09:37 UTC,Coles,Frozen Cauliflower & Broccoli,Frozen,500g,Approximately 75g,7,9625868P,104,2.4,LESS THAN 1g,0.0g,2,1.7,17,2.15,FALSE,2.15,FALSE,,,1534277377.0-C-2651
+2018-08-15 06:09:37 UTC,Steggles,Frozen Chicken Pieces,Frozen,1kg,,,5114914P,,,,,,,,4,FALSE,4,FALSE,,,1534277377.0-C-2658
+2018-08-15 06:09:37 UTC,Coles,Frozen Beef Garlic And Herb Sausage,Frozen,500g,,,2916953P,,,,,,,,5,FALSE,5,FALSE,,,1534277377.0-C-2659
+2018-08-15 06:09:37 UTC,Birds Eye,Frozen Baby Carrots,Frozen,500g,,,9730374P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277377.0-C-2664
+2018-08-15 06:09:37 UTC,Birds Eye,Frozen Spinach Portions,Frozen,250g,75,3,7562111P,,2.4g,0.5g,90g,0.6g,0.6g,65mg,1.8,FALSE,1.8,FALSE,,,1534277377.0-C-2665
+2018-08-15 06:09:37 UTC,Birds Eye,SteamFresh Frozen Baby Potatoes Broccoli Carrots & Peas,Frozen,400g,200,2,2257799P,,2.5g,1.5g,0.2g,9.6g,1.8g,203mg,4.2,FALSE,4.2,FALSE,,,1534277377.0-C-2671
+2018-08-15 06:09:37 UTC,Birds Eye,Frozen Farmhouse Mix,Frozen,600g,150,4,2257642P,,1.7g,1.8g,0.3g,8.9g,5.2g,289mg,5,TRUE,4,FALSE,,,1534277377.0-C-2672
+2018-08-15 06:09:37 UTC,Coles,Frozen Green Mixed Vegetables,Frozen,1kg,Approximately 75g,13,8977644P,164,3.3,LESS THAN 1g,0.0g,4,1.8,LESS THAN 5mg,4,FALSE,4,FALSE,,,1534277377.0-C-2673
+2018-08-15 06:09:37 UTC,Birds Eye,Country Harvest Frozen Spring Green Mixed Vegetables,Frozen,1kg,75,13,5864834P,,3.1g,0.3g,0.1g,3.8g,1.7g,3mg,5,TRUE,4,FALSE,,,1534277377.0-C-2674
+2018-08-15 06:09:37 UTC,Birds Eye,Country Harvest Frozen Baby Beans Carrot & Corn,Frozen,1kg,75,13,1777159P,,,,,,,,5,TRUE,4,FALSE,,,1534277377.0-C-2675
+2018-08-15 06:09:37 UTC,Birds Eye,Country Harvest Frozen Carrot Cauliflower Broccoli & Beans,Frozen,500g,75,7,1777160P,,1.8g,0.3g,0.1g,3g,2.5g,26mg,2.6,FALSE,2.6,FALSE,,,1534277377.0-C-2679
+2018-08-15 06:09:37 UTC,Birds Eye,Country Harvest Frozen Peas & Corn,Frozen,1kg,75,13,5072790P,,4g,1.2g,0.1g,12.5g,3.4g,3mg,5,TRUE,4,FALSE,,,1534277377.0-C-2680
+2018-08-15 06:09:37 UTC,Birds Eye,Country Harvest Winter Vegetables,Frozen,1kg,75,13,2743254P,,1.6g,0.3g,>0.1g,3g,2.3g,20mg,5,TRUE,4,FALSE,,,1534277377.0-C-2681
+2018-08-15 06:09:37 UTC,Birds Eye,Country Harvest Frozen Peas Corn & Capsicum,Frozen,500g,75,7,105701P,,3.5g,1g,0.2g,7g,4.9g,2mg,2.6,FALSE,2.6,FALSE,,,1534277377.0-C-2684
+2018-08-15 06:09:37 UTC,Coles,Frozen Australian Mixed Vegetables,Frozen,1kg,Approximately 75g,13,186576P,197,2.3,LESS THAN 1g,0.0g,6.6,3.1,10,3,FALSE,3,FALSE,,,1534277377.0-C-2685
+2018-08-15 06:09:37 UTC,Coles,Frozen Australian Mixed Winter Vegetables,Frozen,500g,Approximately 75g,7,9738570P,107,1.6,LESS THAN 1g,0.0g,2.9,2.1,19,2,FALSE,2,FALSE,,,1534277377.0-C-2686
+2018-08-15 06:09:37 UTC,Birds Eye,Country Harvest Frozen Carrots Cauliflower & Broccoli,Frozen,1kg,75,13,4525844P,,1.9g,0.3g,>0.1g,2.9g,2.6g,28mg,5,TRUE,4,FALSE,,,1534277377.0-C-2687
+2018-08-15 06:09:37 UTC,Birds Eye,Frozen Mediterranean Mix,Frozen,600g,150,4,2257620P,,2.1g,3.5g,1.2g,14.7g,2.5g,297mg,5,TRUE,4,FALSE,,,1534277377.0-C-2688
+2018-08-15 06:09:37 UTC,Coles,Frozen Mixed Vegetables,Frozen,1kg,,,1499158P,,,,,,,,1.6,FALSE,1.6,FALSE,,,1534277377.0-C-2693
+2018-08-15 06:09:37 UTC,Coles,Frozen Stir Fry Vegetables,Frozen,500g,Approximately 125g,4,2270243P,112,1.3,LESS THAN 1g,LESS THAN 1g,3.4,2.8,15,2.2,FALSE,2.2,FALSE,,,1534277377.0-C-2694
+2018-08-15 06:09:37 UTC,Coles,Frozen Peas & Corn,Frozen,500g,,,9727788P,,,,,,,,2.35,FALSE,2.35,FALSE,,,1534277377.0-C-2695
+2018-08-15 06:09:37 UTC,Coles,Frozen Australian Peas Carrots & Cauliflower,Frozen,1kg,,,5300861P,,,,,,,,3,FALSE,3,FALSE,,,1534277377.0-C-2696
+2018-08-15 06:09:37 UTC,Birds Eye,Country Harvest Frozen Peas & Supersweet Corn,Frozen,500g,75,7,5091502P,,4g,1.2g,0.1g,12.5g,3.4g,2mg,2.6,FALSE,2.6,FALSE,,,1534277377.0-C-2697
+2018-08-15 06:09:37 UTC,Birds Eye,Country Harvest Frozen Carrot Peas & Corn,Frozen,1kg,75,13,5072778P,,2.8g,0.8g,0.1g,6.1g,4.5g,17mg,5,TRUE,4,FALSE,,,1534277377.0-C-2700
+2018-08-15 06:09:37 UTC,Birds Eye,Country Harvest Frozen Garden Mixed Vegetables,Frozen,1kg,75,13,5075084P,,1.8g,0.2g,119g,3.2g,3g,23mg,5,TRUE,4,FALSE,,,1534277377.0-C-2701
+2018-08-15 06:09:37 UTC,Coles,Frozen Australian Carrots Peas & Corn,Frozen,1kg,,,5300850P,,,,,,,,3,FALSE,3,FALSE,,,1534277377.0-C-2702
+2018-08-15 08:09:33 UTC,McCain,Red Box Beef & Bacon Pasta Frozen Meal,Frozen,400g,400g,1,9802828P,546kJ,6.5g,4.5g,2.3g,15.0g,2.0g,290mg,4.5,FALSE,4.5,FALSE,,,1534284573.0-C-11811
+2018-08-15 08:09:33 UTC,Quorn,Vegan Hot Style Burger,Frozen,264g,,,3015456P,,,,,,,,7,TRUE,3.5,FALSE,,,1534284573.0-C-11812
+2018-08-15 08:09:33 UTC,Weis,Dairy Free Creamy Sorbet Simply Coconut,Frozen,1L,,,2975930P,,,,,,,,8,TRUE,6,FALSE,,,1534284573.0-C-11813
+2018-08-15 08:09:33 UTC,Bulla,Creamy Classics Classic Frozen Custard,Frozen,1L,,,2984068P,,,,,,,,8,TRUE,5,FALSE,,,1534284573.0-C-11814
+2018-08-15 08:09:33 UTC,Magnum,Raspberry Ice Cream,Frozen,440mL,,,3252779P,,,,,,,,9.35,TRUE,8.5,FALSE,,,1534284573.0-C-11815
+2018-08-15 08:09:33 UTC,Peters,Lactose Free Cookies And Cream,Frozen,1.2L,,,2982652P,,,,,,,,7.6,FALSE,7.6,FALSE,,,1534284573.0-C-11816
+2018-08-15 08:09:33 UTC,Taamti,Vegetarian Cigars,Frozen,408g,,,2359835P,,,,,,,,10,FALSE,10,FALSE,,,1534284573.0-C-11817
+2018-08-15 08:09:33 UTC,Viennetta,Classic,Frozen,650mL,,7,3169766P,,,,,,,,6.6,FALSE,6.6,FALSE,,,1534284573.0-C-11818
+2018-08-15 08:09:33 UTC,Coles,Smart Buy Frozen Lasagne Made With Beef,Frozen,400g,,,5613663P,,,,,,,,2.3,FALSE,2.3,FALSE,,,1534284573.0-C-11820
+2018-08-15 08:09:33 UTC,Lean Cuisine,Balanced Serve Classic Spaghetti Bolognese Frozen Meal,Frozen,300g,,,6567947P,,,,,,,,5.7,TRUE,4,FALSE,,,1534284573.0-C-11821
+2018-08-15 08:09:33 UTC,McCain,Healthy Choice Whole Grains Chicken & Roasted Cherry Tomato,Frozen,320g,,,3237822P,,,,,,,,5,TRUE,4.5,FALSE,,,1534284573.0-C-11822
+2018-08-15 08:09:33 UTC,Coles,Frozen Chocolate Trifle,Frozen,500g,100g,5,3148096P,819,3.5,10.3,6.5,21.9,16.8,70,6.5,FALSE,6.5,FALSE,,,1534284573.0-C-11825
+2018-08-15 08:09:33 UTC,Pacific West,Lemon Pepper Lightly Dusted Fillets,Frozen,280g,,,3024435P,,,,,,,,7,FALSE,7,FALSE,,,1534284573.0-C-11826
+2018-08-15 08:09:33 UTC,Streets,Splice Pine Lime 8 pack,Frozen,584mL,,,4747256P,,,,,,,,7,FALSE,7,FALSE,,,1534284573.0-C-11828
+2018-08-15 08:09:33 UTC,Halo Top,Birthday Cake,Frozen,473mL,,,3146873P,,,,,,,,10,TRUE,8,FALSE,,,1534284573.0-C-11829
+2018-08-15 08:09:33 UTC,Peters,Frozen Icy Pole Lemonade Raspberry 8 pack,Frozen,575mL,,,6588991P,,,,,,,,4.1,FALSE,4.1,FALSE,,,1534284573.0-C-11830
+2018-08-15 08:09:33 UTC,Coles,Frozen Salt & Pepper Squid,Frozen,360g,,,2362250P,,,,,,,,6,FALSE,6,FALSE,,,1534284573.0-C-11839
+2018-08-15 08:09:33 UTC,Coles,Crumbed Squid Rings,Frozen,360g,,,2362240P,,,,,,,,6,FALSE,6,FALSE,,,1534284573.0-C-11840
+2018-08-15 08:09:33 UTC,Hanabi,Frozen Bay Scallops,Frozen,500g,,,2143246P,,,,,,,,9,FALSE,9,FALSE,,,1534284573.0-C-11841
+2018-08-15 08:09:33 UTC,Weis,Creamy Frozen Yoghurt Mango & Toasted Coconut,Frozen,1L,,,1483522P,,,,,,,,8,FALSE,8,FALSE,,,1534284573.0-C-11847
+2018-08-15 08:09:33 UTC,Connoisseur,Vanilla Ice Cream,Frozen,4 pack,,,2982550P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534284573.0-C-11848
+2018-08-15 08:09:33 UTC,Peters,Choc A Block,Frozen,620mL,,,3124112P,,,,,,,,8.4,TRUE,5,FALSE,,,1534284573.0-C-11849
+2018-08-15 08:09:33 UTC,Peters,Skinny Cow Cheesecake Cups 4 pack,Frozen,680mL,,,1892260P,,,,,,,,6,FALSE,6,FALSE,,,1534284573.0-C-11850
+2018-08-15 08:09:33 UTC,Birds Eye,Frozen Fish Fingers 40 pack,Frozen,1kg,75,13,292937P,,10.7g,8.8g,0.8g,20.1g,1.4g,252mg,9,FALSE,9,FALSE,,,1534284573.0-C-11855
+2018-08-15 08:09:33 UTC,Coles,Frozen 6 Crumbed Hoki Original Fish Fillets,Frozen,425g,,,2285524P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534284573.0-C-11856
+2018-08-15 08:09:33 UTC,Nanna's,Frozen Waffles 12 pack,Frozen,200g,17g,12,209070P,1070kJ,6.3g,6.7g,2.6g,40.6g,7.3g,694mg,4.6,TRUE,3.68,FALSE,,,1534284573.0-C-11858
+2018-08-15 08:09:33 UTC,On The Menu,Frozen Chicken Fillet Burger,Frozen,165g,165g,1,6957090P,983kJ,9.4g,8.4g,1.6g,30.0g,4.4g,610mg,3.15,FALSE,3.15,FALSE,,,1534284573.0-C-11869

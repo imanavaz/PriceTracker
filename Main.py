@@ -6,7 +6,7 @@ from logic.dataPreparation import *
 from logic.generateSimilarities import *
 from logic.processSimilarityMatrix import *
 import os
-#from tkinter import *
+
 
 
 #clear terminal 
@@ -23,15 +23,15 @@ loadFunFacts(funfacts)
 
 
 ##needed only once
-#appendIDtoRow ('data/c.csv', 'data/c-i.csv', 'C')
-#appendIDtoRow ('data/w.csv', 'data/w-i.csv', 'W')
+#appendIDtoRow ('data/c-2.csv', 'data/c-2-i.csv', 'C')
+#appendIDtoRow ('data/w-2.csv', 'data/w-2-i.csv', 'W')
 
 
 #WITH TRAINING SECTION
 #generateSimialrityMatrices('data/c-i-Bread-A-Bakery.csv', 'data/w-i-Bakery-cc.csv', 'res/Bread-A-Bakery/')
-print("\n\n --- Starting process for %s ---" % "Bread & Bakery")
-createSimMatrix ('weights.csv', 'res/Bread-A-Bakery/')
-processSimilarItemsWithTraining('data/c-i-Bread-A-Bakery.csv', 'data/w-i-Bakery-cc.csv', 'weights.csv', 'res/Bread-A-Bakery/', funfacts, 55)
+#print("\n\n --- Starting process for %s ---" % "Bread & Bakery")
+#createSimMatrix ('weights.csv', 'res/Bread-A-Bakery/')
+#processSimilarItemsWithTraining('data/c-i-Bread-A-Bakery.csv', 'data/w-i-Bakery-cc.csv', 'weights.csv', 'res/Bread-A-Bakery/', funfacts, 55)
 
 #print("\n\n --- Starting process for %s ---" % "Dairy, Eggs & Meals")
 #createSimMatrix ('weights.csv', 'res/Dairy-Eggs-A-Meals/')
@@ -75,89 +75,30 @@ processSimilarItemsWithTraining('data/c-i-Bread-A-Bakery.csv', 'data/w-i-Bakery-
 
 
 
-## for the TKinker 
-#root = Tk()
-#recl = ['test 1', 'test 2', 'test 3']
-#gui = AppGUI(recl, root)
-##rec3.setRecommendationText("rec 3 hurray")
-#root.mainloop()
-
-
-#def test(option):
-#    print option
-#for indx, option in enumerate(things):
-#    cmd = lambda opt=option: test(opt)
-#    btn = Tkinter.Button(text=option, command=cmd)
-#    btn.pack(side='left')
-
-#frame = Frame(root, width=600, height=550)
-#frame.bind("<Button-1>",leftClick)
-#frame.bind("<Button-3>",rightClick) #
-#frame.pack()
-
-
-
-
 
 ##---------------------------------------##
-# --------- (-:, CSV Process :-) --------- #
+# -------- (-:, CSV Process :-) --------- #
 ##---------------------------------------##
 
 #data partitioning by categories
-"""partitionData('data/c-i.csv', 'data/c-i-Pantry.csv', 'Pantry')
-partitionData('data/c-i.csv', 'data/c-i-Baby.csv', 'Baby')
-partitionData('data/c-i.csv', 'data/c-i-Bread-A-Bakery.csv', 'Bread & Bakery')
-partitionData('data/c-i.csv', 'data/c-i-Dairy-Eggs-A-Meals.csv', 'Dairy, Eggs & Meals')
-partitionData('data/c-i.csv', 'data/c-i-Drinks.csv', 'Drinks')
-partitionData('data/c-i.csv', 'data/c-i-Frozen.csv', 'Frozen')
-partitionData('data/c-i.csv', 'data/c-i-Fruit-A-Vegetables.csv', 'Fruit & Vegetables')
-partitionData('data/c-i.csv', 'data/c-i-Liquor.csv', 'Liquor')
-partitionData('data/c-i.csv', 'data/c-i-Meat-Seafood-A-Deli.csv', 'Meat, Seafood & Deli')"""
+partitionData('data/c-2-i.csv', 'data/c-2-i-Pantry.csv', 'Pantry')
+partitionData('data/c-2-i.csv', 'data/c-2-i-Baby.csv', 'Baby')
+partitionData('data/c-2-i.csv', 'data/c-2-i-Bread-A-Bakery.csv', 'Bread & Bakery')
+partitionData('data/c-2-i.csv', 'data/c-2-i-Dairy-Eggs-A-Meals.csv', 'Dairy, Eggs & Meals')
+partitionData('data/c-2-i.csv', 'data/c-2-i-Drinks.csv', 'Drinks')
+partitionData('data/c-2-i.csv', 'data/c-2-i-Frozen.csv', 'Frozen')
+partitionData('data/c-2-i.csv', 'data/c-2-i-Fruit-A-Vegetables.csv', 'Fruit & Vegetables')
+partitionData('data/c-2-i.csv', 'data/c-2-i-Liquor.csv', 'Liquor')
+partitionData('data/c-2-i.csv', 'data/c-2-i-Meat-Seafood-A-Deli.csv', 'Meat, Seafood & Deli')
 
-"""partitionData('data/w-i.csv', 'data/w-i-Baby.csv', 'Baby')
-partitionData('data/w-i.csv', 'data/w-i-Bakery.csv', 'Bakery')
-partitionData('data/w-i.csv', 'data/w-i-Dairy-Eggs-A-Fridge.csv', 'Dairy, Eggs & Fridge')
-partitionData('data/w-i.csv', 'data/w-i-Drinks.csv', 'Drinks')
-partitionData('data/w-i.csv', 'data/w-i-Freezer.csv', 'Freezer')
-partitionData('data/w-i.csv', 'data/w-i-Fruit-A-Veg.csv', 'Fruit & Veg')
-partitionData('data/w-i.csv', 'data/w-i-Liquor.csv', 'Liquor')
-partitionData('data/w-i.csv', 'data/w-i-Lunch-Box.csv', 'Lunch Box')
-partitionData('data/w-i.csv', 'data/w-i-Meat-Seafood-A-Deli.csv', 'Meat, Seafood & Deli')
-partitionData('data/w-i.csv', 'data/w-i-Pantry.csv', 'Pantry')"""
-
-
-
-
-#######extractSimilarData('data\c.csv', 'data\w.csv')
-
-#processFile('coles2.csv','colesInfo2.csv')
-
-###-----Woolies-----###
-#countW = 0
-#wooliesfile = open("woolworth2.csv", "r")#data\woolworth.csv') 
-#wooliesDataReader = csv.DictReader(wooliesfile)
-#wooliesDataReader = csv.reader(wooliesfile, delimiter=',', quotechar='|')
-
-###-----Coles-----###
-#countC = 0
-#colesfile = open("coles2.csv", "r")#data\coles.csv')
-#colesDataReader = csv.DictReader(colesfile)
-
-
-
-###----Comparison----###
-#for rowC in colesDataReader:
-#    for rowW in wooliesDataReader:
-#        #print(rowC['Brand'] + " vs. " + rowW['Brand'])
-#        if (iterative_levenshtein(str.lower(str.lstrip(rowC['Brand'])), str.lower(str.lstrip(rowW['Brand'])), costs=(1, 1, 1)) == 0):
-#            print('LD for '+rowW['Brand']+' and '+rowC['Brand']+" is Zero!")
-#    wooliesfile.seek(0)
-
-#wooliesfile.close()
-#colesfile.close()
-
-#print('total number of records in Woolies :',countW)
-#print('total number of records in Coles :',countC )
-
-
+partitionData('data/w-2-i-cc.csv', 'data/w-2-i-Baby.csv', 'Baby')
+partitionData('data/w-2-i-cc.csv', 'data/w-2-i-Bakery.csv', 'Bakery')
+partitionData('data/w-2-i-cc.csv', 'data/w-2-i-Dairy-Eggs-A-Fridge.csv', 'Dairy, Eggs & Fridge')
+partitionData('data/w-2-i-cc.csv', 'data/w-2-i-Drinks.csv', 'Drinks')
+partitionData('data/w-2-i-cc.csv', 'data/w-2-i-Freezer.csv', 'Freezer')
+partitionData('data/w-2-i-cc.csv', 'data/w-2-i-Fruit-A-Veg.csv', 'Fruit & Veg')
+partitionData('data/w-2-i-cc.csv', 'data/w-2-i-Liquor.csv', 'Liquor')
+partitionData('data/w-2-i-cc.csv', 'data/w-2-i-Lunch-Box.csv', 'Lunch Box')
+partitionData('data/w-2-i-cc.csv', 'data/w-2-i-Meat-Seafood-A-Deli.csv', 'Meat, Seafood & Deli')
+partitionData('data/w-2-i-cc.csv', 'data/w-2-i-Pantry.csv', 'Pantry')
 

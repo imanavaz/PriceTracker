@@ -1,0 +1,1181 @@
+Date of data Extraction,Brand,Product name,Category,Pack size,Serving size,Servings per pack,Product code,Energy per 100g (or 100ml),Protein per 100g (or 100ml),Total fat per 100g (or 100ml),Saturated fat per 100g (or 100ml),Carbohydrate per 100g (or 100ml),Sugars per 100g (or 100ml),Sodium per 100g (or 100ml),Original Price,Price Promoted,Price Promoted Price,Multi Buy Special,Multi Buy Special Details,Multi Buy Price,UID
+2018-08-15 06:29:40 UTC,oak,Oak Chocolate Flavoured Milk,Drinks,3x250ml,250mL,1,,360kJ,3.6g,2.0g,1.3g,13.0g,12.2g,57mg,4.5,FALSE,4.5,FALSE,,,1534278580.0-W-1237
+2018-08-15 06:29:40 UTC,ovaltine,Ovaltine Chocolate Light Break Energy Drink,Drinks,400g,20g,20,,167kJ,1.2g,0.7g,0.6g,6.8g,4.5g,77mg,7,FALSE,7,FALSE,,,1534278580.0-W-1238
+2018-08-15 06:29:40 UTC,sustagen,Sustagen Dutch Chocolate ,Drinks,400g,15g,26,,1620kJ,19.2g,1.4g,0.9g,73g,54g,240mg,7.5,FALSE,7.5,FALSE,,,1534278580.0-W-1239
+2018-08-15 06:29:40 UTC,homebrand,Homebrand Instant Chocolate Powdered Drink,Drinks,400g,100g,26,,Approx. 1600kJ,Approx. 4g,Approx. 2g,Approx. 1.3g,Approx. 83.6g,Approx. 81.4g,Approx. 8mg,2.99,FALSE,2.99,FALSE,,,1534278580.0-W-1240
+2018-08-15 06:29:40 UTC,nestle,Nestle Malted Milk ,Drinks,500g,20g,25,,"1770kJ, Per 100mL as prepared: 295kJ","11.0g, Per 100mL as prepared: 4.4g","9.0g, Per 100mL as prepared: 0.91g","4.5g, Per 100mL as prepared: 0.5g","7.3g, Per 100mL as prepared: 11.3g","42.7g, Per 100mL as prepared: 8.4g","230mg, Per 100mL as prepared: 66mg",9.5,FALSE,9.5,FALSE,,,1534278580.0-W-1241
+2018-08-15 06:29:40 UTC,sipahh,Sipahh Variety Pack Milk Straws,Drinks,5x18g,3.5g (1 Straw),5,,1630kJ,1.2g,0.6g,0.3g,93g,52g,31mg,2.2,TRUE,1.1,FALSE,,,1534278580.0-W-1242
+2018-08-15 06:29:40 UTC,nestle,Nestle Milo Ready To Drink,Drinks,6 pack,,,,,,,,,,,8,FALSE,8,FALSE,,,1534278580.0-W-1243
+2018-08-15 06:29:40 UTC,sustagen,Sustagen French Vanilla ,Drinks,400g,15g,26,,1590kJ,19.3g,.05g,0.3g,73g,52,260mg,7.5,FALSE,7.5,FALSE,,,1534278580.0-W-1244
+2018-08-15 06:29:40 UTC,ovaltine,Ovaltine Chocolate Lasting Energy,Drinks,415g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534278580.0-W-1245
+2018-08-15 06:29:40 UTC,horlicks,Horlicks Malted Milk Drink,Drinks,500g,25g,20,,1624kJ,9.7g,3.2g,1.3g,77.2g,35.3g,500mg,11.5,FALSE,11.5,FALSE,,,1534278580.0-W-1246
+2018-08-15 06:29:40 UTC,nesquik,Nesquik Chocolate ,Drinks,500g,11g,45,,1730kJ,4.8g,3.2g,1.7g,90.3g,80.0g,<5mg,5.5,FALSE,5.5,FALSE,,,1534278580.0-W-1247
+2018-08-15 06:29:40 UTC,nesquik,Nesquik Strawberry Flavour,Drinks,250g,11g,22,,1690kJ,0.0g,<1g,0.0g,23.1g,23.1g,10mg,2.8,FALSE,2.8,FALSE,,,1534278580.0-W-1248
+2018-08-15 06:29:40 UTC,jarrah,Jarrah Salted Caramel Hot Chocolate,Drinks,275g,12.5g,22,,115kJ,0.8g,1.0g,0.9g,3.7g,2.0g,111mg,7,FALSE,7,FALSE,,,1534278580.0-W-1249
+2018-08-15 06:29:40 UTC,jarrah,Jarrah Choc O Lait Drinking Chocolate,Drinks,285g,11.5g,24,,97kJ,0.9g,0.5g,0.4g,3.5g,2.6g,69mg,7,FALSE,7,FALSE,,,1534278580.0-W-1250
+2018-08-15 06:29:40 UTC,vittoria,Vittoria Chocochino Dark Drinking Chocolate,Drinks,375g,g,,,,,,,,,,4.9,TRUE,4,FALSE,,,1534278580.0-W-1251
+2018-08-15 06:29:40 UTC,nesquik,Nesquik Strawberry Flavour,Drinks,500g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534278580.0-W-1252
+2018-08-15 06:29:40 UTC,nesquik,Nesquik Chocolate ,Drinks,250g,,22,,1730kJ,4.8g,,,90.3g,,,2.8,FALSE,2.8,FALSE,,,1534278580.0-W-1253
+2018-08-15 06:29:40 UTC,sipahh,Sipahh Variety Pack Milk Straws,Drinks,25x88g,3.5g (1 straw),25,,1630kJ,1.2g,0.6g,0.3g,93g,52g,31mg,8.39,FALSE,8.39,FALSE,,,1534278580.0-W-1254
+2018-08-15 06:29:40 UTC,vittoria,Vittoria Chocochino Drinking Chocolate,Drinks,375g,21g,17,,1590kJ,8.5g,2.0g,1.3g,76.9g,76.0g,64mg,4.9,TRUE,4,FALSE,,,1534278580.0-W-1255
+2018-08-15 06:29:40 UTC,akta vite,Akta Vite Drinking Chocolate ,Drinks,375g,15g (3tsp),25,,1490kJ,4.4g,1.9g,1.2g,79.3g,62.9g,11mg,5.95,FALSE,5.95,FALSE,,,1534278580.0-W-1256
+2018-08-15 06:29:40 UTC,fangks kids drinking,Fangks Kids Drinking Chocolate Milk Mix Sugar Free,Drinks,200g,25g (2 tablespoons) plus 250m1 skim milk,8,,240kJ,2.2g,1.6g,0.8g,2.0g,0.1g,43mg,3,FALSE,3,FALSE,,,1534278580.0-W-1257
+2018-08-15 06:29:40 UTC,cadbury,Cadbury Drinking Chocolate ,Drinks,225g,15g (approx. 1 tablespoon),15,,1640kJ,5.4g,2.3g,1.3g,83.8g,77.1g,4mg,3.2,TRUE,2,FALSE,,,1534278580.0-W-1258
+2018-08-15 06:29:40 UTC,avalanche,Avalanche Sugar Free Drinking Chocolate,Drinks,200g,12g (approx 2 teaspoons),16,,267kJ,4.2g,2.5g,1.2g,2.8g,0.1g,110mg,4.8,FALSE,4.8,FALSE,,,1534278580.0-W-1259
+2018-08-15 06:29:40 UTC,nestle,Nestle Milo Choc-malt,Drinks,1kg,100g,50,,Approx. 1670kJ,Approx. 11.9g,Approx. 10g,Approx. 6.1g,Approx. 64.5g,Approx. 46.4g,Approx. 120mg,12,FALSE,12,FALSE,,,1534278580.0-W-1260
+2018-08-15 06:29:40 UTC,nestle,Nestle Milo Choc-malt,Drinks,200g,20g,10,,Approx. 330kJ,Approx. 11.9g,Approx. 10g,Approx. 6.1g,Approx. 12.9g,Approx. 9.3g,Approx. 120mg,4,FALSE,4,FALSE,,,1534278580.0-W-1261
+2018-08-15 06:29:40 UTC,nestle,Nestle Milo Choc-malt,Drinks,450g,100g,22,,Approx. 1670kJ,Approx. 11.9g,Approx. 10g,Approx. 6.1g,Approx. 64.5g,Approx. 46.4g,Approx. 120mg,6.3,TRUE,5,FALSE,,,1534278580.0-W-1262
+2018-08-15 06:29:40 UTC,ovaltine,Ovaltine Chocolate Lasting Energy,Drinks,1kg,kg,,,,,,,,,,9,TRUE,7,FALSE,,,1534278580.0-W-1263
+2018-08-15 06:29:40 UTC,vitarium ,Vitarium Du Chocolat Drinking Cocoa,Drinks,200g,g,,,,,,,,,,4.8,FALSE,4.8,FALSE,,,1534278580.0-W-1264
+2018-08-15 06:29:40 UTC,lindt,Lindt Hot Chocolate Flakes Milk,Drinks,210g tin,30g,7,,2420kJ,6.0g,40.0g,25.0g,49.0g,43.0g,85mg,7.5,FALSE,7.5,FALSE,,,1534278580.0-W-1265
+2018-08-15 06:29:40 UTC,cadbury,Cadbury Drinking Chocolate ,Drinks,400g,15g (approx. 1 tablespoon),26.7,,1640kJ,5.4g,2.3g,1.3g,83.8g,77.1g,4mg,4.7,TRUE,4,FALSE,,,1534278580.0-W-1266
+2018-08-15 06:29:40 UTC,woolworths caffitaly,Woolworths Caffitaly Compatible Coffee Capsules Decaffeinated,Drinks,10 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534278580.0-W-1267
+2018-08-15 06:29:40 UTC,vittoria coffee,Vittoria Coffee Nespresso Compatible Organic Coffee Capsules,Drinks,10 pack,,,,,,,,,,,7.5,TRUE,5,FALSE,,,1534278580.0-W-1268
+2018-08-15 06:29:40 UTC,woolworths,Woolworths Hot Chocolate ,Drinks,10 pack,20g Dry mix (170mL prepared),10,,186kJ,1.5g,0.4g,0.2g,8.4g,5.5g,89mg,3.25,FALSE,3.25,FALSE,,,1534278580.0-W-1269
+2018-08-15 06:29:40 UTC,jarrah,Jarrah Hot White Chocolate Sachets,Drinks,10pk,14g,10,,127kJ,0.9g,1.0g,0.9g,4.3g,3.1g,83mg,5.3,FALSE,5.3,FALSE,,,1534278580.0-W-1270
+2018-08-15 06:29:40 UTC,jarrah,Jarrah Honeycomb Hot Choc,Drinks,10pk,,,,,,,,,,,5.3,FALSE,5.3,FALSE,,,1534278580.0-W-1271
+2018-08-15 06:29:40 UTC,allen's,Allen's Fantales Hot Choc,Drinks,10pk,,,,,,,,,,,6.6,TRUE,5,FALSE,,,1534278580.0-W-1272
+2018-08-15 06:29:40 UTC,allen's,Allen's Jaffas Hot Choc,Drinks,10pk,,,,,,,,,,,6.6,TRUE,5,FALSE,,,1534278580.0-W-1273
+2018-08-15 06:29:40 UTC,jarrah,Jarrah Hot Chocolate Sachets,Drinks,10pk,11.5g,10,,98kJ,0.9g,0.6g,0.5g,3.4g,2.0g,77mg,5.3,FALSE,5.3,FALSE,,,1534278580.0-W-1274
+2018-08-15 06:29:40 UTC,jarrah,Jarrah Mint Drinking Chocolate Sachets,Drinks,10pk 140g,g,,,,,,,,,,5.3,FALSE,5.3,FALSE,,,1534278580.0-W-1275
+2018-08-15 06:29:40 UTC,woolworths fairtrade,Woolworths Fairtrade Nespresso  * Compatible Coffee Capsules Decaffeinated,Drinks,10 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534278580.0-W-1276
+2018-08-15 06:29:40 UTC,vittoria coffee,Vittoria Coffee Nespresso Compatible Mountain Grown Coffee Capsules,Drinks,10 pack,,,,,,,,,,,7,TRUE,4.5,FALSE,,,1534278580.0-W-1277
+2018-08-15 06:29:40 UTC,lavazza,Lavazza Nespresso Compatible Vigoroso Coffee Capsules,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1278
+2018-08-15 06:29:40 UTC,moccona,Moccona Capsules Espresso 10 Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,TRUE,4,FALSE,,,1534278580.0-W-1279
+2018-08-15 06:29:40 UTC,woolworths caffitaly,Woolworths Caffitaly Compatible Coffee Capsules Smooth Roast,Drinks,10 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534278580.0-W-1280
+2018-08-15 06:29:40 UTC,l   or espresso,L   or Espresso Lungo Estremo Coffee Capsules Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1281
+2018-08-15 06:29:40 UTC,lavazza,Lavazza Nespresso Compatible Avvolgente Coffee Capsules,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1282
+2018-08-15 06:29:40 UTC,gloria jeans,Gloria Jeans Coffee Capsules Brazilian Single Origin,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1283
+2018-08-15 06:29:40 UTC,gloria jeans,Gloria Jeans Special Intense Coffee Capsules,Drinks,10 pack,,,,,,,,,,,5,FALSE,5,FALSE,,,1534278580.0-W-1284
+2018-08-15 06:29:40 UTC,l'or espresso,L'or Espresso Ristretto Decaf Coffee Capsule Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1285
+2018-08-15 06:29:40 UTC,woolworths fairtrade,Woolworths Fairtrade Nespresso  * Compatible Coffee Capsules Strong,Drinks,10 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534278580.0-W-1286
+2018-08-15 06:29:40 UTC,gloria jeans,Gloria Jeans Hot Chocolate Capsules ,Drinks,10 pack,15g,10,,"1750kJ, per 110mL cup:",9.5g,11.2g,9.6g,68.5g,67.2g,660mg,5,FALSE,5,FALSE,,,1534278580.0-W-1287
+2018-08-15 06:29:40 UTC,gloria jeans,Gloria Jeans Rich Dark Roast Coffee Capsules,Drinks,10 pack,,,,,,,,,,,5,FALSE,5,FALSE,,,1534278580.0-W-1288
+2018-08-15 06:29:40 UTC,vittoria coffee,Vittoria Coffee Nespresso Compatible Espresso Coffee Capsules,Drinks,10 pack,,,,,,,,,,,7,TRUE,5,FALSE,,,1534278580.0-W-1289
+2018-08-15 06:29:40 UTC,gloria jeans,Gloria Jeans Double Shot ,Drinks,10 pack,,,,,,,,,,,5,FALSE,5,FALSE,,,1534278580.0-W-1290
+2018-08-15 06:29:40 UTC,woolworths caffitaly,Woolworths Caffitaly Compatible Coffee Capsules Espresso Roast,Drinks,10 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534278580.0-W-1291
+2018-08-15 06:29:40 UTC,moccona,Moccona Capsules Lungo 8 Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,TRUE,4,FALSE,,,1534278580.0-W-1292
+2018-08-15 06:29:40 UTC,gloria jeans,Gloria Jeans Coffee Capsules Nicaragua Single Origin,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1293
+2018-08-15 06:29:40 UTC,vittoria coffee,Vittoria Coffee Nespresso Compatible Oro Coffee Capsules,Drinks,10 pack,,,,,,,,,,,7.5,TRUE,5,FALSE,,,1534278580.0-W-1294
+2018-08-15 06:29:40 UTC,moccona,Moccona Capsules Lungo 6 Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,TRUE,4,FALSE,,,1534278580.0-W-1295
+2018-08-15 06:29:40 UTC,woolworths fairtrade,Woolworths Fairtrade Nespresso  * Compatible Coffee Capsules Medium Strength,Drinks,10 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534278580.0-W-1296
+2018-08-15 06:29:40 UTC,l'or espresso,L'or Espresso Colombia Coffee Capsule Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1297
+2018-08-15 06:29:40 UTC,l'or espresso,L'or Espresso Sontuoso Coffee Capsule Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1298
+2018-08-15 06:29:40 UTC,l'or espresso,L'or Espresso Papua Coffee Capsule Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1299
+2018-08-15 06:29:40 UTC,l'or espresso,L'or Espresso Onyx Coffee Capsule Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1300
+2018-08-15 06:29:40 UTC,l'or espresso,L'or Espresso Lungo Profondo Coffee Capsules Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1301
+2018-08-15 06:29:40 UTC,l'or espresso,L'or Espresso Ristretto Coffee Capsule Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1302
+2018-08-15 06:29:40 UTC,l'or espresso,L'or Espresso Supremo Coffee Capsule Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1303
+2018-08-15 06:29:40 UTC,lavazza,Lavazza Nespresso Compatible Armonico Coffee Capsules,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1304
+2018-08-15 06:29:40 UTC,lavazza,Lavazza Nespresso Compatible Deciso Coffee Capsules,Drinks,10 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1305
+2018-08-15 06:29:40 UTC,aurora,Aurora Freeze Dried Coffee Italian Style,Drinks,100g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534278580.0-W-1306
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Gold Intense,Drinks,100g,g,,,,,,,,,,9.5,TRUE,7,FALSE,,,1534278580.0-W-1307
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Classic Decaffeinated,Drinks,100g,g,,,,,,,,,,12.5,FALSE,12.5,FALSE,,,1534278580.0-W-1308
+2018-08-15 06:29:40 UTC,grinders coffee capsules,Grinders Coffee Capsules Arabica Caffitaly System,Drinks,10 pack,,,,,,,,,,,6.5,TRUE,5.5,FALSE,,,1534278580.0-W-1309
+2018-08-15 06:29:40 UTC,grinders coffee capsules,Grinders Coffee Capsules Crema Caffitaly System,Drinks,10 pack,,,,,,,,,,,6.5,TRUE,5.5,FALSE,,,1534278580.0-W-1310
+2018-08-15 06:29:40 UTC,grinders coffee capsules,Grinders Coffee Capsules Espresso Caffitaly System,Drinks,10 pack,,,,,,,,,,,6.5,TRUE,5.5,FALSE,,,1534278580.0-W-1311
+2018-08-15 06:29:40 UTC,vittoria coffee,Vittoria Coffee Nespresso Compatible Italian Coffee Capsules,Drinks,10 pack,,,,,,,,,,,5.89,TRUE,4,FALSE,,,1534278580.0-W-1312
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Indulgence,Drinks,100g,g,,,,,,,,,,11,FALSE,11,FALSE,,,1534278580.0-W-1313
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Gold Rich,Drinks,100g,g,,,,,,,,,,9.5,TRUE,7,FALSE,,,1534278580.0-W-1314
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Indulgence,Drinks,200g,g,,,,,,,,,,19,TRUE,16,FALSE,,,1534278580.0-W-1315
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Gold Original,Drinks,100g,g,,,,,,,,,,9.5,TRUE,7,FALSE,,,1534278580.0-W-1316
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Gold Decaf,Drinks,100g,g,,,,,,,,,,11,TRUE,9,FALSE,,,1534278580.0-W-1317
+2018-08-15 06:29:40 UTC,woolworths,Woolworths Freeze Dried Coffee Decaf,Drinks,100g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534278580.0-W-1318
+2018-08-15 06:29:40 UTC,woolworths,Woolworths Freeze Dried Coffee Original,Drinks,100g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534278580.0-W-1319
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Gold Short Black,Drinks,100g,g,,,,,,,,,,11,TRUE,9,FALSE,,,1534278580.0-W-1320
+2018-08-15 06:29:40 UTC,nature's cuppa,Nature's Cuppa Freeze Dried Coffee Eco Organic,Drinks,100g,g,,,,,,,,,,8,TRUE,6,FALSE,,,1534278580.0-W-1321
+2018-08-15 06:29:40 UTC,republica organic,Republica Organic Instant Coffee 100% Pure Decaffeinated,Drinks,100g,g,,,,,,,,,,11,FALSE,11,FALSE,,,1534278580.0-W-1322
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Classic Medium Roast,Drinks,50g,g,,,,,,,,,,6,FALSE,6,FALSE,,,1534278580.0-W-1323
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Awaken,Drinks,200g,g,,,,,,,,,,13,TRUE,9,FALSE,,,1534278580.0-W-1324
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Classic Dark Roast,Drinks,400g,g,,,,,,,,,,24,FALSE,24,FALSE,,,1534278580.0-W-1325
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Classic Dark Roast,Drinks,200g,g,,,,,,,,,,13,TRUE,9,FALSE,,,1534278580.0-W-1326
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Espresso Style,Drinks,200g,g,,,,,,,,,,13,TRUE,9,FALSE,,,1534278580.0-W-1327
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Classic Medium Roast,Drinks,100g,g,,,,,,,,,,9.95,FALSE,9.95,FALSE,,,1534278580.0-W-1328
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Classic Medium Roast,Drinks,200g,g,,,,,,,,,,13,TRUE,9,FALSE,,,1534278580.0-W-1329
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Mocha Kenya Style,Drinks,200g,g,,,,,,,,,,13,TRUE,9,FALSE,,,1534278580.0-W-1330
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Classic Dark Roast,Drinks,100g,g,,,,,,,,,,9.95,FALSE,9.95,FALSE,,,1534278580.0-W-1331
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee French Style,Drinks,200g,g,,,,,,,,,,13,TRUE,9,FALSE,,,1534278580.0-W-1332
+2018-08-15 06:29:40 UTC,moccona,Moccona Peppermint Choc Bliss Latte ,Drinks,10 pack,19g (16.5g Sachet + 2.5g Biscuit Crumb),10,,187kJ,<1g,1.2g,<1g,7.5g,5.4g,24mg,6.6,TRUE,4,FALSE,,,1534278580.0-W-1333
+2018-08-15 06:29:40 UTC,moccona,Moccona Spiced Chocolate Orange Sensation Latte,Drinks,10 pack,,,,,,,,,,,6.6,TRUE,4,FALSE,,,1534278580.0-W-1334
+2018-08-15 06:29:40 UTC,moccona,Moccona Rocky Road Romance Latte ,Drinks,10 pack,18.5g (16.5g Sachet + 2g Marshmallow),10,,178kJ,<1g,1.2g,1.1g,6.9g,5.2g,23mg,6.6,TRUE,4,FALSE,,,1534278580.0-W-1335
+2018-08-15 06:29:40 UTC,moccona,Moccona Mixes Latte,Drinks,10 pack,15g sachet,10,,170kJ,<1g,1.4g,1.4g,6g,2.9g,20mg,5.59,TRUE,4.5,FALSE,,,1534278580.0-W-1336
+2018-08-15 06:29:40 UTC,moccona,Moccona Mixes Strong Cappuccino,Drinks,10 pack,15g sachet,10,,165kJ,<1g,1.2g,1.2g,6.1g,2.8g,15mg,5.59,TRUE,4.5,FALSE,,,1534278580.0-W-1337
+2018-08-15 06:29:40 UTC,moccona,Moccona Mixes Caramel Latte,Drinks,10 pack,14g Sachet,10,,185kJ,<1g,1.2g,1.2g,7.8g,5.5g,30mg,5.59,TRUE,4.5,FALSE,,,1534278580.0-W-1338
+2018-08-15 06:29:40 UTC,moccona,Moccona Maple Pecan Crave Latte ,Drinks,10 pack,,,,,,,,,,,6.6,TRUE,4,FALSE,,,1534278580.0-W-1339
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Coffee Sachets Cappuccino,Drinks,10 pack,12.5g (+ 0.7g chocolate topping),10,,140kJ,1.1g,1.1g,1.0g,4.7g,3.7g,52mg,6.59,TRUE,4.5,FALSE,,,1534278580.0-W-1340
+2018-08-15 06:29:40 UTC,moccona,Moccona Mixes Cappuccino,Drinks,10 pack,15g sachet,10,,165kJ,1.0g,1.4g,1.3g,5.8g,2.6g,35mg,5.59,TRUE,4.5,FALSE,,,1534278580.0-W-1341
+2018-08-15 06:29:40 UTC,moccona,Moccona Freeze Dried Instant Coffee Classic Medium Roast,Drinks,400g,g,,,,,,,,,,24,FALSE,24,FALSE,,,1534278580.0-W-1342
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Coffee Sachets Decaffeinated,Drinks,10 pack,15g (+0.7g chocolate topping),10,,170kJ,1.6g,1.3g,1.2g,6.7g,4.1g,47mg,6.59,TRUE,4.5,FALSE,,,1534278580.0-W-1343
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Coffee Sachets Cappucino Skim,Drinks,10 pack,12.5g (+0.7g Chocolate topping),10,,130kJ,1.5g,0.3g,0.3g,6.2g,1.1g,47mg,6.59,TRUE,4.5,FALSE,,,1534278580.0-W-1344
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Coffee Sachets Latte Hazelnut,Drinks,10 pack,18g,10,,200kJ,1.1g,1.3g,1.2g,8.0g,7.1g,53mg,6.59,TRUE,4.5,FALSE,,,1534278580.0-W-1345
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Coffee Sachets Cappucino Sweet,Drinks,10 pack,14g (+0.7g Chocolate Topping),10,,160kJ,1.0g,1.0g,0.9g,7.2g,5.1g,49mg,6.59,TRUE,4.5,FALSE,,,1534278580.0-W-1346
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Coffee Sachets Caramel Latte,Drinks,10 pack,17g,10,,190kJ,1.1g,1.2g,1.1g,7.5g,6.4g,51mg,6.59,TRUE,4.5,FALSE,,,1534278580.0-W-1347
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Coffee Sachets Latte,Drinks,10 pack,18g,10,,200kJ,2.1g,1.5g,1.4g,7.2g,4.8g,73mg,6.59,TRUE,4.5,FALSE,,,1534278580.0-W-1348
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Coffee Sachets Mocha,Drinks,10 pack,18g,10,,200kJ,1.0g,1.1g,1.0g,9.1g,6.9g,50mg,6.59,TRUE,4.5,FALSE,,,1534278580.0-W-1349
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Coffee Sachets Latte Vanilla,Drinks,10 pack,18.5g,10,,210kJ,1.2g,1.4g,1.3.g,7.9g,6.9g,48mg,6.59,TRUE,4.5,FALSE,,,1534278580.0-W-1350
+2018-08-15 06:29:40 UTC,nescafe,Nescafe Coffee Sachets Strong Cappucino,Drinks,10 pack,12.5g (+ 0.7g chocolate topping),10,,140kJ,1.0g,1.0g,0.9g,6.0g,3.6g,43mg,6.59,TRUE,4.5,FALSE,,,1534278580.0-W-1351
+2018-08-15 06:29:40 UTC,macro organic,Macro Organic Soy Long Life Milk,Drinks,1l,250mL,4,,301kJ,3.3g,4.9g,0.6g,3.8g,2.4g,33mg,1.7,FALSE,1.7,FALSE,,,1534278580.0-W-1352
+2018-08-15 06:29:40 UTC,australia's own,Australia's Own Unsweetened Soy Milk,Drinks,1l,Litre,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534278580.0-W-1353
+2018-08-15 06:29:40 UTC,sanitarium so good,Sanitarium So Good Fat Free Soy Long Life Milk,Drinks,1l,250mL,4,,143kJ,3.1g,<0.1g,<0.1g,5.2g,2.0g,50mg,1.79,FALSE,1.79,FALSE,,,1534278580.0-W-1354
+2018-08-15 06:29:40 UTC,sanitarium so good,Sanitarium So Good Soy Long Life Lite Milk,Drinks,1l,250mL,4,,166kJ,3.1g,0.8g,0.1g,4.9g,2.0g,45mg,1.79,FALSE,1.79,FALSE,,,1534278580.0-W-1355
+2018-08-15 06:29:40 UTC,sanitarium so good,Sanitarium So Good Soy Regular Milk,Drinks,1l,250mL,1,,273kJ,3.2g,3.5g,0.4g,5.1g,2.0g,40mg,1.79,FALSE,1.79,FALSE,,,1534278580.0-W-1356
+2018-08-15 06:29:40 UTC,pureharvest,Pureharvest Organic Malt Free Soy Milk,Drinks,1l,250mL,4,,187kJ,2.6g,3.0g,0.4g,1.1g,0.6g,2.0mg,1.7,FALSE,1.7,FALSE,,,1534278580.0-W-1357
+2018-08-15 06:29:40 UTC,bonsoy,Bonsoy Organic Long Life Soy Milk,Drinks,1l,200mL,5,,241kJ,4.1g,2.2g,0.3g,5.5g,2.2g,47mg,4.8,FALSE,4.8,FALSE,,,1534278580.0-W-1358
+2018-08-15 06:29:40 UTC,vitasoy,Vitasoy Protein Plus Unsweetened Soymilk,Drinks,1l,250mL,4,,227kJ,4.2g,2.8g,0.4g,2.2g,0.5g,40mg,3,TRUE,2,FALSE,,,1534278580.0-W-1359
+2018-08-15 06:29:40 UTC,woolworths select,Woolworths Select Soy Milk,Drinks,1l,250mL,4,,251kJ,Not Detected,2.9g,0.2g,5.0g,1.7g,68mg,1.15,FALSE,1.15,FALSE,,,1534278580.0-W-1360
+2018-08-15 06:29:40 UTC,vitasoy,Vitasoy Soy Milky Regular,Drinks,1l,250mL,4,,225kJ,3.0g,3.0g,0.4g,3.1g,2.1g,70mg,2.45,TRUE,2,FALSE,,,1534278580.0-W-1361
+2018-08-15 06:29:40 UTC,sanitarium so good,Sanitarium So Good Vanilla Bliss Flavoured Milk,Drinks,1l,250mL,4,,247kJ,3.2g,1.5g,0.2g,8.0g,4.9g,45mg,3,FALSE,3,FALSE,,,1534278580.0-W-1362
+2018-08-15 06:29:40 UTC,pureharvest,Pureharvest Organic Nature's Soy Milk,Drinks,1l,250mL,4,,267kJ,2.5g,2.7g,0.3g,7.4g,2.4g,43mg,1.7,FALSE,1.7,FALSE,,,1534278580.0-W-1363
+2018-08-15 06:29:40 UTC,woolworths select,Woolworths Select Unsweetened Almond Milk,Drinks,1l,250mL,4,,68kJ,0.6g,1.3g,0.1g,0.6g,0.2g,44mg,2,FALSE,2,FALSE,,,1534278580.0-W-1364
+2018-08-15 06:29:40 UTC,blue diamond,Blue Diamond Almond Breeze Original Almond Milk,Drinks,1l,Litre,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534278580.0-W-1365
+2018-08-15 06:29:40 UTC,macro organic,Macro Organic Almond Milk,Drinks,1l,250mL,4,,170kJ,0.4g,2.1g,0.2g,5.0g,1.9g,42mg,3,TRUE,2.5,FALSE,,,1534278580.0-W-1366
+2018-08-15 06:29:40 UTC,vitasoy,Vitasoy Almond Milky,Drinks,1l,Litre,,,,,,,,,,3,TRUE,2,FALSE,,,1534278580.0-W-1367
+2018-08-15 06:29:40 UTC,vitasoy,Vitasoy Original Soy Milk,Drinks,1l,250mL,4,,257kJ,3.3g,3.0g,0.4g,5.0g,2.3g,60mg,3,TRUE,2,FALSE,,,1534278580.0-W-1368
+2018-08-15 06:29:40 UTC,vitasoy,Vitasoy Soy Milky Lite,Drinks,1l,250mL,4,,175kJ,3.0g,1.8g,0.3g,3.1g,2.1g,70mg,2.45,TRUE,2,FALSE,,,1534278580.0-W-1369
+2018-08-15 06:29:40 UTC,vitasoy,Vitasoy Calci Plus Soy Milk,Drinks,1l,Litre,,,,,,,,,,3,TRUE,2,FALSE,,,1534278580.0-W-1370
+2018-08-15 06:29:40 UTC,almond breeze,Almond Breeze Flavoured Chocolate Milk,Drinks,1l,250mL,4,,167kJ,0.6g,1.2g,0.1g,6.5g,6.0g,51.0mg,3.59,TRUE,2.7,FALSE,,,1534278580.0-W-1371
+2018-08-15 06:29:40 UTC,pureharvest,Pureharvest Coco Quench Coconut Milk,Drinks,1l,250mL,4,,262kJ,0.6g,3.2g,2.3g,7.8g,3.8g,55mg,3.5,FALSE,3.5,FALSE,,,1534278580.0-W-1372
+2018-08-15 06:29:40 UTC,sanitarium so good,Sanitarium So Good Unsweetened Almond Milk,Drinks,1l,,,,69kJ,0.6g,,,,0.1g,,3.29,TRUE,3,FALSE,,,1534278580.0-W-1373
+2018-08-15 06:29:40 UTC,almond breeze,Almond Breeze Unsweetened Almond Milk,Drinks,1l,250mL,4,,67kJ,0.5g,1.2g,<0.1g,0.7g,0.1g,51.6mg,3.25,TRUE,2.5,FALSE,,,1534278580.0-W-1374
+2018-08-15 06:29:40 UTC,almond breeze,Almond Breeze Unsweetened Vanilla Almond Milk,Drinks,1l,250mL,4,,67kJ,0.5g,1.2g,<0.1g,0.7g,0.1g,51.6mg,3.59,TRUE,2.7,FALSE,,,1534278580.0-W-1375
+2018-08-15 06:29:40 UTC,vitasoy,Vitasoy Almond Milk Unsweetened,Drinks,1l,250mL,4,,84kJ,0.7g,1.8g,0.2g,0.3g,0.1g,36mg,3,TRUE,2,FALSE,,,1534278580.0-W-1376
+2018-08-15 06:29:40 UTC,vitasoy,Vitasoy Unsweetened Coconut Milk,Drinks,1l,250mL,4,,103kJ,0.2g,2.2g,2.1g,0.8g,0.2g,26mg,3,TRUE,2,FALSE,,,1534278580.0-W-1377
+2018-08-15 06:29:40 UTC,australia's own,Australia's Own Unsweetened Almond Milk,Drinks,1l,250mL,4,,92kJ,0.6g,2.1g,0.2g,0.1g,0.1g,39mg,3.8,TRUE,2.8,FALSE,,,1534278580.0-W-1378
+2018-08-15 06:29:40 UTC,pureharvest,Pureharvest Organic Almond Milk ,Drinks,1l,,4,,123kJ,0.3g,,0.3g,4.4g,,,3.4,FALSE,3.4,FALSE,,,1534278580.0-W-1379
+2018-08-15 06:29:40 UTC,australias own ,Australias Own Unsweetened Coconut Milk ,Drinks,1l,Litre,,,,,,,,,,3.8,TRUE,2.8,FALSE,,,1534278580.0-W-1380
+2018-08-15 06:29:40 UTC,hillview,Hillview Light Milk,Drinks,1l,100ml,4,,Approx. 217kJ,Approx. 3.4g,Approx. 2g,Approx. 1.3g,Approx. 5g,Approx. 5g,Approx. 43mg,1.25,FALSE,1.25,FALSE,,,1534278580.0-W-1381
+2018-08-15 06:29:40 UTC,woolworths,Woolworths 100% Pure Australian Lite Milk,Drinks,1l,250ml,4,,Approx. 189kJ,Approx. 3.4g,Approx. 1.3g,Approx. 0.9g,Approx. 4.9g,Approx. 4.9g,Approx. 43mg,1,FALSE,1,FALSE,,,1534278580.0-W-1382
+2018-08-15 06:29:40 UTC,hillview,Hillview Full Cream Milk,Drinks,1l,250ml,4,,Approx. 267kJ,Approx. 3.3g,Approx. 3.4g,Approx. 2.2g,Approx. 5g,Approx. 5g,Approx. 44mg,1.25,FALSE,1.25,FALSE,,,1534278580.0-W-1383
+2018-08-15 06:29:40 UTC,australias own,Australias Own Full Cream Uht Milk,Drinks,2l,250mL,8,,264kJ,3.3g,3.4g,2.3g,4.8g,4.8g,40mg,2.8,TRUE,2,FALSE,,,1534278580.0-W-1384
+2018-08-15 06:29:40 UTC,australias own,Australias Own Low Fat Uht Milk,Drinks,2l,250mL,,,,,,1.0g,,,42mg,2.8,TRUE,2,FALSE,,,1534278580.0-W-1385
+2018-08-15 06:29:40 UTC,australias own,Australias Own Skim Uht Milk,Drinks,2l,250mL,8,,147kJ,3.4g,0.1g,0.1g,5.0g,5.0g,50mg,2.8,TRUE,2,FALSE,,,1534278580.0-W-1386
+2018-08-15 06:29:40 UTC,sanitarium so good,Sanitarium So Good Almond & Coconut Milk,Drinks,1l,250mL,4,,113kJ,0.5g,1.5g,0.3g,2.7g,2.5g,30mg,3.29,TRUE,3,FALSE,,,1534278580.0-W-1387
+2018-08-15 06:29:40 UTC,sanitarium so good,Sanitarium So Good Unsweetened Coconut Milk,Drinks,1l,250mL,4,,142kJ,0.2g,3.4g,2.2g,0.0g,0.6g,25mg,3.29,TRUE,3,FALSE,,,1534278580.0-W-1388
+2018-08-15 06:29:40 UTC,sanitarium so good,Sanitarium So Good Almond Milk,Drinks,1l,250mL,4,,126kJ,0.6g,1.4g,0.1g,3.6g,3.4g,30mg,3.29,TRUE,3,FALSE,,,1534278580.0-W-1389
+2018-08-15 06:29:40 UTC,sanitarium so good,Sanitarium So Good Unsweetened Almond & Coconut Milk,Drinks,1l,250mL,4,,74kJ,0.5g,1.5g,0.3g,0.4g,0.2g,30mg,3.29,TRUE,3,FALSE,,,1534278580.0-W-1390
+2018-08-15 06:29:40 UTC,devondale,Devondale 100% Pure Full Cream Long Life Milk,Drinks,1l,250mL,4,,269kJ,3.3g,3.4g,2.3g,5.1g,5.1g,50mg,1.3,FALSE,1.3,FALSE,,,1534278580.0-W-1391
+2018-08-15 06:29:40 UTC,devondale,Devondale 100% Pure Full Cream Long Life Milk,Drinks,150ml,150mL,1,,269kJ,3.3g,3.4g,2.3g,5.1g,5.1g,35mg,0.75,FALSE,0.75,FALSE,,,1534278580.0-W-1392
+2018-08-15 06:29:40 UTC,woolworths,Woolworths Uht Full Cream Milk,Drinks,1l,250mL (1 cup),4,,256kJ,3.4g,3.3g,2.8g,4.5g,4.2g,34mg,1,FALSE,1,FALSE,,,1534278580.0-W-1393
+2018-08-15 06:29:40 UTC,devondale,Devondale Smart Plus Long Life Milk,Drinks,1l,,,,,,,,,6.6g,,1.7,FALSE,1.7,FALSE,,,1534278580.0-W-1394
+2018-08-15 06:29:40 UTC,devondale,Devondale Point One Long Life Milk,Drinks,1l,250mL,4,,174kJ,3.9g,0.1g,<1g,6.1g,6.1g,50mg,1.7,FALSE,1.7,FALSE,,,1534278580.0-W-1395
+2018-08-15 06:29:40 UTC,woolworths,Woolworths Uht Skim Milk,Drinks,1l,250mL (1 cup),4,,146kJ,3.6g,0.1g,<0.1g,4.8g,4.5g,36mg,1,FALSE,1,FALSE,,,1534278580.0-W-1396
+2018-08-15 06:29:40 UTC,devondale,Devondale Skim Long Life Milk,Drinks,6x200ml,200mL,1,,152kJ,3.4g,0.1g,<0.1g,5.3g,5.3g,55mg,3.7,FALSE,3.7,FALSE,,,1534278580.0-W-1397
+2018-08-15 06:29:40 UTC,devondale,Devondale Skim Long Life Milk,Drinks,1l,250mL,4,,152kJ,3.4g,0.1g,0.07g,5.3g,5.3g,55mg,1.3,FALSE,1.3,FALSE,,,1534278580.0-W-1398
+2018-08-15 06:29:40 UTC,devondale,Devondale Semi Skim Long Life Milk,Drinks,1l,250mL,4,,217kJ,3.2g,2.0g,1.4g,5.2g,5.2g,40mg,1.3,FALSE,1.3,FALSE,,,1534278580.0-W-1399
+2018-08-15 06:29:40 UTC,hillview,Hillview Skim Milk,Drinks,1l,100ml,4,,Approx. 146kJ,Approx. 3.4g,Approx. 0.1g,Approx. 0.1g,Approx. 5g,Approx. 5g,Approx. 43mg,1.25,FALSE,1.25,FALSE,,,1534278580.0-W-1400
+2018-08-15 06:29:40 UTC,liddells,Liddells Low Fat Long Life Milk Lactose Free,Drinks,1l,250mL,4,,175kJ,3.3g,1.0g,0.7g,4.8g,4.8g,35mg,2.29,TRUE,2,FALSE,,,1534278580.0-W-1401
+2018-08-15 06:29:40 UTC,devondale,Devondale 100% Pure Full Cream Long Life Milk,Drinks,6x200ml,200mL,1,,269kJ,3.3g,3.4g,2.3g,5.1g,5.1g,50mg,3.7,FALSE,3.7,FALSE,,,1534278580.0-W-1402
+2018-08-15 06:29:40 UTC,liddells,Liddells Skim Long Life Milk Lactose Free,Drinks,1l,250mL,4,,143kJ,3.4g,0.1g,0.07g,4.8g,4.8g,35mg,2.29,TRUE,2,FALSE,,,1534278580.0-W-1403
+2018-08-15 06:29:40 UTC,liddells,Liddells Full Cream Long Life Milk Lactose Free,Drinks,1l,250mL,4,,269kJ,3.2g,3.6g,2.3g,4.8g,4.8g,120mg,2.29,TRUE,2,FALSE,,,1534278580.0-W-1404
+2018-08-15 06:29:40 UTC,woolworths,Woolworths Free From Lactose Lite Milk,Drinks,1l,250mL (1 cup),4,,193kJ,3.5g,1.5g,1.1g,4.6g,4.6g,39mg,1.7,FALSE,1.7,FALSE,,,1534278580.0-W-1405
+2018-08-15 06:29:40 UTC,woolworths,Woolworths Free From Lactose Full Cream Milk,Drinks,1l,250mL,4,,257kJ,3.4g,3.4g,2.4g,4.4g,4.3g,39mg,1.7,FALSE,1.7,FALSE,,,1534278580.0-W-1406
+2018-08-15 06:29:40 UTC,devondale,Devondale 100% Pure Full Cream Long Life Milk,Drinks,2l,250mL,8,,269kJ,"3,3g",3.4g,2.3g,5.1g,5.1g,50mg,2.85,FALSE,2.85,FALSE,,,1534278580.0-W-1407
+2018-08-15 06:29:40 UTC,pauls zymil,Pauls Zymil Lactose Free Long Life Milk,Drinks,1l,250mL,4,,194kJ,3.4g,1.3g,0.9g,5.1g,5.0g,40mg,2.5,TRUE,1.8,FALSE,,,1534278580.0-W-1408
+2018-08-15 06:29:40 UTC,pauls zymil,Pauls Zymil Full Cream Long Life Milk,Drinks,1l,250mL,4,,277kJ,3.6g,3.6g,2.3g,4.9g,4.9g,41mg,2.5,TRUE,1.8,FALSE,,,1534278580.0-W-1409
+2018-08-15 06:29:40 UTC,vitasoy,Vitasoy Rice Milk,Drinks,1l,250mL,4,,213kJ,0.3g,1.2g,0.1g,9.5g,5.8g,65mg,3,TRUE,2,FALSE,,,1534278580.0-W-1410
+2018-08-15 06:29:40 UTC,homebrand sweetened,Homebrand Sweetened Condensed Milk ,Drinks,395g,100g,19,,Approx. 1380kJ,Approx. 7.5g,Approx. 8.2g,,Approx. 55.8g,Approx. 55.8g,Approx. 74mg,1.6,FALSE,1.6,FALSE,,,1534278580.0-W-1411
+2018-08-15 06:29:40 UTC,pureharvest,Pureharvest Organic Aussie Dream Rice Milk,Drinks,1l,250mL,4,,229kJ,0.6g,1g,0.1g,10.6g,2.8g,75mg,2.2,FALSE,2.2,FALSE,,,1534278580.0-W-1412
+2018-08-15 06:29:40 UTC,carnation ,Carnation Evaporated Milk Light & Creamy,Drinks,375ml,100ml,3.75,,410kJ,8.0g,1.5g,1.1g,12.6g,12.6g,100mg,3,TRUE,2.7,FALSE,,,1534278580.0-W-1413
+2018-08-15 06:29:40 UTC,nestle,Nestle Sweetened Condensed Milk Tube,Drinks,200g,25g,8,,1400kJ,8.7g,8.1g,6.0g,55.9g,55.9g,90mg,3.6,FALSE,3.6,FALSE,,,1534278580.0-W-1414
+2018-08-15 06:29:40 UTC,carnation light & creamy,Carnation Light & Creamy Evaporated Milk Coconut Flavoured,Drinks,375ml,100g,3.75,,415kJ,8.0g,1.5g,1.1g,12.6g,12.6g,100mg,3,TRUE,2.7,FALSE,,,1534278580.0-W-1415
+2018-08-15 06:29:40 UTC,carnation creamy,Carnation Creamy Evaporated Milk ,Drinks,375ml,100mL,3.75,,670kJ,8.0g,8.8g,6.2g,12.3g,12.3g,125mg,3,TRUE,2.7,FALSE,,,1534278580.0-W-1416
+2018-08-15 06:29:40 UTC,nestle sweetened,Nestle Sweetened Condensed Milk ,Drinks,395g,100g,3,,1400kJ,8.7g,8.1g,6.0g,55.9g,55.9g,90mg,3.2,FALSE,3.2,FALSE,,,1534278580.0-W-1417
+2018-08-15 06:29:40 UTC,nestle sweetened skim,Nestle Sweetened Skim Condensed Milk ,Drinks,400g,100g,4,,1220kJ,9.9g,0.3g,0.2g,60.9g,60.9g,100mg,3.2,FALSE,3.2,FALSE,,,1534278580.0-W-1418
+2018-08-15 06:29:40 UTC,liddells,Liddells Chocolate Flavoured Milk Lactose Free,Drinks,1l,250mL,4,,263kJ,3.2g,,0.7g,10.1g,10.1g,72mg,2.9,FALSE,2.9,FALSE,,,1534278580.0-W-1419
+2018-08-15 06:29:40 UTC,schlossgold,Schlossgold Non Alcoholic Beer Beer,Drinks,6x500ml,Ml,,,,,,,,,,11.65,FALSE,11.65,FALSE,,,1534278580.0-W-1420
+2018-08-15 06:29:40 UTC,fronti,Fronti Non Alcoholic Wine Red Lambrusco,Drinks,750ml,187mL,4,,225kJ,0.1g,<0.1g,<0.1g,13.2g,12.9g,35mg,4.95,FALSE,4.95,FALSE,,,1534278580.0-W-1421
+2018-08-15 06:29:40 UTC,pureharvest,Pureharvest Organic Oat Milk ,Drinks,1l,250mL,4,,237kJ,2.1g,1.8g,0.3g,7.7g,3.7g,38mg,2.8,FALSE,2.8,FALSE,,,1534278580.0-W-1422
+2018-08-15 06:29:40 UTC,woolworths select,Woolworths Select Rice Milk,Drinks,1l,250mL,4,,201kJ,0.3g,0.4g,<0.1g,10.9g,3.6g,62mg,1.75,FALSE,1.75,FALSE,,,1534278580.0-W-1423
+2018-08-15 06:29:40 UTC,coopers,Coopers Birell Premium Bottles,Drinks,6x375ml,Ml,,,,,,,,,,8.3,FALSE,8.3,FALSE,,,1534278580.0-W-1424
+2018-08-15 06:29:40 UTC,macro organic,Macro Organic Rice Milk,Drinks,1l,250mL,4,,232kJ,0.8g,1.4g,0.1g,9.8g,3.7g,67mg,1.9,FALSE,1.9,FALSE,,,1534278580.0-W-1425
+2018-08-15 06:29:40 UTC,coopers,Coopers Birell Premium Bottles,Drinks,24x375ml case,ml case,,,,,,,,,,25,FALSE,25,FALSE,,,1534278580.0-W-1426
+2018-08-15 06:29:40 UTC,edenvale,Edenvale Non Alcoholic Wine Sparkling Cuvee,Drinks,750ml,Ml,,,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534278580.0-W-1427
+2018-08-15 06:29:40 UTC,vitasoy,Vitasoy Oat Milk,Drinks,1l,250mL,4,,298kJ,1.0g,2.0g,0.3g,11.5g,1.8g,55mg,2.9,TRUE,2,FALSE,,,1534278580.0-W-1428
+2018-08-15 06:29:40 UTC,a2,A2 Skim Milk Powder,Drinks,1kg,kg,,,,,,,,,,14,FALSE,14,FALSE,,,1534278580.0-W-1429
+2018-08-15 06:29:40 UTC,woolworths,Woolworths Skim Milk Powder,Drinks,1kg,250mL (25g Dry Milk),40,,155kJ,3.5g,0.1g,0.1g,5.3g,5.0g,41mg,5.7,FALSE,5.7,FALSE,,,1534278580.0-W-1430
+2018-08-15 06:29:40 UTC,caprilac,Caprilac Goats Milk Powder,Drinks,400g,150mls,20,,2080kJ,27.2g,25.6g,,32g,480mg,1440mg,21,FALSE,21,FALSE,,,1534278580.0-W-1431
+2018-08-15 06:29:40 UTC,australian dairies,Australian Dairies Whole Milk Powder,Drinks,1kg,kg,,,,,,,,,,9,FALSE,9,FALSE,,,1534278580.0-W-1432
+2018-08-15 06:29:40 UTC,woolworths,Woolworths Full Cream Milk Powder,Drinks,1kg,250mL (35g Dry Mix),28,,295kJ,3.5g,3.9g,2.7g,5.2g,5.0g,42mg,5.7,FALSE,5.7,FALSE,,,1534278580.0-W-1433
+2018-08-15 06:29:40 UTC,diploma,Diploma Full Cream Long Life Milk Powder,Drinks,400g,250mL,12,,283kJ,3.1g,3.8g,2.7g,5.2g,5.2g,40mg,6,FALSE,6,FALSE,,,1534278580.0-W-1434
+2018-08-15 06:29:40 UTC,a2,A2 Full Cream Milk Powder ,Drinks,1kg,kg,,,,,,,,,,14,FALSE,14,FALSE,,,1534278580.0-W-1443
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Mini Bottles ,Drinks,12x300ml pack,350mL,12,,180kJ,0g,0g,0g,10.6g,10.5g,10.0g,15.7,TRUE,11.9,FALSE,,,1534279781.0-W-2753
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola No Sugar Mini Bottles,Drinks,12x300ml pack,ml pack,,,,,,,,,,15.7,TRUE,11.9,FALSE,,,1534279781.0-W-2754
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Raspberry Bottle,Drinks,1.25l,Litre,,,,,,,,,,3,TRUE,2.1,FALSE,,,1534279781.0-W-2756
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola No Sugar Orange ,Drinks,1.25l,Litre,,,,,,,,,,3,TRUE,2.1,FALSE,,,1534279781.0-W-2757
+2018-08-15 06:49:41 UTC,fanta,Fanta Raspberry ,Drinks,1.25l,Litre,,,,,,,,,,3,TRUE,2.1,FALSE,,,1534279781.0-W-2761
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola No Sugar Bottle,Drinks,1.25l,Litre,,,,,,,,,,3,TRUE,2.1,FALSE,,,1534279781.0-W-2770
+2018-08-15 06:49:41 UTC,sodastream,Sodastream Syrup Ginger Beer,Drinks,440ml,Ml,,,,,,,,,,5,FALSE,5,FALSE,,,1534279781.0-W-2787
+2018-08-15 06:49:41 UTC,bickford,Bickford Ginger Ale ,Drinks,4x275ml,Ml,,,,,,,,,,6.15,FALSE,6.15,FALSE,,,1534279781.0-W-2788
+2018-08-15 06:49:41 UTC,fever tree,Fever Tree Premium Indian Tonic Water,Drinks,4x200ml,Ml,,,,,,,,,,0,FALSE,0,FALSE,,,1534279781.0-W-2789
+2018-08-15 06:49:41 UTC,bickford,Bickford Tonic Water ,Drinks,4x275ml,Ml,,,,,,,,,,6.15,FALSE,6.15,FALSE,,,1534279781.0-W-2790
+2018-08-15 06:49:41 UTC,bickford,Bickford Soda Water ,Drinks,4x275ml,Ml,,,,,,,,,,6.15,FALSE,6.15,FALSE,,,1534279781.0-W-2791
+2018-08-15 06:49:41 UTC,bundaberg,Bundaberg Ginger Beer ,Drinks,4x375ml,Ml,,,,,,,,,,6.3,TRUE,5.1,FALSE,,,1534279781.0-W-2792
+2018-08-15 06:49:41 UTC,bundaberg,Bundaberg Diet Ginger Beer ,Drinks,750ml,250mL,3,,34kJ,<1g,<1g,<1g,1.7,1.2g,11mg,3.1,FALSE,3.1,FALSE,,,1534279781.0-W-2793
+2018-08-15 06:49:41 UTC,sodastream,Sodastream Syrup Diet Cola,Drinks,440ml,Ml,,,,,,,,,,5,FALSE,5,FALSE,,,1534279781.0-W-2798
+2018-08-15 06:49:41 UTC,bundaberg,Bundaberg Sarsaparilla ,Drinks,4x375ml,Ml,,,,,,,,,,6.3,TRUE,5.1,FALSE,,,1534279781.0-W-2799
+2018-08-15 06:49:41 UTC,bundaberg,Bundaberg Diet Ginger Beer ,Drinks,10x375ml,375mL,10,,34kJ,<1g,<1g,<1g,,1.2g,11mg,14.6,FALSE,14.6,FALSE,,,1534279781.0-W-2800
+2018-08-15 06:49:41 UTC,bundaberg,Bundaberg Diet Ginger Beer ,Drinks,4x375ml,Ml,,,,,,,,,,6.3,TRUE,5.1,FALSE,,,1534279781.0-W-2801
+2018-08-15 06:49:41 UTC,fever tree,Fever Tree Mediteranian Tonic Water,Drinks,4 x200ml pack,ml pack,,,,,,,,,,7.55,TRUE,7,FALSE,,,1534279781.0-W-2802
+2018-08-15 06:49:41 UTC,sodastream,Sodastream Syrup Cream Soda,Drinks,440ml,Ml,,,,,,,,,,5,FALSE,5,FALSE,,,1534279781.0-W-2803
+2018-08-15 06:49:41 UTC,sodastream,Sodastream Syrup Cola,Drinks,440ml,Ml,,,,,,,,,,5,FALSE,5,FALSE,,,1534279781.0-W-2804
+2018-08-15 06:49:41 UTC,fever tree,Fever Tree Aromatic Tonic Water,Drinks,4 x200ml pack,ml pack,,,,,,,,,,7.55,TRUE,7,FALSE,,,1534279781.0-W-2805
+2018-08-15 06:49:41 UTC,bundaberg,Bundaberg Ginger Beer ,Drinks,375ml,Ml,,,,,,,,,,3.05,FALSE,3.05,FALSE,,,1534279781.0-W-2806
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Tonic Water ,Drinks,1.25l,100ml,5,,Approx. 141kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 8.3g,Approx. 8.3g,Approx. 8mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2807
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Soda Water ,Drinks,1.25l,100ml,5,,Approx. 0kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 0g,<5mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2808
+2018-08-15 06:49:41 UTC,bundaberg,Bundaberg Lemon Lime & Bitters ,Drinks,4x375ml,Ml,,,,,,,,,,6.3,TRUE,5.1,FALSE,,,1534279781.0-W-2809
+2018-08-15 06:49:41 UTC,bundaberg,Bundaberg Ginger Beer ,Drinks,750ml,250mL,3,,184kJ,<1g,<1g,<1g,10.8g,10.8g,11mg,3.1,FALSE,3.1,FALSE,,,1534279781.0-W-2810
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Dry Ginger Ale ,Drinks,4x300ml,300mL,4,,135kJ,0g,0g,0g,7.6g,7.6g,17mg,5.8,FALSE,5.8,FALSE,,,1534279781.0-W-2811
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Lemon Lime & Bitters ,Drinks,1.25l,250mL,5,,169kJ,0.0g,0.0g,0.0g,9.9g,9.8g,10mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2812
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Diet Tonic Water ,Drinks,1.25l,100ml,5,,Approx. 5kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 9mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2813
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Diet Dry Ginger Ale Dry Ginger Ale,Drinks,1.25l,250mL,5,,4kJ,0.0g,0.0g,0.0g,0.0g,0.0g,12mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2814
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Diet Tonic Water ,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.75,FALSE,,,1534279781.0-W-2815
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Soda Water ,Drinks,4x300ml,300mL,4,,0g,0g,0g,0g,0g,,10mg,5.8,FALSE,5.8,FALSE,,,1534279781.0-W-2816
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Dry Ginger Ale ,Drinks,1.1l,250mL,4.4,,135kJ,0g,0g,0g,7.6g,7.6g,17mg,2.15,TRUE,1.75,FALSE,,,1534279781.0-W-2817
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Tonic Water ,Drinks,4x300ml,300mL,4,,155kJ,0g,0g,0g,8.6g,8.6g,9mg,5.8,FALSE,5.8,FALSE,,,1534279781.0-W-2818
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Sugar Free Agrum Citrus,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.75,FALSE,,,1534279781.0-W-2819
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Lemon Lime Bitters ,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.75,FALSE,,,1534279781.0-W-2820
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Diet Tonic Water ,Drinks,4x300ml,300mL,4,,7g,0g,0g,0g,0g,0g,31g,5.8,FALSE,5.8,FALSE,,,1534279781.0-W-2821
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Lemon Lime Bitters ,Drinks,4x300ml,300mL,4,,176kJ,0g,0g,0g,10.2g,10.1g,13mg,5.8,FALSE,5.8,FALSE,,,1534279781.0-W-2822
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Diet Dry Ginger Ale,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.75,FALSE,,,1534279781.0-W-2823
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Agrum Blood Orange,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.75,FALSE,,,1534279781.0-W-2824
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Ginger Beer Bottle,Drinks,1.25l,250mL,5,,,0.0g,0.0g,0.0g,,10.4g,11mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2825
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Raspberry Tonic Water,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.75,FALSE,,,1534279781.0-W-2826
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Raspberry Bottle,Drinks,1.25l,250mL,5,,182kJ,0.0g,0.0g,0.0g,10.7g,10.7g,8mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2827
+2018-08-15 06:49:41 UTC,kirks,Kirks Creaming Soda Bottle,Drinks,1.25l,250mL,5,,175.7kJ,0mL,0mL,0mL,10.2mL,10.2g,4.8mg,1.8,FALSE,1.8,FALSE,,,1534279781.0-W-2828
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Soda Water Lime,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.75,FALSE,,,1534279781.0-W-2829
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Tonic Water ,Drinks,1.1l,250mL,4.4,,155kJ,0g,0g,0g,8.6g,8.6g,9mg,2.15,TRUE,1.75,FALSE,,,1534279781.0-W-2830
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Soda Water ,Drinks,1.1l,250mL,4.4,,0kJ,0g,0g,0g,0g,0g,10mg,2.15,TRUE,1.75,FALSE,,,1534279781.0-W-2831
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Lemon Zero Sugar Bottle,Drinks,1.25l,250mL,5,,4kJ,0.0g,0.0g,0.0g,0.0g,0.0g,9mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2832
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Lemon Bottle,Drinks,1.25l,250mL,5,,185kJ,0.0g,0.0g,0.0g,10.9g,10.8g,19mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2833
+2018-08-15 06:49:41 UTC,kirks,Kirks Lemon Squash Bottle,Drinks,1.25l,Litre,,,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534279781.0-W-2834
+2018-08-15 06:49:41 UTC,kirks,Kirks Lemonade Bottle,Drinks,1.25l,Litre,,,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534279781.0-W-2835
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Orange Bottle,Drinks,1.25l,250mL,5,,163kJ,0.0g,0.0g,0.0g,9.6g,9.5g,8mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2836
+2018-08-15 06:49:41 UTC,kirks,Kirks Pasito Bottle,Drinks,1.25l,Litre,,,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534279781.0-W-2837
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Cola Bottle,Drinks,1.25l,250mL,5,,196kJ,0.0g,0.0g,0.0g,11.5g,11.5g,4mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2838
+2018-08-15 06:49:41 UTC,kirks,Kirks Olde Stoney Ginger Beer Bottle,Drinks,1.25l,Litre,,,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534279781.0-W-2839
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Pineapple Bottle,Drinks,1.25l,100ml,5,,Approx. 175kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 10.3g,Approx. 10.3g,Approx. 8mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2840
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Cola Sugar Zero Bottle,Drinks,1.25l,250mL,5,,1kJ,0.0g,0.0g,0.0g,0.0g,0.0g,9mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2841
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Lemonade Bottle,Drinks,1.25l,100ml,5,,Approx. 167kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 9.8g,Approx. 9.8g,Approx. 11mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2842
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Solo Lemon Bottle,Drinks,1.25l,250mL,5,,200kJ,0.05g,0g,0g,11.5g,11.5g,18mg,2.35,FALSE,2.35,FALSE,,,1534279781.0-W-2843
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Sunkist Bottle,Drinks,1.25l,250mL,5,,202kJ,0g,0g,0g,11.8g,11.8g,12mg,2.35,FALSE,2.35,FALSE,,,1534279781.0-W-2844
+2018-08-15 06:49:41 UTC,mountain dew,Mountain Dew Soft Drink Energised Bottle,Drinks,1.25l,250mL,5,,197kJ,0g,0g,0g,12.3g,12.3g,15mg,2.35,FALSE,2.35,FALSE,,,1534279781.0-W-2845
+2018-08-15 06:49:41 UTC,sprite,Sprite Zero ,Drinks,1.25l,250mL,5,,4.2kJ,0.05g,0g,0g,0.1g,,12.7mg,3,TRUE,2.1,FALSE,,,1534279781.0-W-2846
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Lemonade Zero Sugar Bottle,Drinks,1.25l,250mL,5,,4kJ,0.0g,0.0g,0.0g,0.0g,0.0g,12mg,0.9,FALSE,0.9,FALSE,,,1534279781.0-W-2847
+2018-08-15 06:49:41 UTC,kirks,Kirks Sarsaparilla ,Drinks,1.25l,Litre,,,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534279781.0-W-2848
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Diet Caffeine Free Bottle,Drinks,2l,250mL,8,,1.5kJ,0.05g,0g,0g,0.1g,0g,15.0mg,4.35,TRUE,2.85,FALSE,,,1534279781.0-W-2849
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Diet Caffeine Free Bottle,Drinks,1.25l,250mL,2,,1.5kJ,0.05g,0g,0g,0.1g,,15.0mg,3,TRUE,2.1,FALSE,,,1534279781.0-W-2850
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Sunkist Bottle,Drinks,2l,250mL,8,,202kJ,0g,0g,0g,11.8g,11.8g,12mg,2.15,FALSE,2.15,FALSE,,,1534279781.0-W-2851
+2018-08-15 06:49:41 UTC,kirks,Kirks Creaming Soda Sugar Free Bottle,Drinks,1.25l,250mL,5,,2.4kJ,0.05g,0g,0g,0.1g,0g,14.2mg,1.8,FALSE,1.8,FALSE,,,1534279781.0-W-2852
+2018-08-15 06:49:41 UTC,pepsi,Pepsi Light Caffeine Free Bottle,Drinks,1.25l,250mL,5,,1kJ,0g,0g,0g,0g,0g,15mg,2.35,FALSE,2.35,FALSE,,,1534279781.0-W-2853
+2018-08-15 06:49:41 UTC,pepsi,Pepsi Max Vanilla Bottle,Drinks,1.25l,Litre,,,,,,,,,,2.35,FALSE,2.35,FALSE,,,1534279781.0-W-2854
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Sarsparilla Bottle,Drinks,1.25l,Litre,,,,,,,,,,0,FALSE,0,FALSE,,,1534279781.0-W-2855
+2018-08-15 06:49:41 UTC,fanta,Fanta Orange Bottle,Drinks,1.25l,250mL,5,,194kJ,<1g,<1g,0g,11.3g,11.2g,5.0mg,3,TRUE,2.1,FALSE,,,1534279781.0-W-2856
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Lemonade Bottle,Drinks,1.25l,250mL,5,,187kJ,0g,0g,0g,10.8g,10.8g,19mg,2.35,FALSE,2.35,FALSE,,,1534279781.0-W-2857
+2018-08-15 06:49:41 UTC,pepsi,Pepsi Bottle ,Drinks,2l,250mL,8,,185kJ,0g,0g,,10.9g,10.9g,12mg,2.15,FALSE,2.15,FALSE,,,1534279781.0-W-2858
+2018-08-15 06:49:41 UTC,pepsi,Pepsi Bottle ,Drinks,1.25l,250mL,5,,185kJ,0g,0g,0g,10.9g,10.9g,12mg,2.35,FALSE,2.35,FALSE,,,1534279781.0-W-2859
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Vanilla Bottle,Drinks,1.25l,250mL,5,,185kJ,0g,0g,0g,11.0g,10.9g,10.0mg,3,TRUE,2.1,FALSE,,,1534279781.0-W-2860
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola With Stevia Bottle,Drinks,1.25l,250mL,5,,114kJ,0g,0g,0g,6.6g,6.6g,1.0mg,3,TRUE,2.1,FALSE,,,1534279781.0-W-2861
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Solo Lemon Bottle,Drinks,2l,250mL,8,,200kJ,0.05g,0g,0g,11.5g,11.5g,18mg,2.15,FALSE,2.15,FALSE,,,1534279781.0-W-2862
+2018-08-15 06:49:41 UTC,lipton,Lipton Ice Green Tea Jasmine Lychee Flavour,Drinks,500ml,Ml,,,,,,,,,,2.7,TRUE,1.9,FALSE,,,1534279781.0-W-2863
+2018-08-15 06:49:41 UTC,real iced tea,Real Iced Tea Peach ,Drinks,1.25l,250mL,5,,127kJ,<1g,0g,0g,7.0g,6.8g,7mg,3.95,FALSE,3.95,FALSE,,,1534279781.0-W-2864
+2018-08-15 06:49:41 UTC,lipton,Lipton Ice Tea Raspberry,Drinks,1.5l,250mL,6,,94kJ,<0.1g,<0.1g,<0.1g,5.3g,5.2g,10mg,3.9,FALSE,3.9,TRUE,6,1.67,1534279781.0-W-2865
+2018-08-15 06:49:41 UTC,santa vittoria,Santa Vittoria Iced Tea Lemon ,Drinks,4x200ml,Ml,,,,,,,,,,5.6,TRUE,2.8,FALSE,,,1534279781.0-W-2866
+2018-08-15 06:49:41 UTC,lipton,Lipton Green Ice Tea,Drinks,500ml,Ml,,,,,,,,,,2.7,TRUE,1.9,FALSE,,,1534279781.0-W-2867
+2018-08-15 06:49:41 UTC,bickfords,Bickfords Cherry Juice ,Drinks,1l,Litre,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534279781.0-W-2868
+2018-08-15 06:49:41 UTC,lipton,Lipton Ice Tea Raspberry,Drinks,500ml,500mL,1,,94kJ,<0.1g,<0.1g,<0.1g,5.3g,5.2g,10mg,2.7,TRUE,1.9,FALSE,,,1534279781.0-W-2869
+2018-08-15 06:49:41 UTC,santa vittoria,Santa Vittoria Peach Iced Tea,Drinks,4x200ml,Ml,,,,,,,,,,5.6,TRUE,2.8,FALSE,,,1534279781.0-W-2870
+2018-08-15 06:49:41 UTC,ocean spray,Ocean Spray Low Sugar Cranberry Classic Juice Drink,Drinks,1.5l,200mL,8,,21kJ,0g,0g,0g,1.2g,1.2g,10mg,5.85,FALSE,5.85,FALSE,,,1534279781.0-W-2871
+2018-08-15 06:49:41 UTC,ocean spray,Ocean Spray Fruit Drink Cranberry & Blueberry,Drinks,1.5l,250mL,6,,176kJ,0g,0g,0g,10.8g,10.2g,17mg,5.85,FALSE,5.85,FALSE,,,1534279781.0-W-2872
+2018-08-15 06:49:41 UTC,ocean spray,Ocean Spray Cran Pomegranate Juice Drink,Drinks,1.5l,250mL,6,,184kJ,0g,0g,0g,10.9g,,16mg,5.85,FALSE,5.85,FALSE,,,1534279781.0-W-2873
+2018-08-15 06:49:41 UTC,golden circle,Golden Circle Pineapple Juice,Drinks,1l,200mL,5,,240kJ,0.3g,0.1g,0g,13.6g,13.6g,1mg,2.25,FALSE,2.25,FALSE,,,1534279781.0-W-2874
+2018-08-15 06:49:41 UTC,sunraysia,Sunraysia Prune Juice,Drinks,1l,250mL,4,,308kJ,0.3g,0.1g,0.1g,17.8g,8.4g,8mg,6,FALSE,6,FALSE,,,1534279781.0-W-2875
+2018-08-15 06:49:41 UTC,ya-coya,Ya-coya Sugar Free Aloe Crush,Drinks,1.5l,180mL,8,,49kJ,0g,0g,0g,10g,0g,10mg,4.35,FALSE,4.35,FALSE,,,1534279781.0-W-2876
+2018-08-15 06:49:41 UTC,ocean spray,Ocean Spray Cranberry Light Juice Drink,Drinks,1.5l,250mL,6,,33kJ,0g,,0g,2.0g,2.0g,16mg,5.85,FALSE,5.85,FALSE,,,1534279781.0-W-2877
+2018-08-15 06:49:41 UTC,golden circle,Golden Circle Mango Nectar ,Drinks,1l,200mL,5,,225kJ,0.1g,0g,0g,12.7g,12.6g,1mg,3,FALSE,3,FALSE,,,1534279781.0-W-2878
+2018-08-15 06:49:41 UTC,golden circle,Golden Circle Fruit Drink Cranberry,Drinks,1l,200mL,5,,217kJ,0g,0g,0g,12.5g,11.7g,32mg,2.85,FALSE,2.85,FALSE,,,1534279781.0-W-2879
+2018-08-15 06:49:41 UTC,bickfords,Bickfords Super Berry Juice,Drinks,1l,250mL,4,,191kJ,0.2g,0g,0g,11.1g,10.4g,2mg,5.8,FALSE,5.8,FALSE,,,1534279781.0-W-2880
+2018-08-15 06:49:41 UTC,impressed,Impressed Cold Pressed Juice Sunny Side Up,Drinks,1l,250mL,4,,162kJ,0.3g,0.1g,<0.1g,9.6g,8.2g,6mg,6,TRUE,5,FALSE,,,1534279781.0-W-2881
+2018-08-15 06:49:41 UTC,preshafruit,Preshafruit Cold Pressed Apple & Raspberry,Drinks,1l,,,, 153 kj,< 0.1 g,< 0.1 g,< 0.1 g, 9.2 g, 8.8 g, 8 mg,5.8,FALSE,5.8,FALSE,,,1534279781.0-W-2882
+2018-08-15 06:49:41 UTC,daily juice nourish,Daily Juice Nourish Carrot Orange Apple Aprico Ginger,Drinks,1l,200mL,5,,150kJ,0.6g,<1g,0g,7.6g,6.9g,25mg,4.3,FALSE,4.3,FALSE,,,1534279781.0-W-2883
+2018-08-15 06:49:41 UTC,cocobella,Cocobella Coconut Water Straight Up Chilled,Drinks,1l,250mL,4,,90kJ,0g,0g,0g,,,20mg,6.15,TRUE,5,FALSE,,,1534279781.0-W-2884
+2018-08-15 06:49:41 UTC,spring valley,Spring Valley Mango & Banana Nectar,Drinks,1.25l,250mL,5,,200kJ,0.2g,0g,0g,14.3g,13.3g,7mg,5.1,FALSE,5.1,FALSE,,,1534279781.0-W-2885
+2018-08-15 06:49:41 UTC,ocean spray,Ocean Spray Cran Raspberry Juice Drink,Drinks,1.5l,250mL,6,,184kJ,0g,0g,0g,11.4g,11.4g,14mg,5.85,FALSE,5.85,FALSE,,,1534279781.0-W-2886
+2018-08-15 06:49:41 UTC,ya-coya,Ya-coya Original Aloe Crush,Drinks,1.5l,180mL,8,,197kJ,0g,0g,0g,11g,10g,10mg,4.35,FALSE,4.35,FALSE,,,1534279781.0-W-2887
+2018-08-15 06:49:41 UTC,ocean spray,Ocean Spray Cranberry Classic Juice Drink,Drinks,1.5l,250mL,6,,192kJ,0g,0g,0g,11.7g,11.3g,16mg,5.85,FALSE,5.85,FALSE,,,1534279781.0-W-2888
+2018-08-15 06:49:41 UTC,boost,Boost Energy Lift ,Drinks,1l,200mL,5,,197kJ,0.4g,<0.1g,<0.1g,10.8g,10.0g,<1mg,5.5,FALSE,5.5,FALSE,,,1534279781.0-W-2889
+2018-08-15 06:49:41 UTC,preshafruit,Preshafruit Cold Pressed Pink Lady Apple Juice,Drinks,1l,,,, 158 kj,< 0.1 g,< 0.1 g,< 0.1 g, 9.5 g, 9.5 g, 8 mg,5.8,FALSE,5.8,FALSE,,,1534279781.0-W-2890
+2018-08-15 06:49:41 UTC,nudie,Nudie Nothing But 9 Veg Tomato,Drinks,1l,1serve of fruit = 125mL of 100% juice. 1 serve of veg = 75mL of 100% juice.,4x 250mL,,93kJ,<1g,<1g,<1g,5.5g,4.8g,169mg,5,FALSE,5,FALSE,,,1534279781.0-W-2891
+2018-08-15 06:49:41 UTC,boost,Boost Energy Lift ,Drinks,350ml,350mL,1,,197kJ,0.4g,<0.1g,<0.1g,10.8g,10.0g,<1mg,3.45,FALSE,3.45,FALSE,,,1534279781.0-W-2892
+2018-08-15 06:49:41 UTC,daily juice nourish,Daily Juice Nourish Beetroot Orange Apple Cranberry,Drinks,1l,200mL,5,,134kJ,0.5g,<1g,0g,7.00%,6.3g,13mg,4.3,FALSE,4.3,FALSE,,,1534279781.0-W-2893
+2018-08-15 06:49:41 UTC,boost juice,Boost Juice All Berry Bang ,Drinks,1l,200mL,,,,,,<0.1g,,9.2g,<1mg,5.5,FALSE,5.5,FALSE,,,1534279781.0-W-2897
+2018-08-15 06:49:41 UTC,preshafruit,Preshafruit Cold Pressed Apple & Passionfruit Juice,Drinks,1l,250mL,4,,155kJ,<0.1g,<0.1g,<0.1g,8.9g,8.9g,9mg,5.8,FALSE,5.8,FALSE,,,1534279781.0-W-2898
+2018-08-15 06:49:41 UTC,nudie,Nudie Nothing But Carrot Orange & Apple Juice,Drinks,1l,250mL,4,,172kJ,<1g,<1g,<1g,9.3g,8.1g,19mg,5,FALSE,5,FALSE,,,1534279781.0-W-2899
+2018-08-15 06:49:41 UTC,nudie,Nudie Nothing But Apple Juice,Drinks,1l,250mL,4,,211kJ,<1g,<1g,<1g,12.3g,10.8g,<5mg,5,FALSE,5,FALSE,,,1534279781.0-W-2900
+2018-08-15 06:49:41 UTC,nudie,Nudie Mango Passionfruit & More Crushie,Drinks,250ml,250mL,1,,256kJ,<1g,<1g,<1g,11.1g,10.3g,<5mg,3,TRUE,2.7,FALSE,,,1534279781.0-W-2901
+2018-08-15 06:49:41 UTC,boost,Boost Mango Tango ,Drinks,1l,Litre,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534279781.0-W-2902
+2018-08-15 06:49:41 UTC,nudie,Nudie Nothing But Oranges Pulp Free Juice,Drinks,2l,250mL,8,,180kJ,<1g,<1g,<1g,10g,8.4g,<5mg,6.6,TRUE,5.5,FALSE,,,1534279781.0-W-2903
+2018-08-15 06:49:41 UTC,berri,Berri Breakfast Juice,Drinks,2l,200mL,10,,172kJ,0.4g,<1g,0g,9.3g,8.7g,4mg,7,TRUE,6,FALSE,,,1534279781.0-W-2904
+2018-08-15 06:49:41 UTC,nudie,Nudie Nothing But Oranges With Pulp,Drinks,1l,250mL,4,,180kJ,<1g,<1g,<1g,10g,7.6g,<5mg,5,FALSE,5,FALSE,,,1534279781.0-W-2905
+2018-08-15 06:49:41 UTC,nudie,Nudie Nothing But Oranges With Pulp,Drinks,2l,250mL,8,,180kJ,<1g,<1g,<1g,10g,7.6g,<5mg,6.6,TRUE,5.5,FALSE,,,1534279781.0-W-2906
+2018-08-15 06:49:41 UTC,daily juice,Daily Juice Orange Juice No Added Sugar,Drinks,3l,200mL,15,,153kJ,0.6g,<1g,0g,9.0g,8.3g,8mg,7.5,FALSE,7.5,FALSE,,,1534279781.0-W-2907
+2018-08-15 06:49:41 UTC,daily juice,Daily Juice Orange Juice No Added Sugar,Drinks,2l,200mL,10,,153kJ,0.6g,<1g,0g,9.0g,8.3g,8mg,5.3,TRUE,5,FALSE,,,1534279781.0-W-2908
+2018-08-15 06:49:41 UTC,nudie,Nudie Nothing But Beetroot Carrot Pine & Mint,Drinks,1l,250mL,4,,156kJ,<1g,<1g,<1g,8.5g,7.7g,35mg,5,FALSE,5,FALSE,,,1534279781.0-W-2909
+2018-08-15 06:49:41 UTC,berri,Berri Pulpy Orange Juice,Drinks,2l,200mL,10,,166kJ,0.6g,<1g,0g,8.9g,8.1g,4mg,7,TRUE,6,FALSE,,,1534279781.0-W-2910
+2018-08-15 06:49:41 UTC,nudie,Nudie Nothing But Oranges Pulp Free Juice,Drinks,1l,250mL,4,,180kJ,<1g,<1g,<1g,10g,8.4g,<5mg,5,FALSE,5,FALSE,,,1534279781.0-W-2911
+2018-08-15 06:49:41 UTC,pure tassie,Pure Tassie Organic Apple & Raspberry Fresh Juice,Drinks,1.5l,200mL,7.5,,155kJ,<1g,<1g,0g,8.5g,7.5g,<5mg,5.5,FALSE,5.5,FALSE,,,1534279781.0-W-2912
+2018-08-15 06:49:41 UTC,original juice,Original Juice Orange Juice,Drinks,600ml,200mL,3,,215kJ,0.7g,0.1g,0g,10.8g,8.6g,1mg,3.15,TRUE,2.85,FALSE,,,1534279781.0-W-2913
+2018-08-15 06:49:41 UTC,charlie's,Charlie's Quencher Honest Lemonade,Drinks,500ml,500mL,1,,172kJ,0.1g,0g,0g,10.4g,10.4g,0.4mg,3.95,FALSE,3.95,FALSE,,,1534279781.0-W-2914
+2018-08-15 06:49:41 UTC,pure tassie,Pure Tassie Organic Apple Fresh Juice,Drinks,1.5l,200mL,7.5,,155kJ,<1g,<1g,0g,8.5g,7.5g,<5mg,5.5,FALSE,5.5,FALSE,,,1534279781.0-W-2915
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Cans ,Drinks,24x375ml pack,375ml,24,,180kJ,0g,0g,0g,10.6g,10.6g,10.0mg,31.1,FALSE,31.1,FALSE,,,1534279781.0-W-2916
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Vanilla Can,Drinks,250ml,Ml,,,,,,,,,,2.15,FALSE,2.15,FALSE,,,1534279781.0-W-2917
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Diet Can,Drinks,250ml,Ml,,,,,,,,,,2.15,FALSE,2.15,FALSE,,,1534279781.0-W-2918
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola No Sugar Fridge Mate Cans,Drinks,10x375ml pack,ml pack,,,,,,,,,,13.5,TRUE,9.45,FALSE,,,1534279781.0-W-2919
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola No Sugar Orange ,Drinks,200ml x 8 pack,pack,,,,,,,,,,7.2,FALSE,7.2,FALSE,,,1534279781.0-W-2920
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Diet Caffeine Free Fridge Mate Cans,Drinks,10x375ml pack,375mL,10,,1.5kJ,0.05g,0g,0g,0.1g,0g,15.0g,13.5,TRUE,9.45,FALSE,,,1534279781.0-W-2921
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Traditional Raspberry Cans,Drinks,10x375ml pack,375mL,10,,195kJ,0g,0g,0g,11.3g,11.3g,12mg,12.6,FALSE,12.6,FALSE,,,1534279781.0-W-2922
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Fridge Mate Cans ,Drinks,10x375ml pack,375mL,10,,180kJ,0g,0g,0g,10.6g,10.6g,10.0mg,13.5,TRUE,9.45,FALSE,,,1534279781.0-W-2923
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Lemonade Can,Drinks,24x375ml pack,375mL,24,,187g,0g,0g,0g,10.8g,10.8g,21mg,24.3,TRUE,12.15,FALSE,,,1534279781.0-W-2924
+2018-08-15 06:49:41 UTC,pepsi,Pepsi Cans ,Drinks,24x375ml,375mL,24,,185kJ,0g,0g,0g,10.9g,10.9g,12mg,24.3,TRUE,12.15,FALSE,,,1534279781.0-W-2925
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola No Sugar Cans,Drinks,24x375ml pack,ml pack,,,,,,,,,,31.1,FALSE,31.1,FALSE,,,1534279781.0-W-2926
+2018-08-15 06:49:41 UTC,pepsi,Pepsi Max Cans,Drinks,24x375ml,375mL,5,,1.6kJ,0.06g,0g,0g,0.06g,0g,13mg,24.3,TRUE,12.15,FALSE,,,1534279781.0-W-2927
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Solo Lemon Cans,Drinks,24x375ml pack,375mL,24,,200kJ,0.05g,0g,0g,11.5g,11.5g,18mg,24.3,TRUE,12.15,FALSE,,,1534279781.0-W-2928
+2018-08-15 06:49:41 UTC,kirks,Kirks Lemon Squash Cans,Drinks,10x375ml pack,ml pack,,,,,,,,,,10.55,TRUE,6.5,FALSE,,,1534279781.0-W-2929
+2018-08-15 06:49:41 UTC,kirks,Kirks Old Stoney Ginger Beer Cans,Drinks,10x375ml pack,375mL,10,,214kJ,0g,0g,0g,12.5g,12.5,4.8mg,10.55,TRUE,6.5,FALSE,,,1534279781.0-W-2930
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Sprite Can,Drinks,250ml,Ml,,,,,,,,,,2.15,FALSE,2.15,FALSE,,,1534279781.0-W-2931
+2018-08-15 06:49:41 UTC,kirks,Kirks Lemon Squash Sugar Free Cans,Drinks,10x375ml pack,ml pack,,,,,,,,,,10.55,TRUE,6.5,FALSE,,,1534279781.0-W-2932
+2018-08-15 06:49:41 UTC,kirks,Kirks Lemonade Cans,Drinks,10x375ml pack,375mL,10,,190kJ,0g,0g,0mL,11.0g,11.0g,8.6mg,10.55,TRUE,6.5,FALSE,,,1534279781.0-W-2933
+2018-08-15 06:49:41 UTC,sprite ,Sprite Zero Cans,Drinks,10x375ml pack,ml pack,,,,,,,,,,13.5,TRUE,9.45,FALSE,,,1534279781.0-W-2934
+2018-08-15 06:49:41 UTC,kirks,Kirks Pasito Cans,Drinks,10x375ml pack,ml pack,,,,,,,,,,10.55,TRUE,6.5,FALSE,,,1534279781.0-W-2935
+2018-08-15 06:49:41 UTC,sprite,Sprite Mini Cans,Drinks,8x200ml pack,200mL,8,,177kJ,0g,0g,0g,10.1g,10.1g,11.4g,9.5,TRUE,7.2,FALSE,,,1534279781.0-W-2936
+2018-08-15 06:49:41 UTC,kirks,Kirks Creaming Soda Cans,Drinks,10x375ml pack,ml pack,,,,,,,,,,10.55,TRUE,0,FALSE,,,1534279781.0-W-2937
+2018-08-15 06:49:41 UTC,sprite,Sprite Lemonade Cans,Drinks,10x375ml pack,ml pack,,,,,,,,,,13.5,TRUE,9.45,FALSE,,,1534279781.0-W-2938
+2018-08-15 06:49:41 UTC,pepsi,Pepsi Max Vanilla Cans,Drinks,10x375ml,Ml,,,,,,,,,,12.6,FALSE,12.6,FALSE,,,1534279781.0-W-2939
+2018-08-15 06:49:41 UTC,fanta orange,Fanta Orange Mini Can,Drinks,8x200ml pack,200mL,8,,194kJ,<1g,<1g,0g,11.3g,11.2g,5.0mg,9.5,TRUE,7.2,FALSE,,,1534279781.0-W-2940
+2018-08-15 06:49:41 UTC,coca-cola,Coca-cola Fanta Orange Cans,Drinks,10x375ml,375mL,10,,194kJ,<1g,<1g,0g,11.3g,11.2g,5.0mg,13.5,TRUE,9.45,FALSE,,,1534279781.0-W-2941
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Diet Cans,Drinks,24x375ml pack,,,,,0.05g,,,,0g,,0,FALSE,0,FALSE,,,1534279781.0-W-2942
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Diet Cans,Drinks,30x375ml pack,375mL,30,,1.5kJ,0.05g,0g,0g,0.1g,0g,15.0mg,38.05,TRUE,19.85,FALSE,,,1534279781.0-W-2943
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Lemonade Cans,Drinks,10x375ml pack,375mL,10,,187kJ,0g,0g,0g,10.8g,10.8g,21mg,12.6,FALSE,12.6,FALSE,,,1534279781.0-W-2944
+2018-08-15 06:49:41 UTC,coca-cola,Coca-cola Vanilla Cans,Drinks,10x375ml,Ml,,,,,,,,,,13.5,TRUE,9.45,FALSE,,,1534279781.0-W-2945
+2018-08-15 06:49:41 UTC,solo,Solo Zero Sugar ,Drinks,10x375ml,Ml,,,,,,,,,,12.6,FALSE,12.6,FALSE,,,1534279781.0-W-2946
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Diet Fridge Mate Cans,Drinks,10x375ml pack,375mL,10,,1.5kJ,0.05g,0g,0g,0.1g,0g,15.0mg,13.5,TRUE,9.45,FALSE,,,1534279781.0-W-2947
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Zero Cans,Drinks,24x375ml pack,375mL,24,,1.4kJ,0.05g,0g,0g,0.1g,0g,11.0mg,31.1,FALSE,31.1,FALSE,,,1534279781.0-W-2948
+2018-08-15 06:49:41 UTC,pepsi,Pepsi Max Bottle,Drinks,2l,250mL,8,,1.6kJ,0.06g,0g,0g,0.06g,0g,13mg,2.15,FALSE,2.15,FALSE,,,1534279781.0-W-2949
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Zero Bottle,Drinks,1.25l,250mL,5,,1.4kJ,0.05g,0g,0g,0.1g,0g,11.0mg,3,TRUE,2.1,FALSE,,,1534279781.0-W-2950
+2018-08-15 06:49:41 UTC,pepsi,Pepsi Max Bottle,Drinks,1.25l,250mL,5,,1.6kJ,,0g,0g,0.06g,0g,13mg,2.35,FALSE,2.35,FALSE,,,1534279781.0-W-2951
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Bottle ,Drinks,1.25l,250mL,5,,180kJ,0g,0g,0g,10.6g,10.6g,10.0mg,3,TRUE,2.1,FALSE,,,1534279781.0-W-2952
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Bottle ,Drinks,600ml,250mL,2.4,,180kJ,0g,0g,0g,10.6g,10.6g,10.0mg,3.6,TRUE,3.15,FALSE,,,1534279781.0-W-2953
+2018-08-15 06:49:41 UTC,pepsi,Pepsi Max Bottle,Drinks,600ml,Ml,,,,,,,,,,3,FALSE,3,FALSE,,,1534279781.0-W-2954
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Bottle ,Drinks,2l,250mL,8,,180kJ,0g,0g,0g,10.6g,10.6g,10.0mg,4.35,TRUE,2.85,FALSE,,,1534279781.0-W-2955
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Bottle ,Drinks,1l,250mL,4,,180kJ,0g,0g,0g,10.6g,10.6g,10.0mg,4.2,FALSE,4.2,FALSE,,,1534279781.0-W-2956
+2018-08-15 06:49:41 UTC,hard hitting lift,Hard Hitting Lift Lemon ,Drinks,1.25lt,250mL,5,,153kJ,<1g,<1g,0g,8.4g,8.4g,7.4mg,3,TRUE,2.1,FALSE,,,1534279781.0-W-2957
+2018-08-15 06:49:41 UTC,schweppes,Schweppes Traditional Raspberry Bottle,Drinks,1.25l,250mL,5,,210kJ,0g,0g,0g,12.1g,12.1g,13mg,2.35,FALSE,2.35,FALSE,,,1534279781.0-W-2958
+2018-08-15 06:49:41 UTC,golden circle,Golden Circle Cordial Lime Crush,Drinks,2l,200mL,50,,110kJ,0g,0g,0g,6.3g,6.3g,4mg,4,TRUE,3,FALSE,,,1534279781.0-W-2959
+2018-08-15 06:49:41 UTC,coca cola,Coca Cola Diet Bottle,Drinks,1.25l,250mL,5,,1.5kJ,0.05g,0g,0g,0.1g,,15.0mg,3,TRUE,2.1,FALSE,,,1534279781.0-W-2960
+2018-08-15 06:49:42 UTC,coca cola,Coca Cola Diet Bottle,Drinks,600ml,Ml,,,,,,,,,,3.6,TRUE,3.15,FALSE,,,1534279782.0-W-2961
+2018-08-15 06:49:42 UTC,sprite,Sprite Lemonade Bottle,Drinks,1.25l,250mL,5,,177kJ,0g,0g,0g,10.1g,10.1g,11.4mg,3,TRUE,2.1,FALSE,,,1534279782.0-W-2962
+2018-08-15 06:49:42 UTC,sprite,Sprite Bottle ,Drinks,600ml,Ml,,,,,,,,,,3.6,TRUE,3.15,FALSE,,,1534279782.0-W-2963
+2018-08-15 06:49:42 UTC,golden circle,Golden Circle Cordial Orange Crush,Drinks,2l,200mL,50,,115kJ,0g,0g,0g,6.6g,6.5g,4mg,4,TRUE,3,FALSE,,,1534279782.0-W-2964
+2018-08-15 06:49:42 UTC,golden circle,Golden Circle Cordial Pine Mango Pass,Drinks,2l,Litre,,,,,,,,,,4,TRUE,3,FALSE,,,1534279782.0-W-2965
+2018-08-15 06:49:42 UTC,coca cola,Coca Cola Diet Bottle,Drinks,2l,250mL,8,,1.5kJ,0.05g,0g,0g,,0g,15.0mg,4.35,TRUE,2.85,FALSE,,,1534279782.0-W-2966
+2018-08-15 06:49:42 UTC,schweppes,Schweppes Sprite Bottle,Drinks,1l,Litre,,,,,,,,,,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-2967
+2018-08-15 06:49:42 UTC,thirst busters ,Thirst Busters Lime Cordial ,Drinks,2l,Litre,,,,,,,,,,2.2,FALSE,2.2,FALSE,,,1534279782.0-W-2968
+2018-08-15 06:49:42 UTC,golden circle,Golden Circle Cordial Strawberry Lemonade,Drinks,2l,Litre,,,,,,,,,,4,TRUE,3,FALSE,,,1534279782.0-W-2969
+2018-08-15 06:49:42 UTC,golden circle,Golden Circle Sarsaprilla Cordial,Drinks,2l,Litre,,,,,,,,,,4,TRUE,3,FALSE,,,1534279782.0-W-2970
+2018-08-15 06:49:42 UTC,golden circle ,Golden Circle Lemon Cordial ,Drinks,2l,Litre,,,,,,,,,,4,TRUE,3,FALSE,,,1534279782.0-W-2971
+2018-08-15 06:49:42 UTC,thirst busters ,Thirst Busters Raspberry Cordial ,Drinks,2l,Litre,,,,,,,,,,2.2,FALSE,2.2,FALSE,,,1534279782.0-W-2972
+2018-08-15 06:49:42 UTC,golden circle,Golden Circle Cordial Fruit Cup Crush,Drinks,2l,,50,,110kJ,,,,6.3g,,,4,TRUE,3,FALSE,,,1534279782.0-W-2973
+2018-08-15 06:49:42 UTC,golden circle,Golden Circle Apple & Raspberry Cordial,Drinks,2l,200mL,50,,105kJ,0g,0g,0g,6.1g,6.0g,4mg,4,TRUE,3,FALSE,,,1534279782.0-W-2974
+2018-08-15 06:49:42 UTC,golden circle,Golden Circle Cordial Raspberry Crush,Drinks,2l,200mL,50,,115kJ,0g,0g,0g,6.5g,6.5g,4mg,4,TRUE,3,FALSE,,,1534279782.0-W-2975
+2018-08-15 06:49:42 UTC,woolworths,Woolworths Apple Raspberry Double Concentrate Cordial,Drinks,1l,250mL,40,,114kJ,0.0g,0.0g,0.0g,6.5g,6.5g,6mg,2.5,FALSE,2.5,FALSE,,,1534279782.0-W-2976
+2018-08-15 06:49:42 UTC,thirst busters,Thirst Busters Fruit Cup Cordial ,Drinks,2l,Litre,,,,,,,,,,2.2,FALSE,2.2,FALSE,,,1534279782.0-W-2977
+2018-08-15 06:49:42 UTC,golden circle,Golden Circle Cordial Apple Crush,Drinks,2l,200mL,50,,105kJ,0g,0g,0g,6.1g,6.0g,4mg,4,TRUE,3,FALSE,,,1534279782.0-W-2978
+2018-08-15 06:49:42 UTC,diet rite,Diet Rite Lemon Lime Orange,Drinks,1l,Litre,,,,,,,,,,3.5,TRUE,3,FALSE,,,1534279782.0-W-2979
+2018-08-15 06:49:42 UTC,diet rite,Diet Rite Cordial Lime,Drinks,1l,250mL,40,,9kJ,<1g,<1g,0g,0.6g,0.5g,4mg,3.5,TRUE,3,FALSE,,,1534279782.0-W-2980
+2018-08-15 06:49:42 UTC,diet rite,Diet Rite Apple Pineapple Coconut Cordial,Drinks,1l,Litre,,,,,,,,,,3.5,TRUE,3,FALSE,,,1534279782.0-W-2981
+2018-08-15 06:49:42 UTC,diet rite,Diet Rite Cordial Strawberry Guava,Drinks,1l,250mL,40,,10kJ,<1g,<1g,0g,0.6g,0.5g,4mg,3.5,TRUE,3,FALSE,,,1534279782.0-W-2982
+2018-08-15 06:49:42 UTC,diet rite,Diet Rite Cordial Fruit Cocktail,Drinks,1l,Litre,,,,,,,,,,3.5,TRUE,3,FALSE,,,1534279782.0-W-2983
+2018-08-15 06:49:42 UTC,ribena,Ribena Light Blackcurrant Cordial Syrup,Drinks,1l,,30x 33mL (gor dilution as directed),,38kJ,<1g,,,2.0g,,,7.99,TRUE,6,FALSE,,,1534279782.0-W-2984
+2018-08-15 06:49:42 UTC,woolworths,Woolworths Tropical Double Concentrate Cordial,Drinks,1l,250mL,40,,110kJ,0.0g,0.0g,0.0g,6.1g,6.1g,6mg,2.5,FALSE,2.5,FALSE,,,1534279782.0-W-2985
+2018-08-15 06:49:42 UTC,diet rite,Diet Rite Cordial Apple Raspberry,Drinks,1l,250mL,40,,10kJ,<1g,<1g,0g,0.6g,0.5g,4mg,3.5,TRUE,3,FALSE,,,1534279782.0-W-2986
+2018-08-15 06:49:42 UTC,wild,Wild Hibiscus Flowers In Syrup,Drinks,250g,g,,,,,,,,,,9.99,FALSE,9.99,FALSE,,,1534279782.0-W-2987
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Apple & Rasp No Added Sugar,Drinks,1l,250mL,40,,15kJ,0.0g,0.0g,0.0g,0.6g,0.6g,12mg,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-2988
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Lemon,Drinks,1l,250mL,40,,89kJ,0g,0g,0g,5.2g,5.2g,10mg,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-2989
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Raspberry,Drinks,1l,250mL,40,,115kJ,0g,0g,0g,6.6g,6.6g,10mg,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-2990
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Fruit Cup,Drinks,1l,250mL,40,,101kJ,0g,0g,0g,5.9g,5.8g,10mg,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-2991
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Orange No Added Sugar,Drinks,1l,250mL,4,,11kJ,0.1g,0g,0g,0.5g,0.5g,13mg,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-2992
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Lemon No Added Sugar,Drinks,1l,250mL,4,,5kJ,0g,0g,0g,0.2g,0.2g,12mg,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-2993
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Lime Coola No Added Sugar,Drinks,1l,250mL,40,,4kJ,0g,0g,0g,0g,0g,12mg,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-2997
+2018-08-15 06:49:42 UTC,ribena,Ribena Blackcurrant Cordial Syrup,Drinks,1l,200mL (33mL diluted with 167mL water),30,,211kJ,<1g,<1g,<1g,12.3g,12.2g,<5mg,7.99,TRUE,6,FALSE,,,1534279782.0-W-2998
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Apple & Blackcurrant,Drinks,1l,250mL,40,,111kJ,0g,0g,0g,6.4g,6.4g,10mg,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-2999
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Pine Lime,Drinks,1l,250mL,40,,109kJ,0g,0g,0g,6.2g,6.2g,10mg,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-3000
+2018-08-15 06:49:42 UTC,cawston press,Cawston Press Brilliant Beetroot ,Drinks,1l,200mL,5,,180kJ,0.9g,0.1g,0.0g,9.3g,9.3g,0.9mg,4,FALSE,4,FALSE,,,1534279782.0-W-3001
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Lime Coola,Drinks,1l,250mL,40,,117kJ,0g,0g,0g,6.7g,6.7g,10mg,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-3002
+2018-08-15 06:49:42 UTC,impressed,Impressed Easy Greens Juice ,Drinks,1l,250mL,4,,136kJ,0.5g,0.1g,<0.1g,7.7g,7.2g,6mg,6,TRUE,5,FALSE,,,1534279782.0-W-3003
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Tropical,Drinks,1l,250mL,40,,104kJ,0g,0g,0g,5.9g,5.8g,10mg,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-3004
+2018-08-15 06:49:42 UTC,cawston press,Cawston Press Apple & Ginger Juice ,Drinks,1l,200mL,5,,186kJ,0.4g,0.1g,0.0g,10.3g,9.8g,0.5mg,4,FALSE,4,FALSE,,,1534279782.0-W-3005
+2018-08-15 06:49:42 UTC,impressed,Impressed Cold Pressed Ginger Ninja Juice,Drinks,1l,250mL,,,120kJ,0.2g,<0.1g,<0.1g,6.5g,5.9g*,52mg,6,TRUE,5,FALSE,,,1534279782.0-W-3006
+2018-08-15 06:49:42 UTC,cocobella,Cocobella Chilled Super Smoothie Choc Almond,Drinks,1l,250mL,4,,187kJ,0.6g,1.6g,1.2g,6.9g,5.2g,46mg,6.15,TRUE,5,FALSE,,,1534279782.0-W-3007
+2018-08-15 06:49:42 UTC,cottee's,Cottee's Cordial Orange,Drinks,1l,Litre,,,,,,,,,,4.2,FALSE,4.2,FALSE,,,1534279782.0-W-3008
+2018-08-15 06:49:42 UTC,lipton,Lipton Ice Green Tea Jasmine Lychee Flavour,Drinks,1.5l,Litre,,,,,,,,,,3.9,FALSE,3.9,TRUE,6,1.67,1534279782.0-W-3009
+2018-08-15 06:49:42 UTC,lipton,Lipton Ice Green Tea Original,Drinks,1.5l,250mL,6,,80kJ,<0.1g,<0.1g,<0.1g,4.6g,4.6g,10mg,3.9,FALSE,3.9,TRUE,6,1.67,1534279782.0-W-3010
+2018-08-15 06:49:42 UTC,the juice brothers,The Juice Brothers Morning Start ,Drinks,1.5l,Litre,,,,,,,,,,7,TRUE,5.5,FALSE,,,1534279782.0-W-3011
+2018-08-15 06:49:42 UTC,nudie,Nudie Nothing But Coconut Water Straight Up,Drinks,1l,250mL,4,,82kJ,<1g,<1g,<1g,4.7g,3.5g,25mg,5,FALSE,5,FALSE,,,1534279782.0-W-3012
+2018-08-15 06:49:42 UTC,lipton,Lipton Ice Tea Light Peach,Drinks,1.5l,250mL,6,,3kJ,<0.1g,<0.1g,<0.1g,<0.1g,<0.1g,<5mg,3.9,FALSE,3.9,TRUE,6,1.67,1534279782.0-W-3013
+2018-08-15 06:49:42 UTC,lipton,Lipton Ice Tea Mango,Drinks,1.5l,250mL,6,,100kJ,<0.1g,<0.1g,<0.1g,5.6g,5.5g,5mg,3.9,FALSE,3.9,TRUE,6,1.67,1534279782.0-W-3014
+2018-08-15 06:49:42 UTC,lipton,Lipton Ice Green Tea Light Lemon,Drinks,1.5l,250mL,6,,4kJ,<0.1g,<0.1g,,<0.1g,<0.1g,10mg,3.9,FALSE,3.9,TRUE,6,1.67,1534279782.0-W-3015
+2018-08-15 06:49:42 UTC,the juice brothers,The Juice Brothers Summer Smash ,Drinks,1.5l,Litre,,,,,,,,,,7,TRUE,5.5,FALSE,,,1534279782.0-W-3016
+2018-08-15 06:49:42 UTC,the juice brothers,The Juice Brothers Orange ,Drinks,1.5l,Litre,,,,,,,,,,7,TRUE,5.5,FALSE,,,1534279782.0-W-3017
+2018-08-15 06:49:42 UTC,the juice brothers,The Juice Brothers Apple Pear & Bluberry,Drinks,1.5l,Litre,,,,,,,,,,7,TRUE,5.5,FALSE,,,1534279782.0-W-3018
+2018-08-15 06:49:42 UTC,original juice,Original Juice Pulp Free Orange Juice,Drinks,1.5l,200ml,7.5,,220kJ,0.7g,0.1g,0g,10.8g,8.6g,1mg,5.49,TRUE,5,FALSE,,,1534279782.0-W-3019
+2018-08-15 06:49:42 UTC,v8,V8 Hot & Spicy Vegetable Juice,Drinks,1.25l,250mL,5,,96kJ,0.9g,0.1g,0.1g,4.0g,2.8g,288mg,4.6,TRUE,3,FALSE,,,1534279782.0-W-3020
+2018-08-15 06:49:42 UTC,v8,V8 Breakfast Fusion Vegetable Juice,Drinks,1.25l,250mL,5,,197kJ,0.3g,0.1g,0.1g,11.0g,9.9g,16mg,4.6,TRUE,3,FALSE,,,1534279782.0-W-3021
+2018-08-15 06:49:42 UTC,v8,V8 Original Vegetable Juice ,Drinks,1.25l,250mL,5,,90kJ,0.9g,0.1g,0.1g,3.7g,2.6g,241mg,4.6,TRUE,3,FALSE,,,1534279782.0-W-3022
+2018-08-15 06:49:42 UTC,v8,V8 Vegetable Juice Healthy Greens,Drinks,1.25l,250mL,5,,165kJ,0.4g,0.3g,0.1g,8.3g,6.0g,33mg,5,TRUE,3,FALSE,,,1534279782.0-W-3023
+2018-08-15 06:49:42 UTC,v8,V8 Vegetable Juice Pineapple Passion,Drinks,1.25l,250mL,5,,197kJ,0.2g,0.1g,0.1g,11.1g,10.2g,21mg,4.6,TRUE,3,FALSE,,,1534279782.0-W-3024
+2018-08-15 06:49:43 UTC,original juice,Original Juice Grapefruit Juice,Drinks,1.5l,200mL,7.5,,175kJ,0.5g,0.1g,0g,9.4g,9.4g,1mg,5.49,TRUE,5,FALSE,,,1534279783.0-W-3025
+2018-08-15 06:49:43 UTC,original juice,Original Juice Orange Juice,Drinks,1.5l,200mL,7.5,,215kJ,0.7g,0.1g,0g,10.8g,8.6g,1mg,5.49,TRUE,5,FALSE,,,1534279783.0-W-3026
+2018-08-15 06:49:43 UTC,original juice,Original Juice Apple Forest Fruits Juice,Drinks,1.5l,200mL,7.5,,205kJ,0.2g,0.1g,0g,11.6g,11.5g,4mg,5.49,TRUE,5,FALSE,,,1534279783.0-W-3027
+2018-08-15 06:49:43 UTC,lipton,Lipton Green Mint Lime Ice Tea,Drinks,1.5l,Litre,,,,,,,,,,3.9,FALSE,3.9,TRUE,6,1.67,1534279783.0-W-3028
+2018-08-15 06:49:43 UTC,fuze,Fuze Ice Tea Mango Chamomile,Drinks,1.25l,250mL,5,,79kJ,<1g,<1g,0g,4.4g,4.4g,13.7mg,3.35,TRUE,1.75,FALSE,,,1534279783.0-W-3029
+2018-08-15 06:49:43 UTC,fuze,Fuze Ice Tea Peach,Drinks,1.25l,250mL,5,,77kJ,<1g,<1g,0g,4.2g,4.2g,7.9mg,3.35,TRUE,1.75,FALSE,,,1534279783.0-W-3030
+2018-08-15 06:49:43 UTC,v8,V8 Apple Mango Fusion Juice,Drinks,1.25l,250mL,5,,201kJ,0.2g,0.1g,0.1g,11.2g,10.2g,20mg,4.6,TRUE,3,FALSE,,,1534279783.0-W-3031
+2018-08-15 06:49:43 UTC,v8,V8 Low Sodium Vegetable Juice,Drinks,1.25l,250mL,5,,89kJ,0.9g,0.0g,0.1g,3.6g,2.6g,98mg,4.6,TRUE,3,FALSE,,,1534279783.0-W-3032
+2018-08-15 06:49:43 UTC,fuze,Fuze Ice Tea Lemon ,Drinks,1.25l,Litre,,,,,,,,,,3.35,TRUE,1.75,FALSE,,,1534279783.0-W-3033
+2018-08-15 06:49:43 UTC,v8,V8 Orange Kick Juice,Drinks,1.25l,250mL,5,,122kJ,0.6g,0.2g,0.1g,6.1g,5.7g,71mg,5,TRUE,3,FALSE,,,1534279783.0-W-3034
+2018-08-15 06:49:43 UTC,v8,V8 Purple Power Vegetable And Fruit Juice,Drinks,1.25l,250mL,5,,165kJ,0.6g,0.1g,0.1g,8.8g,7.5g,37mg,5,TRUE,3,FALSE,,,1534279783.0-W-3035
+2018-08-15 06:49:43 UTC,v8,V8 Tropical Fusion Juice,Drinks,1.25l,250mL,5,,181kJ,0.3g,0.1g,0.1g,9.9g,9.0g,16mg,4.6,TRUE,3,FALSE,,,1534279783.0-W-3036
+2018-08-15 06:49:43 UTC,staminade,Staminade Wild Berry Rush ,Drinks,585g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534279783.0-W-3037
+2018-08-15 06:49:43 UTC,powerade,Powerade Zero Lemon Lime Flo Cap,Drinks,600ml,600mL,1,,5.0kJ,0.05g,0g,0g,0.1g,0g,55mg,3.6,FALSE,3.6,FALSE,,,1534279783.0-W-3038
+2018-08-15 06:49:43 UTC,powerade,Powerade Pineapple Storm ,Drinks,600ml,Ml,,,,,,,,,,3.6,FALSE,3.6,FALSE,,,1534279783.0-W-3039
+2018-08-15 06:49:43 UTC,powerade,Powerade Gold Rush Flo Cap,Drinks,600ml,600mL,1,,103kJ,0g,0g,0g,5.8g,5.8g,28mg (1.2mmol),3.6,FALSE,3.6,FALSE,,,1534279783.0-W-3040
+2018-08-15 06:49:43 UTC,powerade,Powerade Blackcurrant Flo Cap,Drinks,600ml,Ml,,,,,,,,,,3.6,FALSE,3.6,FALSE,,,1534279783.0-W-3041
+2018-08-15 06:49:43 UTC,powerade,Powerade Lemon Lime Flo Cap,Drinks,600ml,600mL,1,,103kJ,0g,0g,0g,5.8g,5.8g,28mg,3.6,FALSE,3.6,FALSE,,,1534279783.0-W-3042
+2018-08-15 06:49:43 UTC,powerade,Powerade Berry Ice Flo Cap,Drinks,600ml,600mL,1,,104kJ,0g,0g,0g,58g,58g,28mg,3.6,FALSE,3.6,FALSE,,,1534279783.0-W-3043
+2018-08-15 06:49:43 UTC,powerade,Powerade Mountain Blast Flo Cap,Drinks,600ml,600mL,1,,105kJ,0g,0g,0g,5.8g,5.8g,28mg,3.6,FALSE,3.6,FALSE,,,1534279783.0-W-3044
+2018-08-15 06:49:43 UTC,powerade,Powerade Mountain Blast Powder,Drinks,500g,250mL,32,,99kJ,0g,0g,0g,5.6g,5.6g,2.4mg,11.89,FALSE,11.89,FALSE,,,1534279783.0-W-3045
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Fierce Pineapple ,Drinks,600ml,Ml,,,,,,,,,,3.65,TRUE,2.45,FALSE,,,1534279783.0-W-3046
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Orange Ice Sports Drink,Drinks,600ml,600mL,1,,103kJ,0g,0g,0g,,,51mg,3.65,TRUE,2.45,FALSE,,,1534279783.0-W-3047
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Blue Bolt Sports Drink,Drinks,600ml,Ml,,,,,,,,,,3.65,TRUE,2.45,FALSE,,,1534279783.0-W-3048
+2018-08-15 06:49:43 UTC,powerade,Powerade Berry Ice Powder,Drinks,500g,250mL,32,,99kJ,0g,0g,0g,5.6g,,55mg,11.89,FALSE,11.89,FALSE,,,1534279783.0-W-3049
+2018-08-15 06:49:43 UTC,mizone,Mizone Lemon & Lime Sports Drink,Drinks,500ml,Ml,,,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534279783.0-W-3050
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Fierce Grape Sports Drink,Drinks,600ml,600mL,1,,103kJ,0g,0g,0g,6g,6g,51mg (2.3mmol),3.65,TRUE,2.45,FALSE,,,1534279783.0-W-3051
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Tropical Sports Drink,Drinks,600ml,,1,,103kJ,0g,,,,,,3.65,TRUE,2.45,FALSE,,,1534279783.0-W-3052
+2018-08-15 06:49:43 UTC,mizone,Mizone Watermelon Sports Drink,Drinks,500ml,Ml,,,,,,,,,,3.3,FALSE,3.3,FALSE,,,1534279783.0-W-3053
+2018-08-15 06:49:43 UTC,staminade,Staminade Lemon & Lime Powder,Drinks,585g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534279783.0-W-3054
+2018-08-15 06:49:43 UTC,acqua panna,Acqua Panna Still Mineral Water ,Drinks,1l bottle,Litre,,,,,,,,,,3,FALSE,3,FALSE,,,1534279783.0-W-3055
+2018-08-15 06:49:43 UTC,nexba,Nexba Coconut & Mango Mineral Water,Drinks,1l,Litre,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534279783.0-W-3056
+2018-08-15 06:49:43 UTC,icelandic,Icelandic Sparkling Mineral Water,Drinks,500ml,Ml,,,,,,,,,,3,FALSE,3,FALSE,,,1534279783.0-W-3057
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Sports Drink Watermelon,Drinks,600ml,Ml,,,,,,,,,,3.65,TRUE,2.45,FALSE,,,1534279783.0-W-3058
+2018-08-15 06:49:43 UTC,nexba,Nexba Watermelon Cucumber & Mint Mineral Water,Drinks,1l,Litre,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534279783.0-W-3059
+2018-08-15 06:49:43 UTC,woolworths,Woolworths Lightly Sparkling Spring Water,Drinks,20 pack,,,,,,,,,,,11.85,FALSE,11.85,FALSE,,,1534279783.0-W-3060
+2018-08-15 06:49:43 UTC,schweppes,Schweppes Mineral Water Raspberry Sugar Free,Drinks,4x300ml,Ml,,,,,,,,,,5.8,FALSE,5.8,FALSE,,,1534279783.0-W-3061
+2018-08-15 06:49:43 UTC,schweppes,Schweppes Mineral Water Lime Sugar Free,Drinks,4x300ml,Ml,,,,,,,,,,5.8,FALSE,5.8,FALSE,,,1534279783.0-W-3062
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Lemon Lime Sport Electrolyte Powder,Drinks,560g,250mL,32,,110kJ,0g,0g,0g,6.3g,6.3g,51mg (2.3mmol),10,TRUE,8.5,FALSE,,,1534279783.0-W-3063
+2018-08-15 06:49:43 UTC,gatorade,Gatorade G Active Flavoured Water Berry,Drinks,600ml,Ml,,,,,,,,,,3.5,TRUE,2.35,FALSE,,,1534279783.0-W-3064
+2018-08-15 06:49:43 UTC,sanpellegrino,Sanpellegrino Sparkling Mineral Water,Drinks,1l,Litre,,,,,,,,,,3.2,FALSE,3.2,FALSE,,,1534279783.0-W-3065
+2018-08-15 06:49:43 UTC,icelandic,Icelandic Alkaline Spring Water,Drinks,1l,Litre,,,,,,,,,,3.6,FALSE,3.6,FALSE,,,1534279783.0-W-3066
+2018-08-15 06:49:43 UTC,nexba,Nexba Lemon & Lime Mineral Water,Drinks,1l,Litre,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534279783.0-W-3067
+2018-08-15 06:49:43 UTC,nexba,Nexba Strawberry & Raspberry Mineral Water,Drinks,1l,Litre,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534279783.0-W-3068
+2018-08-15 06:49:43 UTC,balance,Balance Cleanse Spring Water,Drinks,1l,Litre,,,,,,,,,,2.6,TRUE,2.1,FALSE,,,1534279783.0-W-3069
+2018-08-15 06:49:43 UTC,pureau,Pureau Pure Water ,Drinks,2l,Litre,,,,,,,,,,2.75,FALSE,2.75,FALSE,,,1534279783.0-W-3070
+2018-08-15 06:49:43 UTC,aqualove ,Aqualove Alkaline Water ,Drinks,1l,Litre,,,,,,,,,,3,FALSE,3,FALSE,,,1534279783.0-W-3071
+2018-08-15 06:49:43 UTC,aroona ,Aroona Pure Spring Water Fridge Pack,Drinks,3l,Litre,,,,,,,,,,3.1,FALSE,3.1,FALSE,,,1534279783.0-W-3072
+2018-08-15 06:49:43 UTC,waterfords,Waterfords Mineral Water Lemon Lime & Bitters,Drinks,1l,Litre,,,,,,,,,,1.95,TRUE,1.45,FALSE,,,1534279783.0-W-3073
+2018-08-15 06:49:43 UTC,waterfords,Waterfords Lite & Fruity Orange Passion,Drinks,1l,Litre,,,,,,,,,,1.95,TRUE,1.45,FALSE,,,1534279783.0-W-3074
+2018-08-15 06:49:43 UTC,mount franklin,Mount Franklin Lightly Sparkling Raspberry,Drinks,250ml x4 pack,pack,,,,,,,,,,5.1,TRUE,3.6,FALSE,,,1534279783.0-W-3075
+2018-08-15 06:49:43 UTC,fever-tree,Fever-tree Naturally Light Tonic Water,Drinks,4x200ml,Ml,,,,,,,,,,7.55,TRUE,7,FALSE,,,1534279783.0-W-3076
+2018-08-15 06:49:43 UTC,mount franklin,Mount Franklin Lightly Sparkling Lime,Drinks,4x250ml,Ml,,,,,,,,,,5.1,TRUE,3.6,FALSE,,,1534279783.0-W-3077
+2018-08-15 06:49:43 UTC,waterfords,Waterfords Mineral Water Apple Berry,Drinks,1l,Litre,,,,,,,,,,1.95,TRUE,1.45,FALSE,,,1534279783.0-W-3078
+2018-08-15 06:49:43 UTC,waterfords,Waterfords Mineral Water Tahitian Lime,Drinks,1l,Litre,,,,,,,,,,1.95,TRUE,1.45,FALSE,,,1534279783.0-W-3079
+2018-08-15 06:49:43 UTC,mount franklin,Mount Franklin Lightly Sparkling Mango,Drinks,4x250ml,Ml,,,,,,,,,,5.1,TRUE,3.6,FALSE,,,1534279783.0-W-3080
+2018-08-15 06:49:43 UTC,gatorade,Gatorade G Active Flavoured Water Lemon,Drinks,600ml,Ml,,,,,,,,,,3.5,TRUE,2.35,FALSE,,,1534279783.0-W-3081
+2018-08-15 06:49:43 UTC,mount franklin,Mount Franklin Spring Water ,Drinks,6x500ml,Ml,,,,,,,,,,5.45,TRUE,4.35,FALSE,,,1534279783.0-W-3082
+2018-08-15 06:49:43 UTC,schweppes,Schweppes Mineral Water Natural,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.65,FALSE,,,1534279783.0-W-3083
+2018-08-15 06:49:43 UTC,woolworths,Woolworths Sparkling Mineral Water,Drinks,1.25l,Litre,,,,,,,,,,0.9,FALSE,0.9,FALSE,,,1534279783.0-W-3084
+2018-08-15 06:49:43 UTC,woolworths,Woolworths Pineapple & Mango Sparkling Mineral Water,Drinks,1.25l,250mL,5,,,0.0g,0.0g,0.0g,,5.0g,5mg,0.9,FALSE,0.9,FALSE,,,1534279783.0-W-3085
+2018-08-15 06:49:43 UTC,super,Super Pump Water Bottle,Drinks,1.25l,Litre,,,,,,,,,,2.95,FALSE,2.95,FALSE,,,1534279783.0-W-3086
+2018-08-15 06:49:43 UTC,frantelle,Frantelle Still Water,Drinks,1.5l,Litre,,,,,,,,,,1.15,FALSE,1.15,FALSE,,,1534279783.0-W-3087
+2018-08-15 06:49:43 UTC,pureau,Pureau Ultra Pure Water,Drinks,10l,200mL,50,,,,,,,,0mg,8.55,FALSE,8.55,FALSE,,,1534279783.0-W-3088
+2018-08-15 06:49:43 UTC,noble,Noble Ultra Pure Water,Drinks,5l,200mL,25,,,,,,,,0mg,5.15,FALSE,5.15,FALSE,,,1534279783.0-W-3089
+2018-08-15 06:49:43 UTC,woolworths,Woolworths Spring Water ,Drinks,10l,Litre,,,,,,,,,,4,FALSE,4,FALSE,,,1534279783.0-W-3090
+2018-08-15 06:49:43 UTC,schweppes,Schweppes Mineral Water Lemon Lime,Drinks,1.1l,250mL,4.4,,75kJ,0g,0g,0g,3.8g,3.7g,14mg,2.15,TRUE,1.65,FALSE,,,1534279783.0-W-3091
+2018-08-15 06:49:43 UTC,deep spring,Deep Spring Sparkling Mineral Water,Drinks,1.25l,250mL,5,,0kJ,0g,0g,0g,0g,0g,50mg,2,FALSE,2,FALSE,,,1534279783.0-W-3092
+2018-08-15 06:49:43 UTC,pop tops,Pop Tops Tropical Juice,Drinks,6x250ml,Ml,,,,,,,,,,4.9,TRUE,4.25,FALSE,,,1534279783.0-W-3093
+2018-08-15 06:49:43 UTC,woolworths,Woolworths Fruit Drink 35% Apple,Drinks,6x250ml,100ml,1,,Approx. 170kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 10g,Approx. 9.7g,<5mg,2.65,FALSE,2.65,FALSE,,,1534279783.0-W-3094
+2018-08-15 06:49:43 UTC,schweppes,Schweppes Mineral Water Infused Raspberry,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.65,FALSE,,,1534279783.0-W-3095
+2018-08-15 06:49:43 UTC,golden circle,Golden Circle Fruit Juice Apple Mango,Drinks,6x200ml,200mL,1,,207kJ,0.2g,0.1g,0g,11.8g,10.5g,40mg,5.15,TRUE,3.7,FALSE,,,1534279783.0-W-3096
+2018-08-15 06:49:43 UTC,woolworths,Woolworths Fruit Drink 35% Tropical,Drinks,6x250ml,250ml,1,,Approx. 173kJ,Approx. 0.1g,Approx. 0g,Approx. 0g,Approx. 10.1g,Approx. 9.7g,<5mg,2.65,FALSE,2.65,FALSE,,,1534279783.0-W-3097
+2018-08-15 06:49:43 UTC,schweppes,Schweppes Mineral Water Orange Mango,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.65,FALSE,,,1534279783.0-W-3098
+2018-08-15 06:49:43 UTC,schweppes,Schweppes Mineral Water Pineapple & Lemon,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.65,FALSE,,,1534279783.0-W-3099
+2018-08-15 06:49:43 UTC,sunraysia,Sunraysia Organic Orange 100% Juice ,Drinks,200ml,200mL,1,,178kJ,0.6g,0.1,0,9.9g,7.3,2mg,1.45,FALSE,1.45,FALSE,,,1534279783.0-W-3100
+2018-08-15 06:49:43 UTC,v8,V8 Fruit & Vegetable Breakfast Juice Multipack,Drinks,3x250ml,250mL,1,,197kJ,0.3g,0.1g,0.1g,11.0g,9.9g,16mg,4.1,TRUE,3.3,FALSE,,,1534279783.0-W-3101
+2018-08-15 06:49:43 UTC,sunraysia,Sunraysia Organic Apple 100% Juice ,Drinks,200ml,Ml,,,,,,,,,,1.45,FALSE,1.45,FALSE,,,1534279783.0-W-3102
+2018-08-15 06:49:43 UTC,sunraysia,Sunraysia Fruit Pouch Apple & Guava,Drinks,200ml,200mL,1,,246kJ,0.8g,0.5g,0.2g,10.1g,9.1g,5mg,1.45,FALSE,1.45,FALSE,,,1534279783.0-W-3103
+2018-08-15 06:49:43 UTC,sunraysia,Sunraysia Organic Apple & Mango Juice,Drinks,200ml,200mL,1,,197kJ,0.1g,0.1g,0.0g,11.5g,6.7g,5mg,1.45,FALSE,1.45,FALSE,,,1534279783.0-W-3104
+2018-08-15 06:49:43 UTC,golden circle,Golden Circle Tropical Punch Fruit Drink,Drinks,24x250ml,Ml,,,,,,,,,,12.9,FALSE,12.9,FALSE,,,1534279783.0-W-3105
+2018-08-15 06:49:43 UTC,golden circle,Golden Circle Golden Pash Fruit Drink,Drinks,24x250ml,Ml,,,,,,,,,,12.9,FALSE,12.9,FALSE,,,1534279783.0-W-3106
+2018-08-15 06:49:43 UTC,golden circle,Golden Circle Fruit Juice Orange,Drinks,6x200ml,200mL,1,,172kJ,0.5g,0.1g,0g,9.3g,7.6g,1mg,5.15,TRUE,3.7,FALSE,,,1534279783.0-W-3107
+2018-08-15 06:49:43 UTC,golden circle,Golden Circle Fruit Juice Tropical,Drinks,6x200ml,Ml,,,,,,,,,,5.15,TRUE,3.7,FALSE,,,1534279783.0-W-3108
+2018-08-15 06:49:43 UTC,golden circle,Golden Circle Fruit Juice Apple,Drinks,6x200ml,200mL,1,,192kJ,0.1g,0.1g,0g,10.8g,8.8g,40mg,5.15,TRUE,3.7,FALSE,,,1534279783.0-W-3109
+2018-08-15 06:49:43 UTC,powerade,Powerade Zero Mountain Blast Flo Cap,Drinks,600ml,600mL,1,,6.8kJ,0.05g,0g,0g,0.1g,0g,51mg (2.2mmol),3.6,FALSE,3.6,FALSE,,,1534279783.0-W-3110
+2018-08-15 06:49:43 UTC,maximus,Maximus Blue Bring It On ,Drinks,1l,250mL,4,,132kJ,0g,0g,0g,7.5g,,31mg,3.1,TRUE,2.5,FALSE,,,1534279783.0-W-3111
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Lemon Lime Sports Drink,Drinks,600ml,600mL,1,,103kJ,0g,0g,0g,6g,6g,51mg (2.3mmol),3.65,TRUE,2.45,FALSE,,,1534279783.0-W-3112
+2018-08-15 06:49:43 UTC,pop tops,Pop Tops Water (6x250ml),Drinks,1500ml,Ml,,,,,,,,,,4.9,TRUE,4.25,FALSE,,,1534279783.0-W-3113
+2018-08-15 06:49:43 UTC,maximus,Maximus Sports Drink Red,Drinks,1l,250mL,4,,133kJ,0g,0g,0g,7.5g,6.0g,31mg,3.1,TRUE,2.5,FALSE,,,1534279783.0-W-3114
+2018-08-15 06:49:43 UTC,powerade,Powerade Zero Berry Ice Flo Cap,Drinks,600ml,600mL,1,,6.1kJ,0.05g,0g,0g,0.1g,0g,51mg (2.2mmol),3.6,FALSE,3.6,FALSE,,,1534279783.0-W-3115
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Lemon Lime Sport Bottle,Drinks,4pk 600ml,Ml,,,,,,,,,,14.05,TRUE,8.5,FALSE,,,1534279783.0-W-3116
+2018-08-15 06:49:43 UTC,sunraysia,Sunraysia Organic Tropical 100% Juice ,Drinks,200ml,200mL,1,,173kJ,0.4g,0.1g,0g,11.4g,8.2g,2mg,1.45,FALSE,1.45,FALSE,,,1534279783.0-W-3117
+2018-08-15 06:49:43 UTC,sunraysia,Sunraysia Organic Apple & Blackcurrant 100% Juice,Drinks,200ml,200mL,1,,224kJ,0.3g,0.3g,0g,13.2g,13.2g,4mg,1.45,FALSE,1.45,FALSE,,,1534279783.0-W-3118
+2018-08-15 06:49:43 UTC,powerade,Powerade Mountain Blast ,Drinks,1.5l,250mL,6,,260kJ,0g,0g,0g,5.8g,5.8g,28mg,5.65,TRUE,3.9,FALSE,,,1534279783.0-W-3119
+2018-08-15 06:49:43 UTC,mount franklin,Mount Franklin Lightly Sparkling Lime Water,Drinks,4x450ml,450mL,4,,2.8kJ,0g,0g,0g,0g,0g,5.0mg,6.6,FALSE,6.6,FALSE,,,1534279783.0-W-3120
+2018-08-15 06:49:43 UTC,powerade,Powerade Isotonic Black Currant,Drinks,1.5l,Litre,,,,,,,,,,5.65,TRUE,3.9,FALSE,,,1534279783.0-W-3121
+2018-08-15 06:49:43 UTC,powerade,Powerade Berry Ice ,Drinks,1.5l,250mL,6,,263kJ,0g,0g,0g,5.8g,5.8g,28mg,5.65,TRUE,3.9,FALSE,,,1534279783.0-W-3122
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Lemon Lime Sports Drink,Drinks,1l,250mL,4,,103kJ,0g,0g,0g,6g,6g,51mg (2.3mmol),2.5,FALSE,2.5,FALSE,,,1534279783.0-W-3123
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Orange Ice Sports Drink,Drinks,1l,250mL,4,,103kJ,0g,0g,0g,6g,6g,51mg,2.5,FALSE,2.5,FALSE,,,1534279783.0-W-3124
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Tropical Sports Drink,Drinks,1l,250mL,4,,103kJ,0g,0g,0g,6g,6g,51mg,2.5,FALSE,2.5,FALSE,,,1534279783.0-W-3125
+2018-08-15 06:49:43 UTC,maximus,Maximus Sports Drink Big O,Drinks,1l,Litre,,,,,,,,,,3.1,TRUE,2.5,FALSE,,,1534279783.0-W-3126
+2018-08-15 06:49:43 UTC,maximus,Maximus Sports Drink Green,Drinks,1l,Litre,,,,,,,,,,3.1,TRUE,2.5,FALSE,,,1534279783.0-W-3127
+2018-08-15 06:49:43 UTC,voss water,Voss Water Lemon & Cucumber ,Drinks,375ml,Ml,,,,,,,,,,3.15,FALSE,3.15,FALSE,,,1534279783.0-W-3128
+2018-08-15 06:49:43 UTC,mount franklin,Mount Franklin Mineral Water Lightly Sparkling Lime Bottle,Drinks,450ml,Ml,,,,,,,,,,2.9,FALSE,2.9,FALSE,,,1534279783.0-W-3129
+2018-08-15 06:49:43 UTC,cool ridge,Cool Ridge Immunity ,Drinks,450ml,Ml,,,,,,,,,,3.1,FALSE,3.1,FALSE,,,1534279783.0-W-3130
+2018-08-15 06:49:43 UTC,raw c,Raw C Sparkling Coconut Water Infused With Water Melon Lime,Drinks,400ml,Ml,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534279783.0-W-3131
+2018-08-15 06:49:43 UTC,raw c sparkling,Raw C Sparkling Mango & Passionfruit Coconut Water,Drinks,400ml,Ml,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534279783.0-W-3132
+2018-08-15 06:49:43 UTC,mount franklin,Mount Franklin Mineral Water Lightly Sparkling Lemon Bottle,Drinks,450ml,Ml,,,,,,,,,,2.9,FALSE,2.9,FALSE,,,1534279783.0-W-3133
+2018-08-15 06:49:43 UTC,cool ridge,Cool Ridge Restore ,Drinks,450ml,Ml,,,,,,,,,,3.1,FALSE,3.1,FALSE,,,1534279783.0-W-3134
+2018-08-15 06:49:43 UTC,cool ridge,Cool Ridge Revitalise ,Drinks,450ml,Ml,,,,,,,,,,3.1,FALSE,3.1,FALSE,,,1534279783.0-W-3135
+2018-08-15 06:49:43 UTC,woolworths,Woolworths 100% Pure Coconut Water,Drinks,4x1l,Litre,,,,,,,,,,10,FALSE,10,FALSE,,,1534279783.0-W-3136
+2018-08-15 06:49:43 UTC,cocobella,Cocobella Coconut Water & Mango,Drinks,250ml,250mL,1,,126kJ,0.3g,0g,0g,7.2g,6.6g,48mg,2.15,FALSE,2.15,FALSE,,,1534279783.0-W-3137
+2018-08-15 06:49:43 UTC,woolworths,Woolworths Lightly Sparkling Water With Lemon,Drinks,1.25l,250mL,5,,1kJ,0.0g,0.0g,0.0g,0.0g,0.0g,<5mg,1.35,FALSE,1.35,FALSE,,,1534279783.0-W-3138
+2018-08-15 06:49:43 UTC,cocobella,Cocobella Coconut Water Peach/mango,Drinks,1l,Litre,,,,,,,,,,5,FALSE,5,FALSE,,,1534279783.0-W-3139
+2018-08-15 06:49:43 UTC,cocobella,Cocobella Coconut Water Chocolate,Drinks,1l bottle,250mL,4,,149kJ,0.3g,0.8g,0.6g,6.2g,5.4g,47mg,5,FALSE,5,FALSE,,,1534279783.0-W-3140
+2018-08-15 06:49:43 UTC,lipton,Lipton Infused Water Pear & Elderflower,Drinks,1.5l,Litre,,,,,,,,,,3.65,FALSE,3.65,TRUE,6,1.67,1534279783.0-W-3141
+2018-08-15 06:49:43 UTC,woolworths,Woolworths 100% Pure Coconut Water,Drinks,1l,Litre,,,,,,,,,,3.5,TRUE,3.2,FALSE,,,1534279783.0-W-3142
+2018-08-15 06:49:43 UTC,mt franklin,Mt Franklin Mineral Water Raspberry & Lemon,Drinks,1.25l,250mL,5,,2.7kJ,0g,0g,0g,0g,0g,5.0mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3143
+2018-08-15 06:49:43 UTC,cocobella,Cocobella Straight Up Coconut Water,Drinks,1l,250mL,4,,85kJ,0g,0g,0g,4.9g,4.2g,21mg,5,FALSE,5,FALSE,,,1534279783.0-W-3144
+2018-08-15 06:49:43 UTC,cocobella,Cocobella Straight Up Coconut Water,Drinks,250ml,250mL,1,,95kJ,0.1g,0g,0g,5.2g,4.7g,40mg,2.15,FALSE,2.15,FALSE,,,1534279783.0-W-3145
+2018-08-15 06:49:43 UTC,raw c,Raw C Coconut Water Pure Natural,Drinks,1l,200mL,5,,136kJ,0g,<0.02g,<0.02g,7.6g,5.8g,57.06mg,5,TRUE,4,FALSE,,,1534279783.0-W-3146
+2018-08-15 06:49:43 UTC,cocobella,Cocobella Coconut Water & Pink Guava,Drinks,250ml,250mL,1,,128kJ,0.3g,0g,0g,7.3g,6.7g,51mg,2.15,FALSE,2.15,FALSE,,,1534279783.0-W-3147
+2018-08-15 06:49:43 UTC,woolworths,Woolworths Lemon Sparkling Mineral Water,Drinks,1.25l,250mL,5,,87kJ,0.0g,0.0g,0.0g,5.1g,4.6g,13mg,0.9,FALSE,0.9,FALSE,,,1534279783.0-W-3148
+2018-08-15 06:49:43 UTC,mount franklin,Mount Franklin Lightly Sparkling Lemon Water,Drinks,1.25l,250mL,5,,1.9kJ,0g,0g,0g,0g,0g,5.0mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3149
+2018-08-15 06:49:43 UTC,woolworths,Woolworths Diet Blood Orange Sparkling Mineral Water,Drinks,1.25l,250mL,5,,10kJ,0.0g,0.0g,0.0g,0.6g,0.1g,<5mg,0.9,FALSE,0.9,FALSE,,,1534279783.0-W-3150
+2018-08-15 06:49:43 UTC,schweppes,Schweppes Mineral Water Lemon,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.65,FALSE,,,1534279783.0-W-3151
+2018-08-15 06:49:43 UTC,schweppes,Schweppes Mineral Water Apple & Cranberry,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.65,FALSE,,,1534279783.0-W-3152
+2018-08-15 06:49:43 UTC,woolworths,Woolworths Orange & Mango Sparkling Mineral Water,Drinks,1.25l,250mL,5,,73kJ,0.0g,0.0g,0.0g,4.3g,3.7g,8mg,0.9,FALSE,0.9,FALSE,,,1534279783.0-W-3153
+2018-08-15 06:49:43 UTC,schweppes,Schweppes Mineral Water Blood Orange Passionfruit,Drinks,1.1l,Litre,,,,,,,,,,2.15,TRUE,1.65,FALSE,,,1534279783.0-W-3154
+2018-08-15 06:49:43 UTC,mount franklin,Mount Franklin Lightly Sparkling Lime Water,Drinks,1.25l,250mL,5,,2.8kJ,0g,0g,0g,0g,0g,5.0mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3155
+2018-08-15 06:49:43 UTC,woolworths,Woolworths Diet Orange & Passionfruit Sparkling Mineral Water,Drinks,1.25l,250mL,5,,12kJ,0.1g,0.0g,0.0g,0.6g,0.1g,<5mg,0.9,FALSE,0.9,FALSE,,,1534279783.0-W-3156
+2018-08-15 06:49:43 UTC,bean ground & drunk,Bean Ground & Drunk Coffee Beans Organic Fairtrade Classic Roast,Drinks,250g,g,,,,,,,,,,8.8,FALSE,8.8,FALSE,,,1534279783.0-W-3157
+2018-08-15 06:49:43 UTC,illy,Illy Ground Coffee Espresso,Drinks,250g,g,,,,,,,,,,15,FALSE,15,FALSE,,,1534279783.0-W-3158
+2018-08-15 06:49:43 UTC,bean ground & drunk,Bean Ground & Drunk Ground Coffee Organic Fairtrade Classic Roast,Drinks,250g,g,,,,,,,,,,8.8,FALSE,8.8,FALSE,,,1534279783.0-W-3159
+2018-08-15 06:49:43 UTC,macro organic,Macro Organic Fairtrade Ground Coffee Medium,Drinks,200g,g,,,,,,,,,,7,TRUE,6,FALSE,,,1534279783.0-W-3160
+2018-08-15 06:49:43 UTC,sonoma,Sonoma Coffee Spirit Blend,Drinks,200g,g,,,,,,,,,,14,FALSE,14,FALSE,,,1534279783.0-W-3161
+2018-08-15 06:49:43 UTC,byron bay coffee co,Byron Bay Coffee Co Plunger Decaffeinated ,Drinks,250g,g,,,,,,,,,,11.95,FALSE,11.95,FALSE,,,1534279783.0-W-3162
+2018-08-15 06:49:43 UTC,gloria jeans,Gloria Jeans Ground Coffee Caramel,Drinks,200g,10g of Coffee per 180mL of water,,,43.0kJ,0.2g,0.2g,0.1g,2.0g,0.1g,5.0g,8.8,FALSE,8.8,FALSE,,,1534279783.0-W-3163
+2018-08-15 06:49:43 UTC,republica organic coffee ,Republica Organic Coffee Ground Timor Espresso,Drinks,200g,g,,,,,,,,,,9,FALSE,9,FALSE,,,1534279783.0-W-3164
+2018-08-15 06:49:43 UTC,byron bay coffee co,Byron Bay Coffee Co Plunger Bag Roasted ,Drinks,250g,g,,,,,,,,,,10.98,FALSE,10.98,FALSE,,,1534279783.0-W-3165
+2018-08-15 06:49:43 UTC,byron bay coffee co,Byron Bay Coffee Co Plunger Espresso ,Drinks,250g,g,,,,,,,,,,10.98,FALSE,10.98,FALSE,,,1534279783.0-W-3166
+2018-08-15 06:49:43 UTC,harris,Harris Ground Coffee Black Label,Drinks,200g,g,,,,,,,,,,7.49,TRUE,6,FALSE,,,1534279783.0-W-3167
+2018-08-15 06:49:43 UTC,sonoma,Sonoma Body Blend Ground Coffee,Drinks,200g,g,,,,,,,,,,14,FALSE,14,FALSE,,,1534279783.0-W-3168
+2018-08-15 06:49:43 UTC,vittoria coffee,Vittoria Coffee Decaffeinated Ground Coffee Espresso Deccaffeinated,Drinks,200g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534279783.0-W-3169
+2018-08-15 06:49:43 UTC,lavazza,Lavazza Crema E Gusto Ground Coffee ,Drinks,200g,g,,,,,,,,,,9.2,TRUE,7.5,FALSE,,,1534279783.0-W-3170
+2018-08-15 06:49:43 UTC,oasis,Oasis Ground Coffee Greek Style,Drinks,200g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534279783.0-W-3171
+2018-08-15 06:49:43 UTC,harris,Harris Single Origin Guatemala Coarse Ground Coffee,Drinks,200g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534279783.0-W-3172
+2018-08-15 06:49:43 UTC,vittoria coffee,Vittoria Coffee Mountain Grown Ground Coffee,Drinks,200g,g,,,,,,,,,,8,TRUE,6,FALSE,,,1534279783.0-W-3173
+2018-08-15 06:49:43 UTC,sonoma,Sonoma Ground Coffee Spirit Blend,Drinks,200g,g,,,,,,,,,,14,FALSE,14,FALSE,,,1534279783.0-W-3174
+2018-08-15 06:49:43 UTC,lavazza,Lavazza Caffe Espresso Ground Coffee ,Drinks,200g,g,,,,,,,,,,9.2,TRUE,7.5,FALSE,,,1534279783.0-W-3175
+2018-08-15 06:49:43 UTC,chicco d'oro,Chicco D'oro Delta Ground Coffee Chicco Doro,Drinks,200g,g,,,,,,,,,,3,FALSE,3,FALSE,,,1534279783.0-W-3176
+2018-08-15 06:49:43 UTC,negrita,Negrita Ground Coffee Turkish Dark Roast,Drinks,200g,g,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534279783.0-W-3177
+2018-08-15 06:49:43 UTC,harris,Harris Ground Coffee Premium,Drinks,1kg,kg,,,,,,,,,,17,TRUE,15,FALSE,,,1534279783.0-W-3178
+2018-08-15 06:49:43 UTC,vittoria coffee,Vittoria Coffee Ground Coffee Italian Blend,Drinks,1kg,kg,,,,,,,,,,19,TRUE,14,FALSE,,,1534279783.0-W-3179
+2018-08-15 06:49:43 UTC,woolworths select,Woolworths Select Ground Coffee Espresso,Drinks,250g,g,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534279783.0-W-3180
+2018-08-15 06:49:43 UTC,macro organic,Macro Organic Fairtrade Ground Coffee Dark,Drinks,200g,g,,,,,,,,,,7,TRUE,6,FALSE,,,1534279783.0-W-3181
+2018-08-15 06:49:43 UTC,gloria jeans,Gloria Jeans Ground Coffee Smooth Classic Blend,Drinks,200g,g,,,,,,,,,,8.8,FALSE,8.8,FALSE,,,1534279783.0-W-3182
+2018-08-15 06:49:43 UTC,harris,Harris Ground Coffee Premium,Drinks,200g,g,,,,,,,,,,7.49,TRUE,6,FALSE,,,1534279783.0-W-3183
+2018-08-15 06:49:43 UTC,harris,Harris Ground Coffee Espresso,Drinks,1kg,kg,,,,,,,,,,17,TRUE,15,FALSE,,,1534279783.0-W-3184
+2018-08-15 06:49:43 UTC,harris,Harris The Bees Knees Coarse Ground Coffee,Drinks,200g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534279783.0-W-3185
+2018-08-15 06:49:43 UTC,gloria jeans,Gloria Jeans Ground Coffee Hazelnut,Drinks,200g,10g of coffee per 180mL of water,1,,43.0kJ,0.2g,0.2g,0.1g,2.0g,0.1g,5.0g,8.8,FALSE,8.8,FALSE,,,1534279783.0-W-3186
+2018-08-15 06:49:43 UTC,lavazza,Lavazza Qualita Oro Ground Coffee Qualita Oro,Drinks,200g,g,,,,,,,,,,9.2,TRUE,7.5,FALSE,,,1534279783.0-W-3187
+2018-08-15 06:49:43 UTC,vittoria coffee,Vittoria Coffee Espresso Ground Coffee Espresso,Drinks,1kg,kg,,,,,,,,,,28,FALSE,28,FALSE,,,1534279783.0-W-3188
+2018-08-15 06:49:43 UTC,vittoria coffee,Vittoria Coffee Espresso Ground Coffee Espresso,Drinks,200g,g,,,,,,,,,,8,TRUE,6,FALSE,,,1534279783.0-W-3189
+2018-08-15 06:49:43 UTC,vittoria coffee,Vittoria Coffee Mountain Grown Ground Coffee,Drinks,1kg,kg,,,,,,,,,,36.5,FALSE,36.5,FALSE,,,1534279783.0-W-3190
+2018-08-15 06:49:43 UTC,vittoria coffee,Vittoria Coffee Oro Ground Coffee Oro,Drinks,1kg,kg,,,,,,,,,,33,FALSE,33,FALSE,,,1534279783.0-W-3191
+2018-08-15 06:49:43 UTC,vittoria coffee,Vittoria Coffee Oro Ground Coffee Oro Gold Cafe Series,Drinks,250g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534279783.0-W-3192
+2018-08-15 06:49:43 UTC,lavazza,Lavazza Qualita Oro Ground Coffee ,Drinks,500g,g,,,,,,,,,,19,TRUE,14,FALSE,,,1534279783.0-W-3193
+2018-08-15 06:49:43 UTC,vittoria coffee,Vittoria Coffee Espresso Ground Coffee Espresso,Drinks,500g,g,,,,,,,,,,15,FALSE,15,FALSE,,,1534279783.0-W-3194
+2018-08-15 06:49:43 UTC,lavazza,Lavazza Ground Coffee Torino Qualita Oro Arabica,Drinks,1kg,kg,,,,,,,,,,30,TRUE,15,FALSE,,,1534279783.0-W-3195
+2018-08-15 06:49:43 UTC,chicco d'oro,Chicco D'oro Delta Ground Coffee Chicco Doro,Drinks,1kg,kg,,,,,,,,,,12,FALSE,12,FALSE,,,1534279783.0-W-3196
+2018-08-15 06:49:43 UTC,caffe aurora,Caffe Aurora Ground Coffee Italian Style,Drinks,250g,g,,,,,,,,,,6,TRUE,5,FALSE,,,1534279783.0-W-3197
+2018-08-15 06:49:43 UTC,dilmah,Dilmah Rooibos Chocolate Turmeric Ginger & Almond Teabags,Drinks,20 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534279783.0-W-3198
+2018-08-15 06:49:43 UTC,red seal,Red Seal Raspberry & Strawberry Hot Or Cold Brew Tea,Drinks,20 pack,,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534279783.0-W-3199
+2018-08-15 06:49:43 UTC,red seal,Red Seal Lemon & Lime Hot Or Cold Brew Tea,Drinks,20 pack,,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534279783.0-W-3200
+2018-08-15 06:49:43 UTC,dilmah,Dilmah Green Rooibos Ginger & Peppermint Teabags,Drinks,20 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534279783.0-W-3201
+2018-08-15 06:49:43 UTC,caffe aurora,Caffe Aurora Ground Coffee Italian Style,Drinks,1kg,kg,,,,,,,,,,18.4,TRUE,15,FALSE,,,1534279783.0-W-3202
+2018-08-15 06:49:43 UTC,caffe aurora,Caffe Aurora Ground Coffee Italian Style,Drinks,2 pack,,,,,,,,,,,10.2,TRUE,8,FALSE,,,1534279783.0-W-3203
+2018-08-15 06:49:43 UTC,arkadia ,Arkadia Chai Tea Spice Sachets,Drinks,20 pack,,,,,,,,,,,13,FALSE,13,FALSE,,,1534279783.0-W-3204
+2018-08-15 06:49:43 UTC,byron bay coffee co,Byron Bay Coffee Co Plunger Ground Plunger,Drinks,100g,g,,,,,,,,,,4.19,FALSE,4.19,FALSE,,,1534279783.0-W-3205
+2018-08-15 06:49:43 UTC,higher living,Higher Living Licorice Tea Bags,Drinks,15 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534279783.0-W-3206
+2018-08-15 06:49:43 UTC,higher living,Higher Living Cocoa Chilli Tea,Drinks,15 bags 30g,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534279783.0-W-3207
+2018-08-15 06:49:43 UTC,twinings,"Twinings Vitality Raspberry, Mint And Green Tea",Drinks,18 pack,,,,,,,,,,,4,FALSE,4,FALSE,,,1534279783.0-W-3208
+2018-08-15 06:49:43 UTC,red seal,Red Seal Blood Orange Hot Or Cold Brew Tea,Drinks,20 pack,,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534279783.0-W-3209
+2018-08-15 06:49:43 UTC,higher living,Higher Living Sweet Dreams Tea Bags,Drinks,15 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534279783.0-W-3210
+2018-08-15 06:49:43 UTC,higher living organic,Higher Living Organic Golden Tumeric Teabags,Drinks,15 bags,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534279783.0-W-3211
+2018-08-15 06:49:43 UTC,higher living,Higher Living Ginger Kick Tea Bags,Drinks,15 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534279783.0-W-3212
+2018-08-15 06:49:43 UTC,madame flavour,Madame Flavour Sultry Chai Tea Pods,Drinks,18 pack,,,,,,,,,,,5.8,FALSE,5.8,FALSE,,,1534279783.0-W-3213
+2018-08-15 06:49:43 UTC,madame flavour,Madame Flavour Lemon Grasslime & Ginger Tea Pods,Drinks,18pk,,,,,,,,,,,5.8,FALSE,5.8,FALSE,,,1534279783.0-W-3214
+2018-08-15 06:49:43 UTC,red seal,Red Seal Peach & Pineapple Hot Or Cold Brew Tea,Drinks,20 pack,,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534279783.0-W-3215
+2018-08-15 06:49:43 UTC,twinings,Twinings Orange & Cinnamon Tea,Drinks,10pk,1Infusion bag in 200ml of boiling water,10,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3216
+2018-08-15 06:49:43 UTC,twinings,Twinings Chamomile & Spearmint Tea Bags,Drinks,10pk 15g,1infusion bag in 200mL of boiling water.,10,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3217
+2018-08-15 06:49:43 UTC,twinings,Twinings Spiced Apple Infused Chamomile Tea Bags,Drinks,10pk,1teabag infused in 200mL of boiling water,10,,10kJ,<1g,<1g,<1g,<1g,<1g,<5mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3218
+2018-08-15 06:49:43 UTC,twinings,Twinings Chamomile Honey & Vanilla Tea Bags,Drinks,10pk 15g,1Infusion Bag in 200mL of boiling water,10,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3219
+2018-08-15 06:49:43 UTC,twinings,Twinings Lemon & Ginger Tea Bags,Drinks,40 pack,1Infusion bag in 200mL of boiling water,40,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,7,FALSE,7,FALSE,,,1534279783.0-W-3220
+2018-08-15 06:49:43 UTC,twinings,Twinings Lemon & Ginger Tea Bags,Drinks,10pk 15g,1Infusion bag in 200mL 0f boiling water,10,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3221
+2018-08-15 06:49:43 UTC,twinings,Twinings Lemon Twist Tea Bags,Drinks,10pk 20g,,,,,,,,,<1g,,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3222
+2018-08-15 06:49:43 UTC,twinings,Twinings Cranberry Pomegranate Tea Bags,Drinks,10pk 20g,1Teabag Infused in 200mL of Boiling Water,10,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3223
+2018-08-15 06:49:43 UTC,twinings,Twinings Raspberry Strawberry & Loganberry Tea Bags,Drinks,10pk 15g,1Teabag Infused in 200mL of Boiling Water,10,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3224
+2018-08-15 06:49:43 UTC,madura,Madura English Breakfast Tea Bags,Drinks,50pk 100g,1Tea bags per 220mL,50,,<0.06kJ,0.0g,0.0g,0.0g,0.0g,0.0g,<0.5mg,5,FALSE,5,FALSE,,,1534279783.0-W-3225
+2018-08-15 06:49:43 UTC,taylors,Taylors Yorkshire Tea Bags,Drinks,100pk 220g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534279783.0-W-3226
+2018-08-15 06:49:43 UTC,twinings,Twinings Russian Caravan Tea Bags,Drinks,10pk 20g,g,,,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3227
+2018-08-15 06:49:43 UTC,twinings,Twinings Darjeeling Tea Bags,Drinks,10pk 20g,g,,,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3228
+2018-08-15 06:49:43 UTC,twinings,Twinings English Breakfast Loose Leaf Tea,Drinks,125g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534279783.0-W-3229
+2018-08-15 06:49:43 UTC,twinings,Twinings Earl Grey Loose Leaf Tea,Drinks,125g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534279783.0-W-3230
+2018-08-15 06:49:43 UTC,twinings,Twinings Russian Caravan Loose Leaf Tea,Drinks,125g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534279783.0-W-3231
+2018-08-15 06:49:43 UTC,madura,Madura Black Leaf Tea Organic,Drinks,150g,g,,,,,,,,,,5.95,FALSE,5.95,FALSE,,,1534279783.0-W-3232
+2018-08-15 06:49:43 UTC,nerada,Nerada Tea Bags ,Drinks,50pk 100g,1Teabag infused in 200mL of freshly boiled water,50,,5kJ,<1g,<1g,<1g,<1g,<1g,<10mg,2.5,FALSE,2.5,FALSE,,,1534279783.0-W-3233
+2018-08-15 06:49:43 UTC,monster energy,Monster Energy Hamilton ,Drinks,500ml,Ml,,,,,,,,,,3.65,TRUE,2.75,FALSE,,,1534279783.0-W-3234
+2018-08-15 06:49:43 UTC,red bull  ,Red Bull Energy Drink Sugar Free,Drinks,6pk 250ml,Ml,,,,,,,,,,12.8,TRUE,11.25,FALSE,,,1534279783.0-W-3235
+2018-08-15 06:49:43 UTC,mother,Mother Black Energy Drink,Drinks,500ml,500mL,1,,191kJ,0g,0g,0g,10.1g,10.1g,48mg,3,TRUE,2.65,FALSE,,,1534279783.0-W-3236
+2018-08-15 06:49:43 UTC,mother energy,Mother Energy Passion ,Drinks,500ml,Ml,,,,,,,,,,3,TRUE,2.65,FALSE,,,1534279783.0-W-3237
+2018-08-15 06:49:43 UTC,monster,Monster Energy Drink ,Drinks,500ml,500mL,1,,197kJ,0g,0g,0g,11.6g,11.4g,78mg,3.65,TRUE,2.75,FALSE,,,1534279783.0-W-3238
+2018-08-15 06:49:43 UTC,monster,Monster Energy Drink Ultra Zero,Drinks,4x500ml pack,500mL,4,,7kJ,0g,0g,0g,0g,0g,76mg,12.5,TRUE,7.6,FALSE,,,1534279783.0-W-3239
+2018-08-15 06:49:43 UTC,monster energy,Monster Energy Rossi Can ,Drinks,500ml,Ml,,,,,,,,,,3.65,TRUE,2.75,FALSE,,,1534279783.0-W-3240
+2018-08-15 06:49:43 UTC,mother,Mother Energy Drink Kicked Apple,Drinks,500ml,Ml,,,,,,,,,,3,TRUE,2.65,FALSE,,,1534279783.0-W-3241
+2018-08-15 06:49:43 UTC,rockstar,Rockstar Energy Drink Tropical Fruit Zero Sugar,Drinks,500ml,Ml,,,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3242
+2018-08-15 06:49:43 UTC,monster,Monster Energy Drink Ultra Zero,Drinks,500ml single,500mL,1,,7kJ,0g,0g,0g,0g,0g,76mg,3.65,TRUE,2.75,FALSE,,,1534279783.0-W-3243
+2018-08-15 06:49:43 UTC,v,V Sugar Free Energy Drink,Drinks,4pk 275ml,275mL,4,,12.7kJ,<1g,0g,0g,0.11g,0g,101mg,9.85,TRUE,6.5,FALSE,,,1534279783.0-W-3244
+2018-08-15 06:49:43 UTC,mother,Mother Berry Energy Drink,Drinks,4pk 500ml,Ml,,,,,,,,,,11.75,TRUE,6.85,FALSE,,,1534279783.0-W-3245
+2018-08-15 06:49:43 UTC,mother,Mother Berry Energy Drink,Drinks,500ml,500mL,1,,191kJ,0g,0g,0g,10.4g,10.4g,48mg,3,TRUE,2.65,FALSE,,,1534279783.0-W-3246
+2018-08-15 06:49:43 UTC,rockstar,Rockstar Guava Punched Energy Drink,Drinks,500ml,500mL,1,,285kJ,<1.0g,0g,0g,16.9g,16.7g,28mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3247
+2018-08-15 06:49:43 UTC,v,V Pure Guarana Energy,Drinks,4x250ml cans,ml,,,,,,,,,,9.85,TRUE,6.5,FALSE,,,1534279783.0-W-3248
+2018-08-15 06:49:43 UTC,v,V With Guarana ,Drinks,4x500ml,500mL,4,,195kJ,<1g,0g,0g,10.6g,10.6g,110mg,12.2,FALSE,12.2,FALSE,,,1534279783.0-W-3249
+2018-08-15 06:49:43 UTC,v,V Energy ,Drinks,500ml,500mL,1,,195kJ,<1g,0g,0g,10.6g,10.6g,110mg,3.15,FALSE,3.15,FALSE,,,1534279783.0-W-3250
+2018-08-15 06:49:43 UTC,monster energy,Monster Energy Drink Rossi ,Drinks,4x500ml,Ml,,,,,,,,,,12.5,TRUE,7.6,FALSE,,,1534279783.0-W-3251
+2018-08-15 06:49:43 UTC,monster,Monster Energy Drink ,Drinks,4x500ml,500mL,1,,197kJ,0g,0g,0g,11.6g,11.4g,78mg,12.5,TRUE,7.6,FALSE,,,1534279783.0-W-3252
+2018-08-15 06:49:43 UTC,v,V Blue Energy Drink,Drinks,4pk 275ml,275mL,4,,247kJ,0g,0g,0g,13.9g,13.9g,58.3mg,9.85,TRUE,6.5,FALSE,,,1534279783.0-W-3253
+2018-08-15 06:49:43 UTC,v,V Pure ,Drinks,275ml,Ml,,,,,,,,,,4.15,FALSE,4.15,FALSE,,,1534279783.0-W-3254
+2018-08-15 06:49:43 UTC,red bull,Red Bull Energy Drink ,Drinks,473ml,473mL,1,,194kJ,0g,0g,0g,11g,,41mg,4.55,FALSE,4.55,FALSE,,,1534279783.0-W-3255
+2018-08-15 06:49:43 UTC,red bull,Red Bull Energy Drink ,Drinks,355ml,Ml,,,,,,,,,,3.8,FALSE,3.8,FALSE,,,1534279783.0-W-3256
+2018-08-15 06:49:43 UTC,v,V Blue Can,Drinks,500ml,Ml,,,,,,,,,,3.15,FALSE,3.15,FALSE,,,1534279783.0-W-3257
+2018-08-15 06:49:43 UTC,v,V Energy Drink Blue Can,Drinks,250ml,Ml,,,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534279783.0-W-3258
+2018-08-15 06:49:43 UTC,red eye,Red Eye Energy Drink Platinum,Drinks,330ml,330mL,1,,192kJ,<1g,<1g,<1g,11.3g,11.0g,<5mg,2.75,FALSE,2.75,FALSE,,,1534279783.0-W-3259
+2018-08-15 06:49:43 UTC,lucozade,Lucozade Original Energy Drink,Drinks,380ml,380mL,1,,309kJ,<1g,0g,0g,18.5g,9.1g,<5mg,3,FALSE,3,FALSE,,,1534279783.0-W-3260
+2018-08-15 06:49:43 UTC,lucozade,Lucozade Orange Energy Drink,Drinks,380ml,380mL,1,,300kJ,<1g,0g,0g,17.6g,14.1g,<5mg,3,FALSE,3,FALSE,,,1534279783.0-W-3261
+2018-08-15 06:49:43 UTC,red bull,Red Bull Energy Drink,Drinks,4 x473ml pack,ml pack,,,,,,,,,,15.5,TRUE,13,FALSE,,,1534279783.0-W-3262
+2018-08-15 06:49:43 UTC,v,V Guarana Energy Drink,Drinks,4pk 275ml,275mL,4,,195kJ,<1g,0g,0g,10.6g,10.6g,110mg,9.85,TRUE,6.5,FALSE,,,1534279783.0-W-3263
+2018-08-15 06:49:43 UTC,red bull,Red Bull Energy Drink Coconut ,Drinks,250ml,Ml,,,,,,,,,,3,TRUE,2.65,FALSE,,,1534279783.0-W-3264
+2018-08-15 06:49:43 UTC,v,V With Guarana ,Drinks,250ml,250mL,1,,195kJ,<1g,0g,0g,10.6g,10.6g,110mg,2.8,FALSE,2.8,FALSE,,,1534279783.0-W-3265
+2018-08-15 06:49:43 UTC,red bull,Red Bull Energy Drink ,Drinks,250ml,Ml,,,,,,,,,,3,TRUE,2.65,FALSE,,,1534279783.0-W-3266
+2018-08-15 06:49:43 UTC,red bull,Red Bull Energy Drink ,Drinks,4x250ml,250mL,4,,194kJ,0g,0g,0g,11g,11g,41mg,10.75,FALSE,10.75,FALSE,,,1534279783.0-W-3267
+2018-08-15 06:49:43 UTC,v,V With Guarana Sugar Free,Drinks,250ml,Ml,,,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534279783.0-W-3268
+2018-08-15 06:49:43 UTC,red bull,Red Bull Energy Drink Sugar Free,Drinks,4x250ml,250mL,4,,13kJ,0g,0g,0g,0g,0g,42mg,10.75,FALSE,10.75,FALSE,,,1534279783.0-W-3269
+2018-08-15 06:49:43 UTC,red bull,Red Bull Energy Drink Zero,Drinks,4x250ml,250mL,4,,8kJ,0g,0g,0g,0g,0g,22mg,10.75,FALSE,10.75,FALSE,,,1534279783.0-W-3270
+2018-08-15 06:49:43 UTC,red bull,Red Bull Energy Drink Zero,Drinks,250ml,250mL,1,,8kJ,0g,0g,0g,0g,0g,22mg,3,TRUE,2.65,FALSE,,,1534279783.0-W-3271
+2018-08-15 06:49:43 UTC,red bull,Red Bull Energy Drink Sugar Free,Drinks,250ml,Ml,,,,,,,,,,3,TRUE,2.65,FALSE,,,1534279783.0-W-3272
+2018-08-15 06:49:43 UTC,red bull,Red Bull Energy Drink ,Drinks,6pk 250ml,250mL,6,,194kJ,0g,0g,0g,11g,11%,41mg,12.8,TRUE,11.25,FALSE,,,1534279783.0-W-3273
+2018-08-15 06:49:43 UTC,woolworths fairtrade,Woolworths Fairtrade Nespresso  * Compatible Coffee Capsules Intense,Drinks,10 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534279783.0-W-3274
+2018-08-15 06:49:43 UTC,moccona,Moccona Capsules Ristretto 12 Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,TRUE,4,FALSE,,,1534279783.0-W-3275
+2018-08-15 06:49:43 UTC,moccona,Moccona Capsules Espresso 7 Compatible With Nespresso,Drinks,10 pack,,,,,,,,,,,6,TRUE,4,FALSE,,,1534279783.0-W-3276
+2018-08-15 06:49:43 UTC,mother,Mother Energy Drink ,Drinks,4x500ml,500mL,4,,191kJ,0g,0g,0g,10.1g,10.1g,48mg,11.75,TRUE,6.85,FALSE,,,1534279783.0-W-3277
+2018-08-15 06:49:43 UTC,mother,Mother Sugar Free Energy Drink,Drinks,4x500ml,Ml,,,,,,,,,,11.75,TRUE,6.85,FALSE,,,1534279783.0-W-3278
+2018-08-15 06:49:43 UTC,woolworths caffitaly,Woolworths Caffitaly Compatible Coffee Capsules Medium Roast,Drinks,10 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534279783.0-W-3279
+2018-08-15 06:49:43 UTC,gatorade,Gatorade Blue Bolt ,Drinks,1l,Litre,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534279783.0-W-3280
+2018-08-15 06:49:43 UTC,mother,Mother Sugar Free Energy Drink,Drinks,500ml,Ml,,,,,,,,,,3,TRUE,2.65,FALSE,,,1534279783.0-W-3281
+2018-08-15 06:49:43 UTC,nerada,Nerada Organic Green Lemon Myrtle Tea Bags,Drinks,50 pack,1Teabag infused in 200mL of freshly boiled water.,50,,5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,4.25,FALSE,4.25,FALSE,,,1534279783.0-W-3282
+2018-08-15 06:49:43 UTC,tetley,Tetley Decaffeinated Green Tea Bags,Drinks,50 pack,225mL,50,,4kJ,0g,0g,0g,0.3g,0g,0mg,4.2,FALSE,4.2,FALSE,,,1534279783.0-W-3283
+2018-08-15 06:49:43 UTC,nerada,Nerada Organic Green Tea Bags,Drinks,50pk 75g,1Teabag infused in 200mL of freshly boiled water,50,,5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,4.25,FALSE,4.25,FALSE,,,1534279783.0-W-3284
+2018-08-15 06:49:43 UTC,ito en,Ito En Matcha Green Tea Traditional,Drinks,20 pack,,,,,,,,,,,0,FALSE,0,FALSE,,,1534279783.0-W-3285
+2018-08-15 06:49:43 UTC,twinings,Twinings Green Tea Bags,Drinks,50 pack,1Tea bag infused in 100mL boiling water,50,,5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,7,FALSE,7,FALSE,,,1534279783.0-W-3286
+2018-08-15 06:49:43 UTC,twinings,Twinings Green Tea Bags,Drinks,10pk 15g,1TeaBag Infused in 200mL of Boiling Water,10,,5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,2.7,FALSE,2.7,FALSE,,,1534279783.0-W-3287
+2018-08-15 06:49:43 UTC,madame flavour,Madame Flavour Green Jasmine & Pear Tea Pods,Drinks,18 pack,,,,,,,,,,,5.8,FALSE,5.8,FALSE,,,1534279783.0-W-3288
+2018-08-15 06:49:43 UTC,dilmah,Dilmah Green Tea Jasmine,Drinks,20pk,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534279783.0-W-3289
+2018-08-15 06:49:43 UTC,twinings,Twinings Green Tea With Lemon Tea Bags,Drinks,50 pack,1Teabag infused in 200mL of boiling water,50,,5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,7,FALSE,7,FALSE,,,1534279783.0-W-3290
+2018-08-15 06:49:43 UTC,madura,Madura Green Leaf Tea Organic,Drinks,150g,2.0g per 220mL,75,,<0.06kJ,0g,0g,0g,0g,0g,<0.5mg,5.95,FALSE,5.95,FALSE,,,1534279783.0-W-3291
+2018-08-15 06:49:43 UTC,dilmah,Dilmah Green Tea ,Drinks,20pk,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534279783.0-W-3292
+2018-08-15 06:49:43 UTC,qi wellness,Qi Wellness Organic Detox Green Tea Bags,Drinks,25 pack,,,,,,,,,,,5,FALSE,5,FALSE,,,1534279783.0-W-3293
+2018-08-15 06:49:44 UTC,woolworths,Woolworths Green Tea,Drinks,50 pack,,,,,,,,,,,2.3,FALSE,2.3,FALSE,,,1534279784.0-W-3294
+2018-08-15 06:49:44 UTC,lipton,Lipton Quality Black Tea Bags,Drinks,200 pack,,,,,,,,,,,6.9,FALSE,6.9,FALSE,,,1534279784.0-W-3295
+2018-08-15 06:49:44 UTC,woolworths,Woolworths Earl Grey Tea,Drinks,50 pack,,,,,,,,,,,2.2,FALSE,2.2,FALSE,,,1534279784.0-W-3296
+2018-08-15 06:49:44 UTC,bushells blue label,Bushells Blue Label Loose Leaf Tea,Drinks,250g,200mL,138,,Negligible,0g,0g,0g,0g,0g,Negligible,4,TRUE,3,FALSE,,,1534279784.0-W-3297
+2018-08-15 06:49:44 UTC,bushells blue label,Bushells Blue Label Black Leave Tea Extra Strong,Drinks,3x100s,200mL,138,,Negligible,0g,0g,0g,0g,0g,Negligible,4.49,TRUE,3.6,FALSE,,,1534279784.0-W-3298
+2018-08-15 06:49:44 UTC,woolworths,Woolworths Peppermint Tea,Drinks,40 pack,,,,,,,,,,,1.85,FALSE,1.85,FALSE,,,1534279784.0-W-3299
+2018-08-15 06:49:44 UTC,woolworths,Woolworths Camomile Tea,Drinks,40 pack,,,,,,,,,,,1.85,FALSE,1.85,FALSE,,,1534279784.0-W-3300
+2018-08-15 06:49:44 UTC,woolworths,Woolworths Black Tea ,Drinks,50 pack,,,,,,,,,,,2,FALSE,2,FALSE,,,1534279784.0-W-3301
+2018-08-15 06:49:44 UTC,nerada organic,Nerada Organic Rooibos & Vanilla Tea Bags,Drinks,50 pack,,,,,,,,,,,4.7,TRUE,3.5,FALSE,,,1534279784.0-W-3302
+2018-08-15 06:49:44 UTC,tetley,Tetley Tagless Tea Bags ,Drinks,200 pack,,,,,,,,,,,7.5,TRUE,6,FALSE,,,1534279784.0-W-3303
+2018-08-15 06:49:44 UTC,woolworths,Woolworths English Breakfast Tea,Drinks,50 pack,,,,,,,,,,,2.2,FALSE,2.2,FALSE,,,1534279784.0-W-3304
+2018-08-15 06:49:44 UTC,twinings,Twinings Green Tea Bags,Drinks,150g,1TeaBag Infused in 200mL of Boiling Water,100,,5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,11,TRUE,5.5,FALSE,,,1534279784.0-W-3305
+2018-08-15 06:49:44 UTC,tetley twists,Tetley Twists Lime With A Twist Of Ginger,Drinks,20 pack,,,,,,,,,,,3,TRUE,2,FALSE,,,1534279784.0-W-3306
+2018-08-15 06:49:44 UTC,tetley twists,Tetley Twists Passionfruit With A Twist Of Hibiscus,Drinks,20 pack,,,,,,,,,,,3,TRUE,2,FALSE,,,1534279784.0-W-3307
+2018-08-15 06:49:44 UTC,nature's cuppa,Nature's Cuppa Organic Premium Tea Bags,Drinks,120 pack,,,,,,,,,,,11,TRUE,9,FALSE,,,1534279784.0-W-3308
+2018-08-15 06:49:44 UTC,lipton,Lipton Chai Tea Instant Latte Regular Sachets,Drinks,16 pack,,,,,,,,,,,11.7,TRUE,9.5,FALSE,,,1534279784.0-W-3309
+2018-08-15 06:49:44 UTC,twinings,Twinings Digest ,Drinks,18 pack,,,,,,,,,,,4.6,TRUE,4,FALSE,,,1534279784.0-W-3310
+2018-08-15 06:49:44 UTC,twinings,Twinings Detox ,Drinks,18 pack,,,,,,,,,,,4.6,TRUE,4,FALSE,,,1534279784.0-W-3311
+2018-08-15 06:49:44 UTC,twinings,Twinings Sleep ,Drinks,18 pack,,,,,,,,,,,4.6,TRUE,4,FALSE,,,1534279784.0-W-3312
+2018-08-15 06:49:44 UTC,tetley twists,Tetley Twists Cinnamon & Orange With A Twist Of Rooibos,Drinks,20 pack,,,,,,,,,,,3,TRUE,2,FALSE,,,1534279784.0-W-3313
+2018-08-15 06:49:44 UTC,tetley twists,Tetley Twists Forest Fruits With A Twist Of Apple,Drinks,20 pack,,,,,,,,,,,3,TRUE,2,FALSE,,,1534279784.0-W-3314
+2018-08-15 06:49:44 UTC,twinings,Twinings Irish Breakfast Tea Bags,Drinks,10pk 20g,g,,,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3315
+2018-08-15 06:49:44 UTC,twinings,Twinings Irish Breakfast Tea Bags,Drinks,100pk 200g,g,,,,,,,,,,11,TRUE,5.5,FALSE,,,1534279784.0-W-3316
+2018-08-15 06:49:44 UTC,tetley,Tetley Decaffeinated Tea Bags,Drinks,100pk 185g,225mL,100,,4kJ,0g,0g,0g,0.3g,0g,0mg,8,TRUE,6,FALSE,,,1534279784.0-W-3317
+2018-08-15 06:49:44 UTC,twinings,Twinings English Breakfast Tea Bags,Drinks,10pk 20g,g,,,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3318
+2018-08-15 06:49:44 UTC,twinings,Twinings English Breakfast Tea Bags,Drinks,100pk 200g,g,,,,,,,,,,11,TRUE,5.5,FALSE,,,1534279784.0-W-3319
+2018-08-15 06:49:44 UTC,twinings,Twinings English Breakfast Tea Bags,Drinks,50pk 100g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534279784.0-W-3320
+2018-08-15 06:49:44 UTC,twinings,Twinings Traditional Afternoon Tea Bags,Drinks,100pk 200g,g,,,,,,,,,,11,TRUE,5.5,FALSE,,,1534279784.0-W-3321
+2018-08-15 06:49:44 UTC,nerada,Nerada Tea Bags ,Drinks,100pk 200g,1Teabag infused in 200mL of freshly boiled water,100,,5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,4.5,TRUE,3.25,FALSE,,,1534279784.0-W-3322
+2018-08-15 06:49:44 UTC,lipton quality,Lipton Quality Black Leaf Tea Intense,Drinks,100pk 240g,1Tea bag infused in 200mL of boiling water,100,,Negligible,0g,0g,0g,0g,0g,Negligible,6.1,TRUE,5,FALSE,,,1534279784.0-W-3323
+2018-08-15 06:49:44 UTC,tetley,Tetley Green Tea Bags,Drinks,50pk 60g,225mL,50,,4kJ,0g,0g,0g,0.3g,0g,0mg,4.1,FALSE,4.1,FALSE,,,1534279784.0-W-3324
+2018-08-15 06:49:44 UTC,twinings,Twinings Morning Tea ,Drinks,100 pack,,,,,,,,,,,11,TRUE,5.5,FALSE,,,1534279784.0-W-3325
+2018-08-15 06:49:44 UTC,dilmah,Dilmah Black Tea Bags,Drinks,100g,g,,,,,,,,,,3.1,FALSE,3.1,FALSE,,,1534279784.0-W-3326
+2018-08-15 06:49:44 UTC,madura,Madura Green Tea Bags,Drinks,50pk 75g,1Tea Bag per 220mL,50,,<0.05kJ,0,0,0,0,0,,4.8,FALSE,4.8,FALSE,,,1534279784.0-W-3327
+2018-08-15 06:49:44 UTC,bushells blue label,Bushells Blue Label Black Tea ,Drinks,100pk 180g,1tea bag infused in 200mL of boiling water,100,,Negligible kJ,0g,0g,0g,0g,0g,Negligible,4.29,TRUE,3.5,FALSE,,,1534279784.0-W-3328
+2018-08-15 06:49:44 UTC,bushells blue label,Bushells Blue Label Tea Bags Black,Drinks,50pk 91g,1tea bag infused in 200mL of boiling water,50,,Negligible,0g,0g,0g,0g,0g,Negligible,2.71,TRUE,2,FALSE,,,1534279784.0-W-3329
+2018-08-15 06:49:44 UTC,madura,Madura Organic English Breakfast Tea Bags,Drinks,100ea,220mL,100,,<0.06kJ,0g,0g,0g,0g,0g,<0.05g,9.9,FALSE,9.9,FALSE,,,1534279784.0-W-3330
+2018-08-15 06:49:44 UTC,tetley,Tetley Tea Bags ,Drinks,100pk,225mL,100,,4kJ,0g,0g,0g,0.3g,0g,0mg,3.3,FALSE,3.3,FALSE,,,1534279784.0-W-3331
+2018-08-15 06:49:44 UTC,lan choo,Lan Choo Tea Bags Black,Drinks,100pk 182g,1teabag infused in 200mL boiling water,100,,<10kJ,0g,0g,0g,0g,0g,<0.1mg,5.09,FALSE,5.09,FALSE,,,1534279784.0-W-3332
+2018-08-15 06:49:44 UTC,tetley,Tetley Green Tea Bags,Drinks,100pk 120g,225mL,100,,4kJ,0g,0g,0g,0.3g,0g,0mg,7.8,FALSE,7.8,FALSE,,,1534279784.0-W-3333
+2018-08-15 06:49:44 UTC,yorkshire,Yorkshire Extra Strong Tea Bags,Drinks,100 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534279784.0-W-3334
+2018-08-15 06:49:44 UTC,lipton,Lipton Quality Black Tea Bags,Drinks,100 pack,,,,,,,,,,,5,FALSE,5,FALSE,,,1534279784.0-W-3335
+2018-08-15 06:49:44 UTC,tetley,Tetley Extra Strong Tea Bags ,Drinks,100 pack,,,,,,,,,,,5.3,TRUE,4,FALSE,,,1534279784.0-W-3336
+2018-08-15 06:49:44 UTC,essentials,Essentials Black Tea Bags,Drinks,100 pack,,,,,,,,,,,1.9,FALSE,1.9,FALSE,,,1534279784.0-W-3337
+2018-08-15 06:49:44 UTC,dilmah,Dilmah Premium Quality Tea Bags,Drinks,100 pack,,,,,,,,,,,4.8,FALSE,4.8,FALSE,,,1534279784.0-W-3338
+2018-08-15 06:49:44 UTC,dilmah,Dilmah Founder's Anniversary Reserve Ceylon Breakfast Teabags,Drinks,100 pack,,,,,,,,,,,9,FALSE,9,FALSE,,,1534279784.0-W-3339
+2018-08-15 06:49:44 UTC,tetley,Tetley Tagless Tea Bags ,Drinks,100 pack,,,,,,,,,,,4.8,TRUE,3.3,FALSE,,,1534279784.0-W-3340
+2018-08-15 06:49:44 UTC,billy tea,Billy Tea Campfire Brew Tea Bags,Drinks,100 pack,225mL,100,,4kJ,0g,0g,0g,0.3g,0g,0mg,4.35,FALSE,4.35,FALSE,,,1534279784.0-W-3341
+2018-08-15 06:49:44 UTC,dilmah,Dilmah Extra Strength Tea Bags,Drinks,100 pack,,,,,,,,,,,6.2,FALSE,6.2,FALSE,,,1534279784.0-W-3342
+2018-08-15 06:49:44 UTC,bushells,Bushells Black Tea Extra Strong,Drinks,100 pack,1tea bag infused in 200mL boiling water,100,,Negligible,0g,0g,0g,0g,0g,Negligible,5.9,TRUE,4.5,FALSE,,,1534279784.0-W-3343
+2018-08-15 06:49:44 UTC,twinings,Twinings Earl Grey Tea Bags,Drinks,100 pack,,,,,,,,,,,11,TRUE,5.5,FALSE,,,1534279784.0-W-3344
+2018-08-15 06:49:44 UTC,twinings,Twinings Vanilla Chai Tea,Drinks,10 pack,,,,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3345
+2018-08-15 06:49:44 UTC,twinings,Twinings Morning Tea ,Drinks,10 pack,,,,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3346
+2018-08-15 06:49:44 UTC,twinings,Twinings Pure Peppermint Tea Bags,Drinks,40 pack,1Infusion bag in 200mL of boiling water,40,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,7,FALSE,7,FALSE,,,1534279784.0-W-3347
+2018-08-15 06:49:44 UTC,twinings,Twinings Earl Grey Tea Bags,Drinks,50pk 100g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534279784.0-W-3348
+2018-08-15 06:49:44 UTC,twinings,Twinings Earl Grey Tea Bags,Drinks,10pk 20g,g,,,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3349
+2018-08-15 06:49:44 UTC,twinings,Twinings Lady Grey Tea Bags,Drinks,10pk 20g,g,,,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3350
+2018-08-15 06:49:44 UTC,twinings,Twinings Pure Peppermint Tea Bags,Drinks,10 pack,1Infusion Bag in 200mL of Boiling water,10,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3351
+2018-08-15 06:49:44 UTC,woolworths select,Woolworths Select Chai Latte Sachets,Drinks,10 pack,25g dry mix (150mL prepared),10,,307kJ,1.3g,1.9g,1.9g,12.6g,11.7g,90mg,3.25,FALSE,3.25,FALSE,,,1534279784.0-W-3352
+2018-08-15 06:49:44 UTC,twinings,Twinings Lady Grey Tea Bags,Drinks,100 pack,,,,,,,,,,,11,TRUE,5.5,FALSE,,,1534279784.0-W-3353
+2018-08-15 06:49:44 UTC,twinings,Twinings Chai Tea Bags,Drinks,50pk 100g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534279784.0-W-3354
+2018-08-15 06:49:44 UTC,twinings,Twinings Assam Bold Tea,Drinks,80 pack,,,,,,,,,,,11,TRUE,5.5,FALSE,,,1534279784.0-W-3355
+2018-08-15 06:49:44 UTC,twinings,Twinings Australian Afternoon Tea Bags,Drinks,10 pack,,,,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3356
+2018-08-15 06:49:44 UTC,twinings,Twinings Australian Afternoon Tea Bags,Drinks,100 pack,,,,,,,,,,,11,TRUE,5.5,FALSE,,,1534279784.0-W-3357
+2018-08-15 06:49:44 UTC,twinings,Twinings Camomile Tea Bags,Drinks,10 pack,1infusion bag in 200mL of boiling water.,10,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3358
+2018-08-15 06:49:44 UTC,twinings,Twinings Extra Strong English Breakfast Tea Bags,Drinks,10 pack,,,,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3359
+2018-08-15 06:49:44 UTC,twinings,Twinings Green Tea & Lemon Bags,Drinks,10 pack,1Teabag infused in 200mL of boiling water,10,,5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3360
+2018-08-15 06:49:44 UTC,twinings,Twinings Green Tea & Mint Tea Bags,Drinks,10 pack,1tea bag infused in 200mL of boiling water,10,,5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3361
+2018-08-15 06:49:44 UTC,twinings,Twinings Peppermint & Lime Tea Bags,Drinks,10 pack,1Infusion bag in 200ml of boiling water,10,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,2.7,FALSE,2.7,FALSE,,,1534279784.0-W-3362
+2018-08-15 06:49:44 UTC,lavazza,Lavazza Tierra Bio-organic Coffee Beans,Drinks,500g,g,,,,,,,,,,20,TRUE,14,FALSE,,,1534279784.0-W-3363
+2018-08-15 06:49:44 UTC,caffe aurora,Caffe Aurora Coffee Beans Italian Blend,Drinks,1kg,kg,,,,,,,,,,18.4,TRUE,15,FALSE,,,1534279784.0-W-3364
+2018-08-15 06:49:44 UTC,gloria jeans,Gloria Jeans Coffee Beans Smooth Classic Blend,Drinks,1kg,kg,,,,,,,,,,28,TRUE,20,FALSE,,,1534279784.0-W-3365
+2018-08-15 06:49:44 UTC,macro organic,Macro Organic Fairtrade Coffee Beans Medium,Drinks,200g,g,,,,,,,,,,7,TRUE,6,FALSE,,,1534279784.0-W-3366
+2018-08-15 06:49:44 UTC,harris,Harris Single Origin Guatemala Coffee Beans,Drinks,200g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534279784.0-W-3367
+2018-08-15 06:49:44 UTC,harris,Harris Bees Knees Coffee Beans,Drinks,200g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534279784.0-W-3368
+2018-08-15 06:49:44 UTC,vittoria,Vittoria Espresso Beans ,Drinks,500g,g,,,,,,,,,,15,FALSE,15,FALSE,,,1534279784.0-W-3369
+2018-08-15 06:49:44 UTC,macro,Macro Coffee Beans Peruvian Dark,Drinks,1kg,kg,,,,,,,,,,30,TRUE,25,FALSE,,,1534279784.0-W-3370
+2018-08-15 06:49:44 UTC,lavazza,Lavazza Perfetto Espresso Coffee Beans ,Drinks,1kg,kg,,,,,,,,,,30,TRUE,15,FALSE,,,1534279784.0-W-3371
+2018-08-15 06:49:44 UTC,grinders,Grinders Coffee Beans Espresso,Drinks,1kg,kg,,,,,,,,,,27,FALSE,27,FALSE,,,1534279784.0-W-3372
+2018-08-15 06:49:44 UTC,fair trade organic,Fair Trade Organic Coffee Beans Crema,Drinks,1kg,kg,,,,,,,,,,27,FALSE,27,FALSE,,,1534279784.0-W-3373
+2018-08-15 06:49:44 UTC,harris,Harris Coffee Beans Espresso,Drinks,1kg,kg,,,,,,,,,,17,TRUE,15,FALSE,,,1534279784.0-W-3374
+2018-08-15 06:49:44 UTC,harris,Harris Coffee Beans Premium,Drinks,1kg,kg,,,,,,,,,,17,TRUE,15,FALSE,,,1534279784.0-W-3375
+2018-08-15 06:49:44 UTC,lavazza,Lavazza Caffe Espresso Coffee Beans ,Drinks,1kg,kg,,,,,,,,,,30,TRUE,15,FALSE,,,1534279784.0-W-3376
+2018-08-15 06:49:44 UTC,harris,Harris Signature Blend Coffee Beans,Drinks,1kg,kg,,,,,,,,,,17,TRUE,15,FALSE,,,1534279784.0-W-3377
+2018-08-15 06:49:44 UTC,woolworths select,Woolworths Select Coffee Beans Espresso,Drinks,1kg,kg,,,,,,,,,,12,FALSE,12,FALSE,,,1534279784.0-W-3378
+2018-08-15 06:49:44 UTC,vittoria coffee,Vittoria Coffee Coffee Beans Special Italian Blend,Drinks,1kg,kg,,,,,,,,,,19,TRUE,14,FALSE,,,1534279784.0-W-3379
+2018-08-15 06:49:44 UTC,vittoria coffee,Vittoria Coffee Espresso Coffee Beans Espresso,Drinks,1kg,kg,,,,,,,,,,28,FALSE,28,FALSE,,,1534279784.0-W-3380
+2018-08-15 06:49:44 UTC,, Hot Chocolate Winter Warmer Bundle ,Drinks,,,,,,,,,,,,15,FALSE,15,FALSE,,,1534279784.0-W-3381
+2018-08-15 06:49:44 UTC,, Winter Warmer Bundle ,Drinks,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534279784.0-W-3382
+2018-08-15 06:49:44 UTC,, Warm Up For Winter Bundle ,Drinks,,,,,,,,,,,,9,FALSE,9,FALSE,,,1534279784.0-W-3383
+2018-08-15 06:49:44 UTC,vittoria coffee,Vittoria Coffee Organic Coffee Beans Organic,Drinks,1kg,kg,,,,,,,,,,37,FALSE,37,FALSE,,,1534279784.0-W-3384
+2018-08-15 06:49:44 UTC,vittoria coffee,Vittoria Coffee Espresso Coffee Beans Espresso,Drinks,200g,g,,,,,,,,,,8,TRUE,6,FALSE,,,1534279784.0-W-3385
+2018-08-15 06:49:44 UTC,vittoria coffee,Vittoria Coffee Mountain Grown Coffee Beans,Drinks,1kg,kg,,,,,,,,,,36.5,FALSE,36.5,FALSE,,,1534279784.0-W-3386
+2018-08-15 06:49:44 UTC,lavazza,Lavazza Qualita Oro Coffee Beans ,Drinks,1kg,kg,,,,,,,,,,30,TRUE,15,FALSE,,,1534279784.0-W-3387
+2018-08-15 06:49:44 UTC,lavazza,Lavazza Qualita Oro Coffee Beans ,Drinks,500g,g,,,,,,,,,,19,TRUE,14,FALSE,,,1534279784.0-W-3388
+2018-08-15 06:49:44 UTC,devondale,Devondale Moo Strawberry Milk,Drinks,6x200ml,200mL,1,,340kJ,3.2g,3.4g,2.3g,9.4g,9.3g,35mg,4.85,FALSE,4.85,FALSE,,,1534279784.0-W-3389
+2018-08-15 06:49:44 UTC,devondale,Devondale Moo Chocolate Milk,Drinks,6x200ml,200mL,1,,333kJ,3.0g,3.4g,2.3g,9.2g,9.0g,44mg,4.85,FALSE,4.85,FALSE,,,1534279784.0-W-3390
+2018-08-15 06:49:44 UTC,breaka,Breaka Chocolate Milk ,Drinks,6x250ml,250mL,1,,316kJ,3.7g,2.0g,1.3g,10.4g,10.2g,47mg,6.95,TRUE,5.4,FALSE,,,1534279784.0-W-3391
+2018-08-15 06:49:44 UTC,m2go flavoured milk,M2go Flavoured Milk Chocolate ,Drinks,6x250ml,Ml,,,,,,,,,,6.2,TRUE,5.7,FALSE,,,1534279784.0-W-3392
+2018-08-15 06:49:44 UTC,liddells,Liddells Chocolate Flavoured Milk Lactose Free,Drinks,6x250ml,250mL,1,,313kJ,3.0g,3.3g,2.3g,8.2g,7.9g,33mg,7.25,FALSE,7.25,FALSE,,,1534279784.0-W-3393
+2018-08-15 06:49:44 UTC,m2go flavoured milk,M2go Flavoured Milk Strawberry ,Drinks,6x250ml,Ml,,,,,,,,,,6.2,TRUE,5.7,FALSE,,,1534279784.0-W-3394
+2018-08-15 06:49:44 UTC,breaka,Breaka Iced Coffee ,Drinks,6x250ml,250mL,1,,303kJ,3.7g,1.9g,1.2g,9.9g,9.7g,47mg,6.95,TRUE,5.4,FALSE,,,1534279784.0-W-3395
+2018-08-15 06:49:44 UTC,nestle,Nestle Milo Choc-malt Refill,Drinks,730g,g,,,,,,,,,,9.5,TRUE,7.5,FALSE,,,1534279784.0-W-3396
+2018-08-15 06:49:44 UTC,milo,Milo Frothycino ,Drinks,8 pack,,,,,,,,,,,6.6,TRUE,5,FALSE,,,1534279784.0-W-3397
+2018-08-15 06:49:44 UTC,oak,Oak Strawberry Flavoured Milk (3x250ml),Drinks,750ml,250mL,1,,344kJ,3.3g,2.0g,1.3g,12.5g,12.5g,44mg,4.5,FALSE,4.5,FALSE,,,1534279784.0-W-3398
+2018-08-15 08:49:34 UTC,tru blu,Tru Blu Ceda Creaming Soda ,Drinks,1.25l,Litre,,,,,,,,,,1.15,FALSE,1.15,FALSE,,,1534286974.0-W-8571
+2018-08-15 08:49:34 UTC,diet rite,Diet Rite Soft Drink Passionfruit Bottle,Drinks,1.25l,250mL,5,,15kJ,0g,0g,0g,<1g,<1g,14mg,1.15,FALSE,1.15,FALSE,,,1534286974.0-W-8572
+2018-08-15 08:49:34 UTC,tru blu,Tru Blu Lido Lemonade Bottle,Drinks,1.25l,Litre,,,,,,,,,,1.15,FALSE,1.15,FALSE,,,1534286974.0-W-8573
+2018-08-15 08:49:34 UTC,la ice,La Ice Cola Bottle ,Drinks,1.25l,Litre,,,,,,,,,,1.15,FALSE,1.15,FALSE,,,1534286974.0-W-8574
+2018-08-15 08:49:34 UTC,bundaberg,Bundaberg Sparkling Pineapple & Coconut Sparkling Drink,Drinks,4x375ml,375mL,1,,196kJ,<1g,<1g,<1g,11.5g,11.5g,12mg,6.3,TRUE,5.1,FALSE,,,1534286974.0-W-8580
+2018-08-15 08:49:34 UTC,tru blu,Tru Blu Orange Crush Bottle,Drinks,1.25l,Litre,,,,,,,,,,1.15,FALSE,1.15,FALSE,,,1534286974.0-W-8581
+2018-08-15 08:49:34 UTC,solo,Solo Zero Sugar ,Drinks,1.25l,Litre,,,,,,,,,,2.35,FALSE,2.35,FALSE,,,1534286974.0-W-8582
+2018-08-15 08:49:34 UTC,sunkist,Sunkist Zero Sugar ,Drinks,1.25l,Litre,,,,,,,,,,2.35,FALSE,2.35,FALSE,,,1534286974.0-W-8583
+2018-08-15 08:49:34 UTC,diet rite,Diet Rite Soft Drink Ginger Beer Bottle,Drinks,1.25l,250mL,5,,52kJ,0g,0g,0g,2.9g,2.8g,14mg,1.15,FALSE,1.15,FALSE,,,1534286974.0-W-8584
+2018-08-15 08:49:35 UTC,la ice,La Ice Maxi Cola Bottle,Drinks,1.25l,Litre,,,,,,,,,,1.15,FALSE,1.15,FALSE,,,1534286975.0-W-8585
+2018-08-15 08:49:35 UTC,tru blu,Tru Blu Pub Squash Bottle,Drinks,1.25l,Litre,,,,,,,,,,1.15,FALSE,1.15,FALSE,,,1534286975.0-W-8586
+2018-08-15 08:49:35 UTC,kirks,Kirks Lemonade Sugar Free Bottle,Drinks,1.25l,250mL,5,,2.5kJ,0.1mL,0mL,0mL,0mL,0g,19.5mg,1.8,FALSE,1.8,FALSE,,,1534286975.0-W-8587
+2018-08-15 08:49:35 UTC,schweppes,Schweppes Lemonade  Zero Sugar ,Drinks,1.25l,Litre,,,,,,,,,,2.35,FALSE,2.35,FALSE,,,1534286975.0-W-8588
+2018-08-15 08:49:35 UTC,woolworths,Woolworths Passionfruit Bottle,Drinks,1.25l,250mL,5,,182kJ,0.0g,0.0g,0.0g,10.7g,10.6g,10mg,0.9,FALSE,0.9,FALSE,,,1534286975.0-W-8589
+2018-08-15 08:49:35 UTC,diet rite,Diet Rite Soft Drink Grape Portello Bottle,Drinks,1.25l,250mL,,,,,,0g,,,13mg,1.15,FALSE,1.15,FALSE,,,1534286975.0-W-8590
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Pomegranate Juice,Drinks,1l,250mL,4,,269kJ,0.2g,0g,0g,15.8g,15.8g,5mg,6.5,FALSE,6.5,FALSE,,,1534286975.0-W-8591
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Cloudy Pear Juice,Drinks,1l,250mL,4,,209kJ,0.3g,0g,0g,12.9g,9.7g,4mg,0,FALSE,0,FALSE,,,1534286975.0-W-8592
+2018-08-15 08:49:35 UTC,sunraysia,Sunraysia Apple Cider Vinegar Juice,Drinks,1l,Litre,,,,,,,,,,6,FALSE,6,FALSE,,,1534286975.0-W-8593
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Apricot Nectar ,Drinks,1l,200mL,5,,275kJ,0.2g,0g,0g,15.8g,14.3g,2mg,3,FALSE,3,FALSE,,,1534286975.0-W-8594
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Guava Nectar ,Drinks,1l,200mL,5,,218kJ,0.2g,0g,0g,12.4g,11.8,1mg,3,FALSE,3,FALSE,,,1534286975.0-W-8595
+2018-08-15 08:49:35 UTC,sunraysia,Sunraysia Juice Pomegranate,Drinks,1l,250ml,4,,163kJ,0.2g,0.1g,0.1g,9.4g,8.2g,5mg,6,FALSE,6,FALSE,,,1534286975.0-W-8596
+2018-08-15 08:49:35 UTC,just juice,Just Juice Unsweetened Orange Juice,Drinks,1l,200mL,5,,170kJ,0.6g,0.1g,0g,9.0g,8.3g,8mg,2.3,TRUE,2,FALSE,,,1534286975.0-W-8597
+2018-08-15 08:49:35 UTC,bickford's,Bickford's Juice Cranberry,Drinks,1l,Litre,,,,,,,,,,5.35,FALSE,5.35,FALSE,,,1534286975.0-W-8598
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Tomato Juice,Drinks,1l,200mL,5,,100kJ,1.0g,0.1g,0g,4.0g,2.6g,179mg,2.4,FALSE,2.4,FALSE,,,1534286975.0-W-8599
+2018-08-15 08:49:35 UTC,tru blu,Tru Blu Passion Crush ,Drinks,1.25l,Litre,,,,,,,,,,1.15,FALSE,1.15,FALSE,,,1534286975.0-W-8600
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Prune Juice,Drinks,1l,250mL,4,,277kJ,0.5g,0g,0g,15.1g,10.2g,9mg,6.5,FALSE,6.5,FALSE,,,1534286975.0-W-8601
+2018-08-15 08:49:35 UTC,just juice,Just Juice Apple Juice,Drinks,1l,,5,,187kJ,0.1g,,,10.5g,,,2.3,TRUE,2,FALSE,,,1534286975.0-W-8602
+2018-08-15 08:49:35 UTC,bickford's,Bickford's Juice Light Prune,Drinks,1l,250mL,4,,229kJ,0g,0g,0g,12.8g,7.5g,7mg,6.6,FALSE,6.6,FALSE,,,1534286975.0-W-8603
+2018-08-15 08:49:35 UTC,daily juice,Daily Juice Nourish Apple Carrot Pineapple Banana & Lemon,Drinks,1l,Litre,,,,,,,,,,4.3,FALSE,4.3,FALSE,,,1534286975.0-W-8604
+2018-08-15 08:49:35 UTC,boost,Boost Strawberry Squeeze Smoothie,Drinks,1l,Litre,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534286975.0-W-8605
+2018-08-15 08:49:35 UTC,just juice,Just Juice Apple & Blackcurrant Juice,Drinks,1l,200mL,5,,185kJ,0.1g,0.1g,0g,10.5g,10.1g,8mg,2.3,TRUE,2,FALSE,,,1534286975.0-W-8606
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Pear Nectar ,Drinks,1l,200mL,5,,220kJ,0.1g,0g,0g,12.6g,11.9g,1mg,3,FALSE,3,FALSE,,,1534286975.0-W-8607
+2018-08-15 08:49:35 UTC,bickford's,Bickford's Blueberry Juice Drink,Drinks,1l,250mL,4,,219kJ,0.1g,0g,0g,12.9g,12.0g,0.4mg,5.95,FALSE,5.95,FALSE,,,1534286975.0-W-8608
+2018-08-15 08:49:35 UTC,cawston,Cawston Press Radiant Roots Juice,Drinks,1l,Litre,,,,,,,,,,4,FALSE,4,FALSE,,,1534286975.0-W-8609
+2018-08-15 08:49:35 UTC,daily juice,Daily Juice Nourish Apple Celery Lime & Ginger,Drinks,1l,Litre,,,,,,,,,,4.3,FALSE,4.3,FALSE,,,1534286975.0-W-8610
+2018-08-15 08:49:35 UTC,dilmah,Dilmah Tea Bags ,Drinks,300 pack,,,,,,,,,,,11.5,FALSE,11.5,FALSE,,,1534286975.0-W-8611
+2018-08-15 08:49:35 UTC,v8,V8 Fruit & Veggie Juice Tropical Fusion,Drinks,300ml,Ml,,,,,,,,,,2.65,FALSE,2.65,FALSE,,,1534286975.0-W-8612
+2018-08-15 08:49:35 UTC,coca cola,Coca Cola Cans ,Drinks,30x375ml pack,375mL,30,,180kJ,0g,0g,0g,10.6g,10.6g,10.0mg,38.05,TRUE,19.85,FALSE,,,1534286975.0-W-8613
+2018-08-15 08:49:35 UTC,coca cola,Coca Cola No Sugar Bottle,Drinks,2l,Litre,,,,,,,,,,4.35,TRUE,2.85,FALSE,,,1534286975.0-W-8614
+2018-08-15 08:49:35 UTC,v8,V8 Fruit & Veggie Juice Breakfast Fusion,Drinks,300ml,Ml,,,,,,,,,,2.65,FALSE,2.65,FALSE,,,1534286975.0-W-8615
+2018-08-15 08:49:35 UTC,v8,V8 Vegetable Juice Original,Drinks,300ml,Ml,,,,,,,,,,2.65,FALSE,2.65,FALSE,,,1534286975.0-W-8616
+2018-08-15 08:49:35 UTC,coca cola,Coca Cola No Sugar Cans,Drinks,30x375ml pack,ml pack,,,,,,,,,,0,FALSE,0,FALSE,,,1534286975.0-W-8617
+2018-08-15 08:49:35 UTC,ocean spray,Ocean Spray Classic Cranberry Fruit Drink,Drinks,320ml,Ml,,,,,,,,,,3.95,TRUE,3,FALSE,,,1534286975.0-W-8618
+2018-08-15 08:49:35 UTC,impressed,Impressed Cold Pressed Juice The Works,Drinks,325ml,325mL,1,,92kJ,0.4g,<0.1g,<0.1g,5.4g,5.1g,27mg,3.65,FALSE,3.65,FALSE,,,1534286975.0-W-8619
+2018-08-15 08:49:35 UTC,impressed,Impressed Cold Pressed Jack Rose Juice,Drinks,325ml,325mL,1,,162kJ,0.3g,0.1g,<0.1g,9.6g,8.2g,6mg,3.65,FALSE,3.65,FALSE,,,1534286975.0-W-8620
+2018-08-15 08:49:35 UTC,nudie nothing but,Nudie Nothing But Limited Edition Lychee Lime & Pear,Drinks,2l,250mL,8,,203kJ,<1g,<1g,<1g,10.5g,10.5g,<,7,FALSE,7,FALSE,,,1534286975.0-W-8621
+2018-08-15 08:49:35 UTC,la ice,La Ice Cola Bottle,Drinks,2l,250mL,8,,196kJ,0g,0g,0g,11.5g,11.5g,5mg,1.6,FALSE,1.6,FALSE,,,1534286975.0-W-8622
+2018-08-15 08:49:35 UTC,woolworths,Woolworths Apple & Mango Juice,Drinks,2l,100ml,,,Approx. 195kJ,<1g,<0.1g,Approx. 0g,Approx. 10.9g,Approx. 9.5g,<5mg,2,FALSE,2,FALSE,,,1534286975.0-W-8623
+2018-08-15 08:49:35 UTC,eastcoast,Eastcoast Country Style Lemonade,Drinks,2l,200mL,10,,185kJ,0.1g,0.1g,0.0g,10.7g,10.0g,1.0mg,5.15,FALSE,5.15,FALSE,,,1534286975.0-W-8624
+2018-08-15 08:49:35 UTC,berri,Berri Apple Mango & Banana Juice,Drinks,2l,200mL,10,,190,<1g,<1g,0g,10.6g,10.2g,8,4.25,TRUE,2.8,FALSE,,,1534286975.0-W-8625
+2018-08-15 08:49:35 UTC,woolworths ,Woolworths Apple & Blackcurrant Juice ,Drinks,2l,250.0ml,8,,Approx. 186.0kJ,<1.0g,<0.1g,Approx. 0.0g,Approx. 10.5g,Approx. 8.9g,Approx. 8.0mg,2,FALSE,2,FALSE,,,1534286975.0-W-8626
+2018-08-15 08:49:35 UTC,woolworths ,Woolworths Apple Juice ,Drinks,2l,250ml,8,,Approx. 185kJ,<1g,<0.1g,Approx. 0g,Approx. 10.5g,Approx. 9.5g,<5mg,2,FALSE,2,FALSE,,,1534286975.0-W-8627
+2018-08-15 08:49:35 UTC,schweppes,Schweppes Lemonade Bottle,Drinks,2l,250mL,8,,187kJ,0g,0g,0g,10.8g,10.8g,19mg,2.15,FALSE,2.15,FALSE,,,1534286975.0-W-8628
+2018-08-15 08:49:35 UTC,pepsi,Pepsi Max Vanilla Bottle,Drinks,2l,Litre,,,,,,,,,,2.15,FALSE,2.15,FALSE,,,1534286975.0-W-8629
+2018-08-15 08:49:35 UTC,la ice,La Ice Cola Maxi Bottle,Drinks,2l,250mL,8,,<1kJ,0g,0g,0g,0g,0g,13mg,1.6,FALSE,1.6,FALSE,,,1534286975.0-W-8630
+2018-08-15 08:49:35 UTC,daily juice,Daily Juice Apple Pineapple & Lemon ,Drinks,2l,Litre,,,,,,,,,,5.3,TRUE,5,FALSE,,,1534286975.0-W-8631
+2018-08-15 08:49:35 UTC,eastcoast,Eastcoast Orange Juice Pulp Free,Drinks,2l,Litre,,,,,,,,,,5,FALSE,5,FALSE,,,1534286975.0-W-8632
+2018-08-15 08:49:35 UTC,berri,Berri Tomato Juice,Drinks,2l,200mL,10,,105kJ,0.7g,<1g,0g,4.5g,3.5g,230mg,4.25,TRUE,2.8,FALSE,,,1534286975.0-W-8633
+2018-08-15 08:49:35 UTC,woolworths ,Woolworths Orange Juice ,Drinks,2l,250.0ml,8,,Approx. 171.0kJ,<1.0g,<1.0g,Approx. 0.0g,Approx. 8.8g,Approx. 7.7g,<5.0g,2,FALSE,2,FALSE,,,1534286975.0-W-8634
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Pineapple Juice,Drinks,2l,200mL,10,,219kJ,0.4g,0g,0g,12.2g,10.6g,4mg,3.8,FALSE,3.8,FALSE,,,1534286975.0-W-8635
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Golden Pash ,Drinks,2l,Litre,,,,,,,,,,3,FALSE,3,FALSE,,,1534286975.0-W-8636
+2018-08-15 08:49:35 UTC,berri,Berri Apricot Nectar ,Drinks,2l,200mL,10,,251kJ,<1g,<1g,0g,13.7g,13.4g,8mg,4.35,TRUE,2.9,FALSE,,,1534286975.0-W-8637
+2018-08-15 08:49:35 UTC,daily juice,Daily Juice Apple Pear Kiwi & Lime ,Drinks,2l,Litre,,,,,,,,,,5.3,TRUE,5,FALSE,,,1534286975.0-W-8638
+2018-08-15 08:49:35 UTC,nudie nothing but,Nudie Nothing But Apple Mango Passionfruit Pineapple Juice,Drinks,2l,Litre,,,,,,,,,,7,FALSE,7,FALSE,,,1534286975.0-W-8639
+2018-08-15 08:49:35 UTC,eastcoast,Eastcoast Orange Juice 100 Percent,Drinks,2l,200mL,10,,144kJ,0.6g,0.1g,0.0g,11.1g,9.3g,19mg,5,FALSE,5,FALSE,,,1534286975.0-W-8640
+2018-08-15 08:49:35 UTC,nerada,Nerada Organic Lemon & Ginger Tea Bags,Drinks,40 pack,1Teabag infused in 200mL of freshly boiled water,40,,5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,5,FALSE,5,FALSE,,,1534286975.0-W-8641
+2018-08-15 08:49:35 UTC,thirsty brothers ,Thirsty Brothers Apple Juice ,Drinks,3l,Litre,,,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534286975.0-W-8642
+2018-08-15 08:49:35 UTC,nudie nothing but,Nudie Nothing But Orange Juice ,Drinks,3l,250mL,1,,180kJ,<1g,<1g,<1g,10g,7.6g,<5mg,8.5,TRUE,8,FALSE,,,1534286975.0-W-8643
+2018-08-15 08:49:35 UTC,twinings,Twinings Camomile Tea Bags,Drinks,40 pack,1Infusion Bag in 200mL of Boiling Water,40,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,7,FALSE,7,FALSE,,,1534286975.0-W-8644
+2018-08-15 08:49:35 UTC,twinings,Twinings Extra Strong English Breakfast,Drinks,40 pack,,,,,,,,,,,7,FALSE,7,FALSE,,,1534286975.0-W-8645
+2018-08-15 08:49:35 UTC,twinings,Twinings Decaffeinated English Breakfast Tea,Drinks,40 pack,,,,,,,,,,,7,FALSE,7,FALSE,,,1534286975.0-W-8646
+2018-08-15 08:49:35 UTC,nerada,Nerada Organic Camomile Tea Bags,Drinks,40 pack,1Teabag infused in 200mL of freshly boiled water.,40,,2.5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,5,FALSE,5,FALSE,,,1534286975.0-W-8647
+2018-08-15 08:49:35 UTC,nerada,Nerada Organic Rosehip Tea Bags,Drinks,40 pack,1Teabag infused in 200mL of freshly boiled water,40,,7.5kJ,<1g,<1g,<1g,,<1g,<2.5mg,5,FALSE,5,FALSE,,,1534286975.0-W-8648
+2018-08-15 08:49:35 UTC,nerada,Nerada Peppermint & Ginger Tea Bags,Drinks,40 pack,1teabag infused in 200mL of freshly boiled water,40,,3.8kJ,<1g,<1g,<1g,<1g,<1g,<5mg,5,FALSE,5,FALSE,,,1534286975.0-W-8649
+2018-08-15 08:49:35 UTC,just rooibos,Just Rooibos African Tea Bags,Drinks,40 pack,,,,,,,,,,,5.75,FALSE,5.75,FALSE,,,1534286975.0-W-8650
+2018-08-15 08:49:35 UTC,preshafruit,Preshafruit Cold Pressed Pink Lady Apple Juice,Drinks,350ml,175mL,2,,158kJ,<0.1g,<0.1g,<0.1g,9.5g,9.5g,8mg,3.3,FALSE,3.3,FALSE,,,1534286975.0-W-8651
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Orange Juice ,Drinks,350ml,Ml,,,,,,,,,,1.6,FALSE,1.6,FALSE,,,1534286975.0-W-8652
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Apple & Blackcurrant Juice,Drinks,350ml,Ml,,,,,,,,,,1.6,FALSE,1.6,FALSE,,,1534286975.0-W-8653
+2018-08-15 08:49:35 UTC,essentials,Essentials Fruit Drink Tropical,Drinks,3l,250ml,12,,Approx. 136kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 8g,Approx. 7.6g,<5mg,2.95,FALSE,2.95,FALSE,,,1534286975.0-W-8654
+2018-08-15 08:49:35 UTC,organic,Organic Chilled Juice Apple Kale Celery,Drinks,350ml,350mL,1,,99kJ,1.1g,0.1g,0g,5.2g,5.2g,25mg,4.65,FALSE,4.65,FALSE,,,1534286975.0-W-8655
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Apple Juice ,Drinks,350ml,Ml,,,,,,,,,,1.6,FALSE,1.6,FALSE,,,1534286975.0-W-8656
+2018-08-15 08:49:35 UTC,daily juice,Daily Juice Pulp Free Orange Juice No Added Sugar,Drinks,3l,Litre,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534286975.0-W-8657
+2018-08-15 08:49:35 UTC,nudie nothing but,Nudie Nothing But Orange Juice Pulp Free,Drinks,3l,250mL,12,,180kJ,<1g,<1g,<1g,10g,8.4g,<5mg,8.5,TRUE,8,FALSE,,,1534286975.0-W-8658
+2018-08-15 08:49:35 UTC,essentials,Essentials Fruit Drink Apple,Drinks,3l,250ml,12,,Approx. 150kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 8.8g,Approx. 7.9g,<5mg,2.95,FALSE,2.95,FALSE,,,1534286975.0-W-8659
+2018-08-15 08:49:35 UTC,nudie nothing but,Nudie Nothing But Apples Cloudy Juice,Drinks,3l,Litre,,,,,,,,,,8.5,TRUE,8,FALSE,,,1534286975.0-W-8660
+2018-08-15 08:49:35 UTC,organic,Organic Valencia Orange Juice,Drinks,350ml,350mL,1,,138kJ,0.5g,0.1g,0g,7.3g,7.3g,6mg,3.65,FALSE,3.65,FALSE,,,1534286975.0-W-8661
+2018-08-15 08:49:35 UTC,macro organic,Macro Organic Rebel Raspberry Kombucha?drink,Drinks,330ml,100ml,1,,Approx. 64kJ,<0.1g,<0.2g,<0.1g,Approx. 3g,Approx. 1.9g,Approx. 8mg,3,FALSE,3,FALSE,,,1534286975.0-W-8662
+2018-08-15 08:49:35 UTC,macro organic,Macro Organic Adventurous Apple Kombucha?drink,Drinks,330ml,100ml,1,,Approx. 64kJ,<0.1g,<0.2g,<0.1g,Approx. 3g,Approx. 1.8g,Approx. 8mg,3,FALSE,3,FALSE,,,1534286975.0-W-8663
+2018-08-15 08:49:35 UTC,parkers,Parkers Kombucha Passionfruit,Drinks,330ml,,,,85kJ,<0.1g,,<0.1g,5.4g,3.8g,9mg,4.15,FALSE,4.15,FALSE,,,1534286975.0-W-8664
+2018-08-15 08:49:35 UTC,preshafruit,Preshafruit Cold Pressed Apple & Raspberry Juice,Drinks,350ml,175mL,2,,153,<0.1,<0.1,<0.1,9.2,8.8,8,3.3,FALSE,3.3,FALSE,,,1534286975.0-W-8665
+2018-08-15 08:49:35 UTC,boost,Boost Mango Tango ,Drinks,350ml,Ml,,,,,,,,,,3.45,FALSE,3.45,FALSE,,,1534286975.0-W-8666
+2018-08-15 08:49:35 UTC,organic,Organic Chilled Juice Carrot Orange Ginger,Drinks,350ml,Ml,,,,,,,,,,4.65,FALSE,4.65,FALSE,,,1534286975.0-W-8667
+2018-08-15 08:49:35 UTC,preshafruit,Preshafruit Cold Pressed Granny Smith Apple Juice,Drinks,350ml,175mL,2,,158kJ,<0.1g,<0.1g,<0.1g,9.5g,9.5g,8mg,3.3,FALSE,3.3,FALSE,,,1534286975.0-W-8668
+2018-08-15 08:49:35 UTC,mojo tonic,Mojo Tonic Refreshing Low Sugar Pineapple & Coconut,Drinks,330ml,330mL,1,,42kJ,0.0g,0.0g,0.0g,2.0g,2.0g,6.4mg,4,FALSE,4,FALSE,,,1534286975.0-W-8669
+2018-08-15 08:49:35 UTC,parkers,Parkers Kombucha Ginger,Drinks,330ml,,,,85kJ,<0.1g,,<0.1g,5.4g,3.8g,9mg,4.15,FALSE,4.15,FALSE,,,1534286975.0-W-8670
+2018-08-15 08:49:35 UTC,daily juice,Daily Juice Pop Top Apple Juice,Drinks,250ml,Ml,,,,,,,,,,2.25,FALSE,2.25,TRUE,2,1.9,1534286975.0-W-8671
+2018-08-15 08:49:35 UTC,sunraysia,Sunraysia Natural Prune Juice,Drinks,250ml,250mL,1,,308kJ,0.3g,0.1g,0.1g,17.8g,8.4g,8mg,3.1,TRUE,2.6,FALSE,,,1534286975.0-W-8672
+2018-08-15 08:49:35 UTC,nudie,Nudie Cranberryraspberry & More Crushie,Drinks,250ml,250mL,1,,254kJ,<1g,<1g,<1g,11.3g,9.6g,<5mg,3,TRUE,2.7,FALSE,,,1534286975.0-W-8673
+2018-08-15 08:49:35 UTC,queen garnet,Queen Garnet Fruit Nectar Plum,Drinks,250ml,Ml,,,,,,,,,,5,FALSE,5,FALSE,,,1534286975.0-W-8674
+2018-08-15 08:49:35 UTC,impressed,Impressed Cold Pressed Juice Summer Greens,Drinks,325ml,Ml,,,,,,,,,,3.65,FALSE,3.65,FALSE,,,1534286975.0-W-8675
+2018-08-15 08:49:35 UTC,remedy,Remedy Organic Kombucha Apple Crisp,Drinks,330ml,Ml,,,,,,,,,,4,FALSE,4,FALSE,,,1534286975.0-W-8676
+2018-08-15 08:49:35 UTC,daily juice,Daily Juice Kids Hidden Vegetables Pop Top Juice,Drinks,250ml,250mL,1,,157kJ,0.6g,<1g,0g,8.1g,7.5g,14mg,2.25,FALSE,2.25,TRUE,2,1.9,1534286975.0-W-8677
+2018-08-15 08:49:35 UTC,impressed,Impressed Cacao Kapow Juice ,Drinks,325ml,325mL,1,,206kJ,1.3g,2.9g,0.2g,4.6g,4.0g,30mg,0,FALSE,0,FALSE,,,1534286975.0-W-8678
+2018-08-15 08:49:35 UTC,macro,Macro Organic Coconut Water,Drinks,330ml,Ml,,,,,,,,,,2,FALSE,2,FALSE,,,1534286975.0-W-8679
+2018-08-15 08:49:35 UTC,macro organic,Macro Organic Glowing Ginger Kombucha?drink,Drinks,330ml,100ml,1,,Approx. 64kJ,<1g,<0.2g,<0.1g,Approx. 3g,Approx. 1.7g,Approx. 8mg,3,FALSE,3,FALSE,,,1534286975.0-W-8680
+2018-08-15 08:49:35 UTC,coca cola,Coca Cola Glass Bottles ,Drinks,4x330ml pack,330mL,4,,180kJ,0g,0g,0g,10.6g,10.6g,10.0mg,8.45,FALSE,8.45,FALSE,,,1534286975.0-W-8681
+2018-08-15 08:49:35 UTC,berri,Berri Apple Juice,Drinks,2l,200mL,10,,185kJ,<1g,<1g,0g,10.5g,10.1g,8mg,4.25,TRUE,2.8,FALSE,,,1534286975.0-W-8682
+2018-08-15 08:49:35 UTC,berri,Berri Orange Juice,Drinks,2l,Litre,,,,,,,,,,4.25,TRUE,2.8,FALSE,,,1534286975.0-W-8683
+2018-08-15 08:49:35 UTC,east coast,East Coast Passionfruit Orange Guava Drink,Drinks,2l,Litre,,,,,,,,,,6.15,FALSE,6.15,FALSE,,,1534286975.0-W-8684
+2018-08-15 08:49:35 UTC,alt ,Alt Blood Orange & Citrus Soft Drink,Drinks,1l,Litre,,,,,,,,,,2.45,FALSE,2.45,FALSE,,,1534286975.0-W-8685
+2018-08-15 08:49:35 UTC,bushells,Bushells Turkish Coffee ,Drinks,250g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534286975.0-W-8686
+2018-08-15 08:49:35 UTC,berri,Berri Grape Juice,Drinks,2l,200mL,10,,238kJ,<1g,<1g,0g,13.9g,13.4g,8mg,4.25,TRUE,2.8,FALSE,,,1534286975.0-W-8687
+2018-08-15 08:49:35 UTC,alt ,Alt Mixed Berry & Apple Soft Drink,Drinks,1l,Litre,,,,,,,,,,2.45,FALSE,2.45,FALSE,,,1534286975.0-W-8688
+2018-08-15 08:49:35 UTC,alt,Alt Tropical Passionfruit Soft Drink,Drinks,1l,Litre,,,,,,,,,,2.45,FALSE,2.45,FALSE,,,1534286975.0-W-8689
+2018-08-15 08:49:35 UTC,symington,Symington Instant Dandelion Tea No Caffeine,Drinks,250g,3.5g,72,,53.0kJ,0.04g,Nil,Nil,3.08g,2.92g,20.0mg,14,FALSE,14,FALSE,,,1534286975.0-W-8690
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Apple & Mango Juice,Drinks,2l,200mL,10,,205kJ,0.2g,0.1g,0g,11.7g,10.8g,4mg,3.79,TRUE,3,FALSE,,,1534286975.0-W-8691
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Apple Juice,Drinks,2l,200mL,10,,200kJ,0.1g,0g,0g,11.3g,10.2g,4mg,3.79,TRUE,3,FALSE,,,1534286975.0-W-8692
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Breakfast Juice,Drinks,2l,200mL,10,,192kJ,0.3g,0.1g,0g,10.6g,8.8g,3mg,3.79,TRUE,3,FALSE,,,1534286975.0-W-8693
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Orange & Mango Fruit Drink,Drinks,2l,200mL,10,,181kJ,0.5g,0.1g,0g,9.8g,8.1g,1mg,3.79,TRUE,3,FALSE,,,1534286975.0-W-8694
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Pear Apple & Raspberry Fruit Drink,Drinks,2l,200mL,10,,187kJ,0.1g,0.1g,0g,10.5g,8.5g,4mg,3.79,TRUE,3,FALSE,,,1534286975.0-W-8695
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Pine Orange Fruit Juice,Drinks,2l,,,,,0.4g,,,,8.6g,,3.79,TRUE,3,FALSE,,,1534286975.0-W-8696
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Orange Juice,Drinks,2l,200mL,10,,173kJ,0.5g,0.1g,0g,9.3g,7.6g,1mg,3.79,TRUE,3,FALSE,,,1534286975.0-W-8697
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Tropical Fruit Juice,Drinks,2l,Litre,,,,,,,,,,3.79,TRUE,3,FALSE,,,1534286975.0-W-8698
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Apple & Blackcurrant Fruit Drink,Drinks,2l,200mL,10,,194kJ,0.3g,0.1g,0g,10.6g,8.5g,4mg,3.79,TRUE,3,FALSE,,,1534286975.0-W-8699
+2018-08-15 08:49:35 UTC,berri,Berri Multi V ,Drinks,2l,200mL,10,,187kJ,<1g,<1g,0g,10.3g,9.8g,8mg,4.25,TRUE,2.8,FALSE,,,1534286975.0-W-8700
+2018-08-15 08:49:35 UTC,golden circle,Golden Circle Cordial Apple Peach Lychee,Drinks,2l,200mL,50,,110kJ,0g,0g,0g,6.3g,6.2g,4mg,4,TRUE,3,FALSE,,,1534286975.0-W-8701
+2018-08-15 08:49:35 UTC,nudie,Nudie Nothing But Breakfast Juice,Drinks,2l,250mL,8,,235kJ,<1g,<1g,<1g,11.1g,9.9g,<5mg,6.6,TRUE,5.5,FALSE,,,1534286975.0-W-8702
+2018-08-15 08:49:35 UTC,daily juice,Daily Juice Apple Watermelon Raspberry,Drinks,2l,Litre,,,,,,,,,,5.3,TRUE,5,FALSE,,,1534286975.0-W-8703
+2018-08-15 08:49:35 UTC,nudie,Nudie Nothing But Orange Apple & Mango,Drinks,2l,250mL,8,,215kJ,<1g,<1g,<1g,11.7g,10.5g,<5mg,6.6,TRUE,5.5,FALSE,,,1534286975.0-W-8704
+2018-08-15 08:49:35 UTC,nudie,"Nudie Nothing But Carrot, Orange, Apple & Ginger",Drinks,2l,250mL,8,,172kJ,<1g,<1g,<1g,9.3g,8.1g,19mg,7,FALSE,7,FALSE,,,1534286975.0-W-8705
+2018-08-15 08:49:35 UTC,charlies,Charlies Orange & Mango Quencher Fresh Juice,Drinks,2l,200mL,10,,175kJ,0.24g,0g,0g,10.4g,10.4g,0.6mg,6.15,TRUE,5.55,FALSE,,,1534286975.0-W-8706
+2018-08-15 08:49:35 UTC,charlies,Charlies Blood Orange Quencher Fresh Juice,Drinks,2l,200mL,10,,182kJ,0.04g,0g,0g,10.4g,,0.2mg,6.15,TRUE,5.55,FALSE,,,1534286975.0-W-8707
+2018-08-15 08:49:35 UTC,pip squeeze,Pip Squeeze Orange Mango Fruit Drink ,Drinks,2l,Litre,,,,,,,,,,1.9,FALSE,1.9,FALSE,,,1534286975.0-W-8708
+2018-08-15 08:49:35 UTC,nudie,Nudie Nothing But Orange Double Pulp,Drinks,2l,250mL,8,,180kJ,<1g,<1g,<1g,10g,7.6g,<5mg,7,FALSE,7,FALSE,,,1534286975.0-W-8709
+2018-08-15 08:49:35 UTC,raw c,Raw C Coconut Water ,Drinks,2l,250mL,8,,68kJ,<1g,<1g,<1g,3.8g,3.4g,28mg,7,TRUE,6,FALSE,,,1534286975.0-W-8710
+2018-08-15 08:49:35 UTC,pip squeeze,Pip Squeeze Orange Fruit Drink ,Drinks,2l,Litre,,,,,,,,,,1.9,FALSE,1.9,FALSE,,,1534286975.0-W-8711
+2018-08-15 08:49:35 UTC,mildura,Mildura Orange & Mango Fruit Drink,Drinks,3l,200mL,15,,158kJ,<1%,0%,0.0g,9.3g,8.9g,8mg,4.1,FALSE,4.1,FALSE,,,1534286975.0-W-8712
+2018-08-15 08:49:35 UTC,mildura,Mildura Tropical Fruit Drink,Drinks,2l,200mL,10,,156kJ,<1g,0.0g,0.0g,9.2g,,8mg,3.85,FALSE,3.85,FALSE,,,1534286975.0-W-8713
+2018-08-15 08:49:35 UTC,mildura,Mildura Orange Passionfruit Fruit Drink,Drinks,500ml,500mL,1,,158kJ,0.1g,0g,0g,9.4g,8.9g,8mg,2.65,TRUE,2.15,FALSE,,,1534286975.0-W-8714
+2018-08-15 08:49:35 UTC,daily juice,Daily Juice Pulp Free Orange Juice,Drinks,2l,200mL,10,,153kJ,0.6g,<1g,0g,9.0g,8.3g,8mg,5.3,TRUE,5,FALSE,,,1534286975.0-W-8715
+2018-08-15 08:49:35 UTC,mildura,Mildura Orange Mango Fruit Drink,Drinks,500ml,500mL,1,,158kJ,0.1g,0g,0g,9.3g,8.9g,8mg,2.65,TRUE,2.15,FALSE,,,1534286975.0-W-8716
+2018-08-15 08:49:35 UTC,mildura,Mildura Orange Fruit Drink,Drinks,3l,200mL,15,,158kJ,<1g,0.0g,0.0g,9.4g,8.9g,8mg,4.1,FALSE,4.1,FALSE,,,1534286975.0-W-8717
+2018-08-15 08:49:35 UTC,mildura,Mildura Orange & Passionfruit Fruit Drink,Drinks,3l,Litre,,,,,,,,,,4.1,FALSE,4.1,FALSE,,,1534286975.0-W-8718
+2018-08-15 08:49:35 UTC,nudie,Nudie Apple Blackcurrant Juice ,Drinks,2l,250mL,8,,213kJ,<1g,<1g,<1g,12.1g,10.7g,<5mg,6.6,TRUE,5.5,FALSE,,,1534286975.0-W-8719
+2018-08-15 08:49:35 UTC,charlies,Charlies Lemonade Quencher Fresh Juice,Drinks,2l,200mL,10,,172kJ,0.1g,0g,0g,10.4g,10.4g,0.4mg,6.15,TRUE,5.55,FALSE,,,1534286975.0-W-8720
+2018-08-15 08:49:35 UTC,coca cola,Coca Cola Can ,Drinks,250ml,Ml,,,,,,,,,,2.15,FALSE,2.15,FALSE,,,1534286975.0-W-8721
+2018-08-15 08:49:35 UTC,berri,Berri Apple & Mango Juice,Drinks,2l,200mL,10,,195kJ,<1g,<1g,0g,10.8g,10.4g,4mg,7,TRUE,6,FALSE,,,1534286975.0-W-8722
+2018-08-15 08:49:35 UTC,oxfam organic fair trade,Oxfam Organic Fair Trade Ground Coffee World Blend,Drinks,250g,g,,,,,,,,,,9,FALSE,9,FALSE,,,1534286975.0-W-8723
+2018-08-15 08:49:35 UTC,fanta,Fanta Orange Can,Drinks,250ml,Ml,,,,,,,,,,2.15,FALSE,2.15,FALSE,,,1534286975.0-W-8724
+2018-08-15 08:49:35 UTC,lotus peak,Lotus Peak White Tea Bags,Drinks,25pk 50g,220mL average,25,,6kJ,<1g,<1g,<1g,<1g,<1g,<5mg,4,TRUE,3.5,FALSE,,,1534286975.0-W-8725
+2018-08-15 08:49:35 UTC,daily juice,Daily Juice Apple Juice No Added Sugar,Drinks,2l,200mL,10,,185kJ,<1g,<1g,0g,10.4g,10.1g,8mg,5.3,TRUE,5,FALSE,,,1534286975.0-W-8726
+2018-08-15 08:49:35 UTC,daily juice,Daily Juice Breakfast A C & E Juice,Drinks,2l,200mL,10,,162kJ,0.4g,1g,0g,9.7g,9.1g,8mg,5.3,TRUE,5,FALSE,,,1534286975.0-W-8727
+2018-08-15 08:49:35 UTC,berri,Berri Pulp Free Orange Juice,Drinks,2l,200mL,10,,166kJ,0.6g,<1g,0g,8.9g,8.1g,4mg,7,TRUE,6,FALSE,,,1534286975.0-W-8728
+2018-08-15 08:49:35 UTC,nudie,Nudie 100% Apple Juice,Drinks,2l,250mL,8,,211kJ,<1g,<1g,<1g,12.3g,10.8g,<5mg,6.6,TRUE,5.5,FALSE,,,1534286975.0-W-8729
+2018-08-15 08:49:35 UTC,nudie,Nudie 100% Apple Juice,Drinks,400ml,Ml,,,,,,,,,,3.1,TRUE,2.85,FALSE,,,1534286975.0-W-8730
+2018-08-15 08:49:35 UTC,lipton,Lipton Quality Tips Loose Leaf Tea,Drinks,250g,g,,,,,,,,,,4.39,FALSE,4.39,FALSE,,,1534286975.0-W-8731
+2018-08-15 08:49:35 UTC,nerada,Nerada Loose Leaf Tea,Drinks,250g,g,,,,,,,,,,3,FALSE,3,FALSE,,,1534286975.0-W-8732
+2018-08-15 08:49:35 UTC,bean ground & drunk,Bean Ground & Drunk Ground Coffee Organic Fairtrade Decaff,Drinks,250g,g,,,,,,,,,,8.8,FALSE,8.8,FALSE,,,1534286975.0-W-8733
+2018-08-15 08:49:35 UTC,bean ground & drunk,Bean Ground & Drunk Ground Coffee Organic Fairtrade Espresso,Drinks,250g,g,,,,,,,,,,8.8,FALSE,8.8,FALSE,,,1534286975.0-W-8734
+2018-08-15 08:49:35 UTC,oxfam organic fair trade,Oxfam Organic Fair Trade Ground Coffee Africa Blend,Drinks,250g,g,,,,,,,,,,9,FALSE,9,FALSE,,,1534286975.0-W-8735
+2018-08-15 08:49:35 UTC,arkadia,Arkadia Chai Tea Vanilla,Drinks,240g,20g,12,,193kJ,0.2g,1.3g,1.2g,8.4g,5.9g,29mg,6.5,FALSE,6.5,FALSE,,,1534286975.0-W-8736
+2018-08-15 08:49:35 UTC,arkadia,Arkadia Chai Tea Spice,Drinks,240g,20g,12,,193kJ,0.2g,1.3g,1.2g,8.4g,5.9g,29mg,6.5,FALSE,6.5,FALSE,,,1534286975.0-W-8737
+2018-08-15 08:49:35 UTC,bushells,Bushells Lan Choo Loose Leaf Tea,Drinks,250g,g,,,,,,,,,,3.6,FALSE,3.6,FALSE,,,1534286975.0-W-8738
+2018-08-15 08:49:35 UTC,dilmah,Dilmah Premium Quality Loose Leaf Tea,Drinks,250g,g,,,,,,,,,,4.6,FALSE,4.6,FALSE,,,1534286975.0-W-8739
+2018-08-15 08:49:35 UTC,byron bay coffee co,Byron Bay Coffee Co Organic Plunger Ground,Drinks,250g,g,,,,,,,,,,10.98,FALSE,10.98,FALSE,,,1534286975.0-W-8740
+2018-08-15 08:49:35 UTC,bundaberg,Bundaberg Sparkling Passionfruit Sparkling Drink,Drinks,4x375ml,Ml,,,,,,,,,,6.3,TRUE,5.1,FALSE,,,1534286975.0-W-8741
+2018-08-15 08:49:35 UTC,madura,Madura Premium Blend Tea,Drinks,200g,2.0g per 220mL,100,,<0.10kJ,0g,0g,0g,0g,0g,<0.05mg,5.7,FALSE,5.7,FALSE,,,1534286975.0-W-8742
+2018-08-15 08:49:35 UTC,ribena,Ribena Blackcurrant ,Drinks,2.4l,200mL,12,,177kJ,<1g,<1g,<1g,10.2g,10.2g,<5mg,4.6,FALSE,4.6,FALSE,,,1534286975.0-W-8743
+2018-08-15 08:49:35 UTC,nerada,Nerada Tea Bags ,Drinks,200pk 400g,1Teabag infused in 200mL of freshly boiled water,200,,5kJ,<1g,<1g,<1g,<1g,<1g,<1g,5.4,FALSE,5.4,FALSE,,,1534286975.0-W-8744
+2018-08-15 08:49:35 UTC,saxbys,Saxbys Diet Ginger Beer ,Drinks,4x375ml,Ml,,,,,,,,,,5.5,TRUE,4.8,FALSE,,,1534286975.0-W-8745
+2018-08-15 08:49:35 UTC,bundaberg,Bundaberg Burgundee Creaming Soda ,Drinks,4x375ml,375mL,1,,189kJ,<1g,<1g,<1g,11.1g,11.1g,8mg,6.3,TRUE,5.1,FALSE,,,1534286975.0-W-8746
+2018-08-15 08:49:35 UTC,bundaberg,Bundaberg Diet Sarsaparilla ,Drinks,4x375ml,Ml,,,,,,,,,,6.3,TRUE,5.1,FALSE,,,1534286975.0-W-8747
+2018-08-15 08:49:35 UTC,dilmah,Dilmah Rooibos Cinnamon Turmeric Ginger & Nutmeg Teabags,Drinks,20 pack,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534286975.0-W-8748
+2018-08-15 08:49:35 UTC,celestial seasonings,Celestial Seasonings Herbal Tea Sleepytime Tea Bags,Drinks,20 pack,1tea bag (250mL),20,,<40kJ,<1g,<1g,<1g,<1g,<1g,<5mg,4.2,FALSE,4.2,FALSE,,,1534286975.0-W-8749
+2018-08-15 08:49:35 UTC,dilmah,Dilmah Extra Strength Tea Bags,Drinks,200 pack,,,,,,,,,,,10.15,FALSE,10.15,FALSE,,,1534286975.0-W-8750
+2018-08-15 08:49:35 UTC,bundaberg,Bundaberg Diet Lemon Lime & Bitters ,Drinks,4x3753ml,Ml,,,,,,,,,,6.3,TRUE,5.1,FALSE,,,1534286975.0-W-8751
+2018-08-15 08:49:35 UTC,buderim,Buderim Ginger Beer ,Drinks,4x330ml,Ml,,,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534286975.0-W-8752
+2018-08-15 08:49:35 UTC,saxbys,Saxbys Diet Ginger Beer ,Drinks,8x375ml,Ml,,,,,,,,,,10,FALSE,10,FALSE,,,1534286975.0-W-8753
+2018-08-15 08:49:35 UTC,saxbys,Saxbys Diet Ginger Beer ,Drinks,750ml,250mL,3,,2kJ,<0.1g,0g,0g,0.1g,0.1g,19mg,2.15,FALSE,2.15,FALSE,,,1534286975.0-W-8754
+2018-08-15 08:49:35 UTC,coca cola,Coca Cola No Sugar Glass Bottles,Drinks,4x330ml pack,ml pack,,,,,,,,,,8.45,FALSE,8.45,FALSE,,,1534286975.0-W-8755
+2018-08-15 08:49:35 UTC,bundaberg,Bundaberg Sparkling Blood Orange Sparkling Drink,Drinks,4x375ml,375mL,1,,196kJ,<1g,<1g,<1g,11.5g,11.5g,9mg,6.3,TRUE,5.1,FALSE,,,1534286975.0-W-8756
+2018-08-15 08:49:35 UTC,bundaberg,Bundaberg Tropical Mango Sparkling Drink,Drinks,4x375ml,Ml,,,,,,,,,,6.3,TRUE,5.1,FALSE,,,1534286975.0-W-8757
+2018-08-15 08:49:35 UTC,bundaberg,Bundaberg Apple Cider Brewed Soft Drink,Drinks,4x375ml,Ml,,,,,,,,,,6.3,TRUE,5.1,FALSE,,,1534286975.0-W-8758
+2018-08-15 08:49:35 UTC,saxbys,Saxbys Ginger Beer ,Drinks,8x375ml,Ml,,,,,,,,,,10,FALSE,10,FALSE,,,1534286975.0-W-8759
+2018-08-15 08:49:35 UTC,saxbys,Saxbys Ginger Beer ,Drinks,4x375ml,250mL,1.5,,223kJ,<1g,0g,0g,13.1g,12.3g,3mg,5.5,TRUE,4.8,FALSE,,,1534286975.0-W-8760
+2018-08-15 08:49:35 UTC,nexba,Nexba Sparkling Lemon Infusion,Drinks,4x300ml,300mL,4,,12kJ,0g,0g,0g,0g,0g,0mg,6.55,FALSE,6.55,FALSE,,,1534286975.0-W-8761
+2018-08-15 08:49:35 UTC,nexba,Nexba Sparkling Cola Infusion ,Drinks,4x300ml,300mL,4,,13kJ,0g,0g,0g,0g,0g,0mg,6.55,FALSE,6.55,FALSE,,,1534286975.0-W-8762
+2018-08-15 08:49:35 UTC,nexba,Nexba Sparkling Raspberry Infusion,Drinks,4x300ml,300mL,4,,10kJ,0g,0g,0g,0.0g,0g,0mg,6.55,FALSE,6.55,FALSE,,,1534286975.0-W-8763
+2018-08-15 08:49:35 UTC,schweppes,Schweppes Diet Dry Ginger Ale ,Drinks,4x300ml,300mL,4,,7kJ,0g,0g,0g,0g,0g,24mg,5.8,FALSE,5.8,FALSE,,,1534286975.0-W-8764
+2018-08-15 08:49:35 UTC,schweppes,Schweppes Lemonade ,Drinks,4x300ml,300mL,4,,187kJ,0g,0g,0g,10.8g,10.8g,19mg,5.8,FALSE,5.8,FALSE,,,1534286975.0-W-8765
+2018-08-15 08:49:35 UTC,schweppes,Schweppes Bitter Lemon ,Drinks,4x300ml,300mL,4,,223kJ,0.1g,0g,0g,12.8g,12.7g,9mg,5.8,FALSE,5.8,FALSE,,,1534286975.0-W-8766
+2018-08-15 08:49:35 UTC,montague,Montague Sparkling Apple Juice ,Drinks,4x300ml cans,ml,,,,,,,,,,7,FALSE,7,FALSE,,,1534286975.0-W-8767
+2018-08-15 08:49:35 UTC,buderim,Buderim Ginger Beer Peach,Drinks,4x330ml,Ml,,,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534286975.0-W-8768
+2018-08-15 08:49:35 UTC,buderim,Buderim Ginger Beer Apple,Drinks,4x330ml,Ml,,,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534286975.0-W-8769
+2018-08-15 08:49:35 UTC,buderim,Buderim Ginger Beer Pear,Drinks,4x330ml,Ml,,,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534286975.0-W-8770
+2018-08-15 08:49:35 UTC,kintra foods,Kintra Foods Dandy Chai Blend ,Drinks,90g,2.8g,32,,18kJ,0.09g,0g,0g,1.7g,0.4g,11mg,6.9,FALSE,6.9,FALSE,,,1534286975.0-W-8771
+2018-08-15 08:49:35 UTC,coca cola,Coca Cola Mini Cans ,Drinks,8x200ml pack,200mL,8,,180kJ,0g,0g,0g,10.6g,10.6g,10.0mg,9.5,TRUE,7.2,FALSE,,,1534286975.0-W-8772
+2018-08-15 08:49:35 UTC,coca cola,Coca Cola Diet Mini Cans,Drinks,8x200ml pack,200mL,8,,1.5kJ,0.05g,0g,0g,0.1g,0g,15.0mg,9.5,TRUE,7.2,FALSE,,,1534286975.0-W-8773
+2018-08-15 08:49:35 UTC,coca cola,Coca Cola Vanilla Mini Cans,Drinks,8x200ml pack,ml pack,,,,,,,,,,9.5,TRUE,7.2,FALSE,,,1534286975.0-W-8774
+2018-08-15 08:49:35 UTC,schweppes,Schweppes Cordial Lemon Juice,Drinks,,,,,,,,,,,,4.5,TRUE,4,FALSE,,,1534286975.0-W-8775
+2018-08-15 08:49:35 UTC,, Raw C Coconut Water 2l X4 Bundle ,Drinks,,,,,,,,,,,,16,FALSE,16,FALSE,,,1534286975.0-W-8776
+2018-08-15 08:49:35 UTC,sodastream,Sodastream Gas Cylinder ,Drinks,each,each,,,,,,,,,,35,FALSE,35,FALSE,,,1534286975.0-W-8777
+2018-08-15 08:49:35 UTC,sodastream,Sodastream Fuse Bottle 2x1l,Drinks,white,white,,,,,,,,,,14,FALSE,14,FALSE,,,1534286975.0-W-8778
+2018-08-15 08:49:35 UTC,higher living,Higher Living Chai Green Tea,Drinks,,,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534286975.0-W-8779
+2018-08-15 08:49:35 UTC,bickford,Bickford Bitter Lemon ,Drinks,4x275ml,Ml,,,,,,,,,,6.15,FALSE,6.15,FALSE,,,1534286975.0-W-8780
+2018-08-15 08:49:35 UTC,twinings,Twinings Extra Strong English Breakfast Tea Bags,Drinks,80 pack,,,,,,,,,,,11,TRUE,5.5,FALSE,,,1534286975.0-W-8781
+2018-08-15 08:49:35 UTC,lipton,Lipton Tea Sachets Chai Latte Vanilla,Drinks,8 pack,250mL,8,,204kJ,1.1g,1.2g,1.0g,6.9g,6.2g,40mg,7,FALSE,7,FALSE,,,1534286975.0-W-8782
+2018-08-15 08:49:35 UTC,lipton chai tea,Lipton Chai Tea Instant Latte Regular Sachets ,Drinks,8 pack,,,,,,,,,,,7,FALSE,7,FALSE,,,1534286975.0-W-8783
+2018-08-15 08:49:35 UTC,twinings,Twinings Tea Bags Lemon & Ginger,Drinks,80 pack,1infusion bag in 200mL of boiling water.,80,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,11,TRUE,5.5,FALSE,,,1534286975.0-W-8784
+2018-08-15 08:49:35 UTC,twinings,Twinings Pure Chamomile Tea Bags,Drinks,80 pack,1Infusion Bag in 200mL of Boiling Water,80,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,11,TRUE,5.5,FALSE,,,1534286975.0-W-8785
+2018-08-15 08:49:35 UTC,twinings,Twinings Pure Peppermint Tea Bags,Drinks,80 pack,1Infusion bag in 200mL of boiling water,80,,10kJ,<1g,<1g,<1g,<1g,<1g,5mg,11,TRUE,5.5,FALSE,,,1534286975.0-W-8786
+2018-08-15 08:49:35 UTC,goulburn valley,Goulburn Valley Pear Juice,Drinks,850ml,125mL,6.8,,221kJ,0.3g,<0.1g,<0.1g,12.5g,9.4g,<5mg,3.15,FALSE,3.15,FALSE,,,1534286975.0-W-8787
+2018-08-15 08:49:35 UTC,homebrand canned,Homebrand Canned Tomatoes Juice,Drinks,850ml,200mL,4,,92kJ,0.8g,0.1g,<0.1g,4.2g,3.3g,196mg,1.95,FALSE,1.95,FALSE,,,1534286975.0-W-8788
+2018-08-15 08:49:35 UTC,coca cola,Coca Cola Raspberry Mini Cans,Drinks,8x200ml pack,ml pack,,,,,,,,,,9.5,TRUE,7.2,FALSE,,,1534286975.0-W-8789
+2018-08-15 08:49:35 UTC,coca cola,Coca Cola No Sugar Mini Cans,Drinks,8x200ml pack,ml pack,,,,,,,,,,9.5,TRUE,7.2,FALSE,,,1534286975.0-W-8790
+2018-08-15 08:49:35 UTC,appletiser,Appletiser Sparkling Juice Apple,Drinks,750ml,250mL,3,,182kJ,0g,0g,0g,10.1g,9.4g,6.4mg,4.15,FALSE,4.15,FALSE,,,1534286975.0-W-8791
+2018-08-15 08:49:35 UTC,schweppes,Schweppes Cordial Raspberry,Drinks,750ml,Ml,,,,,,,,,,4.5,TRUE,4,FALSE,,,1534286975.0-W-8792
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Lemon Barley Cordial,Drinks,750ml,250mL,15,,173kJ,<1g,0g,0g,10.1g,10.1g,2.4mg,3.85,FALSE,3.85,FALSE,,,1534286975.0-W-8793
+2018-08-15 08:49:35 UTC,schweppes,Schweppes Lemon Lime Bitters Cordial,Drinks,750ml,Ml,,,,,,,,,,4.5,TRUE,4,FALSE,,,1534286975.0-W-8794
+2018-08-15 08:49:35 UTC,buderim,Buderim Ginger Cordial,Drinks,750ml,250mL,15,,208kJ,<1g,<1g,<1g,12.2g,11.1g,8mg,4,TRUE,3.5,FALSE,,,1534286975.0-W-8795
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Light Lime Cordial,Drinks,750ml,250mL,15,,54kJ,0g,0g,0g,3.1g,2.7g,16mg,3.85,FALSE,3.85,FALSE,,,1534286975.0-W-8796
+2018-08-15 08:49:35 UTC,grapetiser,Grapetiser Sparkling Juice Red Grape,Drinks,750ml,250mL,3,,218kJ,0g,0g,0g,12.7g,12g,10.7mg,4.65,FALSE,4.65,FALSE,,,1534286975.0-W-8797
+2018-08-15 08:49:35 UTC,hansells all natural fruit,Hansells All Natural Fruit Syrup Old Fashioned Lemonade With Key Lime Extract,Drinks,750ml,200mL,22,,112kj,<1g,<1g,<1g,6.6g,6.5g,<5mg,6,FALSE,6,FALSE,,,1534286975.0-W-8798
+2018-08-15 08:49:35 UTC,juicy isle,Juicy Isle Good Sparkling Drink Organic Apple Juice,Drinks,750ml,Ml,,,,,,,,,,3.65,FALSE,3.65,FALSE,,,1534286975.0-W-8799
+2018-08-15 08:49:35 UTC,pump,Pump Pure Still Water Bottle,Drinks,750ml,Ml,,,,,,,,,,2.75,FALSE,2.75,FALSE,,,1534286975.0-W-8800
+2018-08-15 08:49:35 UTC,woolworths select,Woolworths Select Lemon Cordial,Drinks,750ml,250mL,15,,165kJ,0.0g,0.0g,0.0g,9.4g,9.4g,7mg,3,FALSE,3,FALSE,,,1534286975.0-W-8801
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Cordial Light Lemon,Drinks,750ml,250mL,15,,49kJ,0g,0g,0g,2.9g,2.6g,14mg,3.85,FALSE,3.85,FALSE,,,1534286975.0-W-8802
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Light Lemon Lime Bitters Cordial,Drinks,750ml,250mL,15,,49kJ,0g,0g,0g,2.9g,2.6g,10mg,3.85,FALSE,3.85,FALSE,,,1534286975.0-W-8803
+2018-08-15 08:49:35 UTC,woolworths select,Woolworths Select Lime Cordial,Drinks,750ml,250mL,18,,133kJ,0.0g,0.0g,0.0g,7.4g,7.2g,15mg,3,FALSE,3,FALSE,,,1534286975.0-W-8804
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Cordial Pink Grape Fruit,Drinks,750ml,250mL(when diluted with water as per instruction,15,,129kJ,0g,0g,0g,7.6g,7.5g,1.5mg,3.85,FALSE,3.85,FALSE,,,1534286975.0-W-8805
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Raspberry Cordial,Drinks,750ml,Ml,,,,,,,,,,3.85,FALSE,3.85,FALSE,,,1534286975.0-W-8806
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Blackcurrant Fruit Juice Syrup,Drinks,750ml,Ml,,,,,,,,,,4.7,FALSE,4.7,FALSE,,,1534286975.0-W-8807
+2018-08-15 08:49:35 UTC,hansells,Hansells All Natural Fruit Syrup Mandarin Lime & Bitters,Drinks,750ml,200mL,22,,118kj,<1g,<1g,0g,6.6g,6.5g,<5mg,6,FALSE,6,FALSE,,,1534286975.0-W-8808
+2018-08-15 08:49:35 UTC,buderim,Buderim Lemon & Lime Bitters ,Drinks,750ml,250mL Diluted (50mL Cordial 200ml Water),15,,217kJ,<1g,<0.1g,<0.1g,12.7g,12.7g,6mg,4,TRUE,3.5,FALSE,,,1534286975.0-W-8809
+2018-08-15 08:49:35 UTC,buderim,Buderim Cordial Ginger Reduced Sugar,Drinks,750ml,"250mL (Diluted), (50mL Cordial: 200mL Water)",15,,69kJ,0.0g,<0.1g,<0.1g,4.0g,3.8g,8mg,4,TRUE,3.5,FALSE,,,1534286975.0-W-8810
+2018-08-15 08:49:35 UTC,capi,Capi Sparkling Mneral Water Lemon Grass,Drinks,750ml,Ml,,,,,,,,,,3.15,FALSE,3.15,FALSE,,,1534286975.0-W-8811
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Lime Cordial,Drinks,750ml,250mL (when diluted with water as per instruction),18,,124kJ,<1g,0g,0g,7.3g,7.3g,6.8mg,3.85,FALSE,3.85,FALSE,,,1534286975.0-W-8812
+2018-08-15 08:49:35 UTC,schweppes,Schweppes Lime Juice Cordial,Drinks,750ml,250mL,18,,128kJ,0g,0g,0g,7.4g,7.3g,2mg,4.5,TRUE,4,FALSE,,,1534286975.0-W-8813
+2018-08-15 08:49:35 UTC,hansells,Hansells All Natural Fruit Syrup Lemon Raspberry & Elderberry,Drinks,750ml,200mL diluted,22,,114kj,<1g,<1g,0g,6.7g,6.5g,<5mg,6,FALSE,6,FALSE,,,1534286975.0-W-8814
+2018-08-15 08:49:35 UTC,icelandic,Icelandic Sparkling Mineral Water ,Drinks,750ml,Ml,,,,,,,,,,5,FALSE,5,FALSE,,,1534286975.0-W-8815
+2018-08-15 08:49:35 UTC,capi,Capi Sparkling Mineral Water,Drinks,750ml,Ml,,,,,,,,,,3.15,FALSE,3.15,FALSE,,,1534286975.0-W-8816
+2018-08-15 08:49:35 UTC,capi,Capi Sparkling Mneral Water Cucumber,Drinks,750ml,Ml,,,,,,,,,,3.15,FALSE,3.15,FALSE,,,1534286975.0-W-8817
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Peach Tea Cordial,Drinks,750ml,250mL,15,,119kJ,<1g,0g,0g,7.0g,7.0g,9.5mg,3.85,FALSE,3.85,FALSE,,,1534286975.0-W-8818
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Lemon Cordial,Drinks,750ml,250mL,15,,160kJ,<1g,0g,0g,9.4g,8.0g,8.0mg,3.85,FALSE,3.85,FALSE,,,1534286975.0-W-8819
+2018-08-15 08:49:35 UTC,bickfords,Bickfords Lemon & Lime Bitters Cordial,Drinks,750ml,250mL,15,,180kJ,<1g,0g,0g,10.6g,10.0g,17.0mg,3.85,FALSE,3.85,FALSE,,,1534286975.0-W-8820
+2018-08-15 08:49:36 UTC,schweppes,Schweppes Mineral Water Lemon & Lime Cans,Drinks,6x200ml pack,ml pack,,,,,,,,,,6.15,TRUE,4.85,FALSE,,,1534286976.0-W-8821
+2018-08-15 08:49:36 UTC,schweppes,Schweppes Solo Lemon Cans,Drinks,6x200ml pack,200mL,6,,200kJ,0.05g,0g,0g,11.5g,11.5g,18mg,6.15,TRUE,4.85,FALSE,,,1534286976.0-W-8822
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Fruit Drink 35% Orange Mango,Drinks,6x250ml,100ml,1,,Approx. 172kJ,Approx. 0.2g,Approx. 0g,Approx. 0g,Approx. 9.9g,Approx. 9.5g,<5mg,2.65,FALSE,2.65,FALSE,,,1534286976.0-W-8823
+2018-08-15 08:49:36 UTC,remedy kombucha,Remedy Kombucha Raspberry Lemonade ,Drinks,700ml,Ml,,,,,,,,,,6,TRUE,5,FALSE,,,1534286976.0-W-8824
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Fruit Drink 35% Orange,Drinks,6x250ml,100ml,1,,Approx. 174kJ,Approx. 0.2g,Approx. 0g,Approx. 0g,Approx. 10g,Approx. 9.6g,<5mg,2.65,FALSE,2.65,FALSE,,,1534286976.0-W-8825
+2018-08-15 08:49:36 UTC,homebrand,Homebrand Soda Water ,Drinks,6x300ml,300mL,6,,0.0kJ,0.0g,0.0g,0.0g,0.0g,0.0g,5mg,4.8,FALSE,4.8,FALSE,,,1534286976.0-W-8826
+2018-08-15 08:49:36 UTC,tru blu,Tru Blu Pub Squash Pub Squash,Drinks,6x300ml,Ml,,,,,,,,,,4.8,FALSE,4.8,FALSE,,,1534286976.0-W-8827
+2018-08-15 08:49:36 UTC,tru blu,Tru Blu Lido Lemonade,Drinks,6x300ml,Ml,,,,,,,,,,4.8,FALSE,4.8,FALSE,,,1534286976.0-W-8828
+2018-08-15 08:49:36 UTC,remedy kombucha,Remedy Kombucha Ginger Lemon ,Drinks,700ml,Ml,,,,,,,,,,6,TRUE,5,FALSE,,,1534286976.0-W-8829
+2018-08-15 08:49:36 UTC,remedy kombucha,Remedy Kombucha Apple Crisp ,Drinks,700ml,Ml,,,,,,,,,,6,TRUE,5,FALSE,,,1534286976.0-W-8830
+2018-08-15 08:49:36 UTC,mojo kombucha,Mojo Kombucha Organic Sparkling Probiotic Turmeric Trio,Drinks,450ml,225mL,2,,48kJ,0.1g,0.0g,0.0g,2.1g,1.9g,8.0mg,4.4,TRUE,4,FALSE,,,1534286976.0-W-8831
+2018-08-15 08:49:36 UTC,mojo,Mojo Kombucha Passionfruit,Drinks,450ml,225mL,2,,61kJ,01g,0.0g,0.0g,2.0g,1.9g,5.9mg,4.4,TRUE,4,FALSE,,,1534286976.0-W-8832
+2018-08-15 08:49:36 UTC,mojo,Mojo Kombucha Ginger,Drinks,450ml,225mL,,,56kJ,0.0g,0.0g,0.0g,2.3g,1.9g,5.0mg,4.4,TRUE,4,FALSE,,,1534286976.0-W-8833
+2018-08-15 08:49:36 UTC,pepsi,Pepsi Bottle ,Drinks,600ml,Ml,,,,,,,,,,3,FALSE,3,FALSE,,,1534286976.0-W-8834
+2018-08-15 08:49:36 UTC,coca cola,Coca Cola No Sugar Bottle,Drinks,600ml,Ml,,,,,,,,,,3.6,TRUE,3.15,FALSE,,,1534286976.0-W-8835
+2018-08-15 08:49:36 UTC,schweppes,Schweppes Solo Bottle,Drinks,600ml,Ml,,,,,,,,,,3,FALSE,3,FALSE,,,1534286976.0-W-8836
+2018-08-15 08:49:36 UTC,nature's cuppa,Nature's Cuppa English Breakfast Tea Bags,Drinks,60pk 150g,g,,,,,,,,,,6.38,FALSE,6.38,FALSE,,,1534286976.0-W-8837
+2018-08-15 08:49:36 UTC,vitafresh,Vitafresh Sweet Navel Orange Drink Mix Sachet,Drinks,67g,g,,,,,,,,,,0.75,FALSE,0.75,FALSE,,,1534286976.0-W-8838
+2018-08-15 08:49:36 UTC,pepsi,Pepsi Max Mini Cans,Drinks,6x200ml,200mL,6,,1.6kJ,0.06g,0g,0g,0.06g,0g,14mg,6.15,TRUE,4.85,FALSE,,,1534286976.0-W-8839
+2018-08-15 08:49:36 UTC,schweppes,Schweppes Lemonade Cans,Drinks,6x200ml pack,200mL,1,,187kJ,0g,0g,0g,10.8g,10.8g,21mg,6.15,TRUE,4.85,FALSE,,,1534286976.0-W-8840
+2018-08-15 08:49:36 UTC,daily juice,Daily Juice Breakfast ,Drinks,500ml,Ml,,,,,,,,,,3,FALSE,3,TRUE,2,2.4,1534286976.0-W-8841
+2018-08-15 08:49:36 UTC,the juice lab,The Juice Lab Gimme Green Fruit Juice,Drinks,400ml,400mL,1,,212kJ,0.4g,0.4g,0.1g,11.7g,8.4g,6mg,4,FALSE,4,FALSE,,,1534286976.0-W-8842
+2018-08-15 08:49:36 UTC,the juice lab,The Juice Lab Love Potion Fruit Juice,Drinks,400ml,400mL,1,,183kJ,0.3g,0.4g,0.1g,10.3g,10.2g,1mg,4,FALSE,4,FALSE,,,1534286976.0-W-8843
+2018-08-15 08:49:36 UTC,berri canned,Berri Canned Apricot Nectar With 35% Juice,Drinks,405ml,405mL,1,,295kJ,0.2g,<1g,0g,16.9g,15.6g,8mg,2,FALSE,2,FALSE,,,1534286976.0-W-8844
+2018-08-15 08:49:36 UTC,nerada,Nerada Organic Peppermint Tea Bags,Drinks,40pk 60g,1Teabag infused in 200mL of freshly boiled water,40,,3.8kJ,<1g,<1g,<1g,<1g,<1g,<5mg,5,FALSE,5,FALSE,,,1534286976.0-W-8845
+2018-08-15 08:49:36 UTC,mojo,Mojo Kombucha Strawberry & Hibiscus,Drinks,450ml,225mL,2,,52kJ,0.06g,0.0g,0.0g,2.0g,1.9g,5.3mg,4.4,TRUE,4,FALSE,,,1534286976.0-W-8846
+2018-08-15 08:49:36 UTC,belvoir,Belvoir Fruit Farms Blueberry & Blackcurrant Cordial,Drinks,500ml,250ml,18,,Approx. 89kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 5.2g,Approx. 4.9g,Approx. 0mg,6.5,FALSE,6.5,FALSE,,,1534286976.0-W-8847
+2018-08-15 08:49:36 UTC,nudie,Nudie Nothing But Carrot Ginger & More,Drinks,400ml,250mL,1,,172kJ,<1g,<1g,<1g,9.3g,8.1g,19mg,3.1,TRUE,2.85,FALSE,,,1534286976.0-W-8848
+2018-08-15 08:49:36 UTC,the juice lab,The Juice Lab Rise & Shine Fruit Juice,Drinks,400ml,400mL,1,,180kJ,0.6g,0.2g,0.1g,9.5g,8.0g,8mg,4,FALSE,4,FALSE,,,1534286976.0-W-8849
+2018-08-15 08:49:36 UTC,nudie,Nudie 100% Orange Juice,Drinks,400ml,250mL,1.6,,180kJ,<1g,<1g,<1g,10g,7.6g,,3.1,TRUE,2.85,FALSE,,,1534286976.0-W-8850
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Lightly Sparkling Spring Water,Drinks,6 pack,500mL,6,,0kJ,0.0g,0.0g,0.0g,0.0g,0.0g,2mg,5.85,FALSE,5.85,FALSE,,,1534286976.0-W-8851
+2018-08-15 08:49:36 UTC,mount franklin,Mount Franklin Lightly Sparkling Lemon Water,Drinks,4x450ml,450mL,4,,2.8kJ,0g,0g,0g,0g,0g,5.0mg,6.6,FALSE,6.6,FALSE,,,1534286976.0-W-8852
+2018-08-15 08:49:36 UTC,lipton,Lipton Black Tea Decaffeinated,Drinks,50 pack,1Teabag infused in 200mL of bioling water,50,,Negligible,0g,0g,0g,0g,0g,Negligible,5.2,FALSE,5.2,FALSE,,,1534286976.0-W-8853
+2018-08-15 08:49:36 UTC,dilmah,Dilmah Extra Strength Tea Bags,Drinks,50 pack,,,,,,,,,,,3,FALSE,3,FALSE,,,1534286976.0-W-8854
+2018-08-15 08:49:36 UTC,twinings,Twinings Lemon Scented Tea Bags,Drinks,50 pack,,,,,,,,,,,7,FALSE,7,FALSE,,,1534286976.0-W-8855
+2018-08-15 08:49:36 UTC,nature's cuppa,Nature's Cuppa Organic Spice Chai Tea Bags,Drinks,50 pack,,,,,,,,,,,7,FALSE,7,FALSE,,,1534286976.0-W-8856
+2018-08-15 08:49:36 UTC,dilmah,Dilmah Family Pack Loose Leaf Tea,Drinks,500g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534286976.0-W-8857
+2018-08-15 08:49:36 UTC,vittoria,Vittoria Italian Ground ,Drinks,500g,g,,,,,,,,,,11,FALSE,11,FALSE,,,1534286976.0-W-8858
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Lightly Sparkling Spring Water,Drinks,500ml,500mL,1,,0kJ,0.0g,0.0g,0.0g,0.0g,0.0g,2mg,1.75,FALSE,1.75,FALSE,,,1534286976.0-W-8859
+2018-08-15 08:49:36 UTC,daily juice,Daily Juice Orange Juice Pulp Free,Drinks,500ml,500mL,1,,153kJ,0.6g,<1g,0g,9.0g,8.3g,8mg,3,FALSE,3,TRUE,2,2.4,1534286976.0-W-8860
+2018-08-15 08:49:36 UTC,belvoir,Belvoir Fruit Farms Elderflower Cordial,Drinks,500ml,250ml,22,,Approx. 73kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 4.3g,Approx. 4.2g,Approx. 0mg,6.5,FALSE,6.5,FALSE,,,1534286976.0-W-8861
+2018-08-15 08:49:36 UTC,belvoir,Belvoir Fruit Farms Lime & Lemongrass Cordial,Drinks,500ml,250ml,18,,Approx. 74kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 4.3g,Approx. 4.2g,Approx. 0mg,6.5,FALSE,6.5,FALSE,,,1534286976.0-W-8862
+2018-08-15 08:49:36 UTC,arizona,Arizona Iced Lemon Tea ,Drinks,500ml,250mL,2,,149kJ,<1g,<1g,<1g,9g,9g,4mg,2,FALSE,2,FALSE,,,1534286976.0-W-8863
+2018-08-15 08:49:36 UTC,dilmah,Dilmah Earl Grey Tea Bags,Drinks,50pk,,,,,,,,,,,5.2,TRUE,3.5,FALSE,,,1534286976.0-W-8864
+2018-08-15 08:49:36 UTC,twinings,Twinings Ceylon Orange Pekoe Tea Bags,Drinks,50pk 100g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534286976.0-W-8865
+2018-08-15 08:49:36 UTC,nerada,Nerada Organic Chai Tea ,Drinks,50pk 93g,1Teabag infused in 200mL of freshly boiled water,50,,5kJ,<1g,<1g,<1g,<1g,<1g,<5mg,4.7,TRUE,3.7,FALSE,,,1534286976.0-W-8866
+2018-08-15 08:49:36 UTC,madura,Madura Earl Grey Tea Bags,Drinks,50pk 100g,1tea bag per 220mL,50,,<6.60kJ,<0.08g,<0.08g,<0.08g,<0.08g,<0.08g,4.10mg,5,FALSE,5,FALSE,,,1534286976.0-W-8867
+2018-08-15 08:49:36 UTC,moores,Moores Ultra Pure Still Water,Drinks,5l,Litre,,,,,,,,,,4.7,FALSE,4.7,FALSE,,,1534286976.0-W-8868
+2018-08-15 08:49:36 UTC,bundaberg,Bundaberg Traditional Lemonade 4x375ml,Drinks,4x375ml,Ml,,,,,,,,,,6.3,TRUE,5.1,FALSE,,,1534286976.0-W-8869
+2018-08-15 08:49:36 UTC,bundaberg,Bundaberg Sparkling Guava Sparkling Drink,Drinks,4x375ml,375mL,1,,196kJ,<1g,<1g,<1g,11.5g,11.5g,9mg,6.3,TRUE,5.1,FALSE,,,1534286976.0-W-8870
+2018-08-15 08:49:36 UTC,belvoir,Belvoir Fruit Farms Ginger Cordial,Drinks,500ml,,,,,Approx. 0g,,,,Approx. 4.9g,,6.5,FALSE,6.5,FALSE,,,1534286976.0-W-8876
+2018-08-15 08:49:36 UTC,belvoir,Belvoir Fruit Farms Elderflower & Rose Cordial,Drinks,500ml,250ml,22,,Approx. 82kJ,Approx. 0g,Approx. 0g,Approx. 0g,Approx. 4.7g,Approx. 4.7g,Approx. 0mg,6.5,FALSE,6.5,FALSE,,,1534286976.0-W-8877
+2018-08-15 08:49:36 UTC,bottlegreen,Bottlegreen Cordial Elderflower,Drinks,500ml,250mL (diluted 1:10),22,,113kJ,0g,0g,0g,6.6g,6.6g,7.2mg,7,TRUE,5,FALSE,,,1534286976.0-W-8880
+2018-08-15 08:49:39 UTC,nescafe blend 43,Nescafe Blend 43 Instant Coffee Blend 43 Decaffeinated,Drinks,250g,g,,,,,,,,,,18,FALSE,18,FALSE,,,1534286979.0-W-9630
+2018-08-15 08:49:39 UTC,quarterpast coffee,Quarterpast Coffee Coffee Syrup Caramel,Drinks,250ml,(1serving = 15mL syrup + 185mL coffee with standard milk),16,,198kJ,1.4g,1.2g,0.7g,7.7g,7.6g,18mg,6.49,FALSE,6.49,FALSE,,,1534286979.0-W-9631
+2018-08-15 08:49:39 UTC,nescafe blend 43,Nescafe Blend 43 Instant Coffee Blend 43 Decaffeinated,Drinks,50g,g,,,,,,,,,,5.3,FALSE,5.3,FALSE,,,1534286979.0-W-9633
+2018-08-15 08:49:39 UTC,bushells,Bushells Coffee Essence Sweet Chicory,Drinks,250ml,Two dessert spoons (20mL),12.5,,1375kJ,<1.0g,<1.0g,<1.0g,80.5g,,620mg,4.3,FALSE,4.3,FALSE,,,1534286979.0-W-9634
+2018-08-15 08:49:39 UTC,quarterpast coffee,Quarterpast Coffee Coffee Syrup Vanilla,Drinks,250ml,16x 200mL (1 serving=15mL syrup +185mL coffee with standard milk),16,,197kJ,1.4g,1.2g,0.7g,7.6g,7.5g,18mg,6.49,FALSE,6.49,FALSE,,,1534286979.0-W-9635
+2018-08-15 08:49:39 UTC,robert timms,Robert Timms Instant Coffee Espresso,Drinks,200g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534286979.0-W-9640
+2018-08-15 08:49:39 UTC,moccona,Moccona Freeze Dried Instant Coffee Rich,Drinks,200g,g,,,,,,,,,,19,TRUE,16,FALSE,,,1534286979.0-W-9641
+2018-08-15 08:49:39 UTC,nescafe,Nescafe Gold Intense,Drinks,200g,g,,,,,,,,,,18,TRUE,12,FALSE,,,1534286979.0-W-9642
+2018-08-15 08:49:39 UTC,nescafe,Nescafe Gold Original,Drinks,200g,g,,,,,,,,,,18,TRUE,12,FALSE,,,1534286979.0-W-9643
+2018-08-15 08:49:39 UTC,moccona,Moccona Wholebean Barista Crema,Drinks,175g,g,,,,,,,,,,18,FALSE,18,FALSE,,,1534286979.0-W-9644
+2018-08-15 08:49:39 UTC,moccona,Moccona Wholebean Barista Smooth Espresso,Drinks,175g,g,,,,,,,,,,18,FALSE,18,FALSE,,,1534286979.0-W-9645
+2018-08-15 08:49:39 UTC,bushells,Bushells Powdered Coffee Classic,Drinks,200g,1.7g,117,,1470kJ,23.2g,0.5g,0.2g,62g,<0.1g,7mg,6,FALSE,6,FALSE,,,1534286979.0-W-9646
+2018-08-15 08:49:39 UTC,moccona,Moccona Freeze Dried Instant Coffee Exotic,Drinks,200g,g,,,,,,,,,,19,TRUE,16,FALSE,,,1534286979.0-W-9647
+2018-08-15 08:49:39 UTC,robert timms,Robert Timms Instant Coffee Premium Full-bodied,Drinks,200g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534286979.0-W-9648
+2018-08-15 08:49:39 UTC,homebrand,Homebrand Instant Coffee Granules Granulated Coffee,Drinks,200g,g,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534286979.0-W-9649
+2018-08-15 08:49:39 UTC,nescafe,Nescafe Instant Coffee Blend 43 Smooth & Creamy,Drinks,140g,g,,,,,,,,,,9.4,TRUE,7.5,FALSE,,,1534286979.0-W-9650
+2018-08-15 08:49:39 UTC,nescafe blend 43,Nescafe Blend 43 Instant Coffee Blend 43 Espresso,Drinks,150g,g,,,,,,,,,,9.4,TRUE,7.5,FALSE,,,1534286979.0-W-9651
+2018-08-15 08:49:39 UTC,nestle coffee mate,Nestle Coffee Mate Coffee Flavouring Hazelnut,Drinks,10pk 150g,15mL,10,,1100kJ,1.0g,14g,14g,33g,33g,15mg,4,FALSE,4,FALSE,,,1534286979.0-W-9652
+2018-08-15 08:49:39 UTC,nature's cuppa,Nature's Cuppa Freeze Dried Coffee Caffeine Free,Drinks,125g,2.5g (1 teaspoon),50,,36kJ,0.1g,0.0g,0.0g,1.8g,0.1g,3mg,5,TRUE,4,FALSE,,,1534286979.0-W-9653
+2018-08-15 08:49:39 UTC,nescafe blend 43,Nescafe Blend 43 Instant Coffee ,Drinks,500g,g,,,,,,,,,,20,FALSE,20,FALSE,,,1534286979.0-W-9654
+2018-08-15 08:49:39 UTC,nescafe blend 43,Nescafe Blend 43 Instant Coffee Blend 43,Drinks,300g,g,,,,,,,,,,16,TRUE,13,FALSE,,,1534286979.0-W-9655
+2018-08-15 08:49:39 UTC,nescafe blend 43,Nescafe Blend 43 Instant Coffee Coffee,Drinks,50g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534286979.0-W-9656
+2018-08-15 08:49:39 UTC,nescafe blend 43,Nescafe Blend 43 Instant Coffee ,Drinks,150g,g,,,,,,,,,,9.4,TRUE,7.5,FALSE,,,1534286979.0-W-9657
+2018-08-15 08:49:39 UTC,nescafe blend 43,Nescafe Blend 43 Instant Coffee Blend 43 Espresso,Drinks,300g,g,,,,,,,,,,16,TRUE,13,FALSE,,,1534286979.0-W-9658
+2018-08-15 08:49:39 UTC,moccona,Moccona Wholebean Barista Rich Espresso,Drinks,175g,g,,,,,,,,,,18,FALSE,18,FALSE,,,1534286979.0-W-9659
+2018-08-15 08:49:39 UTC,international roast,International Roast Instant Coffee ,Drinks,500g,g,,,,,,,,,,11,FALSE,11,FALSE,,,1534286979.0-W-9660
+2018-08-15 08:49:39 UTC,nescafe,Nescafe Gold Green Blend,Drinks,100g,g,,,,,,,,,,11,TRUE,9,FALSE,,,1534286979.0-W-9661
+2018-08-15 08:49:39 UTC,homebrand,Homebrand Instant Coffee Whitener,Drinks,500g,100.0g,125,,Approx. 2290.0kJ,Approx. 1.7g,Approx. 35.0g,Approx. 31.9g,Approx. 56.7g,Approx. 10.2g,Approx. 52.0mg,3.2,FALSE,3.2,FALSE,,,1534286979.0-W-9662
+2018-08-15 08:49:39 UTC,bickford's,Bickford's Iced Coffee Syrup,Drinks,550ml,20mL,27.5,,952kJ,<1g,<1g,<1g,56g,50g,42mg,7,FALSE,7,FALSE,,,1534286979.0-W-9663
+2018-08-15 08:49:39 UTC,lavazza,Lavazza Prontissimo! Intenso Premium Instant Coffee,Drinks,95g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534286979.0-W-9664
+2018-08-15 08:49:39 UTC,lavazza,Lavazza Prontissimo! Classico Premium Instant Coffee,Drinks,95g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534286979.0-W-9665
+2018-08-15 08:49:39 UTC,moccona,Moccona Freeze Dried Instant Coffee Caramel,Drinks,95g,g,,,,,,,,,,9.95,FALSE,9.95,FALSE,,,1534286979.0-W-9666
+2018-08-15 08:49:39 UTC,moccona,Moccona Freeze Dried Instant Coffee Hazelnut,Drinks,95g,g,,,,,,,,,,9.95,FALSE,9.95,FALSE,,,1534286979.0-W-9667
+2018-08-15 08:49:39 UTC,nescafe,Nescafe Gold Dark,Drinks,100g,g,,,,,,,,,,9.5,TRUE,7,FALSE,,,1534286979.0-W-9668
+2018-08-15 08:49:39 UTC,nescafe,Nescafe Gold Smooth,Drinks,90g,g,,,,,,,,,,9,TRUE,6.5,FALSE,,,1534286979.0-W-9669
+2018-08-15 08:49:39 UTC,nescafe,Nescafe Gold Original,Drinks,320g,g,,,,,,,,,,19,FALSE,19,FALSE,,,1534286979.0-W-9670
+2018-08-15 08:49:39 UTC,nescafe blend 43,Nescafe Blend 43 Instant Coffee Mild Roast,Drinks,300g,g,,,,,,,,,,16,TRUE,13,FALSE,,,1534286979.0-W-9671
+2018-08-15 08:49:39 UTC,robert timms,Robert Timms Coffee  Bags Royal,Drinks,28 pack,,,,,,,,,,,9.65,TRUE,4.82,FALSE,,,1534286979.0-W-9672
+2018-08-15 08:49:39 UTC,robert timms,Robert Timms Coffee  Bags Mocha Kenya Style,Drinks,28pk 168g,g,,,,,,,,,,9.65,TRUE,4.82,FALSE,,,1534286979.0-W-9673
+2018-08-15 08:49:39 UTC,grinders,Grinders Cold Brew Coffee,Drinks,300ml,Ml,,,,,,,,,,9.15,TRUE,4.5,FALSE,,,1534286979.0-W-9674
+2018-08-15 08:49:39 UTC,nestle coffee mate,Nestle Coffee Mate Instant Coffee & Milk,Drinks,385g,25g,15.4,,1350kJ,8.0g,9.1g,6.6g,51.3g,50.0g,220mg,4.1,FALSE,4.1,FALSE,,,1534286979.0-W-9675
+2018-08-15 08:49:39 UTC,moccona,Moccona Freeze Dried Instant Coffee Espresso,Drinks,400g,g,,,,,,,,,,24,FALSE,24,FALSE,,,1534286979.0-W-9676
+2018-08-15 08:49:39 UTC,nestle coffee mate,Nestle Coffee Mate Coffee Flavouring Whitener,Drinks,400g,4g,100,,2300kJ,1.3g,35g,34g,57g,15g,200mg,4,FALSE,4,FALSE,,,1534286979.0-W-9677
+2018-08-15 08:49:39 UTC,espressotoria,Espressotoria Milk Frother ,Drinks,each,each,,,,,,,,,,59,FALSE,59,FALSE,,,1534286979.0-W-9678
+2018-08-15 08:49:39 UTC,caffitaly,Caffitaly Milk Frother Sm9495,Drinks,each,each,,,,,,,,,,49,FALSE,49,FALSE,,,1534286979.0-W-9679
+2018-08-15 08:49:39 UTC,map,Map Clean Bean Descaler ,Drinks,250ml,Ml,,,,,,,,,,7,FALSE,7,FALSE,,,1534286979.0-W-9680
+2018-08-15 08:49:39 UTC,nescafe dolce gusto,Nescafe Dolce Gusto Coffee Capsules Cafe Au Lait,Drinks,16 pack,10g/180mL (as prepared),16,,1670kJ,21.2g,20.0g,12.5g,29.4g,29.1g,410mg,8.5,FALSE,8.5,FALSE,,,1534286979.0-W-9681
+2018-08-15 08:49:39 UTC,map,Map Clean Bean Cleaning System ,Drinks,each,each,,,,,,,,,,7,FALSE,7,FALSE,,,1534286979.0-W-9682
+2018-08-15 08:49:39 UTC,espressotoria,Espressotoria Capino Black Coffee Capsule Machine,Drinks,each,each,,,,,,,,,,99,FALSE,99,FALSE,,,1534286979.0-W-9683
+2018-08-15 08:49:39 UTC,nescafe dolce gusto,Nescafe Dolce Gusto Coffee Capsules Americano,Drinks,16 pack,,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534286979.0-W-9684
+2018-08-15 08:49:39 UTC,lavazza,Lavazza A Modo Mio Passionale Coffee Capsules,Drinks,16 pack,,,,,,,,,,,11,FALSE,11,FALSE,,,1534286979.0-W-9685
+2018-08-15 08:49:39 UTC,nescafe dolce gusto,Nescafe Dolce Gusto Coffee Capsules Latte Macchiato,Drinks,16 pack,,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534286979.0-W-9686
+2018-08-15 08:49:39 UTC,l'or espresso,L'or Espresso Lungo Profondo Coffee Capsules Compatible With Nespresso,Drinks,20 pack,,,,,,,,,,,11,FALSE,11,FALSE,,,1534286979.0-W-9687
+2018-08-15 08:49:39 UTC,l'or espresso,L'or Espresso Onyx Coffee Capsules Compatible With Nespresso,Drinks,20 pack,,,,,,,,,,,11,FALSE,11,FALSE,,,1534286979.0-W-9688
+2018-08-15 08:49:39 UTC,caffitaly,Caffitaly S24 Black Coffee Machine,Drinks,each,each,,,,,,,,,,119,FALSE,119,FALSE,,,1534286979.0-W-9689
+2018-08-15 08:49:39 UTC,map,Map Coffee Capsules Cappuccino Blend,Drinks,10pk,,,,,,,,,,,5,FALSE,5,FALSE,,,1534286979.0-W-9690
+2018-08-15 08:49:39 UTC,map,Map Coffee Capsules Extra Strong Roast,Drinks,10pk,,,,,,,,,,,5,FALSE,5,FALSE,,,1534286979.0-W-9691
+2018-08-15 08:49:39 UTC,espressotoria,Espressotoria Vittoria Coffee Mountain Grown Coffee Capsules,Drinks,12 pack,,,,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534286979.0-W-9692
+2018-08-15 08:49:39 UTC,espressotoria,Espressotoria Vittoria Coffee Italian Coffee Capsules,Drinks,12 pack,,,,,,,,,,,7,FALSE,7,FALSE,,,1534286979.0-W-9693
+2018-08-15 08:49:39 UTC,lavazza,Lavazza A Modo Mio Delizioso Coffee Capsules,Drinks,16 pack,,,,,,,,,,,11,FALSE,11,FALSE,,,1534286979.0-W-9694
+2018-08-15 08:49:39 UTC,espressotoria,Espressotoria Vittoria Coffee Oro Coffee Capsules,Drinks,12 pack,,,,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534286979.0-W-9695
+2018-08-15 08:49:39 UTC,espressotoria,Espressotoria Vittoria Coffee Espresso Coffee Capsules,Drinks,12 pack,,,,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534286979.0-W-9696
+2018-08-15 08:49:39 UTC,espressotoria,Espressotoria Chicco D'oro Espresso Coffee Capsules,Drinks,12 pack,,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534286979.0-W-9697
+2018-08-15 08:49:39 UTC,nescafe dolce gusto,Nescafe Dolce Gusto Coffee Capsules Espresso Intenso,Drinks,16 pack,,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534286979.0-W-9698
+2018-08-15 08:49:39 UTC,nescafe dolce gusto,Nescafe Dolce Gusto Coffee Capsules Ristretto Ardenza,Drinks,16 pack,,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534286979.0-W-9699
+2018-08-15 08:49:39 UTC,map,Map Coffee Capsules Medium Roast,Drinks,10pk,,,,,,,,,,,5,FALSE,5,FALSE,,,1534286979.0-W-9700
+2018-08-15 08:49:39 UTC,gloria jeans,Gloria Jeans Caramel Indulgence Coffee Capsules,Drinks,10 pack,8g of Coffee per 60mL of water,10,,43.0kJ,0.2g,0.2g,<1.0g,2.0g,<1.0g,5.0mg,6,FALSE,6,FALSE,,,1534286979.0-W-9701
+2018-08-15 08:49:39 UTC,map,Map Coffee Capsules Strong Roast,Drinks,10pk,,,,,,,,,,,5,FALSE,5,FALSE,,,1534286979.0-W-9702
+2018-08-15 08:49:39 UTC,gloria jeans,Gloria Jeans Smooth Classic Coffee Capsules,Drinks,10 pack,,,,,,,,,,,5,FALSE,5,FALSE,,,1534286979.0-W-9705
+2018-08-15 08:49:39 UTC,gloria jeans,Gloria Jeans Breakfast Blend Coffee Capsules,Drinks,10 pack,,,,,,,,,,,5,FALSE,5,FALSE,,,1534286979.0-W-9706
+2018-08-15 08:49:39 UTC,espressotoria,Espressotoria Aurora Coffee Italian Coffee Capsules,Drinks,100g,g,,,,,,,,,,5.6,TRUE,4.5,FALSE,,,1534286979.0-W-9707
+2018-08-15 08:49:39 UTC,espressotoria,Espressotoria Coffee Capsules Caffe Aurora Espresso,Drinks,100g,g,,,,,,,,,,5.6,TRUE,4.5,FALSE,,,1534286979.0-W-9708
+2018-08-15 08:49:39 UTC,grinders coffee capsules,Grinders Coffee Capsules Double Espresso Caffitaly System,Drinks,10pk,,,,,,,,,,,6.5,TRUE,5.5,FALSE,,,1534286979.0-W-9709
+2018-08-15 09:49:37 UTC,woolworths,Woolworths Dry Ginger Ale ,Drinks,1.25l,250mL,5,,128kJ,0.0g,0.0g,0.0g,7.5g,7.5g,11mg,0.9,FALSE,0.9,FALSE,,,1534290577.0-W-12480
+2018-08-15 09:49:37 UTC,zymil ,Zymil Lactose Free Milk ,Drinks,3pk 750ml,Ml,,,,,,,,,,3.2,FALSE,3.2,FALSE,,,1534290577.0-W-12482

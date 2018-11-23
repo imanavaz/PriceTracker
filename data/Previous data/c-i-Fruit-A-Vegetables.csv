@@ -1,0 +1,670 @@
+Date of data Extraction,Brand,Product name,Category,Pack size,Serving size,Servings per pack,Product code,Energy per 100g (or 100ml),Protein per 100g (or 100ml),Total fat per 100g (or 100ml),Saturated fat per 100g (or 100ml),Carbohydrate per 100g (or 100ml),Sugars per 100g (or 100ml),Sodium per 100g (or 100ml),Original Price,Price Promoted,Price Promoted Price,Multi Buy Special,Multi Buy Special Details,Multi Buy Price,UID
+2018-08-15 06:09:29 UTC,Coles,Rockmelon Whole,Fruit & Vegetables,1 each,,,428915P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277369.0-C-282
+2018-08-15 06:09:29 UTC,Coles,Brown Onions Prepacked,Fruit & Vegetables,1kg,,,4803991P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277369.0-C-286
+2018-08-15 06:09:29 UTC,Coles,Garlic,Fruit & Vegetables,4 pack,,,100220P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277369.0-C-291
+2018-08-15 06:09:29 UTC,Coles,Lemongrass Sleeved,Fruit & Vegetables,1 each,,,4575650P,,,,,,,,2,FALSE,2,FALSE,,,1534277369.0-C-302
+2018-08-15 06:09:29 UTC,Coles,Top On Pineapple,Fruit & Vegetables,1 each,,,410046P,,,,,,,,3.9,FALSE,3.9,FALSE,,,1534277369.0-C-303
+2018-08-15 06:09:29 UTC,Coles,Vegetable Mash,Fruit & Vegetables,350g,,,2679610P,288,1.1,2.1,1.5,10.5,2.1,262,4,FALSE,4,FALSE,,,1534277369.0-C-315
+2018-08-15 06:09:29 UTC,Coles,Gourmandine Potatoes,Fruit & Vegetables,2kg,,,2729490P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277369.0-C-316
+2018-08-15 06:09:29 UTC,Coles,Red Royale Washed Potatoes Prepacked,Fruit & Vegetables,2kg,,,7963859P,,,,,,,,7,FALSE,7,FALSE,,,1534277369.0-C-317
+2018-08-15 06:09:29 UTC,Coles,Baby Potatoes With Herb Butter,Fruit & Vegetables,400g,,,8164806P,330,1.9,2.8,1.5,10.5,LESS THAN 1g,32,4,FALSE,4,FALSE,,,1534277369.0-C-335
+2018-08-15 06:09:29 UTC,Coles,Traditional Stir Fry,Fruit & Vegetables,375g,,,3210054P,,,,,,,,4,FALSE,4,FALSE,,,1534277369.0-C-340
+2018-08-15 06:09:29 UTC,Coles,Organic Baby Spinach,Fruit & Vegetables,100g,,,2725922P,,,,,,,,4,FALSE,4,FALSE,,,1534277369.0-C-360
+2018-08-15 06:09:29 UTC,Casa Di Noci,Honey Roasted Almonds,Fruit & Vegetables,350g,,,9186495P,,,,,,,,6.9,FALSE,6.9,FALSE,,,1534277369.0-C-445
+2018-08-15 06:09:29 UTC,Coles,Topless Pineapple Half,Fruit & Vegetables,1 each,,,5536948P,,,,,,,,1.3,FALSE,1.3,FALSE,,,1534277369.0-C-446
+2018-08-15 06:09:29 UTC,Coles,Seedless Watermelon Whole,Fruit & Vegetables,approx. 7.5kg ea,,,4205264P,,,,,,,,18.75,FALSE,18.75,FALSE,,,1534277369.0-C-447
+2018-08-15 06:09:29 UTC,Coles,Blueberries Prepacked,Fruit & Vegetables,125g,,,5543535P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277369.0-C-458
+2018-08-15 06:09:29 UTC,Coles,Fresh Lemons Prepacked,Fruit & Vegetables,5 pack,,,409728P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277369.0-C-459
+2018-08-15 06:09:29 UTC,Coles,Limes,Fruit & Vegetables,5 pack,,,8128020P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277369.0-C-460
+2018-08-15 06:09:29 UTC,Coles,Packham Pears Prepacked,Fruit & Vegetables,1kg,,,9006662P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277369.0-C-467
+2018-08-15 06:09:29 UTC,Coles,Kids Pack Pears,Fruit & Vegetables,1kg,,,2511656P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277369.0-C-468
+2018-08-15 06:09:29 UTC,Coles,Strawberries Prepacked,Fruit & Vegetables,250g,,,5191256P,,,,,,,,1.8,FALSE,1.8,TRUE,3,1.66,1534277369.0-C-469
+2018-08-15 06:09:29 UTC,Coles,Raspberries Prepacked,Fruit & Vegetables,125g,,,134029P,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534277369.0-C-470
+2018-08-15 06:09:29 UTC,Coles,Silverbeet,Fruit & Vegetables,1 bunch,,,408383P,,,,,,,,4,FALSE,4,FALSE,,,1534277369.0-C-477
+2018-08-15 06:09:29 UTC,Seasonal,Combo Box Fruit & Vegetable Large,Fruit & Vegetables,1 each,,,7517922P,,,,,,,,40,FALSE,40,FALSE,,,1534277369.0-C-478
+2018-08-15 06:09:29 UTC,Seasonal,Combo Box Fruit Vegetable & Salad Jumbo,Fruit & Vegetables,1 each,,,9573593P,,,,,,,,60,FALSE,60,FALSE,,,1534277369.0-C-479
+2018-08-15 06:09:29 UTC,Seasonal,Salad Box,Fruit & Vegetables,1 each,,,6686480P,,,,,,,,30,FALSE,30,FALSE,,,1534277369.0-C-480
+2018-08-15 06:09:29 UTC,Coles,Packham Pears,Fruit & Vegetables,approx. 250g each,,,156258P,,,,,,,,0.725,FALSE,0.725,FALSE,,,1534277369.0-C-481
+2018-08-15 06:09:29 UTC,Coles,Asian Choy Sum,Fruit & Vegetables,1 bunch,,,4567323P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277369.0-C-491
+2018-08-15 06:09:29 UTC,Coles,Asian Hairy Melon,Fruit & Vegetables,1 each,,,6630170P,,,,,,,,5.785,FALSE,5.785,FALSE,,,1534277369.0-C-492
+2018-08-15 06:09:29 UTC,Coles,Bitter Melon,Fruit & Vegetables,approx. 200g,,,6630125P,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534277369.0-C-493
+2018-08-15 06:09:29 UTC,Coles,Luffa Melon,Fruit & Vegetables,per kg,,,2801157P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277369.0-C-494
+2018-08-15 06:09:29 UTC,Coles,Kids Size Mandarins,Fruit & Vegetables,700g,,,2511805P,,,,,,,,3,FALSE,3,FALSE,,,1534277369.0-C-495
+2018-08-15 06:09:29 UTC,Coles,Apple & Grape Fruit Pot,Fruit & Vegetables,170g,,,2498503P,,,,,,,,4,FALSE,4,FALSE,,,1534277369.0-C-496
+2018-08-15 06:09:29 UTC,Coles,Red Jacket Potatoes,Fruit & Vegetables,2 pack,,,2794018P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277369.0-C-497
+2018-08-15 06:09:29 UTC,Seasonal,Fruit Box Snack,Fruit & Vegetables,1 each,,,8195388P,,,,,,,,18,FALSE,18,FALSE,,,1534277369.0-C-498
+2018-08-15 06:09:29 UTC,Seasonal,Combo Box Fruit & Vegetable Medium,Fruit & Vegetables,1 each,,,6686389P,,,,,,,,25,FALSE,25,FALSE,,,1534277369.0-C-499
+2018-08-15 06:09:29 UTC,Coles,Lebanese Eggplant,Fruit & Vegetables,1 each,,,4583261P,,,,,,,,0.711,FALSE,0.711,FALSE,,,1534277369.0-C-511
+2018-08-15 06:09:29 UTC,Coles,Asian Pak Choy,Fruit & Vegetables,1 bunch,,,4567039P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277369.0-C-512
+2018-08-15 06:09:29 UTC,Coles,Asian Buk Choy,Fruit & Vegetables,1 bunch,,,4565907P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277369.0-C-513
+2018-08-15 06:09:29 UTC,Coles,Asian Baby Buk Choy,Fruit & Vegetables,1 bunch,,,4566761P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277369.0-C-514
+2018-08-15 06:09:29 UTC,Coles,Chinese Broccoli,Fruit & Vegetables,1 bunch,,,4569216P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277369.0-C-515
+2018-08-15 06:09:29 UTC,Coles,Granny Smith Apples Prepacked,Fruit & Vegetables,1kg,,,4438740P,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534277369.0-C-516
+2018-08-15 06:09:29 UTC,Coles,Navel Oranges,Fruit & Vegetables,approx. 180g ea,,,4255717P,,,,,,,,0.702,FALSE,0.702,FALSE,,,1534277369.0-C-517
+2018-08-15 06:09:29 UTC,Coles,Navel Oranges,Fruit & Vegetables,5 pack,,,8086564P,,,,,,,,0,FALSE,0,FALSE,,,1534277369.0-C-518
+2018-08-15 06:09:29 UTC,Coles,Minneola Tangelos,Fruit & Vegetables,1 each,,,6803198P,,,,,,,,1.33,FALSE,1.33,FALSE,,,1534277369.0-C-519
+2018-08-15 06:09:29 UTC,Coles,Sugarloaf Cabbage Half,Fruit & Vegetables,1 each,,,4455884P,,,,,,,,0,FALSE,0,FALSE,,,1534277369.0-C-534
+2018-08-15 06:09:29 UTC,Coles,Sugarloaf Cabbage Whole,Fruit & Vegetables,1 each,,,4885136P,,,,,,,,0,FALSE,0,FALSE,,,1534277369.0-C-535
+2018-08-15 06:09:29 UTC,Coles,Organic Cabbage Half,Fruit & Vegetables,1 each,,,5057344P,,,,,,,,0,FALSE,0,FALSE,,,1534277369.0-C-536
+2018-08-15 06:09:29 UTC,Coles,Spinach Bunch,Fruit & Vegetables,1 each,,,4981027P,,,,,,,,4,FALSE,4,FALSE,,,1534277369.0-C-537
+2018-08-15 06:09:29 UTC,Coles,Purple Eggplant,Fruit & Vegetables,1 each,,,4583206P,,,,,,,,3.95,FALSE,3.95,FALSE,,,1534277369.0-C-538
+2018-08-15 06:09:29 UTC,Coles,Graffiti Eggplant,Fruit & Vegetables,1 each,,,7249517P,,,,,,,,3.105,FALSE,3.105,FALSE,,,1534277369.0-C-539
+2018-08-15 06:09:29 UTC,Coles,Lady Finger Bananas,Fruit & Vegetables,Approx. 160g each,,,132056P,,,,,,,,1.104,FALSE,1.104,FALSE,,,1534277369.0-C-540
+2018-08-15 06:09:30 UTC,Scoop & Weigh,Lunchbox Fruits Mix loose,Fruit & Vegetables,approx. 100g,,,8411235P,,,,,,,,2,FALSE,2,FALSE,,,1534277370.0-C-555
+2018-08-15 06:09:30 UTC,Coles,Savoy Cabbage Half,Fruit & Vegetables,1 each,,,4441857P,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534277370.0-C-556
+2018-08-15 06:09:30 UTC,Coles,Mini Savoy Cabbage,Fruit & Vegetables,1 each,,,1476083P,,,,,,,,3,FALSE,3,FALSE,,,1534277370.0-C-557
+2018-08-15 06:09:30 UTC,Coles,Red Kale,Fruit & Vegetables,1 each,,,1547374P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-558
+2018-08-15 06:09:30 UTC,Coles,Mini Red Cabbage,Fruit & Vegetables,1 each,,,1473970P,,,,,,,,3,FALSE,3,FALSE,,,1534277370.0-C-559
+2018-08-15 06:09:30 UTC,Coles,Organic Green Kale,Fruit & Vegetables,1 each,,,1058491P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277370.0-C-560
+2018-08-15 06:09:30 UTC,Coles,Organic Cabbage Whole,Fruit & Vegetables,1 each,,,7233448P,,,,,,,,7,FALSE,7,FALSE,,,1534277370.0-C-561
+2018-08-15 06:09:30 UTC,Coles,Modi Apples,Fruit & Vegetables,Approx. 180g each,,,5899409P,,,,,,,,0.72,FALSE,0.72,FALSE,,,1534277370.0-C-562
+2018-08-15 06:09:30 UTC,Coles,Eve Apples Medium,Fruit & Vegetables,approx. 160g,,,6908470P,,,,,,,,0.88,FALSE,0.88,FALSE,,,1534277370.0-C-563
+2018-08-15 06:09:30 UTC,Coles,Kids Pack Bananas,Fruit & Vegetables,750g,,,2511791P,,,,,,,,4.4,FALSE,4.4,FALSE,,,1534277370.0-C-564
+2018-08-15 06:09:30 UTC,Coles,Wombok Cabbage Whole,Fruit & Vegetables,1 each,,,4879042P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277370.0-C-580
+2018-08-15 06:09:30 UTC,Coles,Wombok Cabbage Half,Fruit & Vegetables,1 each,,,4456832P,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534277370.0-C-581
+2018-08-15 06:09:30 UTC,Coles,Fresh Kalettes,Fruit & Vegetables,200g,,,3198436P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277370.0-C-582
+2018-08-15 06:09:30 UTC,Coles,Tuscan Kale,Fruit & Vegetables,1 each,,,6584243P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-583
+2018-08-15 06:09:30 UTC,Coles,Brussels Sprouts loose,Fruit & Vegetables,approx. 400g,,,407766P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-584
+2018-08-15 06:09:30 UTC,Coles,Royal Gala Apples,Fruit & Vegetables,Approx. 160g each,,,5226000P,,,,,,,,0.48,FALSE,0.48,FALSE,,,1534277370.0-C-585
+2018-08-15 06:09:30 UTC,Coles,Jazz Apples,Fruit & Vegetables,approx. 180g ea,,,6427471P,,,,,,,,1.062,FALSE,1.062,FALSE,,,1534277370.0-C-586
+2018-08-15 06:09:30 UTC,Coles,Royal Gala Apples Prepacked,Fruit & Vegetables,1kg,,,4433462P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-587
+2018-08-15 06:09:30 UTC,Coles,Kids Pack Apples,Fruit & Vegetables,1kg,,,2511678P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-588
+2018-08-15 06:09:30 UTC,Coles,Green Kale,Fruit & Vegetables,1 bunch,,,8696598P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-602
+2018-08-15 06:09:30 UTC,Coles,Drumhead Cabbage Mini,Fruit & Vegetables,1 each,,,1475874P,,,,,,,,3,FALSE,3,FALSE,,,1534277370.0-C-603
+2018-08-15 06:09:30 UTC,Coles,Baby Brussels Sprouts Prepacked,Fruit & Vegetables,200g,,,9989810P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277370.0-C-604
+2018-08-15 06:09:30 UTC,Coles,Red Cabbage Half,Fruit & Vegetables,1 each,,,4457052P,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534277370.0-C-605
+2018-08-15 06:09:30 UTC,All Natural,Olive Oil Croutons,Fruit & Vegetables,150g,,,1444327P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-606
+2018-08-15 06:09:30 UTC,Coles,Mini Sweet Pineapple,Fruit & Vegetables,1 each,,,4857844P,,,,,,,,3.9,FALSE,3.9,FALSE,,,1534277370.0-C-607
+2018-08-15 06:09:30 UTC,Coles,Hickson Mandarins,Fruit & Vegetables,approx. 130g each,,,4495506P,,,,,,,,0,FALSE,0,FALSE,,,1534277370.0-C-608
+2018-08-15 06:09:30 UTC,Coles,Pink Lady Apples Prepacked,Fruit & Vegetables,1kg,,,4438477P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277370.0-C-609
+2018-08-15 06:09:30 UTC,Coles,Portabella Mushrooms Prepacked,Fruit & Vegetables,220g,,,1597281P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277370.0-C-626
+2018-08-15 06:09:30 UTC,White Prince,Simply Fill & Bake Mushrooms With Garlic and Herb,Fruit & Vegetables,250g,,,3184839P,,,,,,,,6,FALSE,6,FALSE,,,1534277370.0-C-627
+2018-08-15 06:09:30 UTC,Coles,Sweet Corn,Fruit & Vegetables,4 pack,,,4828981P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277370.0-C-628
+2018-08-15 06:09:30 UTC,Coles,Sweet Corn,Fruit & Vegetables,1 each,,,4562603P,,,,,,,,0.8,FALSE,0.8,FALSE,,,1534277370.0-C-629
+2018-08-15 06:09:30 UTC,Coles,Baby Sweet Corn Prepacked,Fruit & Vegetables,125g,,,6920012P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277370.0-C-630
+2018-08-15 06:09:30 UTC,Coles,Australian Sweet Corn Organic,Fruit & Vegetables,2 pack,,,7184433P,,,,,,,,6,FALSE,6,FALSE,,,1534277370.0-C-631
+2018-08-15 06:09:30 UTC,Coles,Fresh Cabbage - Drumhead Half,Fruit & Vegetables,1 Each,,,367016P,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534277370.0-C-632
+2018-08-15 06:09:30 UTC,Coles,Brussels Sprouts Prepacked,Fruit & Vegetables,400g,,,9323257P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277370.0-C-633
+2018-08-15 06:09:30 UTC,Coles,Fruit Salad Pot,Fruit & Vegetables,170g,,,2498401P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-634
+2018-08-15 06:09:30 UTC,Coles,Organic Granny Smith Apples Prepacked,Fruit & Vegetables,1kg,,,4678222P,,,,,,,,7,FALSE,7,FALSE,,,1534277370.0-C-635
+2018-08-15 06:09:30 UTC,Coles,Organic Lemons,Fruit & Vegetables,4 pack,,,9939629P,,,,,,,,7,FALSE,7,FALSE,,,1534277370.0-C-636
+2018-08-15 06:09:30 UTC,Coles,Portabella Mushrooms,Fruit & Vegetables,375g,,,2829509P,,,,,,,,6.9,FALSE,6.9,FALSE,,,1534277370.0-C-654
+2018-08-15 06:09:30 UTC,Coles,Exotic King Brown Mushrooms Prepacked,Fruit & Vegetables,100g,,,7124034P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-655
+2018-08-15 06:09:30 UTC,Coles,Australian Shimeji Mushrooms Prepacked,Fruit & Vegetables,100g,,,5431407P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-656
+2018-08-15 06:09:30 UTC,Coles,Mushrooms Dried Mixed Forest,Fruit & Vegetables,20g,,,1598310P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-657
+2018-08-15 06:09:30 UTC,White Prince,Simply Coat & Bake Italiano Mushrooms With Parmesan and Pepper,Fruit & Vegetables,300g,,,3184828P,,,,,,,,6,FALSE,6,FALSE,,,1534277370.0-C-658
+2018-08-15 06:09:30 UTC,Coles,Organic Swiss Brown Mushrooms Prepacked,Fruit & Vegetables,150g,,,6914825P,,,,,,,,0,FALSE,0,FALSE,,,1534277370.0-C-659
+2018-08-15 06:09:30 UTC,Coles,Piel De Sapo Melons Whole,Fruit & Vegetables,1 each,,,1252053P,,,,,,,,3.9,FALSE,3.9,FALSE,,,1534277370.0-C-660
+2018-08-15 06:09:30 UTC,Coles,Red Seedless Grapes,Fruit & Vegetables,1 each,,,1617334P,,,,,,,,6,FALSE,6,FALSE,,,1534277370.0-C-661
+2018-08-15 06:09:30 UTC,Coles,Melon Honeydew Gold,Fruit & Vegetables,1 each,,,5548346P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277370.0-C-662
+2018-08-15 06:09:30 UTC,Coles,Piel De Sapo Melons Half,Fruit & Vegetables,1 each,,,1277000P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277370.0-C-663
+2018-08-15 06:09:30 UTC,Coles,Exotic Shiitake Mushrooms Prepacked,Fruit & Vegetables,100g,,,5431305P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-680
+2018-08-15 06:09:30 UTC,Coles,Sliced Vitamin D Mushrooms,Fruit & Vegetables,300g,,,2408646P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277370.0-C-681
+2018-08-15 06:09:30 UTC,Coles,Australian Oyster Mushrooms Prepacked,Fruit & Vegetables,150g,,,5429358P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-682
+2018-08-15 06:09:30 UTC,Coles,Sliced Brown Mushrooms Prepacked,Fruit & Vegetables,200g,,,6467068P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-683
+2018-08-15 06:09:30 UTC,Coles,Dried Porcini Mushrooms,Fruit & Vegetables,20g,,,1597850P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-684
+2018-08-15 06:09:30 UTC,Coles,Fresh Enoki Mushrooms Exotic,Fruit & Vegetables,100g,,,5431382P,,,,,,,,6,FALSE,6,FALSE,,,1534277370.0-C-685
+2018-08-15 06:09:30 UTC,Coles,Mixed Exotic Mushrooms Prepacked,Fruit & Vegetables,150g,,,2592261P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-686
+2018-08-15 06:09:30 UTC,Coles,Jazz Apples Prepacked,Fruit & Vegetables,1kg,,,6934764P,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534277370.0-C-687
+2018-08-15 06:09:30 UTC,Coles,Nom Dok Mai Mangoes,Fruit & Vegetables,1 each,,,8389624P,,,,,,,,2,FALSE,2,FALSE,,,1534277370.0-C-688
+2018-08-15 06:09:30 UTC,Coles,Organic Royal Gala Apples Prepacked,Fruit & Vegetables,1kg,,,4976130P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-689
+2018-08-15 06:09:30 UTC,Coles,Grape Fruits,Fruit & Vegetables,4 pack,,,4442984P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277370.0-C-690
+2018-08-15 06:09:30 UTC,Coles,Sliced Cup Mushrooms Prepacked,Fruit & Vegetables,375g,,,4835411P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277370.0-C-708
+2018-08-15 06:09:30 UTC,Coles,Brown Mushrooms Prepacked,Fruit & Vegetables,200g,,,4829703P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-709
+2018-08-15 06:09:30 UTC,Coles,Sliced Mushrooms Medley,Fruit & Vegetables,250g,,,3189774P,,,,,,,,6,FALSE,6,FALSE,,,1534277370.0-C-710
+2018-08-15 06:09:30 UTC,Coles,Flat Mushrooms Prepacked,Fruit & Vegetables,375g,,,4835466P,,,,,,,,6,FALSE,6,FALSE,,,1534277370.0-C-711
+2018-08-15 06:09:30 UTC,Coles,Organic Mushrooms Prepacked,Fruit & Vegetables,150g,,,5054867P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277370.0-C-712
+2018-08-15 06:09:30 UTC,Coles,Gold Honeydew Melon Half,Fruit & Vegetables,1 each,,,6967016P,,,,,,,,2.9,FALSE,2.9,FALSE,,,1534277370.0-C-716
+2018-08-15 06:09:30 UTC,Coles,Flat Mushrooms loose,Fruit & Vegetables,approx. 350g,,,4594031P,,,,,,,,4.55,FALSE,4.55,FALSE,,,1534277370.0-C-732
+2018-08-15 06:09:30 UTC,Coles,Sliced Mushrooms,Fruit & Vegetables,500g,,,2728862P,,,,,,,,6,FALSE,6,FALSE,,,1534277370.0-C-733
+2018-08-15 06:09:30 UTC,Coles,Fresh Loose Cup Mushrooms,Fruit & Vegetables,approx. 200g,,,4594010P,,,,,,,,2.6,FALSE,2.6,FALSE,,,1534277370.0-C-734
+2018-08-15 06:09:30 UTC,Coles,Portabella Mushrooms loose,Fruit & Vegetables,approx. 200g,,,4590573P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277370.0-C-735
+2018-08-15 06:09:30 UTC,Coles,Sliced Cup Mushrooms Prepacked,Fruit & Vegetables,200g,,,5750960P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-736
+2018-08-15 06:09:30 UTC,Coles,Button Mushrooms Prepacked,Fruit & Vegetables,200g,,,4829420P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-737
+2018-08-15 06:09:30 UTC,Coles,Mexican Imported Garlic,Fruit & Vegetables,approx. 60g,,,6817782P,,,,,,,,1.2,FALSE,1.2,FALSE,,,1534277370.0-C-759
+2018-08-15 06:09:30 UTC,Coles,Fresh Galangal - Loose,Fruit & Vegetables,1 each,,,6615019P,,,,,,,,0.9,FALSE,0.9,FALSE,,,1534277370.0-C-760
+2018-08-15 06:09:30 UTC,Coles,Turmeric loose,Fruit & Vegetables,approx. 30g,,,6616758P,,,,,,,,0.9,FALSE,0.9,FALSE,,,1534277370.0-C-761
+2018-08-15 06:09:30 UTC,Coles,Cup Mushrooms Prepacked,Fruit & Vegetables,500g,,,4829838P,,,,,,,,6.9,FALSE,6.9,FALSE,,,1534277370.0-C-762
+2018-08-15 06:09:30 UTC,Coles,Cup Mushrooms Prepacked,Fruit & Vegetables,200g,,,4829860P,,,,,,,,4,FALSE,4,FALSE,,,1534277370.0-C-763
+2018-08-15 06:09:30 UTC,Coles,Ginger loose,Fruit & Vegetables,approx. 120g,,,5034484P,,,,,,,,3,FALSE,3,FALSE,,,1534277370.0-C-787
+2018-08-15 06:09:30 UTC,Coles,Garlic Australian loose,Fruit & Vegetables,approx. 60g each,,,6105715P,,,,,,,,0,FALSE,0,FALSE,,,1534277370.0-C-788
+2018-08-15 06:09:30 UTC,Coles,Garlic Prepacked,Fruit & Vegetables,190g,,,7115747P,,,,,,,,5,FALSE,5,FALSE,,,1534277370.0-C-789
+2018-08-15 06:09:31 UTC,Coles,Medium Lemons,Fruit & Vegetables,1 each,,,5318302P,,,,,,,,0.7,FALSE,0.7,FALSE,,,1534277371.0-C-829
+2018-08-15 06:09:31 UTC,Coles,Topless Pineapple,Fruit & Vegetables,1 each,,,5606330P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-830
+2018-08-15 06:09:31 UTC,Coles,Seedless Watermelon Cut,Fruit & Vegetables,1 each,,,7508229P,,,,,,,,4.25,FALSE,4.25,FALSE,,,1534277371.0-C-831
+2018-08-15 06:09:31 UTC,Coles,Grapefruit Ruby Red,Fruit & Vegetables,Approx. 460g each,,,5323153P,,,,,,,,1.38,FALSE,1.38,FALSE,,,1534277371.0-C-832
+2018-08-15 06:09:31 UTC,Coles,Honey Murcott Mandarins,Fruit & Vegetables,approx. 130g ea,,,204893P,,,,,,,,0.507,FALSE,0.507,FALSE,,,1534277371.0-C-849
+2018-08-15 06:09:31 UTC,Coles,Gold Nugget Mandarins,Fruit & Vegetables,approx. 130g ea,,,5560330P,,,,,,,,0.455,FALSE,0.455,FALSE,,,1534277371.0-C-850
+2018-08-15 06:09:31 UTC,Seasonal,Fruit Box Medium,Fruit & Vegetables,1 each,,,6506920P,,,,,,,,30,FALSE,30,FALSE,,,1534277371.0-C-851
+2018-08-15 06:09:31 UTC,Coles,Organic Strawberries Prepacked,Fruit & Vegetables,250g,,,5048810P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277371.0-C-852
+2018-08-15 06:09:31 UTC,Coles,Beurre Bosc Pears,Fruit & Vegetables,approx. 230g each,,,409987P,,,,,,,,0.69,FALSE,0.69,FALSE,,,1534277371.0-C-853
+2018-08-15 06:09:31 UTC,Coles,Corella Pears,Fruit & Vegetables,Approx. 200g each,,,429000P,,,,,,,,0.7,FALSE,0.7,FALSE,,,1534277371.0-C-854
+2018-08-15 06:09:31 UTC,Coles,Red Cherries Prepacked,Fruit & Vegetables,300g,,,1325452P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277371.0-C-855
+2018-08-15 06:09:31 UTC,Coles,Premium Strawberries Prepacked,Fruit & Vegetables,350g,,,5707745P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-856
+2018-08-15 06:09:31 UTC,Coles,Limes,Fruit & Vegetables,1 each,,,197594P,,,,,,,,1,FALSE,1,FALSE,,,1534277371.0-C-857
+2018-08-15 06:09:31 UTC,Gourmet Garden,Chilli Mild Stir In Paste,Fruit & Vegetables,80g,80g,16,3023308P,541kJ,1.0g,0.3g,0.1g,27.2g,27.2g,3540mg,3.5,FALSE,3.5,FALSE,,,1534277371.0-C-858
+2018-08-15 06:09:31 UTC,Coles,Fuji Apples,Fruit & Vegetables,approx. 150g each,,,5226011P,,,,,,,,0.75,FALSE,0.75,FALSE,,,1534277371.0-C-869
+2018-08-15 06:09:31 UTC,Coles,Bananas,Fruit & Vegetables,approx. 180g each,,,409499P,,,,,,,,0.792,FALSE,0.792,FALSE,,,1534277371.0-C-870
+2018-08-15 06:09:31 UTC,Coles,White Seedless Grapes loose,Fruit & Vegetables,approx. 800g,,,6705891P,,,,,,,,7.92,FALSE,7.92,FALSE,,,1534277371.0-C-871
+2018-08-15 06:09:31 UTC,Coles,Navel Oranges,Fruit & Vegetables,3kg,,,409874P,,,,,,,,6.9,FALSE,6.9,FALSE,,,1534277371.0-C-872
+2018-08-15 06:09:31 UTC,Coles,Afourer Mandarins,Fruit & Vegetables,1 each,,,7174994P,,,,,,,,0.39,FALSE,0.39,FALSE,,,1534277371.0-C-873
+2018-08-15 06:09:31 UTC,Coles,Pineapple Fruit Pot,Fruit & Vegetables,170g,,,2498412P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-874
+2018-08-15 06:09:31 UTC,Seasonal,Vegetable Box,Fruit & Vegetables,1 each,,,6507129P,,,,,,,,22,FALSE,22,FALSE,,,1534277371.0-C-875
+2018-08-15 06:09:31 UTC,Coles,Marsh Grapefruit,Fruit & Vegetables,1 each,,,409659P,,,,,,,,1.794,FALSE,1.794,FALSE,,,1534277371.0-C-886
+2018-08-15 06:09:31 UTC,All Natural,Chilli & Herb Croutons,Fruit & Vegetables,150g,,,1444407P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-887
+2018-08-15 06:09:31 UTC,Coles,Blueberries Prepacked,Fruit & Vegetables,250g,,,9007869P,,,,,,,,0,FALSE,0,FALSE,,,1534277371.0-C-888
+2018-08-15 06:09:31 UTC,Coles,Pink Lady Apples,Fruit & Vegetables,Approx. 200g each,,,5111654P,,,,,,,,0.6,FALSE,0.6,FALSE,,,1534277371.0-C-889
+2018-08-15 06:09:31 UTC,Coles,Granny Smith Apples,Fruit & Vegetables,Approx. 180g each,,,408554P,,,,,,,,0.9,FALSE,0.9,FALSE,,,1534277371.0-C-890
+2018-08-15 06:09:31 UTC,Coles,Red Delicious Apples,Fruit & Vegetables,Approx. 180g each,,,409251P,,,,,,,,0.9,FALSE,0.9,FALSE,,,1534277371.0-C-891
+2018-08-15 06:09:31 UTC,Coles,Red Tipped Eco Bananas,Fruit & Vegetables,Approx. 180g each,,,9174565P,,,,,,,,0.72,FALSE,0.72,FALSE,,,1534277371.0-C-892
+2018-08-15 06:09:31 UTC,Coles,Australian Continental Parsley,Fruit & Vegetables,15g,,,3214576P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277371.0-C-893
+2018-08-15 06:09:31 UTC,Coles,Alfalfa Sprouts Prepacked,Fruit & Vegetables,125g,,,4544805P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-894
+2018-08-15 06:09:31 UTC,Coles,Mexican Style Salad Kit,Fruit & Vegetables,400g,100g,4,3015966P,436,2.8,8.1,2,4.4,4,141,5,FALSE,5,FALSE,,,1534277371.0-C-895
+2018-08-15 06:09:31 UTC,Coles,Thyme Punnet,Fruit & Vegetables,10g,,,3215171P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-896
+2018-08-15 06:09:31 UTC,Coles,Drinking Coconut,Fruit & Vegetables,1 each,,,5582887P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277371.0-C-910
+2018-08-15 06:09:31 UTC,Coles,Organic Pink Lady Apples Prepacked,Fruit & Vegetables,1kg,,,4678233P,,,,,,,,7,FALSE,7,FALSE,,,1534277371.0-C-911
+2018-08-15 06:09:31 UTC,Coles,Honeydew Melon Whole,Fruit & Vegetables,1 each,,,5945620P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277371.0-C-912
+2018-08-15 06:09:31 UTC,Coles,Imported Yellow Flesh Peaches,Fruit & Vegetables,1 each,,,1557390P,,,,,,,,1.785,FALSE,1.785,FALSE,,,1534277371.0-C-913
+2018-08-15 06:09:31 UTC,Coles,Black Seedless Grapes,Fruit & Vegetables,approx. 800g,,,6705643P,,,,,,,,10.32,FALSE,10.32,FALSE,,,1534277371.0-C-914
+2018-08-15 06:09:31 UTC,Coles,Organic Bananas Prepacked,Fruit & Vegetables,500g,,,4990684P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277371.0-C-915
+2018-08-15 06:09:31 UTC,Coles,Coconut Whole,Fruit & Vegetables,1 each,,,409557P,,,,,,,,3,FALSE,3,FALSE,,,1534277371.0-C-916
+2018-08-15 06:09:31 UTC,Coles,Organic Limes,Fruit & Vegetables,4 pack,,,1482552P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-917
+2018-08-15 06:09:31 UTC,Coles,Asian Style Salad Kit,Fruit & Vegetables,350g,Serving size 175g,2,2787974P,466, , , , , , ,5,FALSE,5,FALSE,,,1534277371.0-C-919
+2018-08-15 06:09:31 UTC,Coles,Caesar Salad Kit,Fruit & Vegetables,265g,Servings per pack: 2,2,2789619P,474,5.6,8.1,1.9,3.9,1.3,336,5,FALSE,5,FALSE,,,1534277371.0-C-920
+2018-08-15 06:09:31 UTC,Coles,Mint Sleeved,Fruit & Vegetables,1 bunch,,,4575514P,,,,,,,,3,FALSE,3,FALSE,,,1534277371.0-C-921
+2018-08-15 06:09:31 UTC,Coles,Superfood Leaf Blend Salad Bag,Fruit & Vegetables,120g,,,2470537P,116,2.4,LESS THAN 1g,LESS THAN 1g,1.7,1.6,74,3,FALSE,3,FALSE,,,1534277371.0-C-922
+2018-08-15 06:09:31 UTC,Gourmet Garden,Ginger Cold Blended Paste,Fruit & Vegetables,80g,80g,16,3023206P,488kJ,0.5g,0.2g,<0.1g,27.1g,25.2g,926mg,3.5,FALSE,3.5,FALSE,,,1534277371.0-C-923
+2018-08-15 06:09:31 UTC,Coles,Caesar Salad Bowl,Fruit & Vegetables,200g,Average Quantity per Serve,1,8174708P,533,5.6,8.9,2,5.6,1.8,392,5,FALSE,5,FALSE,,,1534277371.0-C-924
+2018-08-15 06:09:31 UTC,Coles,Juicing Apples Prepacked,Fruit & Vegetables,2kg,,,1253704P,,,,,,,,5,FALSE,5,FALSE,,,1534277371.0-C-934
+2018-08-15 06:09:31 UTC,Coles,Green Nashi Pears,Fruit & Vegetables,approx. 300g ea,,,398010P,,,,,,,,1.65,FALSE,1.65,FALSE,,,1534277371.0-C-935
+2018-08-15 06:09:31 UTC,Coles,Kanzi Apples,Fruit & Vegetables,approx. 220g each,,,8559542P,,,,,,,,0,FALSE,0,FALSE,,,1534277371.0-C-936
+2018-08-15 06:09:31 UTC,Coles,Eureka Premium Blueberries Prepacked,Fruit & Vegetables,200g,,,1736275P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-937
+2018-08-15 06:09:31 UTC,Coles,Fresh Brown Nashi Pears,Fruit & Vegetables,approx. 150g each,,,9177982P,,,,,,,,0,FALSE,0,FALSE,,,1534277371.0-C-938
+2018-08-15 06:09:31 UTC,Coles,White Seedless Grapes Prepacked,Fruit & Vegetables,1 each,,,1617356P,,,,,,,,7,FALSE,7,FALSE,,,1534277371.0-C-939
+2018-08-15 06:09:31 UTC,Coles,Honeydew Melon Half,Fruit & Vegetables,1 each,,,5536981P,,,,,,,,2.9,FALSE,2.9,FALSE,,,1534277371.0-C-940
+2018-08-15 06:09:31 UTC,Coles,Fresh Rhubarb - Bunch,Fruit & Vegetables,1 each,,,408372P,,,,,,,,6,FALSE,6,FALSE,,,1534277371.0-C-941
+2018-08-15 06:09:31 UTC,Coles,Basil Punnet,Fruit & Vegetables,15g,,,3214521P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277371.0-C-942
+2018-08-15 06:09:31 UTC,Coles,Coriander Punnet,Fruit & Vegetables,15g,,,3214612P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277371.0-C-943
+2018-08-15 06:09:31 UTC,Coles,Parsley Sleeved,Fruit & Vegetables,1 bunch,,,4575569P,,,,,,,,2.98,FALSE,2.98,FALSE,,,1534277371.0-C-944
+2018-08-15 06:09:31 UTC,Coles,Beetroot Slaw,Fruit & Vegetables,200g,,,2786778P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-945
+2018-08-15 06:09:31 UTC,Coles,Mint Punnet,Fruit & Vegetables,15g,,,3214725P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277371.0-C-946
+2018-08-15 06:09:31 UTC,Coles,Fresh Eve Apples,Fruit & Vegetables,Approx. 200g,,,1015080P,,,,,,,,1.1,FALSE,1.1,FALSE,,,1534277371.0-C-964
+2018-08-15 06:09:31 UTC,Coles,Red Delicious Apples Prepacked,Fruit & Vegetables,1kg,,,4409107P,,,,,,,,5,FALSE,5,FALSE,,,1534277371.0-C-965
+2018-08-15 06:09:31 UTC,Coles,Kaleslaw Salad Kit,Fruit & Vegetables,350g,,,2790390P,,,,,,,,5,FALSE,5,FALSE,,,1534277371.0-C-967
+2018-08-15 06:09:31 UTC,Coles,Basil Sleeved,Fruit & Vegetables,1 bunch,,,4574920P,,,,,,,,3,FALSE,3,FALSE,,,1534277371.0-C-968
+2018-08-15 06:09:31 UTC,Coles,Continental Parsley Sleeved,Fruit & Vegetables,1 bunch,,,4575161P,,,,,,,,3,FALSE,3,FALSE,,,1534277371.0-C-969
+2018-08-15 06:09:31 UTC,Coles,Chopped Kale,Fruit & Vegetables,140g,,,2674606P,0,0.0g,0.0g,0.0g,0.0g,0.0g,0,3,FALSE,3,FALSE,,,1534277371.0-C-970
+2018-08-15 06:09:31 UTC,Coles,Bean Shoots Prepacked,Fruit & Vegetables,250g,,,4544770P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-971
+2018-08-15 06:09:31 UTC,Gourmet Garden,Garlic Cold Blended Paste,Fruit & Vegetables,80g,80g,16,3022167P,812kJ,4.6g,9.7g,1.1g,16.9g,11.6g,3240mg,3.5,FALSE,3.5,FALSE,,,1534277371.0-C-990
+2018-08-15 06:09:31 UTC,Coles,Coriander Sleeved,Fruit & Vegetables,1 bunch,,,4575321P,,,,,,,,3,FALSE,3,FALSE,,,1534277371.0-C-991
+2018-08-15 06:09:31 UTC,Coles,Coleslaw,Fruit & Vegetables,200g,,,2791406P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-992
+2018-08-15 06:09:31 UTC,Coles,Shredded Iceberg Lettuce Prepacked,Fruit & Vegetables,200g,,,2470526P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-993
+2018-08-15 06:09:31 UTC,Coles,Grey Pumpkin Cut,Fruit & Vegetables,1 each,,,4202619P,,,,,,,,0,FALSE,0,FALSE,,,1534277371.0-C-1000
+2018-08-15 06:09:31 UTC,Coles,Baby Spinach Leaves loose,Fruit & Vegetables,approx. 200g,,,4821814P,,,,,,,,3.4,FALSE,3.4,FALSE,,,1534277371.0-C-1001
+2018-08-15 06:09:31 UTC,Coles,Brushed Potatoes Prepacked,Fruit & Vegetables,10kg,,,4768799P,,,,,,,,0,FALSE,0,FALSE,,,1534277371.0-C-1002
+2018-08-15 06:09:31 UTC,Coles,Reed Avocados,Fruit & Vegetables,1 each,,,5900789P,,,,,,,,0,FALSE,0,FALSE,,,1534277371.0-C-1003
+2018-08-15 06:09:31 UTC,Coles,Carrot & Broccoli Steam Mix,Fruit & Vegetables,200g,,,3216527P,,,,,,,,5,FALSE,5,FALSE,,,1534277371.0-C-1016
+2018-08-15 06:09:31 UTC,Coles,Kaleslaw Veggie Pot,Fruit & Vegetables,150g,150g,1,3173480P,566,3.7,10.8,3.1,5,LESS THAN 1g,247,5,FALSE,5,FALSE,,,1534277371.0-C-1017
+2018-08-15 06:09:31 UTC,Gourmet Garden,Lightly Dried Basil,Fruit & Vegetables,10g,10g,16,2997944P,873kJ,6.6g,15.1g,1.0g,5.6g,4.9g,4000mg,3.5,FALSE,3.5,FALSE,,,1534277371.0-C-1018
+2018-08-15 06:09:31 UTC,Gourmet Garden,Lightly Dried Parsley,Fruit & Vegetables,8g,8g,16,2999327P,625kJ,5.8g,10.7g,0.8g,1.3g,1.2g,2400mg,3.5,FALSE,3.5,FALSE,,,1534277371.0-C-1019
+2018-08-15 06:09:31 UTC,Coles,Royal Blue Baby Potatoes,Fruit & Vegetables,1kg,,,2488474P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277371.0-C-1025
+2018-08-15 06:09:31 UTC,Coles,Kipfler Brushed Potatoes,Fruit & Vegetables,1 each,,,4764415P,,,,,,,,0,FALSE,0,FALSE,,,1534277371.0-C-1026
+2018-08-15 06:09:31 UTC,Coles,Fresh Butternut Pumpkin Crescent,Fruit & Vegetables,500g,,,2816391P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277371.0-C-1027
+2018-08-15 06:09:31 UTC,Coles,Kent Pumpkin Crescents,Fruit & Vegetables,500g,,,2749716P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277371.0-C-1028
+2018-08-15 06:09:31 UTC,Coles,Brushed Yellow Flesh Potatoes Prepacked,Fruit & Vegetables,2kg,,,7852701P,,,,,,,,0,FALSE,0,FALSE,,,1534277371.0-C-1029
+2018-08-15 06:09:31 UTC,Coles,Australian Cauliflower Florets,Fruit & Vegetables,150g,,,2310993P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-1040
+2018-08-15 06:09:31 UTC,Coles,Supreme Vegetable Mix,Fruit & Vegetables,350g,100,4,3016131P,121,1.2,LESS THAN 1g,LESS THAN 1g,4.4,2.3,48,3,FALSE,3,FALSE,,,1534277371.0-C-1041
+2018-08-15 06:09:31 UTC,Coles,Pesto Broccoli Rice Pot,Fruit & Vegetables,200g,200g,1,3016153P,287,1.8,4.5,LESS THAN 1g,4.2,3.8,198,5,FALSE,5,FALSE,,,1534277371.0-C-1042
+2018-08-15 06:09:31 UTC,Coles,Califlower & Green Beans Steam Mix With Herb Butter,Fruit & Vegetables,200g,,,3216538P,,,,,,,,5,FALSE,5,FALSE,,,1534277371.0-C-1043
+2018-08-15 06:09:31 UTC,Coles,Roasting Cauliflower With Garlic & Rosemary Salad,Fruit & Vegetables,500g,,,2856829P,,,,,,,,5,FALSE,5,FALSE,,,1534277371.0-C-1044
+2018-08-15 06:09:31 UTC,Coles,Star Fruit,Fruit & Vegetables,1 each,,,6896654P,,,,,,,,0,FALSE,0,FALSE,,,1534277371.0-C-1051
+2018-08-15 06:09:31 UTC,Coles,Red Sweet Potatoes loose,Fruit & Vegetables,1 each,,,4200056P,,,,,,,,1.925,FALSE,1.925,FALSE,,,1534277371.0-C-1052
+2018-08-15 06:09:31 UTC,Coles,Brushed Potatoes Prepacked,Fruit & Vegetables,3kg,,,4213819P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534277371.0-C-1053
+2018-08-15 06:09:31 UTC,Coles,Creme Royale Brushed Potatoes,Fruit & Vegetables,1 each,,,1022610P,,,,,,,,0.51,FALSE,0.51,FALSE,,,1534277371.0-C-1054
+2018-08-15 06:09:31 UTC,Coles,Cos Lettuce,Fruit & Vegetables,1 each,,,8791125P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277371.0-C-1055
+2018-08-15 06:09:31 UTC,Coles,Green Oak Lettuce,Fruit & Vegetables,1 each,,,4596649P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277371.0-C-1056
+2018-08-15 06:09:31 UTC,Coles,Baby White Potato Prepacked,Fruit & Vegetables,500g,,,2517550P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277371.0-C-1057
+2018-08-15 06:09:31 UTC,Coles,Hokkien Noodles,Fruit & Vegetables,450g,,,3210167P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-1065
+2018-08-15 06:09:31 UTC,Coles,Sweet Potato Noodles,Fruit & Vegetables,250g,,,3164365P,,,,,,,,3,FALSE,3,FALSE,,,1534277371.0-C-1066
+2018-08-15 06:09:31 UTC,Coles,Australian Green Beans,Fruit & Vegetables,150g,,,2310949P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-1067
+2018-08-15 06:09:31 UTC,Coles,Creme Royale Potato Mash,Fruit & Vegetables,350g,,,2679519P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-1068
+2018-08-15 06:09:31 UTC,Coles,Superfood Stir Fry,Fruit & Vegetables,300g,,,3210098P,,,,,,,,4,FALSE,4,FALSE,,,1534277371.0-C-1069
+2018-08-15 06:09:31 UTC,Coles,Passionfruit,Fruit & Vegetables,1 each,,,409896P,,,,,,,,1,FALSE,1,FALSE,,,1534277371.0-C-1076
+2018-08-15 06:09:31 UTC,Coles,Green Kiwifruit,Fruit & Vegetables,8 pack,,,1778560P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-1077
+2018-08-15 06:09:31 UTC,Coles,Gold Kiwifruit,Fruit & Vegetables,8 pack,,,8131840P,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534277371.0-C-1078
+2018-08-15 06:09:31 UTC,Coles,Black Plums,Fruit & Vegetables,approx. 150g each,,,125083P,,,,,,,,1.935,FALSE,1.935,FALSE,,,1534277371.0-C-1079
+2018-08-15 06:09:31 UTC,Coles,Custard Apple,Fruit & Vegetables,Approx. 420g each,,,409568P,,,,,,,,4.578,FALSE,4.578,FALSE,,,1534277371.0-C-1080
+2018-08-15 06:09:31 UTC,Coles,Mangosteen,Fruit & Vegetables,1 each,,,112376P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277371.0-C-1081
+2018-08-15 06:09:31 UTC,Coles,4 Leaf Salad Mix Prepacked,Fruit & Vegetables,120g,,,6885716P,79,2.3,,LESS THAN 1g,1.1,LESS THAN 1g,72,2,FALSE,2,FALSE,,,1534277371.0-C-1082
+2018-08-15 06:09:31 UTC,Coles,Rocket Salad Mix Prepacked,Fruit & Vegetables,120g,,,1499475P,,,,,,,,3,FALSE,3,FALSE,,,1534277371.0-C-1083
+2018-08-15 06:09:31 UTC,Coles,Carrot & Broccoli Florets,Fruit & Vegetables,150g,,,2674650P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-1096
+2018-08-15 06:09:31 UTC,Coles,Carrots And Green Beans,Fruit & Vegetables,150g,,,2674683P,,,,,,,,2,FALSE,2,FALSE,,,1534277371.0-C-1097
+2018-08-15 06:09:31 UTC,Coles,Carrot & Pumpkin Noodles,Fruit & Vegetables,250g,,,2860214P,,,,,,,,3,FALSE,3,FALSE,,,1534277371.0-C-1098
+2018-08-15 06:09:31 UTC,Coles,Asian Supergreen Stir Fry,Fruit & Vegetables,300g,,,3210145P,,,,,,,,5,FALSE,5,FALSE,,,1534277371.0-C-1099
+2018-08-15 06:09:31 UTC,Coles,Red Royale Baby Potatoes Prepacked,Fruit & Vegetables,1kg,,,2488500P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277371.0-C-1103
+2018-08-15 06:09:31 UTC,Coles,Vine Ripened Cherry Tomatoes Prepacked,Fruit & Vegetables,250g,,,4830826P,,,,,,,,4.2,FALSE,4.2,FALSE,,,1534277371.0-C-1104
+2018-08-15 06:09:32 UTC,Coles,Sweet Potato Chips,Fruit & Vegetables,500g,,,3164809P,,,,,,,,4,FALSE,4,FALSE,,,1534277372.0-C-1120
+2018-08-15 06:09:32 UTC,Coles,Australian Superfood Vegetable Mix,Fruit & Vegetables,350g,,,3016120P,122,1.2,LESS THAN 1g,LESS THAN 1g,4,4,65,3,FALSE,3,FALSE,,,1534277372.0-C-1121
+2018-08-15 06:09:32 UTC,Coles,Australian Broccoli Florets,Fruit & Vegetables,150g,,,2310971P,,,,,,,,2,FALSE,2,FALSE,,,1534277372.0-C-1122
+2018-08-15 06:09:32 UTC,Coles,Roasting Vegetables Mix With Garlic & Rosemary,Fruit & Vegetables,500g,125,4,2679756P,174,1,1.7,LESS THAN 1g,4.6,4.6,30,5,FALSE,5,FALSE,,,1534277372.0-C-1123
+2018-08-15 06:09:32 UTC,Coles,Cocktail Truss Tomatoes,Fruit & Vegetables,250g,,,3088176P,,,,,,,,3.9,FALSE,3.9,FALSE,,,1534277372.0-C-1127
+2018-08-15 06:09:32 UTC,Coles,Organic Coleslaw,Fruit & Vegetables,200g,,,3014293P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277372.0-C-1128
+2018-08-15 06:09:32 UTC,Coles,Organic Buk Choy,Fruit & Vegetables,1 each,,,3013596P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1129
+2018-08-15 06:09:32 UTC,Coles,Sugar Snap Peas Prepacked,Fruit & Vegetables,200g,,,4625259P,,,,,,,,2.49,FALSE,2.49,FALSE,,,1534277372.0-C-1130
+2018-08-15 06:09:32 UTC,Coles,Borlotti Beans loose,Fruit & Vegetables,approx. 100g,,,6599502P,,,,,,,,1.2,FALSE,1.2,FALSE,,,1534277372.0-C-1131
+2018-08-15 06:09:32 UTC,Coles,Fennel,Fruit & Vegetables,1 bunch,,,4910980P,,,,,,,,1.9,FALSE,1.9,FALSE,,,1534277372.0-C-1132
+2018-08-15 06:09:32 UTC,Coles,Baby Fennel,Fruit & Vegetables,1 each,,,4911156P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277372.0-C-1133
+2018-08-15 06:09:32 UTC,Coles,Tender Baby Beetroots,Fruit & Vegetables,400g,,,1318796P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277372.0-C-1140
+2018-08-15 06:09:32 UTC,Coles,Royal Blue Washed Potatoes Prepacked,Fruit & Vegetables,2kg,,,5952272P,,,,,,,,7,FALSE,7,FALSE,,,1534277372.0-C-1141
+2018-08-15 06:09:32 UTC,Coles,Baby Cos Lettuce loose,Fruit & Vegetables,approx. 200g,,,4821789P,,,,,,,,3.4,FALSE,3.4,FALSE,,,1534277372.0-C-1142
+2018-08-15 06:09:32 UTC,Coles,Gourmet Lettuce Mix loose,Fruit & Vegetables,approx. 200g,,,4821290P,,,,,,,,3.4,FALSE,3.4,FALSE,,,1534277372.0-C-1143
+2018-08-15 06:09:32 UTC,Coles,Rocket Salad Mix loose,Fruit & Vegetables,approx. 200g,,,4821790P,,,,,,,,3.4,FALSE,3.4,FALSE,,,1534277372.0-C-1144
+2018-08-15 06:09:32 UTC,Coles,Butter Lettuce,Fruit & Vegetables,1 each,,,4595952P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1145
+2018-08-15 06:09:32 UTC,Coles,Microwave Broccoli & Cauliflower Rice,Fruit & Vegetables,300g,,,2860280P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1148
+2018-08-15 06:09:32 UTC,Coles,Thai Birdseye Chillies,Fruit & Vegetables,approx 50g,,,3191517P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1151
+2018-08-15 06:09:32 UTC,Coles,Dried Red Cayenne Chilli,Fruit & Vegetables,10g,,,2738709P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1152
+2018-08-15 06:09:32 UTC,Coles,Trimmed Celery Prepacked,Fruit & Vegetables,300g,,,2386281P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1153
+2018-08-15 06:09:32 UTC,Coles,Flat Beans loose,Fruit & Vegetables,approx. 200g,,,7117899P,,,,,,,,2,FALSE,2,FALSE,,,1534277372.0-C-1154
+2018-08-15 06:09:32 UTC,Coles,Fresh Beetroot,Fruit & Vegetables,approx. 170g each,,,5288711P,,,,,,,,0.85,FALSE,0.85,FALSE,,,1534277372.0-C-1155
+2018-08-15 06:09:32 UTC,Coles,Iceberg Blend Salad Prepacked,Fruit & Vegetables,300g,,,5450831P,96,1,LESS THAN 1g,LESS THAN 1g,3.1,2.9,12,3,FALSE,3,FALSE,,,1534277372.0-C-1156
+2018-08-15 06:09:32 UTC,Coles,Baby Red Sweet Potatoes Prepacked,Fruit & Vegetables,1kg,,,2792726P,,,,,,,,5,FALSE,5,FALSE,,,1534277372.0-C-1157
+2018-08-15 06:09:32 UTC,Coles,Brushed Baby Potato,Fruit & Vegetables,1kg,,,2517630P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277372.0-C-1158
+2018-08-15 06:09:32 UTC,Coles,Grey Pumpkin Whole,Fruit & Vegetables,1 each,,,4672237P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1159
+2018-08-15 06:09:32 UTC,Coles,Microwave Cauliflower Rice,Fruit & Vegetables,300g,,,2860269P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1160
+2018-08-15 06:09:32 UTC,Coles,Red Chillies Prepacked,Fruit & Vegetables,100g,,,7570211P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1163
+2018-08-15 06:09:32 UTC,Coles,Green Bullhorn Chillies loose,Fruit & Vegetables,approx. 250g,,,1111095P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1164
+2018-08-15 06:09:32 UTC,Coles,Habanero Chillies loose,Fruit & Vegetables,approx. 50g,,,1110999P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1165
+2018-08-15 06:09:32 UTC,Coles,Baby Spinach & Rocket Salad Leaves,Fruit & Vegetables,120g,60g,2,5464290P,84,3.1,LESS THAN 1g,LESS THAN 1g,LESS THAN 1g, ,30,3,FALSE,3,FALSE,,,1534277372.0-C-1166
+2018-08-15 06:09:32 UTC,Coles,Butternut Pumpkin Whole,Fruit & Vegetables,1 each,,,4183423P,,,,,,,,7,FALSE,7,FALSE,,,1534277372.0-C-1167
+2018-08-15 06:09:32 UTC,Coles,Fresh Red Royale Potatoes,Fruit & Vegetables,approx. 170g each,,,1181308P,,,,,,,,0.68,FALSE,0.68,FALSE,,,1534277372.0-C-1168
+2018-08-15 06:09:32 UTC,Coles,Dutch Cream Brushed Potatoes,Fruit & Vegetables,1 each,,,7141758P,,,,,,,,0.27,FALSE,0.27,FALSE,,,1534277372.0-C-1169
+2018-08-15 06:09:32 UTC,Coles,Coles Spudlite Baby Potato,Fruit & Vegetables,750g,,,3026260P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277372.0-C-1170
+2018-08-15 06:09:32 UTC,Coles,Organic Leek,Fruit & Vegetables,1 bunch,,,1981359P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1172
+2018-08-15 06:09:32 UTC,Coles,Organic Capsicum Red 2 Pack,Fruit & Vegetables,1 each,,,3004041P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1173
+2018-08-15 06:09:32 UTC,Coles,Cherry Burst Tomatoes Prepacked,Fruit & Vegetables,200g,,,1155374P,,,,,,,,2.9,FALSE,2.9,FALSE,,,1534277372.0-C-1174
+2018-08-15 06:09:32 UTC,Coles,Red Cayenne Chillies loose,Fruit & Vegetables,approx. 50g,,,8760314P,,,,,,,,1.1,FALSE,1.1,FALSE,,,1534277372.0-C-1175
+2018-08-15 06:09:32 UTC,Coles,Red Birdseye Chillies loose,Fruit & Vegetables,approx. 50g,,,8761306P,,,,,,,,1.2,FALSE,1.2,FALSE,,,1534277372.0-C-1176
+2018-08-15 06:09:32 UTC,Coles,Australian Sweet Pointed Capsicum,Fruit & Vegetables,240g,,,2680610P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277372.0-C-1177
+2018-08-15 06:09:32 UTC,Coles,Organic Kiwifruit,Fruit & Vegetables,6 pack,,,7233823P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1179
+2018-08-15 06:09:32 UTC,Coles,Longans,Fruit & Vegetables,1 each,,,4409923P,,,,,,,,3.96,FALSE,3.96,FALSE,,,1534277372.0-C-1180
+2018-08-15 06:09:32 UTC,Coles,Persimmons,Fruit & Vegetables,1 each,,,5143231P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277372.0-C-1181
+2018-08-15 06:09:32 UTC,Coles,Quinces,Fruit & Vegetables,Approx. 200g each,,,410115P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1182
+2018-08-15 06:09:32 UTC,Coles,Gold Sweet Potatoes Prepacked,Fruit & Vegetables,1kg,,,4291131P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277372.0-C-1183
+2018-08-15 06:09:32 UTC,Coles,Washed Baby Potatoes Prepacked,Fruit & Vegetables,1kg,,,2488485P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277372.0-C-1184
+2018-08-15 06:09:32 UTC,Coles,Organic Avocados,Fruit & Vegetables,2 pack,,,4967638P,,,,,,,,5.98,FALSE,5.98,FALSE,,,1534277372.0-C-1186
+2018-08-15 06:09:32 UTC,Coles,Red Oak Lettuce,Fruit & Vegetables,1 each,,,4596456P,,,,,,,,2,FALSE,2,FALSE,,,1534277372.0-C-1187
+2018-08-15 06:09:32 UTC,Coles,Purple Hawaiian Sweet Potatoes,Fruit & Vegetables,1 each,,,7795630P,,,,,,,,2.1,FALSE,2.1,FALSE,,,1534277372.0-C-1188
+2018-08-15 06:09:32 UTC,Coles,Organic Brushed Potatoes Prepacked,Fruit & Vegetables,2kg,,,5024866P,,,,,,,,8,FALSE,8,FALSE,,,1534277372.0-C-1189
+2018-08-15 06:09:32 UTC,Taylor Farms,Organic Asian Chopped Salad Kit,Fruit & Vegetables,365g,,,3140822P,,,,,,,,8,FALSE,8,FALSE,,,1534277372.0-C-1190
+2018-08-15 06:09:32 UTC,Coles,Organic Cos Lettuce,Fruit & Vegetables,1 each,,,5023761P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1191
+2018-08-15 06:09:32 UTC,Coles,Organic Iceberg Lettuce,Fruit & Vegetables,1 each,,,7233856P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1192
+2018-08-15 06:09:32 UTC,Coles,Green Kiwifruit,Fruit & Vegetables,1 each,,,4425883P,,,,,,,,0.7,FALSE,0.7,FALSE,,,1534277372.0-C-1194
+2018-08-15 06:09:32 UTC,Coles,Gold Kiwifruit,Fruit & Vegetables,1 each,,,6979376P,,,,,,,,0.6,FALSE,0.6,FALSE,,,1534277372.0-C-1195
+2018-08-15 06:09:32 UTC,Coles,Papaya,Fruit & Vegetables,1 each,,,6950578P,,,,,,,,6.9,FALSE,6.9,FALSE,,,1534277372.0-C-1196
+2018-08-15 06:09:32 UTC,Coles,Half Papaya,Fruit & Vegetables,1 each,,,3087366P,,,,,,,,4,FALSE,4,FALSE,,,1534277372.0-C-1197
+2018-08-15 06:09:32 UTC,Coles,Shredded Vegetable Stir Fry,Fruit & Vegetables,400g,,,6934720P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1198
+2018-08-15 06:09:32 UTC,Coles,Organic Tomatoes Prepacked,Fruit & Vegetables,500g,,,5043066P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277372.0-C-1200
+2018-08-15 06:09:32 UTC,Coles,Organic Leek,Fruit & Vegetables,1 each,,,5010985P,,,,,,,,2.9,FALSE,2.9,FALSE,,,1534277372.0-C-1201
+2018-08-15 06:09:32 UTC,Coles,Potatoes Dutch Cream,Fruit & Vegetables,1kg,,,2973833P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277372.0-C-1202
+2018-08-15 06:09:32 UTC,Coles,Shredded Carrot Prepacked,Fruit & Vegetables,200g,100,2,2470424P,134,LESS THAN 1g,LESS THAN 1g,0.0g,5,5,40,2,FALSE,2,FALSE,,,1534277372.0-C-1209
+2018-08-15 06:09:32 UTC,Coles,Carrot Sticks,Fruit & Vegetables,150g,,,2313448P,102,LESS THAN 1g,LESS THAN 1g,0.0g,5,5,40,2,FALSE,2,FALSE,,,1534277372.0-C-1210
+2018-08-15 06:09:32 UTC,Coles,Australian Corn Cobettes,Fruit & Vegetables,400g,200g,2,2311012P,394,3.9,1.9,LESS THAN 1g,12.5,3.7,LESS THAN 5mg,4.5,FALSE,4.5,FALSE,,,1534277372.0-C-1211
+2018-08-15 06:09:32 UTC,Coles,Beetroot,Fruit & Vegetables,1 bunch,,,8685660P,,,,,,,,2.9,FALSE,2.9,FALSE,,,1534277372.0-C-1215
+2018-08-15 06:09:32 UTC,Coles,Mixed BBY Cos Lettuce,Fruit & Vegetables,2 pack,,,7367025P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1216
+2018-08-15 06:09:32 UTC,Coles,Organic Cauliflower Half,Fruit & Vegetables,1 each,,,7233528P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1217
+2018-08-15 06:09:32 UTC,Coles,Avocados,Fruit & Vegetables,approx. 550g each,,,2588060P,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534277372.0-C-1218
+2018-08-15 06:09:32 UTC,Coles,Fresh Chokoes - Loose,Fruit & Vegetables,1 each,,,5229814P,,,,,,,,2.094,FALSE,2.094,FALSE,,,1534277372.0-C-1225
+2018-08-15 06:09:32 UTC,Coles,White Radish,Fruit & Vegetables,1 each,,,4912181P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1226
+2018-08-15 06:09:32 UTC,Coles,Diced Butternut Pumpkin,Fruit & Vegetables,500g,,,2859066P,,,,,,,,4,FALSE,4,FALSE,,,1534277372.0-C-1227
+2018-08-15 06:09:32 UTC,Coles,Australian Broccoli & Cauliflower Florets,Fruit & Vegetables,150g,,,2310111P,,,,,,,,2,FALSE,2,FALSE,,,1534277372.0-C-1228
+2018-08-15 06:09:32 UTC,Coles,Mix Medley Grape Tomatoes Prepacked,Fruit & Vegetables,350g,,,1280208P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277372.0-C-1231
+2018-08-15 06:09:32 UTC,Coles,Tri Colour Capsicum Pack,Fruit & Vegetables,500g,,,4841072P,,,,,,,,7.9,FALSE,7.9,FALSE,,,1534277372.0-C-1232
+2018-08-15 06:09:32 UTC,Coles,Baby Beetroot Prepacked,Fruit & Vegetables,250g,,,3256849P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1233
+2018-08-15 06:09:32 UTC,Coles,Kent Pumpkin Whole,Fruit & Vegetables,1 each,,,4183558P,,,,,,,,12.9,FALSE,12.9,FALSE,,,1534277372.0-C-1234
+2018-08-15 06:09:32 UTC,Coles,Washed Potatoes Prepacked,Fruit & Vegetables,5kg,,,5177856P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1235
+2018-08-15 06:09:32 UTC,Coles,Parsnips Prepacked,Fruit & Vegetables,350g,,,5108183P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1236
+2018-08-15 06:09:32 UTC,Coles,Broad Beans loose,Fruit & Vegetables,approx. 200g,,,407697P,,,,,,,,1.18,FALSE,1.18,FALSE,,,1534277372.0-C-1237
+2018-08-15 06:09:32 UTC,Coles,Globe Artichokes,Fruit & Vegetables,1 each,,,4886864P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277372.0-C-1238
+2018-08-15 06:09:32 UTC,Coles,Mini Asparagus,Fruit & Vegetables,1 bunch,,,7124680P,,,,,,,,2,FALSE,2,FALSE,,,1534277372.0-C-1239
+2018-08-15 06:09:32 UTC,Coles,White Radish,Fruit & Vegetables,1 each,,,6614720P,,,,,,,,3.2,FALSE,3.2,FALSE,,,1534277372.0-C-1244
+2018-08-15 06:09:32 UTC,Coles,Okra loose,Fruit & Vegetables,approx. 200g,,,4913129P,,,,,,,,3.16,FALSE,3.16,FALSE,,,1534277372.0-C-1245
+2018-08-15 06:09:32 UTC,Coles,Horseradish loose,Fruit & Vegetables,approx. 100g,,,9266540P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1246
+2018-08-15 06:09:32 UTC,Coles,Baby Cos Lettuce,Fruit & Vegetables,2 pack,,,4646485P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1251
+2018-08-15 06:09:32 UTC,Coles,Yellow Capsicum,Fruit & Vegetables,1 each,,,7215355P,,,,,,,,1.029,FALSE,1.029,FALSE,,,1534277372.0-C-1252
+2018-08-15 06:09:32 UTC,Coles,Sugar Snap Peas Prepacked,Fruit & Vegetables,150g,,,4619289P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1253
+2018-08-15 06:09:32 UTC,Coles,Baby Carisma Potatoes Prepacked,Fruit & Vegetables,1kg,,,2488496P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277372.0-C-1254
+2018-08-15 06:09:32 UTC,Coles,fresh Spudlite Potato 1.5kg,Fruit & Vegetables,1.5kg,,,3026441P,,,,,,,,5,FALSE,5,FALSE,,,1534277372.0-C-1255
+2018-08-15 06:09:32 UTC,Coles,Jalapeno Chillies loose,Fruit & Vegetables,approx. 50g,,,8761656P,,,,,,,,0.95,FALSE,0.95,FALSE,,,1534277372.0-C-1256
+2018-08-15 06:09:32 UTC,Coles,Baby Red Hot Chillies Prepacked,Fruit & Vegetables,30g,,,7570266P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1257
+2018-08-15 06:09:32 UTC,Coles,Yellow Bullhorn Chillies loose,Fruit & Vegetables,approx. 250g,,,1335274P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277372.0-C-1258
+2018-08-15 06:09:32 UTC,Coles,Red Bullhorn Chillies loose,Fruit & Vegetables,approx. 250g,,,1111288P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277372.0-C-1259
+2018-08-15 06:09:32 UTC,Coles,Green Poblano Chillies loose,Fruit & Vegetables,approx. 50g,,,1335241P,,,,,,,,0.85,FALSE,0.85,FALSE,,,1534277372.0-C-1260
+2018-08-15 06:09:32 UTC,Coles,Tomatillo Chillies,Fruit & Vegetables,110g,,,3217971P,,,,,,,,4,FALSE,4,FALSE,,,1534277372.0-C-1261
+2018-08-15 06:09:32 UTC,Coles,Fresh Celeriac Brunch,Fruit & Vegetables,1 bunch,,,4894352P,,,,,,,,5,FALSE,5,FALSE,,,1534277372.0-C-1262
+2018-08-15 06:09:32 UTC,Coles,Snow Peas Medium Prepacked,Fruit & Vegetables,150g,,,4628326P,,,,,,,,2,FALSE,2,FALSE,,,1534277372.0-C-1263
+2018-08-15 06:09:32 UTC,Coles,Loose Butter Beans,Fruit & Vegetables,approx. 100g,,,6605296P,,,,,,,,1.19,FALSE,1.19,FALSE,,,1534277372.0-C-1264
+2018-08-15 06:09:32 UTC,Coles,After Dinner Fruit & Nut Tray,Fruit & Vegetables,325g,,,1584053P,,,,,,,,12,FALSE,12,FALSE,,,1534277372.0-C-1265
+2018-08-15 06:09:32 UTC,Coles,Fresh Swedes,Fruit & Vegetables,approx. 230g each,,,4966930P,,,,,,,,1.38,FALSE,1.38,FALSE,,,1534277372.0-C-1266
+2018-08-15 06:09:32 UTC,Coles,Fresh Turnips,Fruit & Vegetables,approx. 180g each,,,4966737P,,,,,,,,1.08,FALSE,1.08,FALSE,,,1534277372.0-C-1267
+2018-08-15 06:09:32 UTC,Coles,Baby Broccoli,Fruit & Vegetables,1 bunch,,,5982477P,,,,,,,,2.9,FALSE,2.9,FALSE,,,1534277372.0-C-1271
+2018-08-15 06:09:32 UTC,Coles,Grape Perino Tomatoes Prepacked,Fruit & Vegetables,200g,,,7265535P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277372.0-C-1272
+2018-08-15 06:09:32 UTC,Coles,Green Beans loose,Fruit & Vegetables,approx. 200g,,,407675P,,,,,,,,0.6,FALSE,0.6,FALSE,,,1534277372.0-C-1273
+2018-08-15 06:09:32 UTC,Coles,Lettuce Baby Spinach,Fruit & Vegetables,60g,60g,1,1499486P,78,2.6,LESS THAN 1g,LESS THAN 1g,LESS THAN 1g, ,30,2,FALSE,2,FALSE,,,1534277372.0-C-1274
+2018-08-15 06:09:32 UTC,Coles,Baby Spinach Salad Leaves Prepacked,Fruit & Vegetables,280g,70g,4,8658588P,78,2.6,LESS THAN 1g,LESS THAN 1g,LESS THAN 1g,LESS THAN 1g,30,5,FALSE,5,FALSE,,,1534277372.0-C-1275
+2018-08-15 06:09:32 UTC,Coles,Creme Gold Washed Potatoes,Fruit & Vegetables,1 each,,,1182162P,,,,,,,,0.72,FALSE,0.72,FALSE,,,1534277372.0-C-1276
+2018-08-15 06:09:32 UTC,Coles,4 Leaf Salad Mix Prepacked,Fruit & Vegetables,200g,,,8209722P,79,2.3,LESS THAN 1g,LESS THAN 1g,1.1,LESS THAN 1g,72,3,FALSE,3,FALSE,,,1534277372.0-C-1277
+2018-08-15 06:09:32 UTC,Coles,Vine Ripened Truss Tomatoes Prepacked,Fruit & Vegetables,500g,,,4835171P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277372.0-C-1278
+2018-08-15 06:09:32 UTC,Coles,Duet Perino Tomatoes Prepacked,Fruit & Vegetables,200g,,,2134110P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277372.0-C-1279
+2018-08-15 06:09:32 UTC,Coles,Tomatoes Grape Kumato,Fruit & Vegetables,500g,,,8933048P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277372.0-C-1280
+2018-08-15 06:09:32 UTC,Coles,Fresh Parsnips,Fruit & Vegetables,approx. 140g each,,,5298748P,,,,,,,,0.98,FALSE,0.98,FALSE,,,1534277372.0-C-1281
+2018-08-15 06:09:32 UTC,Coles,Juicing Carrots,Fruit & Vegetables,2.5kg,,,1980196P,,,,,,,,2.98,FALSE,2.98,FALSE,,,1534277372.0-C-1282
+2018-08-15 06:09:32 UTC,Coles,Dutch Carrots,Fruit & Vegetables,1 bunch,,,4924034P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277372.0-C-1283
+2018-08-15 06:09:32 UTC,Coles,Green Cucumber,Fruit & Vegetables,1 each,,,4559314P,,,,,,,,2.9,FALSE,2.9,FALSE,,,1534277372.0-C-1284
+2018-08-15 06:09:32 UTC,Coles,Mini Vine Capsicums Prepacked,Fruit & Vegetables,350g,,,6917583P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277372.0-C-1285
+2018-08-15 06:09:32 UTC,Coles,Radish,Fruit & Vegetables,1 bunch,,,4911870P,,,,,,,,2,FALSE,2,FALSE,,,1534277372.0-C-1286
+2018-08-15 06:09:32 UTC,Coles,Lebanese Cucumbers,Fruit & Vegetables,Approx. 140g each,,,4575208P,,,,,,,,1.246,FALSE,1.246,FALSE,,,1534277372.0-C-1288
+2018-08-15 06:09:32 UTC,Coles,Green Capsicum,Fruit & Vegetables,Approx. 250g each,,,7214862P,,,,,,,,1.225,FALSE,1.225,FALSE,,,1534277372.0-C-1289
+2018-08-15 06:09:32 UTC,Coles,Butternut Pumpkin Cut,Fruit & Vegetables,Approx. 700g each,,,4190600P,,,,,,,,2.45,FALSE,2.45,FALSE,,,1534277372.0-C-1290
+2018-08-15 06:09:32 UTC,Coles,Baby Spinach Leaves Prepacked,Fruit & Vegetables,120g,60g,2,1499340P,78,2.6,LESS THAN 1g,LESS THAN 1g,LESS THAN 1g,LESS THAN 1g,30,3,FALSE,3,FALSE,,,1534277372.0-C-1291
+2018-08-15 06:09:32 UTC,Coles,Cherry Tomatoes Prepacked,Fruit & Vegetables,250g,,,4834736P,,,,,,,,3.2,FALSE,3.2,FALSE,,,1534277372.0-C-1292
+2018-08-15 06:09:32 UTC,Coles,Kent Pumpkin Cut,Fruit & Vegetables,Approx. 900g each,,,4202540P,,,,,,,,2.7,FALSE,2.7,FALSE,,,1534277372.0-C-1293
+2018-08-15 06:09:32 UTC,Coles,Organic Snow Peas Prepacked,Fruit & Vegetables,250g,,,7184660P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277372.0-C-1294
+2018-08-15 06:09:32 UTC,Coles,Organic Tumeric,Fruit & Vegetables,75g,,,3066093P,,,,,,,,3.9,FALSE,3.9,FALSE,,,1534277372.0-C-1295
+2018-08-15 06:09:32 UTC,Coles,Field Tomatoes Prepacked,Fruit & Vegetables,1kg,,,4640831P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277372.0-C-1296
+2018-08-15 06:09:32 UTC,Coles,Roma Tomatoes,Fruit & Vegetables,Approx. 100g each,,,4594712P,,,,,,,,0.59,FALSE,0.59,FALSE,,,1534277372.0-C-1297
+2018-08-15 06:09:32 UTC,Coles,Red Capsicum,Fruit & Vegetables,Approx. 320g each,,,4580208P,,,,,,,,2.528,FALSE,2.528,FALSE,,,1534277372.0-C-1301
+2018-08-15 06:09:32 UTC,Coles,Continental Cucumber,Fruit & Vegetables,1 each,,,4575605P,,,,,,,,3,FALSE,3,FALSE,,,1534277372.0-C-1302
+2018-08-15 06:09:32 UTC,Coles,Gold Sweet Potatoes,Fruit & Vegetables,Approx. 350g each,,,4199503P,,,,,,,,0.7,FALSE,0.7,FALSE,,,1534277372.0-C-1303
+2018-08-15 06:09:32 UTC,Coles,Washed Potatoes Prepacked,Fruit & Vegetables,2kg,,,1206748P,,,,,,,,7,FALSE,7,FALSE,,,1534277372.0-C-1304
+2018-08-15 06:09:32 UTC,Coles,Organic Beetroot Prepacked,Fruit & Vegetables,500g,,,4975782P,,,,,,,,4,FALSE,4,FALSE,,,1534277372.0-C-1305
+2018-08-15 06:09:32 UTC,Coles,Organic Brussel Sprouts Prepacked,Fruit & Vegetables,300g,,,4969837P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1306
+2018-08-15 06:09:32 UTC,Coles,Organic Brushed Potatoes Prepacked,Fruit & Vegetables,1kg,,,1418484P,,,,,,,,5,FALSE,5,FALSE,,,1534277372.0-C-1307
+2018-08-15 06:09:32 UTC,Coles,Organic Green Beans Prepacked,Fruit & Vegetables,250g,,,9861850P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277372.0-C-1308
+2018-08-15 06:09:32 UTC,Coles,Carrots Prepacked,Fruit & Vegetables,1kg,,,9006560P,,,,,,,,1.2,FALSE,1.2,FALSE,,,1534277372.0-C-1311
+2018-08-15 06:09:32 UTC,Coles,Iceberg Lettuce,Fruit & Vegetables,1 each,,,4584071P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277372.0-C-1312
+2018-08-15 06:09:32 UTC,Coles,Greenhouse Truss Tomatoes,Fruit & Vegetables,Approx. 140g each,,,4628676P,,,,,,,,0.826,FALSE,0.826,FALSE,,,1534277372.0-C-1313
+2018-08-15 06:09:32 UTC,Coles,Field Tomatoes,Fruit & Vegetables,Approx. 110g each,,,4597109P,,,,,,,,0.605,FALSE,0.605,FALSE,,,1534277372.0-C-1314
+2018-08-15 06:09:32 UTC,Coles,Organic Juicing Carrots Prepacked,Fruit & Vegetables,2kg,,,4995826P,,,,,,,,5,FALSE,5,FALSE,,,1534277372.0-C-1315
+2018-08-15 06:09:32 UTC,Coles,Royal Blue Washed Potatoes,Fruit & Vegetables,1 each,,,4783861P,,,,,,,,0.68,FALSE,0.68,FALSE,,,1534277372.0-C-1316
+2018-08-15 06:09:32 UTC,Organic,Kent Pumpkin,Fruit & Vegetables,approx. 800g,,,3119043P,,,,,,,,3.6,FALSE,3.6,FALSE,,,1534277372.0-C-1317
+2018-08-15 06:09:32 UTC,Coles,Organic Kale With Vegetables,Fruit & Vegetables,200g,,,3014453P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277372.0-C-1318
+2018-08-15 06:09:32 UTC,Coles,Hass Avocados,Fruit & Vegetables,1 each,,,5900530P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277372.0-C-1324
+2018-08-15 06:09:32 UTC,Coles,Organic Sweet Potatoes Prepacked,Fruit & Vegetables,500g,,,5045470P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1325
+2018-08-15 06:09:32 UTC,Coles,Radicchio Lettuce,Fruit & Vegetables,1 each,,,4908912P,,,,,,,,4,FALSE,4,FALSE,,,1534277372.0-C-1326
+2018-08-15 06:09:32 UTC,Coles,Carolina Reaper Chilli Prepacked,Fruit & Vegetables,10g,,,2394698P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277372.0-C-1327
+2018-08-15 06:09:32 UTC,Organic,Mix Baby Leaf Lettuce,Fruit & Vegetables,100g,,,2724760P,,,,,,,,4,FALSE,4,FALSE,,,1534277372.0-C-1335
+2018-08-15 06:09:32 UTC,Coles,Organic Lebanese Cucumbers Prepacked,Fruit & Vegetables,500g,,,4982857P,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534277372.0-C-1336
+2018-08-15 06:09:32 UTC,Coles,Mixed Chillis Prepacked,Fruit & Vegetables,80g,,,2395624P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277372.0-C-1344
+2018-08-15 06:09:32 UTC,Coles,Cauliflower - Prepacked,Fruit & Vegetables,1 each,,,4982948P,,,,,,,,6,FALSE,6,FALSE,,,1534277372.0-C-1348
+2018-08-15 06:09:32 UTC,Organic,Baby Salad Leaves,Fruit & Vegetables,100g,,,2724828P,,,,,,,,4,FALSE,4,FALSE,,,1534277372.0-C-1366
+2018-08-15 06:09:32 UTC,Scoop & Weigh,Gourmet Honey Cashews loose,Fruit & Vegetables,approx. 100g,,,8725969P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277372.0-C-1377
+2018-08-15 06:09:32 UTC,Coles,Organic Broccoli,Fruit & Vegetables,2 pack,,,3048820P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277372.0-C-1382
+2018-08-15 06:09:32 UTC,Coles,Roasted Salted Mixed Nuts Value Pack,Fruit & Vegetables,400g,,,6746254P,,,,,,,,7.99,FALSE,7.99,FALSE,,,1534277372.0-C-1385
+2018-08-15 06:09:32 UTC,Coles,Green Cayenne Chillies loose,Fruit & Vegetables,approx. 50g,,,8760846P,,,,,,,,1.1,FALSE,1.1,FALSE,,,1534277372.0-C-1390
+2018-08-15 06:09:32 UTC,Coles,Mini Capsicums,Fruit & Vegetables,350g,,,3066275P,,,,,,,,3.9,FALSE,3.9,FALSE,,,1534277372.0-C-1391
+2018-08-15 06:09:32 UTC,Coles,French Vanilla Almonds,Fruit & Vegetables,400g,,,7827012P,,,,,,,,14,FALSE,14,FALSE,,,1534277372.0-C-1394
+2018-08-15 06:09:32 UTC,Scoop & Weigh,Maggies Mix loose,Fruit & Vegetables,approx. 100g,,,8411279P,,,,,,,,2,FALSE,2,FALSE,,,1534277372.0-C-1395
+2018-08-15 06:09:32 UTC,Scoop & Weigh,Gourmet Dried Apricots loose,Fruit & Vegetables,approx. 100g,,,8417129P,,,,,,,,3.4,FALSE,3.4,FALSE,,,1534277372.0-C-1396
+2018-08-15 06:09:32 UTC,Coles,Brushed Potatoes Prepacked,Fruit & Vegetables,5kg,,,4217241P,,,,,,,,0,FALSE,0,FALSE,,,1534277372.0-C-1400
+2018-08-15 06:09:33 UTC,Coles,Mixed Nuts in Shell Prepacked,Fruit & Vegetables,500g,,,8224522P,,,,,,,,7,FALSE,7,FALSE,,,1534277373.0-C-1403
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Natural Almonds loose,Fruit & Vegetables,approx. 100g,30,,8417184P,2530,20g,55.2,3.6g,4.4g,4.4g,5mg,2.2,FALSE,2.2,FALSE,,,1534277373.0-C-1404
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Pecans loose,Fruit & Vegetables,approx. 100g,,,8412464P,2977,9.8g,,4.5g,4.9g,4.3g,3mg,4.5,FALSE,4.5,FALSE,,,1534277373.0-C-1405
+2018-08-15 06:09:33 UTC,Coles,Field Tomatoes,Fruit & Vegetables,6 pack,,,4766374P,,,,,,,,3.9,FALSE,3.9,FALSE,,,1534277373.0-C-1406
+2018-08-15 06:09:33 UTC,Coles,Natural Macadamias loose,Fruit & Vegetables,approx. 200g,,,6656843P,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534277373.0-C-1408
+2018-08-15 06:09:33 UTC,Coles,Australian Pecans Prepacked,Fruit & Vegetables,400g,,,2147087P,,,,,,,,12,FALSE,12,FALSE,,,1534277373.0-C-1409
+2018-08-15 06:09:33 UTC,Coles,Smoked Almonds,Fruit & Vegetables,400g,,,2585390P,,,,,,,,9,FALSE,9,FALSE,,,1534277373.0-C-1410
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Trail Mix loose,Fruit & Vegetables,approx. 100g,50,,8411097P,2320,15,20,3,38,30,40,2,FALSE,2,FALSE,,,1534277373.0-C-1411
+2018-08-15 06:09:33 UTC,Coles,Lettuce  Rocket,Fruit & Vegetables,60g,60,1,1499759P,,,,,,,,2,FALSE,2,FALSE,,,1534277373.0-C-1412
+2018-08-15 06:09:33 UTC,Coles,Perino Gold Tomatoes Prepacked,Fruit & Vegetables,200g,,,1883000P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277373.0-C-1413
+2018-08-15 06:09:33 UTC,Coles,Organic Carrots Prepacked,Fruit & Vegetables,1kg,,,5016904P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277373.0-C-1414
+2018-08-15 06:09:33 UTC,Casa Di Noci,Kansas City BBQ Almonds,Fruit & Vegetables,350g,,,9187895P,,,,,,,,6.9,FALSE,6.9,FALSE,,,1534277373.0-C-1416
+2018-08-15 06:09:33 UTC,Casa Di Noci,Smoked Almonds,Fruit & Vegetables,200g,,,1774321P,,,,,,,,4.98,FALSE,4.98,FALSE,,,1534277373.0-C-1417
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Dried Cranberries loose,Fruit & Vegetables,approx. 100g,30,,8412067P,1300,0.1,0.5,<0.5,83.2,65,3,2.2,FALSE,2.2,FALSE,,,1534277373.0-C-1418
+2018-08-15 06:09:33 UTC,Coles,Cashew  Peanut & Macadamias Roasted & salted,Fruit & Vegetables,400g,,,2603095P,,,,,,,,9,FALSE,9,FALSE,,,1534277373.0-C-1419
+2018-08-15 06:09:33 UTC,Coles,Pistachios,Fruit & Vegetables,800g,,,3063970P,,,,,,,,17,FALSE,17,FALSE,,,1534277373.0-C-1420
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Roasted Salted Almonds loose,Fruit & Vegetables,approx. 100g,30,,8413219P,2690,18.6,60.5,4.2,4,4,400,2.2,FALSE,2.2,FALSE,,,1534277373.0-C-1421
+2018-08-15 06:09:33 UTC,Coles,Baby Carrots Prepacked,Fruit & Vegetables,500g,,,4236122P,,,,,,,,1.5,FALSE,1.5,FALSE,,,1534277373.0-C-1422
+2018-08-15 06:09:33 UTC,Coles,Snow Peas loose,Fruit & Vegetables,approx. 100g,,,123328P,,,,,,,,1.59,FALSE,1.59,FALSE,,,1534277373.0-C-1423
+2018-08-15 06:09:33 UTC,Casa Di Noci,Hickory Smoked Almonds,Fruit & Vegetables,350g,,,9188049P,,,,,,,,6.9,FALSE,6.9,FALSE,,,1534277373.0-C-1425
+2018-08-15 06:09:33 UTC,Coles,Dry Roasted Almonds Prepacked,Fruit & Vegetables,800g,30g,13.3,2123475P,2610, , , , , , ,16,FALSE,16,FALSE,,,1534277373.0-C-1426
+2018-08-15 06:09:33 UTC,Coles,Deluxe Dry Roasted Mixed Nuts Prepacked,Fruit & Vegetables,400g,,,5299478P,,,,,,,,12,FALSE,12,FALSE,,,1534277373.0-C-1427
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Pumpkin Seeds loose,Fruit & Vegetables,approx. 100g,30,,8412599P,2370,24.5g,45.9,8.7g,13.9g,1.1g,18mg,2,FALSE,2,FALSE,,,1534277373.0-C-1428
+2018-08-15 06:09:33 UTC,Coles,Peanuts And Cashews Roasted & Salted,Fruit & Vegetables,800g,,,2742513P,,,,,,,,9,FALSE,9,FALSE,,,1534277373.0-C-1429
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Roasted Salted Cashews loose,Fruit & Vegetables,approx. 100g,30,,8412227P,2670,16.7,51.3,8.7,26.4,6.1,290,3,FALSE,3,FALSE,,,1534277373.0-C-1430
+2018-08-15 06:09:33 UTC,Coles,Natural Macadamias Prepacked,Fruit & Vegetables,400g,,,5272391P,,,,,,,,17,FALSE,17,FALSE,,,1534277373.0-C-1431
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Raw Cashews loose,Fruit & Vegetables,approx. 100g,,,8412431P,2440,17g,,8.4g,16.8g,5.5g,11mg,2.8,FALSE,2.8,FALSE,,,1534277373.0-C-1432
+2018-08-15 06:09:33 UTC,Coles,Green Beans Prepacked,Fruit & Vegetables,375g,,,4829204P,,,,,,,,4,FALSE,4,FALSE,,,1534277373.0-C-1433
+2018-08-15 06:09:33 UTC,Coles,Baby Qukes Prepacked,Fruit & Vegetables,250g,,,4578148P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1434
+2018-08-15 06:09:33 UTC,Coles,Green Asparagus,Fruit & Vegetables,1 bunch,,,4838737P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277373.0-C-1435
+2018-08-15 06:09:33 UTC,Coles,Cauliflower Half,Fruit & Vegetables,1 each,,,4601320P,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534277373.0-C-1436
+2018-08-15 06:09:33 UTC,Coles,Carrots,Fruit & Vegetables,Approx. 170g each,,,4223335P,,,,,,,,0.374,FALSE,0.374,FALSE,,,1534277373.0-C-1437
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Pinenuts loose,Fruit & Vegetables,approx. 100g,,,8412533P,2928,13g,,4.2g,4.5g,3.4g,3g,5,FALSE,5,FALSE,,,1534277373.0-C-1438
+2018-08-15 06:09:33 UTC,Simply Organic,Dry Roasted Almonds,Fruit & Vegetables,150g,,,7435464P,,,,,,,,4.99,FALSE,4.99,FALSE,,,1534277373.0-C-1439
+2018-08-15 06:09:33 UTC,Casa Di Noci,Cranberries,Fruit & Vegetables,200g,50g,4,9222089P,1440,0.5g,0.9g,0.1g,79g,30g,3mg,4.98,FALSE,4.98,FALSE,,,1534277373.0-C-1440
+2018-08-15 06:09:33 UTC,Coles,Californian Walnut Kernels Prepacked,Fruit & Vegetables,400g,,,2123330P,,,,,,,,9,FALSE,9,FALSE,,,1534277373.0-C-1441
+2018-08-15 06:09:33 UTC,Coles,Roasted & Salted Cashews Prepacked,Fruit & Vegetables,400g,,,2123646P,,,,,,,,8,FALSE,8,FALSE,,,1534277373.0-C-1442
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Roasted Unsalted Cashews loose,Fruit & Vegetables,approx. 100g,30,,8412293P,2560,16.5,52.8,8.9,16.3,5.3,10,3,FALSE,3,FALSE,,,1534277373.0-C-1443
+2018-08-15 06:09:33 UTC,Coles,Dry Roasted Jumbo Cashews Prepacked,Fruit & Vegetables,400g,,,2123500P,,,,,,,,8,FALSE,8,FALSE,,,1534277373.0-C-1444
+2018-08-15 06:09:33 UTC,Coles,Dried Banana Chips,Fruit & Vegetables,400g,,,5221812P,,,,,,,,5,FALSE,5,FALSE,,,1534277373.0-C-1445
+2018-08-15 06:09:33 UTC,Coles,Roasted & Salted Pistachios Prepacked,Fruit & Vegetables,400g,Approximately 30g,,2131611P,2520,23.5,49.8,4.8,11.4,4.9,488,9,FALSE,9,FALSE,,,1534277373.0-C-1446
+2018-08-15 06:09:33 UTC,Coles,Roasted & Salted Cashews,Fruit & Vegetables,800g,,,2123668P,,,,,,,,17,FALSE,17,FALSE,,,1534277373.0-C-1447
+2018-08-15 06:09:33 UTC,Coles,Broccoli,Fruit & Vegetables,Approx. 340g each,,,407755P,,,,,,,,0.85,FALSE,0.85,FALSE,,,1534277373.0-C-1451
+2018-08-15 06:09:33 UTC,Coles,Cauliflower Whole,Fruit & Vegetables,1 each,,,4601603P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277373.0-C-1452
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Ginger Slices loose,Fruit & Vegetables,approx. 100g,,,9120908P,,,,,,,,2,FALSE,2,FALSE,,,1534277373.0-C-1454
+2018-08-15 06:09:33 UTC,Coles,Red Salad Onions,Fruit & Vegetables,1 bunch,,,6982790P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277373.0-C-1455
+2018-08-15 06:09:33 UTC,Coles,Brown Onions Prepacked,Fruit & Vegetables,10kg,,,5593351P,,,,,,,,12.98,FALSE,12.98,FALSE,,,1534277373.0-C-1456
+2018-08-15 06:09:33 UTC,Coles,Green Zucchini,Fruit & Vegetables,Approx. 150g each,,,4910506P,,,,,,,,0.885,FALSE,0.885,FALSE,,,1534277373.0-C-1457
+2018-08-15 06:09:33 UTC,Coles,Yellow Squash loose,Fruit & Vegetables,approx. 50g each,,,4912942P,,,,,,,,0.595,FALSE,0.595,FALSE,,,1534277373.0-C-1458
+2018-08-15 06:09:33 UTC,Coles,Natural Almonds Prepacked,Fruit & Vegetables,400g,,,2123599P,2590,24,54.3,3.8,4.7,4.1,LESS THAN 5mg,7,FALSE,7,FALSE,,,1534277373.0-C-1459
+2018-08-15 06:09:33 UTC,Coles,Dry Roasted Almonds Prepacked,Fruit & Vegetables,400g,,,2123395P,2610,24.2,54.5,3,6,2.6,LESS THAN 5mg,7,FALSE,7,FALSE,,,1534277373.0-C-1460
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Natural Sliced Almonds loose,Fruit & Vegetables,approx. 100g,,,8416975P,2530,20g,,3.6g,4.4g,4.4g,5mg,2.5,FALSE,2.5,FALSE,,,1534277373.0-C-1461
+2018-08-15 06:09:33 UTC,Coles,Brown Onions,Fruit & Vegetables,Approx. 180g each,,,4239517P,,,,,,,,0.522,FALSE,0.522,FALSE,,,1534277373.0-C-1473
+2018-08-15 06:09:33 UTC,Coles,Spring Onions,Fruit & Vegetables,1 bunch,,,408419P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277373.0-C-1474
+2018-08-15 06:09:33 UTC,Coles,Red Onions,Fruit & Vegetables,Approx. 200g each,,,4218459P,,,,,,,,0.7,FALSE,0.7,FALSE,,,1534277373.0-C-1475
+2018-08-15 06:09:33 UTC,Coles,Leeks,Fruit & Vegetables,1 each,,,4595930P,,,,,,,,2,FALSE,2,FALSE,,,1534277373.0-C-1476
+2018-08-15 06:09:33 UTC,Coles,Red Onions Prepacked,Fruit & Vegetables,1kg,,,8467604P,,,,,,,,2,FALSE,2,FALSE,,,1534277373.0-C-1477
+2018-08-15 06:09:33 UTC,Coles,Brown Onions Prepacked,Fruit & Vegetables,2kg,,,4804327P,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534277373.0-C-1478
+2018-08-15 06:09:33 UTC,Coles,Leeks,Fruit & Vegetables,3 pack,,,2608612P,,,,,,,,4,FALSE,4,FALSE,,,1534277373.0-C-1479
+2018-08-15 06:09:33 UTC,Coles,Brown Onion Shallots loose,Fruit & Vegetables,approx. 200g each,,,5134809P,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534277373.0-C-1480
+2018-08-15 06:09:33 UTC,Coles,Organic Spring Onions,Fruit & Vegetables,1 bunch,,,5011831P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277373.0-C-1481
+2018-08-15 06:09:33 UTC,Coles,Organic Brown Onions Prepacked,Fruit & Vegetables,1kg,,,5076305P,,,,,,,,6,FALSE,6,FALSE,,,1534277373.0-C-1482
+2018-08-15 06:09:33 UTC,Coles,Salad Onions,Fruit & Vegetables,1 bunch,,,54972P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534277373.0-C-1483
+2018-08-15 06:09:33 UTC,Coles,Organic Green Zucchini Prepacked,Fruit & Vegetables,500g,,,5032219P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277373.0-C-1484
+2018-08-15 06:09:33 UTC,Coles,Natural Cashews Prepacked,Fruit & Vegetables,400g,,,2222229P,,,,,,,,8,FALSE,8,FALSE,,,1534277373.0-C-1485
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Soya Crisps loose,Fruit & Vegetables,approx. 100g,50,,8416829P,2080,5.2,25.2,2.7,60.4,10.3,680,1.6,FALSE,1.6,FALSE,,,1534277373.0-C-1486
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Walnuts loose,Fruit & Vegetables,approx. 100g,30,,8412668P,2910,14.4,69.2,4.4,3,2.7,3,2.8,FALSE,2.8,FALSE,,,1534277373.0-C-1487
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Cranberry Sprinkle loose,Fruit & Vegetables,approx. 100g,,,8417355P,,,,,,,,2.2,FALSE,2.2,FALSE,,,1534277373.0-C-1488
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Brazilian Delight Mix loose,Fruit & Vegetables,approx. 100g,50,,8411348P,1740,10,21.1,3.8,41.2,37.9,10,2,FALSE,2,FALSE,,,1534277373.0-C-1489
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Honey Roasted Almonds loose,Fruit & Vegetables,approx. 100g,,,9119818P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277373.0-C-1502
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Apples Slices loose,Fruit & Vegetables,approx. 100g,,,8417388P,,,,,,,,1.7,FALSE,1.7,FALSE,,,1534277373.0-C-1508
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Brazil Nuts loose,Fruit & Vegetables,approx. 100g,,,8411315P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277373.0-C-1514
+2018-08-15 06:09:33 UTC,Coles,Roasted & Salted Savoury Mix,Fruit & Vegetables,400g,,,3089066P,,,,,,,,7,FALSE,7,FALSE,,,1534277373.0-C-1517
+2018-08-15 06:09:33 UTC,Coles,Brazil Nuts,Fruit & Vegetables,400g,,,5973283P,,,,,,,,14,FALSE,14,FALSE,,,1534277373.0-C-1521
+2018-08-15 06:09:33 UTC,Coles,Salted Peanuts 400g,Fruit & Vegetables,400g,,,2752302P,,,,,,,,4,FALSE,4,FALSE,,,1534277373.0-C-1522
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Goji Power Mix loose,Fruit & Vegetables,approx. 100g,,,8411199P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277373.0-C-1529
+2018-08-15 06:09:33 UTC,Coles,Natural Almonds loose,Fruit & Vegetables,approx. 200g,,,6657030P,,,,,,,,5.2,FALSE,5.2,FALSE,,,1534277373.0-C-1530
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Papaya with Lime loose,Fruit & Vegetables,approx. 100g,,,8413208P,,,,,,,,1.5,FALSE,1.5,FALSE,,,1534277373.0-C-1535
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Cranberry Trio loose,Fruit & Vegetables,approx. 100g,50,,8411075P,2240,11.9,37.4,4.5,38.4,29.1,6,2.5,FALSE,2.5,FALSE,,,1534277373.0-C-1536
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Supreme Roasted Salted Mixed Nuts loose,Fruit & Vegetables,approx. 100g,,,8412250P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1544
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Gourmet Dried Figs loose,Fruit & Vegetables,approx. 100g,,,8412566P,1130,3.6g,,0.1g,54.5g,52.6g,39mg,2,FALSE,2,FALSE,,,1534277373.0-C-1545
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Jumbo Dried Peaches loose,Fruit & Vegetables,approx. 100g,,,8416782P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1546
+2018-08-15 06:09:33 UTC,Coles Simply Less,Falafel & Tabouli Salad Tub,Fruit & Vegetables,225g,,,9958328P,,,,,,,,6,FALSE,6,FALSE,,,1534277373.0-C-1552
+2018-08-15 06:09:33 UTC,Gourmet Garden,Harissa Finishing Drizzle,Fruit & Vegetables,35g,11.3g (grammes),3,3188750P,2160kj,0.8g,49.8g,5.5g,14.8g,4.0g,1220mg,2,FALSE,2,FALSE,,,1534277373.0-C-1553
+2018-08-15 06:09:33 UTC,Coles,Roasted & Salted Macadamia Nuts Prepacked,Fruit & Vegetables,400g,,,4502430P,,,,,,,,18,FALSE,18,FALSE,,,1534277373.0-C-1554
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Turkish Apricots loose,Fruit & Vegetables,approx. 100g,30,,8417220P,860,4.3,0.2,0.1,48.8,44.9,37,1.5,FALSE,1.5,FALSE,,,1534277373.0-C-1555
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Mango Slice,Fruit & Vegetables,approx. 100g,,,1944206P,,,,,,,,2,FALSE,2,FALSE,,,1534277373.0-C-1556
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Cashew Soy Mix,Fruit & Vegetables,approx. 100g,,,1958018P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277373.0-C-1557
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Raw Power,Fruit & Vegetables,approx. 100g,,,2349638P,,,,,,,,2,FALSE,2,FALSE,,,1534277373.0-C-1558
+2018-08-15 06:09:33 UTC,Simply Organic,Dry Roasted Salted Peanuts,Fruit & Vegetables,175g,,,7435497P,,,,,,,,3.99,FALSE,3.99,FALSE,,,1534277373.0-C-1559
+2018-08-15 06:09:33 UTC,Coles,Thai Herbs Sleeved,Fruit & Vegetables,1 bunch,,,6917765P,,,,,,,,2.98,FALSE,2.98,FALSE,,,1534277373.0-C-1560
+2018-08-15 06:09:33 UTC,Coles,Cranberry Pepita Sunflower & Almond Salad Topper,Fruit & Vegetables,55g,,,1459390P,,,,,,,,1.6,FALSE,1.6,FALSE,,,1534277373.0-C-1561
+2018-08-15 06:09:33 UTC,Coles,Green Lentils Prepacked,Fruit & Vegetables,1.5kg,,,1923498P,,,,,,,,5,FALSE,5,FALSE,,,1534277373.0-C-1562
+2018-08-15 06:09:33 UTC,Coles,Oregano Sleeved,Fruit & Vegetables,1 bunch,,,4575730P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1563
+2018-08-15 06:09:33 UTC,Gourmet Garden,Lightly Dried Chilli,Fruit & Vegetables,10g,10g,9,2999214P,1010kJ,7.6g,16.7g,1.2g,11.1g,1.0g,1430,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1564
+2018-08-15 06:09:33 UTC,Gourmet Garden,Basil Pesto Finishing Drizzle,Fruit & Vegetables,35g,11.3 g (grammes),3,3188670P,2280kj,2.0g,56.3g,6.9g,7.3g,0.1g,1330mg,2,FALSE,2,FALSE,,,1534277373.0-C-1565
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Whole Blanched Almonds loose,Fruit & Vegetables,approx. 100g,,,8410050P,2551,20.5g,,3.4g,3.9g,3.9g,5mg,3.2,FALSE,3.2,FALSE,,,1534277373.0-C-1569
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Orchard Fruits loose,Fruit & Vegetables,approx. 100g,,,8412919P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277373.0-C-1570
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Blackcurrant Chia Pieces,Fruit & Vegetables,approx. 100g,,,2621789P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1571
+2018-08-15 06:09:33 UTC,Scoop & Weigh,Nougat Supreme,Fruit & Vegetables,approx. 100g,,,2349650P,,,,,,,,2.2,FALSE,2.2,FALSE,,,1534277373.0-C-1572
+2018-08-15 06:09:33 UTC,Coles,Rosemary Sleeved,Fruit & Vegetables,1 bunch,,,4575773P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1573
+2018-08-15 06:09:33 UTC,Coles,Garlic Shoots,Fruit & Vegetables,1 bunch,,,6615824P,,,,,,,,1.5,FALSE,1.5,FALSE,,,1534277373.0-C-1574
+2018-08-15 06:09:33 UTC,Coles,Curry Leaves Sleeved,Fruit & Vegetables,1 bunch,,,6838818P,,,,,,,,2.98,FALSE,2.98,FALSE,,,1534277373.0-C-1575
+2018-08-15 06:09:33 UTC,Coles,Organic Garlic Prepacked,Fruit & Vegetables,150g,,,5056953P,,,,,,,,0,FALSE,0,FALSE,,,1534277373.0-C-1576
+2018-08-15 06:09:33 UTC,Coles,Thai Basil Sleeved,Fruit & Vegetables,1 bunch,,,4575853P,,,,,,,,0.02,FALSE,0.02,FALSE,,,1534277373.0-C-1577
+2018-08-15 06:09:33 UTC,Coles,Purple Basil Sleeved,Fruit & Vegetables,1 bunch,,,4575886P,,,,,,,,0,FALSE,0,FALSE,,,1534277373.0-C-1578
+2018-08-15 06:09:33 UTC,Coles,Caesar Dressing,Fruit & Vegetables,200mL,,,2470446P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1584
+2018-08-15 06:09:33 UTC,Coles,Soy And Sesame Dressing,Fruit & Vegetables,200g,,,2785618P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1585
+2018-08-15 06:09:33 UTC,Coles,Potato Salad,Fruit & Vegetables,250g,,,3016288P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1586
+2018-08-15 06:09:33 UTC,Coles,Potato Egg & Bacon Salad,Fruit & Vegetables,250g,,,3216651P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1587
+2018-08-15 06:09:33 UTC,Coles,Thai Coconut & Lime Stir Fry Sauce,Fruit & Vegetables,180g,,,3210203P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1588
+2018-08-15 06:09:33 UTC,Gourmet Garden,Thai Seasoning Cold Blended Paste,Fruit & Vegetables,80g,80g,16,6979911P,740kJ ,1.9g,7.6g,0.7g,24.2g,23.3g,2050mg,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1589
+2018-08-15 06:09:33 UTC,Gourmet Garden,Salsa Verde Finishing Drizzle,Fruit & Vegetables,35g,11.3 g (grammes),3,3188749P,2250kj,0.7g,54.1g,5.9g,11.4g,0.3g,1130mg,2,FALSE,2,FALSE,,,1534277373.0-C-1590
+2018-08-15 06:09:33 UTC,Coles,Lime Leaves Sleeved,Fruit & Vegetables,1 bunch,,,6839049P,,,,,,,,2.98,FALSE,2.98,FALSE,,,1534277373.0-C-1591
+2018-08-15 06:09:33 UTC,Coles,Marjoram Sleeved,Fruit & Vegetables,1 bunch,,,4575718P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1592
+2018-08-15 06:09:33 UTC,Coles,Chives Sleeved,Fruit & Vegetables,1 bunch,,,4575037P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1593
+2018-08-15 06:09:33 UTC,Gourmet Garden,Parsley Cold Blended Paste,Fruit & Vegetables,80g,80g,16,3023727P,907kJ ,3.1g,10.0g,0.9g,27.4g,27.2g,2580mg,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1603
+2018-08-15 06:09:33 UTC,Coles,Thyme Sleeved,Fruit & Vegetables,1 bunch,,,4575809P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1604
+2018-08-15 06:09:33 UTC,Gourmet Garden,Lightly Dried Mixed Herbs,Fruit & Vegetables,8g,8g,13,2997999P,748kJ,5.5g,13.2g,1.1g,5.8g,2.5g,3070mg,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1605
+2018-08-15 06:09:33 UTC,Coles,Organic Ginger Prepacked,Fruit & Vegetables,150g,,,4982960P,,,,,,,,7,FALSE,7,FALSE,,,1534277373.0-C-1606
+2018-08-15 06:09:33 UTC,Coles,Organic Coriander Bunch,Fruit & Vegetables,1 bunch,,,9572863P,,,,,,,,4,FALSE,4,FALSE,,,1534277373.0-C-1607
+2018-08-15 06:09:33 UTC,Coles,Thai Coconut Dressing,Fruit & Vegetables,200g,,,2785629P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1608
+2018-08-15 06:09:33 UTC,Coles,Beetroot And Balsamic Dressing,Fruit & Vegetables,200g,,,2785119P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1609
+2018-08-15 06:09:33 UTC,Gourmet Garden,Lightly Dried Coriander,Fruit & Vegetables,8g,8g,16,2999258P,786kJ,7.4g,14.3g,1.0g,12.8g,<0.1g,2960mg,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1610
+2018-08-15 06:09:33 UTC,Gourmet Garden,Chimichurri Finishing Drizzle,Fruit & Vegetables,35g,11.3 g (grammes),3,3188760P,2310kj,0.8g,55.2g,6.0g,12.1g,0.9g,1430mg,2,FALSE,2,FALSE,,,1534277373.0-C-1611
+2018-08-15 06:09:33 UTC,Coles,Lime Leaves Punnet,Fruit & Vegetables,10g,,,1116703P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277373.0-C-1612
+2018-08-15 06:09:33 UTC,Coles,Curry Leaves Punnet,Fruit & Vegetables,10g,,,1116601P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277373.0-C-1621
+2018-08-15 06:09:33 UTC,Coles,Watercress Sleeved,Fruit & Vegetables,1 bunch,,,4575810P,,,,,,,,2.98,FALSE,2.98,FALSE,,,1534277373.0-C-1622
+2018-08-15 06:09:33 UTC,Coles,Crunchy Combo Sprouts Prepacked,Fruit & Vegetables,200g,,,4544849P,,,,,,,,2,FALSE,2,FALSE,,,1534277373.0-C-1623
+2018-08-15 06:09:33 UTC,Gourmet Garden,Coriander Cold Blended Paste,Fruit & Vegetables,80g,80g,16,3023625P,621kJ,2.7g,6.5g,0.6g,18.5g,17.7g,1550mg,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1624
+2018-08-15 06:09:33 UTC,Gourmet Garden,Roasted Garlic Stir-In Paste,Fruit & Vegetables,75g,5g,15,3060257P,432,4.6,<0.1,<0.1,24.8,20.8,452mg,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1625
+2018-08-15 06:09:33 UTC,Coles,Creamy Potato Salad,Fruit & Vegetables,450g,100g,4.5,9960534P,550,1.5,8.4,LESS THAN 1g,11.8,3.9,241,5,FALSE,5,FALSE,,,1534277373.0-C-1626
+2018-08-15 06:09:33 UTC,Coles,Quinoa Tabouleh Salad,Fruit & Vegetables,200g,,,3216640P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1627
+2018-08-15 06:09:33 UTC,Gourmet Garden,Italian Herbs Cold Blended Paste,Fruit & Vegetables,80g,80g,16,3023705P,795kJ,2.0g,10.5g,1.0g,21.4g,21.1g,2470mg,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1628
+2018-08-15 06:09:33 UTC,Coles,Rosemary Punnet,Fruit & Vegetables,10g,,,3214780P,,,,,,,,2,FALSE,2,FALSE,,,1534277373.0-C-1640
+2018-08-15 06:09:33 UTC,Gourmet Garden,Chunky Garlic Cold Blended Paste,Fruit & Vegetables,80g,80g,16,3022225P,813kJ,4.6g,9.7g,1.1g,16.8g,11.5g,3250mg,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1641
+2018-08-15 06:09:33 UTC,Coles,Teriyaki Stir Fry Sauce,Fruit & Vegetables,180g,,,2678571P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1642
+2018-08-15 06:09:33 UTC,Coles,American BBQ Slaw Kit,Fruit & Vegetables,400g,100g,4,3015977P,372,1.6,6.1,LESS THAN 1g,6,5.8,134,5,FALSE,5,FALSE,,,1534277373.0-C-1643
+2018-08-15 06:09:33 UTC,Gourmet Garden,Lightly Dried Chives,Fruit & Vegetables,4g,4g,8,2999316P,655kJ,4.3g,9.5g,1.0g,7.4g,7.4g,2220mg,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1644
+2018-08-15 06:09:33 UTC,Coles,Superfood Salad Bowl,Fruit & Vegetables,120g,,,2504515P,479,3.5,7.2,LESS THAN 1g,7.6,6.8,271,5,FALSE,5,FALSE,,,1534277373.0-C-1645
+2018-08-15 06:09:33 UTC,Coles,Garden Salad Bowl,Fruit & Vegetables,240g,240g,1,2791439P,312,3.2,5.5,2.9,2.4,2.4,175,5,FALSE,5,FALSE,,,1534277373.0-C-1646
+2018-08-15 06:09:33 UTC,Gourmet Garden,Lemongrass Cold Blended Paste,Fruit & Vegetables,80g,80g,16,3023272P,1090kJ ,1.6g,19.7g,1.6g,19.0g,19.0g,2600mg,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1647
+2018-08-15 06:09:33 UTC,Coles,Honey Soy Stir Fry Sauce,Fruit & Vegetables,180g,,,2678527P,,,,,,,,3,FALSE,3,FALSE,,,1534277373.0-C-1648
+2018-08-15 06:09:33 UTC,Coles,Mexican Style Salad Bowl,Fruit & Vegetables,240g,240g,1,3016109P,430,2.5,8,1.7,4.6,4,144,5,FALSE,5,FALSE,,,1534277373.0-C-1649
+2018-08-15 06:09:33 UTC,Coles,Asian Style Salad Bowl,Fruit & Vegetables,230g,,,2786585P,469,2.1, ,LESS THAN 1g, , , ,5,FALSE,5,FALSE,,,1534277373.0-C-1664
+2018-08-15 06:09:33 UTC,Coles,Sweet And Crunchy Salad Kit,Fruit & Vegetables,400g,,,3015955P,316,3.1,5,2.1,3.6,3.6,166,5,FALSE,5,FALSE,,,1534277373.0-C-1665
+2018-08-15 06:09:33 UTC,Coles,Classic Coleslaw,Fruit & Vegetables,450g,100,4.5,9960523P,445,LESS THAN 1g,6.6,LESS THAN 1g,10,9.4,222,5,FALSE,5,FALSE,,,1534277373.0-C-1666
+2018-08-15 06:09:33 UTC,Coles,Coleslaw Salad Prepacked,Fruit & Vegetables,800g,100g,8,1991851P,445,LESS THAN 1g,6.6,LESS THAN 1g,10,9.4,222,6.5,FALSE,6.5,FALSE,,,1534277373.0-C-1667
+2018-08-15 06:09:33 UTC,Coles,Ranch Slaw Kit,Fruit & Vegetables,400g,100g,4,2790378P, , ,5.7, ,5.3,5.3,193,5,FALSE,5,FALSE,,,1534277373.0-C-1668
+2018-08-15 06:09:33 UTC,Gourmet Garden,Basil Cold Blended Paste,Fruit & Vegetables,80g,80g,16,3021889P,719kJ ,2.0g,7.3g,0.7g,23.3g,22.4g,2370mg,3.5,FALSE,3.5,FALSE,,,1534277373.0-C-1669
+2018-08-15 06:09:33 UTC,Coles,Creamy Pasta Salad,Fruit & Vegetables,450g,100g,4.5,9960432P,891,3.7,13.1,1.7,19.4,5.4,350,5,FALSE,5,FALSE,,,1534277373.0-C-1670
+2018-08-15 06:09:33 UTC,Coles,Creamy Potato Salad,Fruit & Vegetables,800g,,,1988904P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277373.0-C-1671
+2018-08-15 06:09:33 UTC,Coles,Pasta Salad,Fruit & Vegetables,800g,,,1991647P,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534277373.0-C-1690
+2018-08-15 06:09:33 UTC,Coles,Crunchy Side Salad Bowl,Fruit & Vegetables,90g,90g,1,2791417P,83,1.5,LESS THAN 1g,0.0g,1.6,1.6,20,3,FALSE,3,FALSE,,,1534277373.0-C-1691
+2018-08-15 06:09:34 UTC,Sccop And Weigh,Apricot Yoghurt Bites,Fruit & Vegetables,approx. 100g,,,2349605P,,,,,,,,3,FALSE,3,FALSE,,,1534277374.0-C-1907
+2018-08-15 06:09:34 UTC,Scoop & Weigh,Golden Apple Chunks loose,Fruit & Vegetables,approx. 100g,,,8417300P,,,,,,,,2,FALSE,2,FALSE,,,1534277374.0-C-1908
+2018-08-15 06:09:34 UTC,Scoop & Weigh,Honey Roasted Peanuts loose,Fruit & Vegetables,approx. 100g,,,8412330P,,,,,,,,1.5,FALSE,1.5,FALSE,,,1534277374.0-C-1909
+2018-08-15 06:09:34 UTC,Scoop & Weigh,Hazelnuts loose,Fruit & Vegetables,approx. 100g,,,8411869P,2620,17g,,5.7g,5.2g,4.2g,4mg,4,FALSE,4,FALSE,,,1534277374.0-C-1910
+2018-08-15 06:09:34 UTC,Gourmet Fresh,Thai Sweet Chilli Almonds,Fruit & Vegetables,375g,,,8569740P,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534277374.0-C-1914
+2018-08-15 06:09:34 UTC,Scoop & Weigh,Chilli & Lime Cashews loose,Fruit & Vegetables,approx. 100g,,,8411971P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277374.0-C-1915
+2018-08-15 06:09:34 UTC,Scoop & Weigh,Dried Strawberries loose,Fruit & Vegetables,approx. 100g,,,8726145P,,,,,,,,3,FALSE,3,FALSE,,,1534277374.0-C-1916
+2018-08-15 06:09:34 UTC,Coles,Chocolate Coated Cherries,Fruit & Vegetables,170g,,,2131622P,,,,,,,,4.49,FALSE,4.49,FALSE,,,1534277374.0-C-1919
+2018-08-15 06:09:34 UTC,Gourmet Fresh,Peri Peri Flavoured Cashews & Almonds,Fruit & Vegetables,175g,,,1268428P,,,,,,,,0,FALSE,0,FALSE,,,1534277374.0-C-1920
+2018-08-15 06:09:34 UTC,Coles,Chocolate Cherry Gift Tube,Fruit & Vegetables,150g,,,1574038P,,,,,,,,7,FALSE,7,FALSE,,,1534277374.0-C-1922
+2018-08-15 06:09:34 UTC,Coles,Walnuts in Shell,Fruit & Vegetables,500g,,,1702455P,,,,,,,,5,FALSE,5,FALSE,,,1534277374.0-C-1923
+2018-08-15 06:09:34 UTC,Coles,Savoury Entertainment Mix,Fruit & Vegetables,275g,,,2107661P,,,,,,,,5,FALSE,5,FALSE,,,1534277374.0-C-1924
+2018-08-15 06:09:34 UTC,Coles,Natural Almond Kernels,Fruit & Vegetables,750g,,,9608009P,,,,,,,,13,FALSE,13,FALSE,,,1534277374.0-C-1925
+2018-08-15 06:09:34 UTC,Coles,Soy Crisps Mix,Fruit & Vegetables,350g,,,4502714P,,,,,,,,7,FALSE,7,FALSE,,,1534277374.0-C-1927
+2018-08-15 06:09:34 UTC,Coles,Chilli & Lime Peanut & Soy Snacks Prepacked,Fruit & Vegetables,350g,,,4502769P,,,,,,,,7,FALSE,7,FALSE,,,1534277374.0-C-1928
+2018-08-15 06:09:34 UTC,Coles,White Christmas Nut Mix,Fruit & Vegetables,375g,,,1001552P,,,,,,,,7,FALSE,7,FALSE,,,1534277374.0-C-1929
+2018-08-15 06:09:34 UTC,Coles,Honey Roasted Cashews,Fruit & Vegetables,550g,,,6689296P,,,,,,,,13,FALSE,13,FALSE,,,1534277374.0-C-1931
+2018-08-15 06:09:36 UTC,Coles,Roasted  Peanuts In Shell,Fruit & Vegetables,500g,,,2751988P,,,,,,,,6,FALSE,6,FALSE,,,1534277376.0-C-2342
+2018-08-15 06:09:36 UTC,Scoop & Weigh,French Vanilla Almonds loose,Fruit & Vegetables,approx. 100g,,,8710270P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277376.0-C-2343
+2018-08-15 06:09:36 UTC,Scoop & Weigh,Raw Macadamia Nuts loose,Fruit & Vegetables,approx. 100g,,,8411950P,3070,7.6g,,10.3g,4.5g,4.5g,3mg,5,FALSE,5,FALSE,,,1534277376.0-C-2344
+2018-08-15 06:09:36 UTC,Gourmet Fresh,Tiramisu Flavoured Cashews & Almonds,Fruit & Vegetables,175g,,,1268406P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277376.0-C-2366
+2018-08-15 06:09:36 UTC,Lockwood's Orchard,Entertainment Mix,Fruit & Vegetables,350g,,,1704778P,,,3.2g,1.0g,,3.1g,,0,FALSE,0,FALSE,,,1534277376.0-C-2367
+2018-08-15 06:09:36 UTC,Scoop & Weigh,Shelled Pistachios Loose,Fruit & Vegetables,approx. 100g,,,8726509P,2536,19.7g,,5.8g,15.1g,5.9g,7mg,6,FALSE,6,FALSE,,,1534277376.0-C-2368
+2018-08-15 06:09:36 UTC,Scoop & Weigh,Cinnamon Cashews loose,Fruit & Vegetables,approx. 100g,,,9889666P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277376.0-C-2369
+2018-08-15 06:09:36 UTC,Scoop & Weigh,Berry Zest loose,Fruit & Vegetables,approx. 100g,,,8413004P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277376.0-C-2370
+2018-08-15 06:09:36 UTC,Scoop & Weigh,Gourmet Honey Macadamias loose,Fruit & Vegetables,approx. 100g,,,8705779P,,,,,,,,5,FALSE,5,FALSE,,,1534277376.0-C-2371
+2018-08-15 06:09:36 UTC,Coles,Entertaining Nut & Snack Tray,Fruit & Vegetables,265g,,,1004426P,,,,,,,,6,FALSE,6,FALSE,,,1534277376.0-C-2382
+2018-08-15 06:09:36 UTC,Coles,BBQ Peanuts & Cashews,Fruit & Vegetables,400g,,,1581124P,,,,,,,,6,FALSE,6,FALSE,,,1534277376.0-C-2383
+2018-08-15 06:09:36 UTC,Coles,Cheese Board Platter,Fruit & Vegetables,278g,,,1573749P,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534277376.0-C-2384
+2018-08-15 06:09:36 UTC,Coles,Coffee Bean Gift Tube,Fruit & Vegetables,160g,,,1573884P,,,,,,,,7,FALSE,7,FALSE,,,1534277376.0-C-2385
+2018-08-15 06:09:36 UTC,Coles,Salted Caramel Peanuts,Fruit & Vegetables,400g,,,1587776P,,,,,,,,6,FALSE,6,FALSE,,,1534277376.0-C-2386
+2018-08-15 06:09:36 UTC,Coles,Pretzel Nut Mix,Fruit & Vegetables,350g,,,1984379P,,,,,,,,0,FALSE,0,FALSE,,,1534277376.0-C-2387
+2018-08-15 06:09:36 UTC,Coles,Australian Mixed Nuts In Shell Prepacked,Fruit & Vegetables,500g,,,2503035P,,,,,,,,6,FALSE,6,FALSE,,,1534277376.0-C-2388
+2018-08-15 06:09:36 UTC,Coles,Tex-Mex Snacking Mix,Fruit & Vegetables,400g,,,3089088P,,,,,,,,7,FALSE,7,FALSE,,,1534277376.0-C-2389
+2018-08-15 06:09:36 UTC,Gourmet Fresh,Tiramisu Almonds,Fruit & Vegetables,375g,,,8426480P,,,,,,,,5.9,FALSE,5.9,FALSE,,,1534277376.0-C-2390
+2018-08-15 06:09:59 UTC,Scoop & Weigh,Antioxidant Boost Mix loose,Fruit & Vegetables,approx. 100g,,,9880810P,,,,,,,,3,FALSE,3,FALSE,,,1534277399.0-C-9008
+2018-08-15 06:09:59 UTC,Buderim Ginger,Australian Naked Crystallised Ginger,Fruit & Vegetables,350g,,,7841487P,,,,,,,,9.99,FALSE,9.99,FALSE,,,1534277399.0-C-9023
+2018-08-15 06:09:59 UTC,Coles,Savoury Mixed Nuts Prepacked,Fruit & Vegetables,350g,,,2504264P,,,,,,,,6,FALSE,6,FALSE,,,1534277399.0-C-9041
+2018-08-15 06:09:59 UTC,Coles,Pitted Medjool Date,Fruit & Vegetables,340g,,,3116147P,,,,,,,,10,FALSE,10,FALSE,,,1534277399.0-C-9042
+2018-08-15 06:09:59 UTC,Scoop & Weigh,Roasted Mixed Nuts loose,Fruit & Vegetables,approx. 100g,,,8412238P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277399.0-C-9043
+2018-08-15 06:09:59 UTC,Coles,Pepitas,Fruit & Vegetables,250g,,,3018545P,,,,,,,,3,FALSE,3,FALSE,,,1534277399.0-C-9067
+2018-08-15 06:09:59 UTC,Coles,Superfood Mix,Fruit & Vegetables,400g,,,3137293P,,,,,,,,7,FALSE,7,FALSE,,,1534277399.0-C-9068
+2018-08-15 06:09:59 UTC,Scoop & Weigh,Deluxe Raw Mixed Nuts loose,Fruit & Vegetables,approx. 100g,,,8412170P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534277399.0-C-9069
+2018-08-15 06:09:59 UTC,Scoop & Weigh,Vitality,Fruit & Vegetables,approx. 100g,50,,9918174P,2010,9.6,30.8,6.3,42.6,37.2,10,2.8,FALSE,2.8,FALSE,,,1534277399.0-C-9070
+2018-08-15 06:09:59 UTC,Scoop & Weigh,Raw Mixed Nuts loose,Fruit & Vegetables,approx. 100g,,,8412216P,,,,,,,,2.8,FALSE,2.8,FALSE,,,1534277399.0-C-9094
+2018-08-15 06:09:59 UTC,Coles,Cranberry Trail Mix,Fruit & Vegetables,375g,,,1890107P,,,,,,,,5,FALSE,5,FALSE,,,1534277399.0-C-9095
+2018-08-15 06:09:59 UTC,Coles,Almond Fruit Mix Prepacked,Fruit & Vegetables,400g,,,2293023P,,,,,,,,9,FALSE,9,FALSE,,,1534277399.0-C-9096
+2018-08-15 06:09:59 UTC,Coles,Bbq Savoury Mix,Fruit & Vegetables,400g,,,3039374P,,,,,,,,7,FALSE,7,FALSE,,,1534277399.0-C-9097
+2018-08-15 06:09:59 UTC,Coles,Fruit & Nut Mix,Fruit & Vegetables,400g,,,2150365P,,,,,,,,4,FALSE,4,FALSE,,,1534277399.0-C-9117
+2018-08-15 06:09:59 UTC,Coles,Cranberry & White Chocolate Trail Mix,Fruit & Vegetables,400g,,,2504504P,,,,,,,,6,FALSE,6,FALSE,,,1534277399.0-C-9118
+2018-08-15 06:09:59 UTC,Coles,Organic Medjool Dates,Fruit & Vegetables,227g,,,2823342P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277399.0-C-9119
+2018-08-15 06:09:59 UTC,Scoop & Weigh,Chilli & Lime Soya Crisps loose,Fruit & Vegetables,approx. 100g,50,,8704110P,2070,5,26.2,2,55.7,10.6,1050,1.6,FALSE,1.6,FALSE,,,1534277399.0-C-9120
+2018-08-15 06:09:59 UTC,Scoop & Weigh,Superboost Mix loose,Fruit & Vegetables,approx. 100g,50,,9918356P,2050,8.4,34.4,7.4,39,30.6,11,2.8,FALSE,2.8,FALSE,,,1534277399.0-C-9121
+2018-08-15 06:09:59 UTC,Coles,Dried Apricots Prepacked,Fruit & Vegetables,400g,,,2149231P,,,,,,,,5,FALSE,5,FALSE,,,1534277399.0-C-9147
+2018-08-15 06:09:59 UTC,Coles,Trail Mix,Fruit & Vegetables,400g,,,5476234P,,,,,,,,4,FALSE,4,FALSE,,,1534277399.0-C-9148
+2018-08-15 06:09:59 UTC,Coles,Medjool Dates loose,Fruit & Vegetables,approx. 200g,,,134255P,,,,,,,,3,FALSE,3,FALSE,,,1534277399.0-C-9149
+2018-08-15 06:09:59 UTC,Coles,Medjool Dates,Fruit & Vegetables,454g,,,8922802P,,,,,,,,10,FALSE,10,FALSE,,,1534277399.0-C-9150
+2018-08-15 06:10:01 UTC,Medjool Dates,Medjol Date 5kg Gift Box,Fruit & Vegetables,1 each,100g,50,7273420P,1133,2g,0g,0g,73g,63g,0mg,95,FALSE,95,FALSE,,,1534277401.0-C-9580
+2018-08-15 06:10:05 UTC,Coles,Nachos Nuts,Fruit & Vegetables,400g,,,3020886P,,,,,,,,6,FALSE,6,FALSE,,,1534277405.0-C-10677
+2018-08-15 06:10:05 UTC,Scoop & Weigh,BBQ Crunch,Fruit & Vegetables,approx. 100g,,,1960701P,,,,,,,,2,FALSE,2,FALSE,,,1534277405.0-C-10688
+2018-08-15 06:10:05 UTC,Scoop & Weigh,Roasted Salted Cashews With Skin,Fruit & Vegetables,approx. 100g,,,3198549P,,,,,,,,3,FALSE,3,FALSE,,,1534277405.0-C-10689
+2018-08-15 06:10:05 UTC,Scoop & Weigh,Peanut Butter Pretzels,Fruit & Vegetables,approx. 100g,,,3198458P,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534277405.0-C-10690
+2018-08-15 06:10:05 UTC,Coles,Whole Cranberries,Fruit & Vegetables,400g,,,3039330P,,,,,,,,6,FALSE,6,FALSE,,,1534277405.0-C-10701
+2018-08-15 06:10:05 UTC,Scoop & Weigh,Passionfruit And Chia Pcs,Fruit & Vegetables,approx. 100g,,,2848398P,,,,,,,,3,FALSE,3,FALSE,,,1534277405.0-C-10702
+2018-08-15 06:10:05 UTC,Coles,Medjool Dates,Fruit & Vegetables,907g,,,8549957P,,,,,,,,18,FALSE,18,FALSE,,,1534277405.0-C-10712
+2018-08-15 06:10:05 UTC,Coles,Choc Cherry Berry Mix,Fruit & Vegetables,380g,,,3020988P,,,,,,,,6,FALSE,6,FALSE,,,1534277405.0-C-10713
+2018-08-15 06:10:05 UTC,Coles,Salt And Vinegar Mix Bowl,Fruit & Vegetables,400g,,,2786698P,,,,,,,,6,FALSE,6,FALSE,,,1534277405.0-C-10714
+2018-08-15 06:10:05 UTC,Coles,Mix Superfood,Fruit & Vegetables,400g,,,3039352P,,,,,,,,7,FALSE,7,FALSE,,,1534277405.0-C-10715
+2018-08-15 06:10:05 UTC,Coles,Pinenuts,Fruit & Vegetables,200g,,,3018523P,,,,,,,,7,FALSE,7,FALSE,,,1534277405.0-C-10716
+2018-08-15 06:10:05 UTC,Coles,Soft & Juicy Apple Slices,Fruit & Vegetables,250g,,,3089226P,,,,,,,,1,FALSE,1,FALSE,,,1534277405.0-C-10717
+2018-08-15 06:10:05 UTC,Coles,Soft & Juicy Pear Slices,Fruit & Vegetables,300g,,,3089215P,,,,,,,,4,FALSE,4,FALSE,,,1534277405.0-C-10718
+2018-08-15 06:10:05 UTC,Fruit Snax,Dried Fruit,Fruit & Vegetables,50g,,,1475488P,,,,,,,,2,FALSE,2,FALSE,,,1534277405.0-C-10719
+2018-08-15 08:09:33 UTC,Scoop & Weigh,Roasted Pistachios loose,Fruit & Vegetables,approx. 100g,,,8412588P,,,,,,,,3,FALSE,3,FALSE,,,1534284573.0-C-11793
+2018-08-15 08:09:33 UTC,Marlborough,Noir Black Garlic Cloves Prepacked,Fruit & Vegetables,40g,,,2609105P,,,,,,,,5,FALSE,5,FALSE,,,1534284573.0-C-11799
+2018-08-15 08:09:33 UTC,Coles,Blackberries Prepacked,Fruit & Vegetables,125g,,,134040P,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534284573.0-C-11800
+2018-08-15 08:09:33 UTC,Coles,Red Seedless Grapes,Fruit & Vegetables,approx. 800g,,,6704163P,,,,,,,,9.52,FALSE,9.52,FALSE,,,1534284573.0-C-11801
+2018-08-15 08:09:33 UTC,Seasonal,Fruit Box Large,Fruit & Vegetables,1 each,,,6507118P,,,,,,,,50,FALSE,50,FALSE,,,1534284573.0-C-11802
+2018-08-15 08:09:33 UTC,Coles,Cheddar Mash,Fruit & Vegetables,350g,,,3216549P,,,,,,,,4,FALSE,4,FALSE,,,1534284573.0-C-11810
+2018-08-15 08:09:33 UTC,Coles,Baby Gem Lettuce,Fruit & Vegetables,3 pack,,,2584547P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534284573.0-C-11819
+2018-08-15 08:09:33 UTC,Coles,Imported Pistachio Roasted & Salted,Fruit & Vegetables,400g,,,2878027P,,,,,,,,9,FALSE,9,FALSE,,,1534284573.0-C-11823
+2018-08-15 08:09:33 UTC,Scoop & Weigh,Roasted Unsalted Almonds loose,Fruit & Vegetables,approx. 100g,30,,8413300P,2690,18.6,60.5,4.2,4,4,4,2.2,FALSE,2.2,FALSE,,,1534284573.0-C-11824
+2018-08-15 08:09:33 UTC,Coles,Mini Vine Capsicums Prepacked,Fruit & Vegetables,175g,,,7296299P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534284573.0-C-11827
+2018-08-15 08:09:33 UTC,Coles,Vegetable Soup Starter Pack,Fruit & Vegetables,1kg,,,5108751P,,,,,,,,4,FALSE,4,FALSE,,,1534284573.0-C-11831
+2018-08-15 08:09:33 UTC,Scoop & Weigh,Quinoa loose,Fruit & Vegetables,approx. 100g,,,8708176P,,,,,,,,2,FALSE,2,FALSE,,,1534284573.0-C-11832
+2018-08-15 08:09:33 UTC,Scoop & Weigh,Gourmet Dates loose,Fruit & Vegetables,approx. 100g,,,8412307P,1261,2g,,0g,67.2g,65.9g,14mg,1.5,FALSE,1.5,FALSE,,,1534284573.0-C-11833
+2018-08-15 08:09:33 UTC,Casa Di Noci,Cashews & Peanuts,Fruit & Vegetables,200g,,,1774591P,,,,,,,,4.98,FALSE,4.98,FALSE,,,1534284573.0-C-11834
+2018-08-15 08:09:33 UTC,Coles,Organic Red Onions Prepacked,Fruit & Vegetables,1kg,,,5071833P,,,,,,,,6,FALSE,6,FALSE,,,1534284573.0-C-11836
+2018-08-15 08:09:33 UTC,Coles,Grey Zucchini,Fruit & Vegetables,1 each,,,6015951P,,,,,,,,0.8125,FALSE,0.8125,FALSE,,,1534284573.0-C-11837
+2018-08-15 08:09:33 UTC,Coles,Natural Almonds Prepacked,Fruit & Vegetables,800g,,,2123602P,2590,24,54.3,3.8,4.7,4.1,LESS THAN 5mg,16,FALSE,16,FALSE,,,1534284573.0-C-11838
+2018-08-15 08:09:33 UTC,Coles,Celery Sticks Prepacked,Fruit & Vegetables,300g,,,1069160P,,,,,,,,3.2,FALSE,3.2,FALSE,,,1534284573.0-C-11842
+2018-08-15 08:09:33 UTC,Coles,Baby Leaf Blend Salad Leaves Prepacked,Fruit & Vegetables,300g,,,8647548P,,,,,,,,5,FALSE,5,FALSE,,,1534284573.0-C-11843
+2018-08-15 08:09:33 UTC,Coles,Cos Lettuce,Fruit & Vegetables,200g,,,3216630P,,,,,,,,3,FALSE,3,FALSE,,,1534284573.0-C-11844
+2018-08-15 08:09:33 UTC,Coles,Organic Celery,Fruit & Vegetables,1 bunch,,,4981708P,,,,,,,,7,FALSE,7,FALSE,,,1534284573.0-C-11845
+2018-08-15 08:09:33 UTC,Organic,Mini Cos Lettuce,Fruit & Vegetables,1 each,,,9210035P,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534284573.0-C-11846
+2018-08-15 08:09:33 UTC,Coles,Asian Veggie Pot,Fruit & Vegetables,175g,,,3173490P,,,,,,,,5,FALSE,5,FALSE,,,1534284573.0-C-11851
+2018-08-15 08:09:33 UTC,Scoop & Weigh,Dried Super Sweet Prunes loose,Fruit & Vegetables,approx. 100g,,,8417060P,,,,,,,,1.7,FALSE,1.7,FALSE,,,1534284573.0-C-11852
+2018-08-15 08:09:33 UTC,Scoop & Weigh,Supreme Unsalted Mixed Nuts loose,Fruit & Vegetables,approx. 100g,,,8412136P,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534284573.0-C-11853
+2018-08-15 08:09:33 UTC,Coles,Baby Brown Onions,Fruit & Vegetables,500g,,,2552868P,,,,,,,,1.9,FALSE,1.9,FALSE,,,1534284573.0-C-11857
+2018-08-15 08:09:33 UTC,Coles,Celery,Fruit & Vegetables,1 bunch,,,4845732P,,,,,,,,2.9,FALSE,2.9,FALSE,,,1534284573.0-C-11859
+2018-08-15 08:09:33 UTC,Coles,Carisma Washed Potatoes Prepacked,Fruit & Vegetables,2kg,,,7712327P,,,,,,,,4,FALSE,4,FALSE,,,1534284573.0-C-11860
+2018-08-15 08:09:33 UTC,Coles,Organic Chopped Kale,Fruit & Vegetables,140g,,,3014475P,,,,,,,,4,FALSE,4,FALSE,,,1534284573.0-C-11861
+2018-08-15 08:09:33 UTC,Coles,Sugar Snap Peas loose,Fruit & Vegetables,approx. 100g,,,438409P,,,,,,,,1.59,FALSE,1.59,FALSE,,,1534284573.0-C-11862
+2018-08-15 08:09:33 UTC,Scoop & Weigh,Nougat Cranberry & Nut,Fruit & Vegetables,approx. 100g,,,2349660P,,,,,,,,2.2,FALSE,2.2,FALSE,,,1534284573.0-C-11863
+2018-08-15 08:09:33 UTC,Coles,Organic Chillies Prepacked,Fruit & Vegetables,50g,,,8456029P,,,,,,,,1.5,FALSE,1.5,FALSE,,,1534284573.0-C-11864
+2018-08-15 08:09:33 UTC,Scoop & Weigh,Roasted Salted Macadamias loose,Fruit & Vegetables,approx. 100g,,,8412114P,,,,,,,,5,FALSE,5,FALSE,,,1534284573.0-C-11865
+2018-08-15 08:09:33 UTC,Coles,Bay Leaves Sleeved,Fruit & Vegetables,1 bunch,,,6838942P,,,,,,,,2.98,FALSE,2.98,FALSE,,,1534284573.0-C-11866
+2018-08-15 08:09:33 UTC,Coles,Fresh Zucchini Flower,Fruit & Vegetables,6 pack,,,3062321P,,,,,,,,0,FALSE,0,FALSE,,,1534284573.0-C-11867
+2018-08-15 08:09:33 UTC,Coles,Sleeved Fenugreek,Fruit & Vegetables,1 each,,,3088201P,,,,,,,,0,FALSE,0,FALSE,,,1534284573.0-C-11868

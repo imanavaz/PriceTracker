@@ -1,0 +1,113 @@
+Date of data Extraction 1,Brand 1,Product name 1,Category 1,Pack size 1,Serving size 1,Servings per pack 1,Product code 1,Energy per 100g (or 100ml) 1,Protein per 100g (or 100ml) 1,Total fat per 100g (or 100ml) 1,Saturated fat per 100g (or 100ml) 1,Carbohydrate per 100g (or 100ml) 1,Sugars per 100g (or 100ml) 1,Sodium per 100g (or 100ml) 1,Original Price 1,Price Promoted 1,Price Promoted Price 1,Multi Buy Special 1,Multi Buy Special Details 1,Multi Buy Price 1,UID 1,Date of data Extraction 2,Brand 2,Product name 2,Category 2,Pack size 2,Serving size 2,Servings per pack 2,Product code 2,Energy per 100g (or 100ml) 2,Protein per 100g (or 100ml) 2,Total fat per 100g (or 100ml) 2,Saturated fat per 100g (or 100ml) 2,Carbohydrate per 100g (or 100ml) 2,Sugars per 100g (or 100ml) 2,Sodium per 100g (or 100ml) 2,Original Price 2,Price Promoted 2,Price Promoted Price 2,Multi Buy Special 2,Multi Buy Special Details 2,Multi Buy Price 2,UID 2
+2018-08-15 06:09:30 UTC,Helga's,Mixed Grain Bread,Bread & Bakery,850g,,,6711227P,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534277370.0-C-571,2018-08-15 09:49:38 UTC,helga's,grain bread mixed grain,Bakery,850g,94g (2 slices),9(16 slices + 2 Crusts),,1040kJ,9.6g,3.2g,<1.0g,43.0g,3.0g,400mg,3.7,FALSE,3.7,FALSE,,,1534290578.0-W-12781
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Helga's,Wholemeal 10 Grains & Seeds,Bread & Bakery,750g,,,3180430P,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534277369.0-C-504,2018-08-15 09:49:38 UTC,helga's,squar loaf 10 grains & seeds,Bakery,750g,g,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534290578.0-W-12822
+,,"Does not match - matched product would be ""Helga's Square Loaf 10 Grains & Seeds Wholemeal 750g""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Helga's,White Bread 10 Grains & Seeds 750g,Bread & Bakery,750g,,,3180420P,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534277370.0-C-781,2018-08-15 09:49:38 UTC,helga's,square loaf 10 grains & seeds wholemeal,Bakery,750g,g,,,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534290578.0-W-12806
+,,"Does not match - matched product would be ""Helga's Square Loaf 10 Grains & Seeds 750g""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Tip Top,Sandwich Thins Lighty Seeded,Bread & Bakery,240g,40 g (1 Thin),6,2917071P,1030kJ,9.0g,2.1g,0.6g,45.0g,3.1g,366mg,3.5,FALSE,3.5,FALSE,,,1534277369.0-C-545,2018-08-15 08:09:46 UTC,tip top,sandwich thins lightly seeded,Bakery,6 pack,,,,,,,,,,,3.5,FALSE,3.5,TRUE,2,2.5,1534284586.0-W-6690
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Burgen,Wholemeal & Seeds Bread,Bread & Bakery,700g,,8.5,5369358P,922kJ,13.2g,6.1g,0.7g,23.2g,2.3g,386mg,4.9,FALSE,4.9,FALSE,,,1534277369.0-C-285,2018-08-15 09:49:38 UTC,burgen,bread wholemeal & seeds,Bakery,700g,83g (2 slices),8,,922kJ,13.2g,6.1g,0.7g,23.2g,2.3g,386mg,4.9,FALSE,4.9,FALSE,,,1534290578.0-W-12823
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:55 UTC,Golden,Original Pikelets,Bread & Bakery,8 pack,25g (1 pikelet),8,54000P,918kJ,5.0g,5.0g,0.6g,37.1g,12.1g,330mg,3.99,FALSE,3.99,FALSE,,,1534277395.0-C-8146,2018-08-15 08:09:45 UTC,golden,pikelets,Bakery,8 pack,25g (1 pikelet),8,,918kJ,5.0g,5.0g,0.6g,37.1g,12.1g,330mg,3.99,FALSE,3.99,TRUE,2,3,1534284585.0-W-6614
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Burgen,Traditional Rye Bread,Bread & Bakery,700g,,8.5,5249684P,1035kJ,10.6g,5.2g,0.5g,35.4g,1.5g,17%,4.9,FALSE,4.9,FALSE,,,1534277369.0-C-506,2018-08-15 09:49:38 UTC,burgen,bread traditional rye,Bakery,700g,83g (2 slices),8,,1035kJ,10.6g,5.2g,0.5g,35.4g,1.5g,17.00%,4.9,FALSE,4.9,FALSE,,,1534290578.0-W-12844
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Golden,Chocolate Bomb Pikelets,Bread & Bakery,8 pack,,8,2919805P,1040kJ,5.0g,6.8g,0.8g,40.8g,14.3g,370mg,3.99,FALSE,3.99,FALSE,,,1534277370.0-C-742,2018-08-15 08:09:45 UTC,golden,chocolate flavoured pikelet,Bakery,8 pack,,8,,1040kJ,5.0g,6.8g,0.8g,40.8g,14.3g,370mg,3.99,FALSE,3.99,TRUE,2,3,1534284585.0-W-6607
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Wonder White,Smooth Wholegrain Bread,Bread & Bakery,700g,,,2738243P,,,,,,,,3.2,FALSE,3.2,FALSE,,,1534277369.0-C-529,2018-08-15 09:49:38 UTC,wonder white,smooth wholegrain,Bakery,700g,74g (2 slices),9.5(17 slices and 2 crusts ),,980kJ,8.7g,3.1g,<1.0g,38.5g,3.2g,400mg,3.2,FALSE,3.2,FALSE,,,1534290578.0-W-12818
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Helga's,Traditional White Bread,Bread & Bakery,750g,,,5969945P,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534277370.0-C-553,2018-08-15 09:49:38 UTC,helga's,bread traditional white,Bakery,750g,83g (2 Slices),9(16 Slices + 2 Crusts),,1010kJ,8.2g,2.4g,<1.0g,43.1g,3.0g,400mg,3.7,FALSE,3.7,FALSE,,,1534290578.0-W-12812
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Abbott's Village Bakery,Gluten Free Mixed Seeds,Bread & Bakery,500g,83g (2 slices),6,2834225P,1230kJ,6.3g,10.1g,1.1g,41.4g,4.2g,337mg,7,FALSE,7,FALSE,,,1534277369.0-C-548,2018-08-15 08:09:45 UTC,abbotts village bakery,gluten free mixed seeds,Bakery,500g,83g (2 slices),6,,1230kJ,6.3g,10.1g,1.1g,41.4g,4.2g,337mg,6.99,FALSE,6.99,FALSE,,,1534284585.0-W-6620
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Helga's,Pumpkin Five Seed Bread,Bread & Bakery,720g,,,6009530P,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534277369.0-C-549,2018-08-15 09:49:38 UTC,helga's,pumpkin seed and grain,Bakery,720g,80g (2 Slices),9(16 Slices + 2 Crusts),,1110kJ,10.4g,0.5g,<1.0g,41.1g,2.8g,400mg,3.7,FALSE,3.7,FALSE,,,1534290578.0-W-12815
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:55 UTC,Golden,Original Crumpets,Bread & Bakery,6 pack,50g (1 Crumpet),,332383P,695kJ,6.0g,0.9g,0.1g,32.1g,1.0g,600mg,3.1,FALSE,3.1,FALSE,,,1534277395.0-C-8194,2018-08-15 08:09:45 UTC,golden,crumpets round,Bakery,6 pack,,,,,,,,,,,3.5,TRUE,1.75,FALSE,,,1534284585.0-W-6602
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Tip Top,Cafe Blueberry & Vanilla Loaf,Bread & Bakery,500g,,,2919827P,1190kJ,8.4g,4.6g,0.6g,49.9g,15.1g,269mg,4,FALSE,4,FALSE,,,1534277369.0-C-482,2018-08-15 08:09:45 UTC,tip top,blueberry & vanilla cafe loaf,Bakery,500g,g,,,,,,,,,,4,TRUE,3.5,FALSE,,,1534284585.0-W-6464
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Burgen,Soy & Linseed Bread,Bread & Bakery,700g,83G (2 slices),8.5,6712445P,905kJ,13.5g,5.8g,0.8g,24.0g,2.9g,435mg,4.9,FALSE,4.9,FALSE,,,1534277369.0-C-505,2018-08-15 09:49:38 UTC,burgen,bread soy & linseed,Bakery,700g,83g (2 slices),8,,905kJ,13.5g,5.8g,0.8g,24.0g,2.9g,435mg,4.9,FALSE,4.9,FALSE,,,1534290578.0-W-12829
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Abbotts Village,Gluten Free Rustic White,Bread & Bakery,500g,83g (2 slices),6,3216913P,1120kJ,4.1g,3.7g,0.3g,52.6g,2.3g,259mg,7,FALSE,7,FALSE,,,1534277370.0-C-723,2018-08-15 08:09:45 UTC,abbott's village bakery,gluten free rustic white,Bakery,500g,g,,,,,,,,,,6.99,FALSE,6.99,FALSE,,,1534284585.0-W-6624
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Tip Top,9 Grain Bread Pumpkin Seeds,Bread & Bakery,700g,,,4865955P,1100kJ,13.8g,6.4g,1.0g,33.7g,2.1g,400mg,3.2,FALSE,3.2,FALSE,,,1534277370.0-C-776,2018-08-15 09:49:38 UTC,Tip Top ,9 grain tip top pumpkin seed,Bakery,700g,74g (2 slices),9.5,,1100kJ,13.8g,6.4g,1.0g,33.7g,2.1g,400mg,3.3,TRUE,3.2,FALSE,,,1534290578.0-W-12842
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Golden,Cinnamon Rush Pikelets,Bread & Bakery,8 pack,,,2919816P,,,6.5g,0.8g,42.1g,13.5g,382mg,3.99,FALSE,3.99,FALSE,,,1534277370.0-C-744,2018-08-15 08:09:45 UTC,golden,cinnamon flavoured pikelet,Bakery,8 pack,,,,,,6.5g,0.8g,42.1g,13.5g,382mg,3.99,FALSE,3.99,TRUE,2,3,1534284585.0-W-6600
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Tip Top,Raisin Toast Bread,Bread & Bakery,520g,65g,,7024470P,1150kJ,8.7g,2.2g,0.4g,52.9g,17.5g,302mg,3.7,FALSE,3.7,FALSE,,,1534277370.0-C-601,2018-08-15 08:09:45 UTC,tip top,raisin toast,Bakery,520g,87g (2 slices),87g (2 slices),,1100kJ,9.5g,3.7g,3.7g,44.5g,15.3g,301mg,3.7,FALSE,3.7,FALSE,,,1534284585.0-W-6467
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Helga's,Gluten Free Wholemeal Bread,Bread & Bakery,500g,,,3237957P,,,,,,,,7,FALSE,7,FALSE,,,1534277370.0-C-646,2018-08-15 08:09:45 UTC,helga's,gluten free wholemeal loaf,Bakery,500g,g,,,,,,,,,,6.99,FALSE,6.99,FALSE,,,1534284585.0-W-6625
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Toscano,Pizza Bases,Bread & Bakery,2 pack,Approx. 150g (1 pizza base),2,7120758P,1180kJ,7.6g,0.8g,0.1g,59.1g,1.2g,720mg,5.5,TRUE,4.5,FALSE,,,1534277370.0-C-777,2018-08-15 08:09:46 UTC,toscano,pizza base,Bakery,2 pack,Approx.150g (1 Pizza base),2,,1180kJ,7.6g,0.8g,0.1g,59.1g,1.2g,720mg,5.5,FALSE,5.5,FALSE,,,1534284586.0-W-6723
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:55 UTC,Golden,Crumpet Breaks,Bread & Bakery,6 pack,71g,,6034275P,750kJ,5.7g,0.9g,0.2g,35.5g,2.0g,600mg,4,TRUE,2.5,FALSE,,,1534277395.0-C-8196,2018-08-15 08:09:45 UTC,golden,crumpets breaks,Bakery,6 pack,,,,,,,,,,,4.2,TRUE,2.5,FALSE,,,1534284585.0-W-6617
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Mission,Gluten Free 4 Wraps,Bread & Bakery,232g,,,3207082P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277370.0-C-589,2018-08-15 08:09:45 UTC,mission ,gluten free wrap,Bakery,232g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534284585.0-W-6623
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Tip Top,Sandwich Thins Original,Bread & Bakery,240g,40 g (1 Thin),6,2917050P,1030kJ,9.5g,2.5g,0.7g,43.0g,3.2g,375mg,3.5,FALSE,3.5,FALSE,,,1534277369.0-C-520,2018-08-15 08:09:46 UTC,tip top,sandwich thins original,Bakery,6 pack,,,,,,,,,,,3.5,FALSE,3.5,TRUE,2,2.5,1534284586.0-W-6691
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Toscano,Gluten Free Pizza Base,Bread & Bakery,180g,Approx. 180g,1,2298297P,958kJ,8.0g,0.1g,Less than 0.1g,49.0g,Less than 0.1g,700mg,6.4,TRUE,5.2,FALSE,,,1534277369.0-C-521,2018-08-15 08:09:45 UTC,toscano,gluten free pizza base,Bakery,180g,Approx.180g,1,,958kJ,8.0g,0.1g,<0.1g,49.0g,<0.1g,700mg,6.49,FALSE,6.49,FALSE,,,1534284585.0-W-6622
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:55 UTC,Tip Top,Sandwich Thins Wholemeal,Bread & Bakery,240g,40 g (1 Thin,6,2917060P,1030kJ,9.8g,3.5g,0.6g,39.5g,3.1g,348mg,3.5,FALSE,3.5,FALSE,,,1534277395.0-C-8131,2018-08-15 08:09:46 UTC,tip top,sandwich thins wholemeal,Bakery,6 pack,,,,,,,,,,,3.5,FALSE,3.5,TRUE,2,2.5,1534284586.0-W-6695
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Toscano,Chocolate Chip Waffles 4 pack,Bread & Bakery,360g,90g (1 Waffle),4,8995067P,1898kJ,5.3g,23.5g,12.5g,54.1g,31.6g,390mg,5.3,FALSE,5.3,FALSE,,,1534277370.0-C-746,2018-08-15 08:09:45 UTC,toscano,waffles choc chip,Bakery,360g,90g,4,,1902kJ,5.8g,22.8g,12.5g,54.9g,31.8g,370mg,5.3,FALSE,5.3,FALSE,,,1534284585.0-W-6580
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:55 UTC,Tip Top,Wholemeal English Muffins,Bread & Bakery,6 pack,67g (1 Muffin),6,5137320P,746kJ,8.1g,2.0g,0.6g,29.1g,1.6g,244mg,4.9,TRUE,2.5,FALSE,,,1534277395.0-C-8168,2018-08-15 08:09:45 UTC,tip top,english muffins original,Bakery,6 pack,67g (1 Muffin),,,,,,,,,296mg,5,FALSE,5,TRUE,2,3,1534284585.0-W-6592
+,,"Does not match - matched product would be ""Tip Top English Muffins Wholemeal 6 pack""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 08:09:33 UTC,Tip Top,9 Grain Original Bread,Bread & Bakery,700g,,,9201680P,1040kJ,12.1g,5.0g,0.6g,35.1g,2.2g,400mg,3.2,FALSE,3.2,FALSE,,,1534284573.0-C-11798,2018-08-15 09:49:38 UTC,Tip Top ,9 grain tip top bread original,Bakery,700g,74g (2 slices),9.5(17 slices + c crusts),,1040kJ,12.1g,5.0g,0.6g,35.1g,2.2g,400mg,3.3,TRUE,3.2,FALSE,,,1534290578.0-W-12843
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Wonder White,Toast Bread +7 Vitamins & Minerals,Bread & Bakery,700g,,,5827361P,1000kJ,8.1g,2.6g,<1.0g,42.7g,3.5g,400mg,3.2,FALSE,3.2,FALSE,,,1534277370.0-C-595,2018-08-15 09:49:38 UTC,wonder white,bread vitamins & minerals sandwich,Bakery,700g,74g (2 slices),9.5,,955kJ,7.8g,2.1g,<1.0g,40.2g,2.8g,400mg,3.2,FALSE,3.2,FALSE,,,1534290578.0-W-12820
+,,"Does not match - matched product would be ""Wonder White Bread Vitamins & Minerals Toast 700g""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Burgen,Wholegrain & Oats Bread,Bread & Bakery,700g,83g (2 Slices),8.5,7482271P,835kJ,10.9g,4.4g,0.5g,25.6g,2.9g,280mg,4.9,FALSE,4.9,FALSE,,,1534277370.0-C-778,2018-08-15 09:49:38 UTC,burgen,bread wholegrain & oats,Bakery,700g,83g (2 slices),8,,931kJ,10.8g,4.80%,0.6g,30.1g,1.9g,323mg,4.9,FALSE,4.9,FALSE,,,1534290578.0-W-12830
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Tip Top,9 Grain Wholemeal Bread,Bread & Bakery,750g,,,6010561P,1040kJ,12.4g,6.4g,0.7g,30.6g,1.9g,370mg,3.2,FALSE,3.2,FALSE,,,1534277369.0-C-338,2018-08-15 09:49:38 UTC,Tip Top ,9 grain tip top plus wholemeal,Bakery,750g,79g (2 Slices),9.5,,1040kJ,12.4g,6.4g,0.7g,30.6g,1.9g,370mg,3.3,TRUE,3.2,FALSE,,,1534290578.0-W-12824
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:55 UTC,Mountain Bread,Natural Flat Bread,Bread & Bakery,200g,25g,8,9280325P,1240kJ,,1.4g,0.4g,57.4g,2.3g,450mg,4,TRUE,3,FALSE,,,1534277395.0-C-8143,2018-08-15 09:49:38 UTC,mountain bread,natural light wraps,Bakery,8 pack,,,,1240kJ,,,,,,,4,FALSE,4,FALSE,,,1534290578.0-W-12798
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:55 UTC,Golden,Wholemeal Crumpets,Bread & Bakery,6 pack,50g,,292223P,780kJ,5.9g,0.9g,0.1g,36.6g,1.0g,600mg,3.1,FALSE,3.1,FALSE,,,1534277395.0-C-8173,2018-08-15 08:09:45 UTC,golden,crumpets round wholemeal,Bakery,6 pack,50g (1 crumpet),6Crumpets,,780kJ,5.9g,0.9g,0.2g,36.6g,1.6g,600mg,3.5,TRUE,1.75,FALSE,,,1534284585.0-W-6608
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Helga's,Traditional Wholemeal Bread,Bread & Bakery,750g,,,5969435P,,,,,,,,3.7,FALSE,3.7,FALSE,,,1534277370.0-C-597,2018-08-15 09:49:38 UTC,helga's,bread traditional wholemeal,Bakery,750g,83g (2 Slices),9(16 Slices + 2 Crusts),,1000kJ,9.0g,2.5g,<1.0g,41.5g,3.0g,400mg,3.7,FALSE,3.7,FALSE,,,1534290578.0-W-12807
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Wonder White,Hi Fibre Sandwich Bread,Bread & Bakery,700g,,,7226817P,1000kJ,8.1g,2.6g,<1.0g,42.7g,3.5g,400mg,3.2,FALSE,3.2,FALSE,,,1534277369.0-C-287,2018-08-15 09:49:38 UTC,wonder white,white hi fibre sandwich slice bread,Bakery,700g,74g (2 slices),9.5,,955kJ,7.8g,2.1g,<1.0g,40.2g,2.8g,400mg,3.2,FALSE,3.2,FALSE,,,1534290578.0-W-12834
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Wonder White,Wholemeal Bread Plus Iron,Bread & Bakery,700g,,,5322140P,985kJ,9.4g,3.2g,<1.0g,38.8g,3.2g,400mg,3.2,FALSE,3.2,FALSE,,,1534277370.0-C-598,2018-08-15 09:49:38 UTC,wonder white,wholemeal with iron sandwich slice,Bakery,700g,74g (2 slices),9.5,,980kJ,9.1g,3.2g,<1.0g,37.8g,2.7g,400mg,3.2,FALSE,3.2,FALSE,,,1534290578.0-W-12832
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:55 UTC,Helga's,Lower Carb Wholemeal Wraps,Bread & Bakery,250g,50g (1 Wrap),5,2738232P,1250kJ,13.4g,10.1g,4.7g,34.2g,4.2g,450mg,5,TRUE,4,FALSE,,,1534277395.0-C-8129,2018-08-15 08:09:46 UTC,helga's,low carb wraps,Bakery,250g,50g (1 Wrap),5,,1250kJ,13.8g,10.3g,4.4g,34.1g,3.7g,450mg,4.99,FALSE,4.99,FALSE,,,1534284586.0-W-6712
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Balconi,Mix Max Cakes 10 pack,Bread & Bakery,350g,,,5088122P,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534277370.0-C-820,2018-08-15 08:09:46 UTC,balconi ,mix max spgnckes cocoa,Bakery,10pk,,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534284586.0-W-6670
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Wonder White,Sandwich Bread +7 Vitamins & Minerals,Bread & Bakery,700g,,,5795130P,1000kJ,8.1g,2.6g,<1.0g,42.7g,3.5g,400mg,3.2,FALSE,3.2,FALSE,,,1534277370.0-C-596,2018-08-15 09:49:38 UTC,wonder white,bread vitamins & minerals toast,Bakery,700g,82g (2 slices),8.5,,955kJ,7.8g,2.1g,<1.0g,40.2g,2.8g,400mg,3.2,FALSE,3.2,FALSE,,,1534290578.0-W-12817
+,,"Does not match - matching product is ""Wonder White Bread Vitamins & Minerals Sandwich 700g""",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Balconi,Trancetto Cakes 10 pack,Bread & Bakery,280g,,,9228493P,,,,,,,,4,FALSE,4,FALSE,,,1534277369.0-C-420,2018-08-15 08:09:46 UTC,balconi,trancetto single coco,Bakery,10pk,,,,459kJ,1.5g,5.0g,2.6g,14.5g,9.3g,,3.99,FALSE,3.99,FALSE,,,1534284586.0-W-6673
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:55 UTC,Mountain Bread,Rye Flat Bread,Bread & Bakery,200g,25g,8,5213790P,1150kJ,,1.2g,0.3g,53.1g,2.3g,410mg,4,TRUE,3,FALSE,,,1534277395.0-C-8159,2018-08-15 08:09:46 UTC,rye,mountain bread,Bakery,200g,25g,8,,1150kJ,10.4g,1.2g,0.3g,53.1g,2.3g,410mg,4,FALSE,4,FALSE,,,1534284586.0-W-6719
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Golden,Pancakes 6 pack,Bread & Bakery,360g,60g (1 Pancake),6,6051649P,909kJ,5.1g,4.8g,0.7g,36.9g,11.8g,281mg,5,TRUE,3.5,FALSE,,,1534277370.0-C-773,2018-08-15 08:09:45 UTC,golden,pancakes,Bakery,6pk 360g,60g (1 Pancake),6,,909kJ,5.1g,4.8g,0.7g,36.9g,11.8g,281mg,4.99,FALSE,4.99,TRUE,2,3,1534284585.0-W-6603
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:55 UTC,Bazaar,Gourmet Pizza Bases 2 pack,Bread & Bakery,440g,110g,4,4991778P,1210kJ,7.7g,6.0g,0.6g,49.4g,2.8g,653mg,6,FALSE,6,FALSE,,,1534277395.0-C-8157,2018-08-15 08:09:46 UTC,bazaar,pizza bases gourmet,Bakery,2pk,110g,4,,1210kJ,7.7g,6.0g,0.6g,49.4g,,653mg,5.99,TRUE,4,FALSE,,,1534284586.0-W-6635
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Abbott's Village,Harvest Seeds & Grains,Bread & Bakery,750g,84g,,7534885P,1180kJ,11.0g,5.2g,0.6g,42.9g,2.8g,400mg,3.5,FALSE,3.5,FALSE,,,1534277369.0-C-526,2018-08-15 09:49:38 UTC,abbott's village bakery,harvest seeds & grains bread,Bakery,750g,84g (2 slices),9(16 slices + 2 crusts),,1090kJ,9.0g,4.8g,0.6g,42.9g,3.0g,400mg,5.39,TRUE,3.5,FALSE,,,1534290578.0-W-12810
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Abbott's Village,Farmhouse Wholemeal,Bread & Bakery,750g,84g,,7226034P,987kJ,10.0g,2.7g,0.6g,38.4g,2.6g,348mg,3.5,FALSE,3.5,FALSE,,,1534277370.0-C-575,2018-08-15 09:49:38 UTC,abbott's village bakery,farmhouse wholemeal bread,Bakery,750g,84g (2 slices),9(16 slices + 2 crusts),,987kJ,8.7g,2.9g,0.5g,40.0g,3.6g,348mg,5.39,TRUE,3.5,FALSE,,,1534290578.0-W-12809
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Abbott's Village,Light Rye,Bread & Bakery,680g,76g,,7226023P,1040kJ,9.5g,2.4g,0.5g,42.3g,3.4g,360mg,3.5,FALSE,3.5,FALSE,,,1534277369.0-C-547,2018-08-15 09:49:38 UTC,abbott's village bakery,light rye bread,Bakery,680g,76g (2 slices),9(16 slices + 2 crusts),,1030kJ,9.7g,3.0g,0.5g,42.1g,2.8g,360mg,5.39,TRUE,3.5,FALSE,,,1534290578.0-W-12790
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Bazaar,White Pita Pocket 6 pack,Bread & Bakery,400g,67g (1 pita),6,9089295P,1130kJ,8.9g,2.1g,0.4g,51.6g,3.3g,500mg,0,FALSE,0,FALSE,,,1534277370.0-C-591,2018-08-15 08:09:46 UTC,bazaar,lebanese bread white,Bakery,6 pack,83.5g (1 Lebanese bread),6,,1240kJ,9.5g,2.0g,0.5g,58.1g,,500mg,4,FALSE,4,FALSE,,,1534284586.0-W-6697
+,,"Unable to assess match, product not available at Coles Online",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:29 UTC,Abbott's Village Bakery,Gluten Free Soy & Linseed Bread,Bread & Bakery,500g,83g (2 slices),6,2834247P,1140kJ,6.5g,6.6g,0.7g,43.5g,5.0g,364mg,7,FALSE,7,FALSE,,,1534277369.0-C-531,2018-08-15 08:09:45 UTC,abbotts village bakery,gluten free soy & linseed,Bakery,500g,83g (2slices),6,,1140kJ,6.5g,6.6g,0.7g,43.5g,5.0g,364mg,6.99,FALSE,6.99,FALSE,,,1534284585.0-W-6621
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:55 UTC,Mission,Spinach & Herb Wraps 8 pack,Bread & Bakery,567g,71g,8,7620921P,1270kJ,8.0g,8.1g,3.9g,47.5g,6.0g,890mg,5,FALSE,5,FALSE,,,1534277395.0-C-8175,2018-08-15 08:09:46 UTC,mission,wraps spinach & herb,Bakery,8 pack,,,,1270kJ,7.8g,8.8g,4.3g,46.1g,2.5g,890mg,4.99,TRUE,3.99,FALSE,,,1534284586.0-W-6679
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Bazaar,Wholemeal Pita Pocket 6 pack,Bread & Bakery,400g,67g (1 pita),6,9089331P,1050kJ,9.0g,2.3g,0.5g,45.6g,3.0g,500mg,0,FALSE,0,FALSE,,,1534277370.0-C-590,2018-08-15 08:09:46 UTC,bazaar,lebanese bread wholemeal,Bakery,6 pack,,,,,,,,,,,4,FALSE,4,FALSE,,,1534284586.0-W-6692
+,,"Unable to assess match, product not available at Coles Online",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Mountain Bread,Rice Flat Bread,Bread & Bakery,200g,25g,8,8275680P,1140kJ,10.3g,1.3g,0.4g,52.9g,2.1g,400mg,4,TRUE,3,FALSE,,,1534277370.0-C-666,2018-08-15 08:09:46 UTC,rice,mountain bread,Bakery,200g,25g,8,,1140kJ,10.3g,1.3g,0.4g,52.9g,2.1g,400mg,4,FALSE,4,FALSE,,,1534284586.0-W-6720
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 08:09:33 UTC,Helga's,White Wraps 8 pack,Bread & Bakery,560g,70g (1 wrap),8,1576474P,1220kJ,8.3g,5.7g,2.8g,49.5g,1.2g,430mg,5,TRUE,4,FALSE,,,1534284573.0-C-11804,2018-08-15 08:09:46 UTC,helga's,wraps traditional white,Bakery,560g 8pk,g,,,,,,,,,,4.99,FALSE,4.99,FALSE,,,1534284586.0-W-6688
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Tip Top,The One White Toast Bread,Bread & Bakery,700g,,,8956189P,950kJ,8.0g,2.1g,0.4g,,,400mg,3.2,FALSE,3.2,FALSE,,,1534277370.0-C-594,2018-08-15 09:49:38 UTC,the one,tip top toast bread white,Bakery,700g,78g (2 slices),9,,950kJ,8.0g,2.1g,0.4g,,,400mg,3.2,FALSE,3.2,FALSE,,,1534290578.0-W-12825
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Schwobs Swiss Bakery,Multigrain Cobb,Bread & Bakery,800g,70g,12,8165117P,966.0kJ,10.4g,1.8g,0.5g,39.6g,3.9g,620mg,0,FALSE,0,FALSE,,,1534277370.0-C-615,2018-08-15 09:49:38 UTC,schwob's swiss farmer,grain cob,Bakery,800g,g,,,,,,,,,,5.09,FALSE,5.09,FALSE,,,1534290578.0-W-12804
+,,"Unable to assess match, product not available at Coles or Woolworths online",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2018-08-15 06:09:30 UTC,Tip Top,Sunblest White Bread,Bread & Bakery,650g,,,7953924P,1020kJ,8.4g,2.0g,0.6g,46.3g,2.4g,400mg,2.9,FALSE,2.9,FALSE,,,1534277370.0-C-574,2018-08-15 09:49:38 UTC,tip top sunblest,white sandwich bread,Bakery,650g,60g (2 slices),11(20 slices + 2 crusts),,1020kJ,8.4g,2g,0.6g,46.3g,2.4g,400mg,2.9,FALSE,2.9,FALSE,,,1534290578.0-W-12789
+,,Match,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,830 @@
+Date of data Extraction,Brand,Product name,Category,Pack size,Serving size,Servings per pack,Product code,Energy per 100g (or 100ml),Protein per 100g (or 100ml),Total fat per 100g (or 100ml),Saturated fat per 100g (or 100ml),Carbohydrate per 100g (or 100ml),Sugars per 100g (or 100ml),Sodium per 100g (or 100ml),Original Price,Price Promoted,Price Promoted Price,Multi Buy Special,Multi Buy Special Details,Multi Buy Price,UID
+2018-08-15 08:09:44 UTC,maggie beer,Maggie Beer Labneh With Extra Virgin Olive Oil,"Meat, Seafood & Deli",150g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534284584.0-W-6381
+2018-08-15 08:09:44 UTC,meredith,Meredith Plain Goats Cheese,"Meat, Seafood & Deli",150g,20g,7.5,,1110kJ,15.1g,22.5g,14.9g,1.5g,1.5g,420mg,8.99,FALSE,8.99,FALSE,,,1534284584.0-W-6382
+2018-08-15 08:09:44 UTC,tuckers,Tuckers Fruit Paste Caramelised Fig,"Meat, Seafood & Deli",100g,50g,2,,1060kJ,<1g,<1g,<1g,66g,64.6g,<5mg,4.99,TRUE,3.95,FALSE,,,1534284584.0-W-6383
+2018-08-15 08:09:44 UTC,ob finest,Ob Finest Specialty Bites Parmesan Olive & Basil,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534284584.0-W-6384
+2018-08-15 08:09:44 UTC,maggie beer,Maggie Beer Paste Cabernet,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.98,FALSE,5.98,FALSE,,,1534284584.0-W-6385
+2018-08-15 08:09:45 UTC,maggie beer,Maggie Beer Fig & Walnut Paste,"Meat, Seafood & Deli",100g,10g,10,,1190kJ,1.8g,1.8g,<1g,64.0g,60.0g,17mg,5.98,FALSE,5.98,FALSE,,,1534284585.0-W-6386
+2018-08-15 08:09:45 UTC,ob finest,Ob Finest Quince Paste ,"Meat, Seafood & Deli",100g,5g,20,,1260kJ,0.3g,0.0g,0.0g,70.5g,54.4g,139mg,5,TRUE,4.5,FALSE,,,1534284585.0-W-6387
+2018-08-15 08:09:45 UTC,maggie beer,Maggie Beer Paste Spiced Pear,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.98,FALSE,5.98,FALSE,,,1534284585.0-W-6388
+2018-08-15 08:09:45 UTC,tuckers,Tuckers Fruit Paste Quince,"Meat, Seafood & Deli",100g,g,,,,,,,,,,4.99,TRUE,3.95,FALSE,,,1534284585.0-W-6389
+2018-08-15 08:09:45 UTC,simon johnson,Simon Johnson Honey Truffle Cheese,"Meat, Seafood & Deli",100g,g,,,,,,,,,,20.99,FALSE,20.99,FALSE,,,1534284585.0-W-6390
+2018-08-15 08:09:45 UTC,maggie beer ,Maggie Beer Quince Paste ,"Meat, Seafood & Deli",100g,10g,10,,,,,<1g,60.0g,,19mg,5.98,FALSE,5.98,FALSE,,,1534284585.0-W-6391
+2018-08-15 08:09:45 UTC,tuckers,Tuckers Fruit Paste Spiced Cherry,"Meat, Seafood & Deli",100g,g,,,,,,,,,,4.99,TRUE,3.95,FALSE,,,1534284585.0-W-6392
+2018-08-15 08:09:45 UTC,simon johnson,Simon Johnson Panforte Fruit & Almond ,"Meat, Seafood & Deli",100g,100g,20,,Approx. 1710kJ,<1g,Approx. 9.9g,<1g,Approx. 79.1g,Approx. 29.3g,Approx. 19mg,9.8,FALSE,9.8,FALSE,,,1534284585.0-W-6393
+2018-08-15 08:09:45 UTC,simon johnson,Simon Johnson Panforte Fig & Walnut ,"Meat, Seafood & Deli",100g,100g,20,,Approx. 1580kJ,Approx. 4.6g,Approx. 7.8g,<1g,Approx. 71.5g,Approx. 38g,Approx. 38mg,9.8,FALSE,9.8,FALSE,,,1534284585.0-W-6394
+2018-08-15 08:09:45 UTC,ob finest,Ob Finest Sesame Wafer Crackers ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,3.49,TRUE,3,FALSE,,,1534284585.0-W-6395
+2018-08-15 08:09:45 UTC,ob finest,Ob Finest Wafer Crackers Black Pepper,"Meat, Seafood & Deli",100g,10g,10,,1660kJ,10.2g,3.6g,1.3g,79.5g,2.1g,710mg,3.49,TRUE,3,FALSE,,,1534284585.0-W-6396
+2018-08-15 08:09:45 UTC,ob finest,Ob Finest Original Wafer Crackers ,"Meat, Seafood & Deli",100g,10g,10,,1620kJ,10.0g,3.5g,1.3g,76.1g,2.2g,690mg,3.49,TRUE,3,FALSE,,,1534284585.0-W-6397
+2018-08-15 08:09:45 UTC,ob finest,Ob Finest Gluten Free Original Wafer,"Meat, Seafood & Deli",100g,g,,,,,,,,,,3.49,TRUE,3,FALSE,,,1534284585.0-W-6398
+2018-08-15 08:09:45 UTC,ob finest,Ob Finest Specialty Bites Raisin Pecan & Rosemary,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534284585.0-W-6399
+2018-08-15 08:09:45 UTC,absolutely wrapped,Absolutely Wrapped Meat-lovers Platter,"Meat, Seafood & Deli",each,each,,,,,,,,,,35,FALSE,35,FALSE,,,1534284585.0-W-6400
+2018-08-15 08:09:45 UTC,mediterranean delight,Mediterranean Delight Platter ,"Meat, Seafood & Deli",each,each,,,,,,,,,,35,FALSE,35,FALSE,,,1534284585.0-W-6401
+2018-08-15 08:09:45 UTC,absolutely wrapped,Absolutely Wrapped Vegetarian Platter,"Meat, Seafood & Deli",each,each,,,,,,,,,,35,FALSE,35,FALSE,,,1534284585.0-W-6402
+2018-08-15 08:09:45 UTC,, Hash Brown From The Deli X10 Bundle ,"Meat, Seafood & Deli",,,,,,,,,,,,4,FALSE,4,FALSE,,,1534284585.0-W-6403
+2018-08-15 08:09:45 UTC,family favourites ,Family Favourites Platter ,"Meat, Seafood & Deli",each,each,,,,,,,,,,25,FALSE,25,FALSE,,,1534284585.0-W-6404
+2018-08-15 08:09:45 UTC,harissa,Harissa Soft Hummus,"Meat, Seafood & Deli",200g,20g,10,,1160kJ,6.4g,23.2g,2.6g,8.8g,<1.0g,440mg,5.19,FALSE,5.19,FALSE,,,1534284585.0-W-6405
+2018-08-15 08:09:45 UTC,created with jamie,Created With Jamie Soup Smoked Potato & Chorizo,"Meat, Seafood & Deli",300g,300g,1,,281kJ,1.3g,2.8g,0.7g,9.1g,3.7g,134mg,4,FALSE,4,FALSE,,,1534284585.0-W-6406
+2018-08-15 08:09:45 UTC,created with jamie,Created With Jamie Soup Cauliflower & Cheese,"Meat, Seafood & Deli",300g,300g,1,,315kJ,4.1g,4.6g,2.9g,3.9g,2.1g,247mg,4,FALSE,4,FALSE,,,1534284585.0-W-6407
+2018-08-15 08:09:45 UTC,the backyard picklery,The Backyard Picklery Bread & Butter Pickle,"Meat, Seafood & Deli",365g,50g,4,,307kJ,3.2g,3.7g,0.2g,4.8g,3.9g,175mg,6.5,FALSE,6.5,FALSE,,,1534284585.0-W-6408
+2018-08-15 08:09:45 UTC,hedys,Hedys Veggie Burger ,"Meat, Seafood & Deli",each,,,,800.00kJ,5.50g,8.40g,0.90g,23.30g,3.20g,460.00mg,1.99,FALSE,1.99,FALSE,,,1534284585.0-W-6409
+2018-08-15 08:09:45 UTC,olive,Olive Hummus ,"Meat, Seafood & Deli",200g,g,,,,,,,,,,5.19,FALSE,5.19,FALSE,,,1534284585.0-W-6410
+2018-08-15 08:09:45 UTC,edgell,Edgell Hash Brown ,"Meat, Seafood & Deli",each,,,,846.00kJ,1.60g,12.70g,3.40g,19.00g,1.00g,365.00mg,0.5,FALSE,0.5,FALSE,,,1534284585.0-W-6411
+2018-08-15 08:09:45 UTC,, Hedys Veggie Burger From The Deli X5 Bundle ,"Meat, Seafood & Deli",,,,,,,,,,,,8,FALSE,8,FALSE,,,1534284585.0-W-6412
+2018-08-15 08:09:45 UTC,flavour fusions,Flavour Fusions Coconut Curry Dinner Pack,"Meat, Seafood & Deli",100g,17g,6,,2128kJ,9.1g,33.4g,28.4g,35.6g,8.5g,913mg,6.95,FALSE,6.95,FALSE,,,1534284585.0-W-6413
+2018-08-15 08:09:45 UTC,flavour fusions,Flavour Fusions Moroccan Dinner Pack ,"Meat, Seafood & Deli",100g,17g,6,,1560kJ,11.2g,11.0g,0.8g,53.1g,26.4g,1673mg,6.95,FALSE,6.95,FALSE,,,1534284585.0-W-6414
+2018-08-15 08:09:45 UTC,woolworths pork,Woolworths Pork Meat Pie Small,"Meat, Seafood & Deli",160g,,,,1170.00kJ,9.40g,14.00g,6.40g,28.90g,3.00g,402.00mg,3.98,FALSE,3.98,FALSE,,,1534284585.0-W-6415
+2018-08-15 08:09:45 UTC,chris' heritage dips,Chris' Heritage Dips Vintage Cheddar & Caramelised Onion Cheese,"Meat, Seafood & Deli",170g,20g,8.5,,1265kJ,7.9g,27.7g,13.2g,6.1g,3.9g,320mg,7.99,TRUE,6,FALSE,,,1534284585.0-W-6416
+2018-08-15 08:09:45 UTC,flavour fusions,Flavour Fusions Madras Curry Dinner Pack,"Meat, Seafood & Deli",100g,17g,6,,1167kJ,12.6g,4.7g,0.6g,46.2g,25.8g,1166mg,6.95,FALSE,6.95,FALSE,,,1534284585.0-W-6417
+2018-08-15 08:09:45 UTC,flavour fusions,Flavour Fusions Butter Chicken Dinner Pack,"Meat, Seafood & Deli",100g,17g,6,,1832kJ,14.2g,24.3g,14.1g,39.3g,23.2g,1008mg,6.95,FALSE,6.95,FALSE,,,1534284585.0-W-6418
+2018-08-15 08:09:45 UTC,chris',"Chris' Heritage Dips Blue Cheese, Fig & Pistachio","Meat, Seafood & Deli",170g,20g,8.5,,1455kJ,7.4g,31.1g,14.0g,10.5g,5.0g,400mg,7.99,TRUE,6,FALSE,,,1534284585.0-W-6419
+2018-08-15 08:09:45 UTC,chris' heritage,Chris' Heritage Goat Cheese & Black Truffle Dip,"Meat, Seafood & Deli",170g,20g,8.5,,1170kJ,7.7g,25.1g,14.3g,5.1g,2.0g,320mg,7.99,TRUE,6,FALSE,,,1534284585.0-W-6420
+2018-08-15 08:09:45 UTC,pilpel,Pilpel Taramosalata Dip ,"Meat, Seafood & Deli",180g,g,,,,,,,,,,5.99,FALSE,5.99,FALSE,,,1534284585.0-W-6421
+2018-08-15 08:09:45 UTC,pilpel,Pilpel Hummus ,"Meat, Seafood & Deli",200g,g,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534284585.0-W-6422
+2018-08-15 08:09:45 UTC,pilpel ,Pilpel Dip Beetroot Almond,"Meat, Seafood & Deli",200g,20g,10,,609kJ,2.8g,9.3g,0.8g,11.2g,9.9g,223mg,6.8,FALSE,6.8,FALSE,,,1534284585.0-W-6427
+2018-08-15 08:09:45 UTC,pilpel ,Pilpel Dip Hummous,"Meat, Seafood & Deli",350g,20g,17,,462kJ,4.1g,6.2g,0.9g,8.0g,0.3g,425mg,6.5,TRUE,5.5,FALSE,,,1534284585.0-W-6428
+2018-08-15 08:09:45 UTC,the salad servers,The Salad Servers Cous Cous & Pumpkin Salad,"Meat, Seafood & Deli",900g,100g,9,,387kJ,1.1g,7.1g,0.5g,5.7g,3.4g,238mg,9.99,FALSE,9.99,FALSE,,,1534284585.0-W-6434
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Ancient Grain Salad ,"Meat, Seafood & Deli",800g,133g,6,,Approx. 787kJ,Approx. 6.2g,Approx. 7.9g,Approx. 1g,Approx. 20.9g,Approx. 8.2g,Approx. 243mg,8.99,FALSE,8.99,FALSE,,,1534284585.0-W-6437
+2018-08-15 08:09:45 UTC,the salad servers,The Salad Servers Sipce Roasted Cauliflower With Winter Vegetable Salad,"Meat, Seafood & Deli",900g,g,,,,,,,,,,11,FALSE,11,FALSE,,,1534284585.0-W-6438
+2018-08-15 08:09:45 UTC,the salad servers,The Salad Servers Smokey Spanish Rice With Fire Roasted Capsicum,"Meat, Seafood & Deli",900g,g,,,,,,,,,,11,FALSE,11,FALSE,,,1534284585.0-W-6439
+2018-08-15 08:09:45 UTC,the salad servers,The Salad Servers Vegetable Lentil Salad,"Meat, Seafood & Deli",900g,100g,9,,415kJ,4.5g,3.8g,0.3g,10.3g,2.9g,314mg,9.99,FALSE,9.99,FALSE,,,1534284585.0-W-6440
+2018-08-15 08:09:45 UTC,grazing table,Grazing Table Platter ,"Meat, Seafood & Deli",each,each,,,,,,,,,,55,FALSE,55,FALSE,,,1534284585.0-W-6441
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Creamy Pasta Salad,"Meat, Seafood & Deli",800g,g,,,,,,,,,,7,TRUE,6.5,FALSE,,,1534284585.0-W-6442
+2018-08-15 08:09:45 UTC,, Cheese Board Staples Bundle ,"Meat, Seafood & Deli",,,,,,,,,,,,19,FALSE,19,FALSE,,,1534284585.0-W-6443
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Classic Coleslaw,"Meat, Seafood & Deli",400g,g,,,,,,,,,,4.99,TRUE,4.5,FALSE,,,1534284585.0-W-6444
+2018-08-15 08:09:45 UTC,daly potato co.,Daly Potato Co. Mild Curry Potato Salad,"Meat, Seafood & Deli",400g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534284585.0-W-6445
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Chicken Pesto Pasta Salad,"Meat, Seafood & Deli",800g,133g,6,,Approx. 968kJ,Approx. 7.7g,Approx. 13.3g,Approx. 1.6g,Approx. 19.5g,Approx. 3.8g,Approx. 442mg,8.99,FALSE,8.99,FALSE,,,1534284585.0-W-6446
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Classic Coleslaw,"Meat, Seafood & Deli",800g,g,,,,,,,,,,7,TRUE,6.5,FALSE,,,1534284585.0-W-6447
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Mixed Tuscan Antipasto ,"Meat, Seafood & Deli",per kg,,,,537.00kJ,1.90g,9.10g,1.10g,9.90g,2.80g,890.00mg,26.99,FALSE,26.99,FALSE,,,1534284585.0-W-6448
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Creamy Pasta Salad,"Meat, Seafood & Deli",400g,133g,3,,810kJ,4.2g,8.9g,1.7g,23.0g,6.9g,222mg,4.99,TRUE,4.5,FALSE,,,1534284585.0-W-6449
+2018-08-15 08:09:45 UTC,daly potato co.,Daly Potato Co. Spring Onion & Garlic Aioli Potato Salad,"Meat, Seafood & Deli",400g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534284585.0-W-6450
+2018-08-15 08:09:45 UTC,daly potato co.,Daly Potato Co. Bacon & Dijon Potato Salad,"Meat, Seafood & Deli",400g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534284585.0-W-6451
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Chargrilled Eggplant Prepacked,"Meat, Seafood & Deli",180g,30g,6,,1250kJ,1.7g,29.0g,1.9g,8.2g,4.1g,75mg,3.98,TRUE,3.5,FALSE,,,1534284585.0-W-6452
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Semi Dried Tomatoes & Herbs Prepacked,"Meat, Seafood & Deli",180g,30g,6,,734kJ,3.3g,9.5g,<1.0g,19.2g,11.4g,290mg,3.98,TRUE,3.5,FALSE,,,1534284585.0-W-6453
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Roasted Capsicum Strips Prepacked,"Meat, Seafood & Deli",180g,30g,6,,974kJ,0.8g,20.7f,1.4g,11.0g,3.1g,330mg,3.98,TRUE,3.5,FALSE,,,1534284585.0-W-6454
+2018-08-15 08:09:45 UTC,san marino,San Marino Platter Antipasto,"Meat, Seafood & Deli",240g,g,,,,,,,,,,12.99,FALSE,12.99,FALSE,,,1534284585.0-W-6455
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Greek Mix ,"Meat, Seafood & Deli",per kg,,,,8710.00kJ,50.00g,70.00g,24.00g,310.00g,90.00g,2300.00mg,19.95,FALSE,19.95,FALSE,,,1534284585.0-W-6456
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Baby Pepper Bels Filled Fetta Prepacked,"Meat, Seafood & Deli",180g,30g,6,,742kJ,4.3g,11.2g,4.1g,14.5g,9.2g,470mg,3.98,TRUE,3.5,FALSE,,,1534284585.0-W-6457
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Green Olives Filled Fetta Prepacked,"Meat, Seafood & Deli",180g,30g,6,,938kJ,2.1g,23.5g,4.2g,1.9g,0.1g,1700mg,3.98,TRUE,3.5,FALSE,,,1534284585.0-W-6458
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Semi Dried Tomatoes 97% Fat Free,"Meat, Seafood & Deli",per kg,,,,472.00kJ,23.00g,0.30g,0.10g,248.00g,23.00g,130.00mg,25,FALSE,25,FALSE,,,1534284585.0-W-6459
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Sweet Baby Peppers Stuffed With Cream Cheese,"Meat, Seafood & Deli",per kg,,,,1180.00kJ,3.90g,25.40g,6.60g,10.00g,7.80g,632.00mg,39.98,FALSE,39.98,FALSE,,,1534284585.0-W-6460
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Semi Dried Tomatoes Mediterranean Herbs,"Meat, Seafood & Deli",per kg,,,,780.00kJ,3.50g,10.80g,0.90g,16.00g,11.50g,170.00mg,26,FALSE,26,FALSE,,,1534284585.0-W-6461
+2018-08-15 08:09:45 UTC,woolworths,Woolworths Chargrilled Marinated Artichokes Prepacked,"Meat, Seafood & Deli",180g,30g,6,,704kJ,1.6g,16.6,1.1g,3.2g,0.7g,330mg,3.98,TRUE,3.5,FALSE,,,1534284585.0-W-6462
+2018-08-15 08:09:45 UTC,miguel maestre,Miguel Maestre Manchego Cheese Aged 6 Months,"Meat, Seafood & Deli",150g,30g,5,,1695kJ,23g,35g,22g,<0.5g,0g,1600mg,7,FALSE,7,FALSE,,,1534284585.0-W-6481
+2018-08-15 08:09:45 UTC,the margaret river,The Margaret River Dairy Company Smoked Flavoured Club Cheddar Cheese,"Meat, Seafood & Deli",150g,g,,,,,,,,,,6.05,FALSE,6.05,FALSE,,,1534284585.0-W-6581
+2018-08-15 08:09:46 UTC,the margaret river,The Margaret River Dairy Company Original Club Cheddar Cheese,"Meat, Seafood & Deli",150g,25g,6,,1720kJ,25.7g,33.7g,21.4g,2.0g,<0.5g,658mg,6.05,FALSE,6.05,FALSE,,,1534284586.0-W-6681
+2018-08-15 08:09:46 UTC,somerdale,Somerdale Wensleydale & Cranberries Cheese,"Meat, Seafood & Deli",150g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534284586.0-W-6881
+2018-08-15 08:29:43 UTC,macro,Macro Organic Chicken Breast Fillet,"Meat, Seafood & Deli",350g - 600g,g,,,,,,,,,,17.99,FALSE,17.99,FALSE,,,1534285783.0-W-7919
+2018-08-15 08:29:43 UTC,macro chicken,Macro Chicken Tenderloins Free Range,"Meat, Seafood & Deli",450g - 650g,g,,,,,,,,,,14.14,FALSE,14.14,FALSE,,,1534285783.0-W-7921
+2018-08-15 08:29:43 UTC,macro,Macro Organic Chicken Wings,"Meat, Seafood & Deli",250g - 450g,g,,,,,,,,,,3.38,FALSE,3.38,FALSE,,,1534285783.0-W-7926
+2018-08-15 08:29:43 UTC,macro,Macro Organic Chicken Drumstick,"Meat, Seafood & Deli",300g - 550g,g,,,,,,,,,,4.95,FALSE,4.95,FALSE,,,1534285783.0-W-7927
+2018-08-15 08:29:43 UTC,inghams,Inghams Chicken Wing Tips ,"Meat, Seafood & Deli",1kg - 1.2kg,kg,,,,,,,,,,6,FALSE,6,FALSE,,,1534285783.0-W-7928
+2018-08-15 08:29:43 UTC,inghams,Inghams Chicken Necks ,"Meat, Seafood & Deli",1kg - 1.2kg,kg,,,,,,,,,,6,FALSE,6,FALSE,,,1534285783.0-W-7929
+2018-08-15 08:29:43 UTC,inghams,Inghams Chicken Breast Frames ,"Meat, Seafood & Deli",1kg - 1.4kg,kg,,,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534285783.0-W-7930
+2018-08-15 08:29:43 UTC,macro,Macro Organic Chicken Thigh Fillet,"Meat, Seafood & Deli",350g - 550g,g,,,,,,,,,,14.84,FALSE,14.84,FALSE,,,1534285783.0-W-7931
+2018-08-15 08:29:43 UTC,macro free range,Macro Free Range Chicken Roasting Portions Portugese Style,"Meat, Seafood & Deli",1kg - 1.25kg,150.0g,5,,Approx. 651.0kJ,Approx. 17.2g,Approx. 8.6g,Approx. 2.6g,Approx. 2.4g,<1.0g,Approx. 301.0mg,10.61,FALSE,10.61,FALSE,,,1534285783.0-W-7932
+2018-08-15 08:29:43 UTC,three aussie farmers,Three Aussie Farmers Slow Cooked & Pulled Roast Chicken With Chicken Seasoning,"Meat, Seafood & Deli",250g,83.3g,3,,510kJ,24.4g,1.8g,1.0g,1.3g,1.0g,308mg,7.5,FALSE,7.5,FALSE,,,1534285783.0-W-7933
+2018-08-15 08:29:43 UTC,pioneer poultry,Pioneer Poultry Honey Smoked Chicken Breast Fillet,"Meat, Seafood & Deli",330g - 420g,g,,,,,,,,,,10.5,FALSE,10.5,FALSE,,,1534285783.0-W-7934
+2018-08-15 08:29:43 UTC,woolworths simply cook,Woolworths Simply Cook Kentucky Style Chicken Thigh Fillet,"Meat, Seafood & Deli",340g,g,,,,,,,,,,8,TRUE,7,FALSE,,,1534285783.0-W-7956
+2018-08-15 08:29:43 UTC,macro,Macro Organic Whole Chicken,"Meat, Seafood & Deli",1.5kg - 2.7kg,kg,,,,,,,,,,32.13,FALSE,32.13,FALSE,,,1534285783.0-W-7960
+2018-08-15 08:29:43 UTC,inghams,Inghams Chicken Mixed Pieces ,"Meat, Seafood & Deli",1.8kg - 2.2kg,kg,,,,,,,,,,8.8,FALSE,8.8,FALSE,,,1534285783.0-W-7961
+2018-08-15 08:29:43 UTC,inghams,Inghams Chicken Drumsticks ,"Meat, Seafood & Deli",1.8kg - 2.2kg,kg,,,,,,,,,,8.8,FALSE,8.8,FALSE,,,1534285783.0-W-7962
+2018-08-15 08:29:43 UTC,woolworths simply roast,Woolworths Simply Roast Chicken Wing Nibbles Honey Soy,"Meat, Seafood & Deli",1kg,90g,8,,711kJ,16.1g,8.6g,2.5g,7.0g,3.1g,398mg,8.5,FALSE,8.5,FALSE,,,1534285783.0-W-7963
+2018-08-15 08:29:43 UTC,steggles family,Steggles Family Roast Chicken Whole,"Meat, Seafood & Deli",1.8kg - 2.3kg,kg,,,,,,,,,,11.5,FALSE,11.5,FALSE,,,1534285783.0-W-7964
+2018-08-15 08:29:43 UTC,steggles ,Steggles Chicken Livers ,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534285783.0-W-7965
+2018-08-15 08:29:43 UTC,steggles,Steggles Chicken Giblets ,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534285783.0-W-7966
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Rspca Chicken Breast Fillet,"Meat, Seafood & Deli",1.1kg - 1.4kg,kg,,,,,,,,,,12.6,FALSE,12.6,FALSE,,,1534285783.0-W-7967
+2018-08-15 08:29:43 UTC,australian rspca approved,Australian Rspca Approved Fresh Chicken Thigh Fillets Skinless,"Meat, Seafood & Deli",1.4kg - 1.7kg,kg,,,,,,,,,,17.85,FALSE,17.85,FALSE,,,1534285783.0-W-7968
+2018-08-15 08:29:43 UTC,inghams,Inghams Fresh Whole Chicken ,"Meat, Seafood & Deli",1.2kg - 2.4kg,kg,,,,,,,,,,9.6,FALSE,9.6,FALSE,,,1534285783.0-W-7969
+2018-08-15 08:29:43 UTC,chicken,Chicken Drumsticks ,"Meat, Seafood & Deli",1.55kg - 1.7kg,kg,,,,,,,,,,5.95,FALSE,5.95,FALSE,,,1534285783.0-W-7970
+2018-08-15 08:29:43 UTC,australian rspca approved,Australian Rspca Approved Whole Chicken Seasoned & Marinated,"Meat, Seafood & Deli",1.5kg - 2.4kg,kg,,,,,,,,,,16.8,FALSE,16.8,FALSE,,,1534285783.0-W-7971
+2018-08-15 08:29:43 UTC,macro,Macro Whole Chicken Free Range,"Meat, Seafood & Deli",1.15kg - 2.25kg,kg,,,,,,,,,,16.88,TRUE,12.38,FALSE,,,1534285783.0-W-7972
+2018-08-15 08:29:43 UTC,woolworths simply roast,Woolworths Simply Roast Chicken Roasting Portions Rosemary Garlic,"Meat, Seafood & Deli",1.3kg - 1.5kg,kg,,,,,,,,,,11.25,TRUE,9,FALSE,,,1534285783.0-W-7973
+2018-08-15 08:29:43 UTC,chicken,Chicken Wings Boomerang,"Meat, Seafood & Deli",1.55kg - 1.65kg,kg,,,,,,,,,,11.55,TRUE,9.08,FALSE,,,1534285783.0-W-7974
+2018-08-15 08:29:43 UTC,ingham's chicken portion,Ingham's Chicken Portion Pieces Gourmet Roasting,"Meat, Seafood & Deli",1.5kg - 2kg,150g,Approx.4,,833kJ,18.1g,13.1g,3.6g,0.9g,0.3g,245mg,17,TRUE,10,FALSE,,,1534285783.0-W-7975
+2018-08-15 08:29:43 UTC,lamb,Lamb Stewing Pieces,"Meat, Seafood & Deli",700g - 950g,g,,,,,,,,,,8.54,FALSE,8.54,FALSE,,,1534285783.0-W-7979
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Lamb Easy Carve Leg Roast,"Meat, Seafood & Deli",900g - 1.2kg,g,,,,,,,,,,21.6,FALSE,21.6,FALSE,,,1534285783.0-W-7980
+2018-08-15 08:29:43 UTC,boneless lamb,Boneless Lamb Shoulder Rolled,"Meat, Seafood & Deli",min. 1kg,min,,,,,,,,,,14,FALSE,14,FALSE,,,1534285783.0-W-7981
+2018-08-15 08:29:43 UTC,lamb,Lamb Offal Liver,"Meat, Seafood & Deli",min. 470g,min,,,,,,,,,,0,FALSE,0,FALSE,,,1534285783.0-W-7982
+2018-08-15 08:29:43 UTC,lamb,Lamb Off Cuts,"Meat, Seafood & Deli",600g - 1.2kg,g,,,,,,,,,,7.19,FALSE,7.19,FALSE,,,1534285783.0-W-7984
+2018-08-15 08:29:43 UTC,woolworths simply heat,Woolworths Simply Heat Slow Cooked Lamb Shanks ,"Meat, Seafood & Deli",700g - 1.2kg,g,,,,,,,,,,19.2,TRUE,16.8,FALSE,,,1534285783.0-W-7985
+2018-08-15 08:29:43 UTC,woolworths simply heat,Woolworths Simply Heat Lamb Shoulder With Garlic & Rosemary,"Meat, Seafood & Deli",min 830g,125g,8,,706kJ,19.2g,9.2g,4.6g,2.3g,1.0g,457mg,18.26,FALSE,18.26,FALSE,,,1534285783.0-W-7986
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Lamb Casserole,"Meat, Seafood & Deli",500g,250g,4,,Approx. 626kJ,Approx. 14.3g,Approx. 8.7g,Approx. 4.3g,Approx. 3.6g,Approx. 2g,Approx. 243mg,10,TRUE,8,FALSE,,,1534285783.0-W-7989
+2018-08-15 08:29:43 UTC,lamb leg,Lamb Leg Steak Heart Smart,"Meat, Seafood & Deli",220g - 500g,g,,,,,,,,,,13.5,FALSE,13.5,FALSE,,,1534285783.0-W-7990
+2018-08-15 08:29:43 UTC,lamb,Lamb Shanks ,"Meat, Seafood & Deli",500g - 800g,g,,,,,,,,,,0,FALSE,0,FALSE,,,1534285783.0-W-7991
+2018-08-15 08:29:43 UTC,lamb ,Lamb Cutlets Heart Smart,"Meat, Seafood & Deli",min. 385g,min,,,,,,,,,,17.71,FALSE,17.71,FALSE,,,1534285783.0-W-7992
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Lamb Leg Steak,"Meat, Seafood & Deli",300g,g,,,,,,,,,,6.5,FALSE,6.5,TRUE,2,6,1534285783.0-W-7993
+2018-08-15 08:29:43 UTC,lamb,Lamb Offal Hearts,"Meat, Seafood & Deli",350g - 650g,g,,,,,,,,,,4.55,FALSE,4.55,FALSE,,,1534285783.0-W-7994
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Simply Heat Rogan Josh ,"Meat, Seafood & Deli",500g,250g,2,,Approx. 645kJ,Approx. 12.9g,Approx. 9.2g,Approx. 4.2g,Approx. 5g,Approx. 1.8g,Approx. 348mg,12,FALSE,12,FALSE,,,1534285783.0-W-7995
+2018-08-15 08:29:43 UTC,lamb,Lamb Diced Heart Smart,"Meat, Seafood & Deli",300g - 600g,g,,,,,,,,,,14.39,FALSE,14.39,FALSE,,,1534285783.0-W-7996
+2018-08-15 08:29:43 UTC,lamb,Lamb Offal Kidney,"Meat, Seafood & Deli",350g - 650g,g,,,,,,,,,,5.53,FALSE,5.53,FALSE,,,1534285783.0-W-7997
+2018-08-15 08:29:43 UTC,lamb rack,Lamb Rack Roast ,"Meat, Seafood & Deli",500g - 800g,g,,,,,,,,,,23.2,FALSE,23.2,FALSE,,,1534285783.0-W-7998
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Lamb Shoulder Roast,"Meat, Seafood & Deli",1.2kg - 1.6kg,kg,,,,,,,,,,17.6,FALSE,17.6,FALSE,,,1534285783.0-W-7999
+2018-08-15 08:29:43 UTC,k roo,K Roo Kangaroo Mince,"Meat, Seafood & Deli",1kg,150g,6,,436kJ,21.0g,0.8g,0.8g,0.2g,0.1g,52mg,10.5,FALSE,10.5,FALSE,,,1534285783.0-W-8000
+2018-08-15 08:29:43 UTC,k roo,K Roo Kangaroo Burger,"Meat, Seafood & Deli",440g,g,,,,,,,,,,5.8,FALSE,5.8,TRUE,2,5.5,1534285783.0-W-8001
+2018-08-15 08:29:43 UTC,k roo,K Roo Kangaroo Steak Marinated,"Meat, Seafood & Deli",450g - 650g,g,,,,,,,,,,12.35,FALSE,12.35,FALSE,,,1534285783.0-W-8002
+2018-08-15 08:29:43 UTC,k roo,K Roo Kangaroo Sausages Kanga Bangas Bush Tomato,"Meat, Seafood & Deli",500g,,,,424kJ,17.0g,,,,0.3g,,5.8,FALSE,5.8,TRUE,2,5.5,1534285783.0-W-8003
+2018-08-15 08:29:43 UTC,k roo,K Roo Kangaroo Diced,"Meat, Seafood & Deli",500g,g,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534285783.0-W-8004
+2018-08-15 08:29:43 UTC,lamb forequarter,Lamb Forequarter Chops Large,"Meat, Seafood & Deli",1kg - 1.4kg,kg,,,,,,,,,,18.2,TRUE,16.8,FALSE,,,1534285783.0-W-8005
+2018-08-15 08:29:43 UTC,lamb forequarter,Lamb Forequarter Chops Small,"Meat, Seafood & Deli",300g - 650g,g,,,,,,,,,,8.45,TRUE,7.8,FALSE,,,1534285783.0-W-8006
+2018-08-15 08:29:43 UTC,lamb leg,Lamb Leg Roast ,"Meat, Seafood & Deli",2.2kg - 2.8kg,kg,,,,,,,,,,33.6,FALSE,33.6,FALSE,,,1534285783.0-W-8007
+2018-08-15 08:29:43 UTC,lamb leg half ,Lamb Leg Half Roast ,"Meat, Seafood & Deli",900g - 1.6kg,g,,,,,,,,,,19.2,FALSE,19.2,FALSE,,,1534285783.0-W-8008
+2018-08-15 08:29:43 UTC,game farm,Game Farm Spatchcock Whole,"Meat, Seafood & Deli",300g - 690g,g,,,,,,,,,,10.9,FALSE,10.9,FALSE,,,1534285783.0-W-8009
+2018-08-15 08:29:43 UTC,luv a duck,Luv A Duck Korean Styled Bao Kit,"Meat, Seafood & Deli",each,each,,,,,,,,,,19.49,TRUE,16.99,FALSE,,,1534285783.0-W-8010
+2018-08-15 08:29:43 UTC,ingham's ,Ingham's Offal Turkey Necks,"Meat, Seafood & Deli",min. 1.3kg,min,,,,,,,,,,7.8,FALSE,7.8,FALSE,,,1534285783.0-W-8011
+2018-08-15 08:29:43 UTC,luv a duck,Luv A Duck Peking Duck Pancake Kit,"Meat, Seafood & Deli",560g,g,,,,,,,,,,19.49,FALSE,19.49,FALSE,,,1534285783.0-W-8012
+2018-08-15 08:29:43 UTC,ingham's,Ingham's Turkey Breast Strips ,"Meat, Seafood & Deli",450g - 550g,g,,,,,,,,,,10.45,TRUE,9.9,FALSE,,,1534285783.0-W-8013
+2018-08-15 08:29:43 UTC,luv a,Luv A Duck Fresh Fillets,"Meat, Seafood & Deli",330g - 400g,g,,,,,,,,,,15.6,TRUE,7.8,FALSE,,,1534285783.0-W-8014
+2018-08-15 08:29:43 UTC,luv a duck,Luv A Duck Peking Duck Breasts ,"Meat, Seafood & Deli",360g,120g,3,,1008kJ,15.5g,18.6g,5.5g,3.5g,1.4g,450mg,16,TRUE,12,FALSE,,,1534285783.0-W-8015
+2018-08-15 08:29:43 UTC,luv a duck,Luv A Duck Roast Duck Legs ,"Meat, Seafood & Deli",450g,g,,,,,,,,,,14,FALSE,14,FALSE,,,1534285783.0-W-8016
+2018-08-15 08:29:43 UTC,ingham's turkey,Ingham's Turkey Wing Pieces,"Meat, Seafood & Deli",min. 1.2kg,min,,,,,,,,,,9,FALSE,9,FALSE,,,1534285783.0-W-8017
+2018-08-15 08:29:43 UTC,ingham's turkey,Ingham's Turkey Drumsticks ,"Meat, Seafood & Deli",min. 1.3kg,min,,,,,,,,,,9.75,TRUE,7.8,FALSE,,,1534285783.0-W-8018
+2018-08-15 08:29:43 UTC,d'orsogna,D'orsogna Ham Shaved Leg Triple Smoked 97%ff,"Meat, Seafood & Deli",per kg,,,,392.00kJ,16.10g,2.40g,1.00g,1.80g,1.80g,1150.00mg,21,TRUE,17,FALSE,,,1534285783.0-W-8019
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Chinese Bbq Pork,"Meat, Seafood & Deli",per kg,,,,901.00kJ,17.30g,14.10g,5.50g,5.00g,3.10g,964.00mg,20,TRUE,18,FALSE,,,1534285783.0-W-8020
+2018-08-15 08:29:43 UTC,dorsogna,Dorsogna Premium Australian Ham Off The Bone Shaved,"Meat, Seafood & Deli",per kg,,,,736.00kJ,16.80g,11.20g,3.60g,2.10g,1.00g,1000.00mg,28,TRUE,22,FALSE,,,1534285783.0-W-8021
+2018-08-15 08:29:43 UTC,bertocchi,Bertocchi Premium Boneless Leg Ham Shaved,"Meat, Seafood & Deli",per kg,,,,710.00kJ,21.40g,9.40g,3.70g,0.50g,0.50g,1400.00mg,24,FALSE,24,FALSE,,,1534285783.0-W-8022
+2018-08-15 08:29:43 UTC,game farm quail ,Game Farm Quail Breast Fillets ,"Meat, Seafood & Deli",300g,g,,,,,,,,,,12.99,FALSE,12.99,FALSE,,,1534285783.0-W-8023
+2018-08-15 08:29:43 UTC,ingham's,Ingham's Chicken Breast Supreme,"Meat, Seafood & Deli",per kg,,,,523.00kJ,125.00g,18.70g,3.90g,1.20g,1.00g,751.00mg,20,FALSE,20,FALSE,,,1534285783.0-W-8024
+2018-08-15 08:29:43 UTC,kr castlemaine boneless leg,Kr Castlemaine Boneless Leg Ham Shaved,"Meat, Seafood & Deli",per kg,,,,340.00kJ,15.00g,1.60g,1.00g,1.50g,1.20g,684.00mg,14,TRUE,13.5,FALSE,,,1534285783.0-W-8025
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Corned Beef ,"Meat, Seafood & Deli",per kg,,,,471.00kJ,18.10g,2.80g,1.50g,3.50g,1.80g,1070.00mg,18,FALSE,18,FALSE,,,1534285783.0-W-8026
+2018-08-15 08:29:43 UTC,champagne,Champagne Ham Shaved,"Meat, Seafood & Deli",per kg,,,,478.00kJ,16.30g,4.30g,1.60g,2.10g,1.30g,1290.00mg,22,TRUE,17,FALSE,,,1534285783.0-W-8027
+2018-08-15 08:29:43 UTC,ingham's,Ingham's Turkey Breast Oven Roasted Shaved,"Meat, Seafood & Deli",per kg,per,,,,,,,,,,28,FALSE,28,FALSE,,,1534285783.0-W-8028
+2018-08-15 08:29:43 UTC,bertocchi authentic leg,Bertocchi Authentic Leg Ham Triple Smoked,"Meat, Seafood & Deli",700g - 1.2kg,g,,,,,,,,,,21.6,FALSE,21.6,FALSE,,,1534285783.0-W-8029
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Beef Sausage With Mushroom ,"Meat, Seafood & Deli",500g,g,,,,,,,,,,7.5,FALSE,7.5,TRUE,2,6,1534285783.0-W-8030
+2018-08-15 08:29:43 UTC,woolworths select,Woolworths Select Corned Beef Silverside Portion,"Meat, Seafood & Deli",min. 500g,100g,10,,Approx. 471kJ,Approx. 18.1g,Approx. 2.8g,Approx. 1.5g,Approx. 3.5g,Approx. 1.8g,Approx. 1003mg,8.5,FALSE,8.5,FALSE,,,1534285783.0-W-8031
+2018-08-15 08:29:43 UTC,woolworths half,Woolworths Half Ham Double Smoked,"Meat, Seafood & Deli",850g - 1.28kg,g,,,,,,,,,,19.17,FALSE,19.17,FALSE,,,1534285783.0-W-8032
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Smoked Quarter Leg Ham,"Meat, Seafood & Deli",2.5kg - 3.75kg,kg,,,,,,,,,,41.25,FALSE,41.25,FALSE,,,1534285783.0-W-8033
+2018-08-15 08:29:43 UTC,bertocchi,Bertocchi Real Leg Ham Applewood Smoked Nugget,"Meat, Seafood & Deli",3.1kg - 3.3kg,kg,,,,,,,,,,52.8,FALSE,52.8,FALSE,,,1534285783.0-W-8034
+2018-08-15 08:29:43 UTC,dorsogna,Dorsogna Natural Leg Ham Portion,"Meat, Seafood & Deli",700g,25g,28,,450kJ,18.6g,2.8g,1.0g,1.8g,1.8g,850mg,10.5,TRUE,9.5,FALSE,,,1534285783.0-W-8035
+2018-08-15 08:29:43 UTC,bertocchi authentic leg,Bertocchi Authentic Leg Ham Honey Cured,"Meat, Seafood & Deli",700g - 1.2kg,g,,,,,,,,,,21.6,FALSE,21.6,FALSE,,,1534285783.0-W-8036
+2018-08-15 08:29:43 UTC,woolworths gold,Woolworths Gold Free Range Quarter Leg Ham,"Meat, Seafood & Deli",min. 2.2kg,min,,,,,,,,,,30.8,FALSE,30.8,FALSE,,,1534285783.0-W-8037
+2018-08-15 08:29:43 UTC,steggles,Steggles Chicken Breast Schnitzel Panko & Quinoa,"Meat, Seafood & Deli",600g,150g,4,,916kJ,15.0g,9.8g,2.5g,17.6g,1.0g,315mg,10.99,TRUE,9,FALSE,,,1534285783.0-W-8038
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Simply Beef Burrito,"Meat, Seafood & Deli",500g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534285783.0-W-8039
+2018-08-15 08:29:43 UTC,steggles,Steggles Wings Oven Roasted,"Meat, Seafood & Deli",600g,100g,6,,804kJ,21.1g,8.8g,2.0g,6.6g,0.9g,828mg,7,FALSE,7,TRUE,2,6,1534285783.0-W-8040
+2018-08-15 08:29:43 UTC,steggles,Steggles Wings Buffalo,"Meat, Seafood & Deli",600g,100g,6,,853kJ,21.7g,11.2g,3.0g,4.1g,0.9g,820mg,7,FALSE,7,TRUE,2,6,1534285783.0-W-8041
+2018-08-15 08:29:43 UTC,ingham's,Ingham's Stuffed Chicken Breast Pizza,"Meat, Seafood & Deli",700g,g,,,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534285783.0-W-8042
+2018-08-15 08:29:43 UTC,ingham chicken breast stuffed ,Ingham Chicken Breast Stuffed Crumbed With Creamy Garlic,"Meat, Seafood & Deli",700g,Approx.175g,Approx.4,,989kJ,11.4g,16.3g,6.2g,11.3g,2.4g,333mg,10.99,TRUE,9.5,FALSE,,,1534285783.0-W-8043
+2018-08-15 08:29:43 UTC,created with jamie,Created With Jamie Crunchy Cajun Chicken Pieces,"Meat, Seafood & Deli",900g - 1.2kg,g,,,,,,,,,,12,FALSE,12,FALSE,,,1534285783.0-W-8044
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Ultimate Party Pack ,"Meat, Seafood & Deli",940g,g,,,,,,,,,,12,FALSE,12,FALSE,,,1534285783.0-W-8045
+2018-08-15 08:29:43 UTC,steggles,Steggles Pastry Chicken Enchilada Mexican,"Meat, Seafood & Deli",500g,250g,2,,783kJ,13.3g,6.9g,4.0g,16.8g,1.2g,366mg,8,FALSE,8,FALSE,,,1534285783.0-W-8046
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Rspca Chicken Burger ,"Meat, Seafood & Deli",340g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534285783.0-W-8047
+2018-08-15 08:29:43 UTC,steggles,Steggles Crumbed Chicken Breast Fingers,"Meat, Seafood & Deli",360g,g,,,,,,,,,,7,TRUE,5,FALSE,,,1534285783.0-W-8048
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Rspca Chicken Schnitzel Herb & Garlic,"Meat, Seafood & Deli",400g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534285783.0-W-8049
+2018-08-15 08:29:43 UTC,ingham quick cook,Ingham Quick Cook Crumbed Chickadee South Style Tenders,"Meat, Seafood & Deli",440g,98g (2 Tenders),4.5,,927kJ,13.4g,12.5g,3.5g,13.9g,0.1g,911mg,8.5,FALSE,8.5,FALSE,,,1534285783.0-W-8050
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Rspca Chicken Schnitzel ,"Meat, Seafood & Deli",400g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534285783.0-W-8051
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Rspca Chicken Nuggets ,"Meat, Seafood & Deli",400g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534285783.0-W-8052
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Arancini Bites Pesto Chicken ,"Meat, Seafood & Deli",400g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534285783.0-W-8053
+2018-08-15 08:29:43 UTC,steggles,Steggles Turkey Breast Tenders Herb & Garlic,"Meat, Seafood & Deli",400g,g,,,,,,,,,,9,FALSE,9,FALSE,,,1534285783.0-W-8054
+2018-08-15 08:29:43 UTC,ingham quick cook,Ingham Quick Cook Crumbed Sweet Chilli Chicken Tenders,"Meat, Seafood & Deli",440g,110g (2 Tenders),Approx.4,,1070kJ,15.0g,12.2g,3.6g,21.4g,4.1g,819mg,8.5,FALSE,8.5,FALSE,,,1534285783.0-W-8055
+2018-08-15 08:29:43 UTC,quick cook chicken,Quick Cook Chicken Crumbed Schnitzel Gluten Free,"Meat, Seafood & Deli",440g,110g (1 Schnitzel),4,,893kJ,12.2g,9.1g,2.4g,20.5g,671mg,671mg,7,FALSE,7,FALSE,,,1534285783.0-W-8056
+2018-08-15 08:29:43 UTC,, Mexican Mince Beef Tacos Dinner Bundle ,"Meat, Seafood & Deli",,,,,,,,,,,,9,FALSE,9,FALSE,,,1534285783.0-W-8057
+2018-08-15 08:29:43 UTC,ingham quick cook,Ingham Quick Cook Crumbed Chicken Burger,"Meat, Seafood & Deli",1.65kg,Approx.68g (1 Burger),24,,1171kJ,15.6g,16.8g,5.3g,16.7g,1.6g,720mg,14.5,TRUE,12,FALSE,,,1534285783.0-W-8058
+2018-08-15 08:29:43 UTC,, Mexican Lean Mince Beef Tacos Dinner Bundle ,"Meat, Seafood & Deli",,,,,,,,,,,,11.5,FALSE,11.5,FALSE,,,1534285783.0-W-8059
+2018-08-15 08:29:43 UTC,," Old El Paso Mexican Night, Chili Con Carne Bundle ","Meat, Seafood & Deli",,,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534285783.0-W-8060
+2018-08-15 08:29:43 UTC,, Mexican Mince Beef & Corn Taco Bundle ,"Meat, Seafood & Deli",,,,,,,,,,,,18,FALSE,18,FALSE,,,1534285783.0-W-8061
+2018-08-15 08:29:43 UTC,ingham quick cook,Ingham Quick Cook Crumbed Chicken & Cheese Schnitzel,"Meat, Seafood & Deli",1.5kg,Approx.125g (1 Schnitzel),12,,1157kJ,14.1g,16.3g,5.1g,18.0g,1.8g,904mg,14.5,FALSE,14.5,FALSE,,,1534285783.0-W-8062
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Calzone Hawaiian ,"Meat, Seafood & Deli",260g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534285783.0-W-8063
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Arancini Four Cheese Chicken & Mushroom,"Meat, Seafood & Deli",320g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534285783.0-W-8064
+2018-08-15 08:29:43 UTC,ingham's,Ingham's Turkey Mince,"Meat, Seafood & Deli",min. 500g,min,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534285783.0-W-8065
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Calzone Meatlovers ,"Meat, Seafood & Deli",260g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534285783.0-W-8066
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Lean Beef Mince,"Meat, Seafood & Deli",500g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534285783.0-W-8067
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Chicken Mince,"Meat, Seafood & Deli",500g,g,,,,,,,,,,6,TRUE,5.5,FALSE,,,1534285783.0-W-8068
+2018-08-15 08:29:43 UTC,macro,Macro Free Range Chicken Mince,"Meat, Seafood & Deli",500g,g,,,,,,,,,,9,TRUE,8,FALSE,,,1534285783.0-W-8069
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Beef Mince,"Meat, Seafood & Deli",500g,g,,,,,,,,,,4.5,TRUE,4,FALSE,,,1534285783.0-W-8070
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Pork & Veal Mince,"Meat, Seafood & Deli",500g,g,,,,,,,,,,6.5,FALSE,6.5,TRUE,2,6,1534285783.0-W-8071
+2018-08-15 08:29:43 UTC,heart smart,Heart Smart Extra Lean Beef Mince,"Meat, Seafood & Deli",500g,g,,,,,,,,,,8,FALSE,8,TRUE,2,7.5,1534285783.0-W-8072
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Lean Pork Mince,"Meat, Seafood & Deli",500g,g,,,,,,,,,,6.5,TRUE,5.5,FALSE,,,1534285783.0-W-8073
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Lamb Mince,"Meat, Seafood & Deli",500g,g,,,,,,,,,,6.5,FALSE,6.5,TRUE,2,6,1534285783.0-W-8074
+2018-08-15 08:29:43 UTC,woolworths simply,Woolworths Simply Cook Pork Mince San Choy Bau,"Meat, Seafood & Deli",540g,135g (125g Meat + 10g Seasoning),4,,763kJ,18.4g,10.2g,3.8g,4.3g,1.5g,625mg,7,FALSE,7,FALSE,,,1534285783.0-W-8075
+2018-08-15 08:29:43 UTC,ingham,Ingham Turkey Breast Mince,"Meat, Seafood & Deli",min. 500g,min,,,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534285783.0-W-8076
+2018-08-15 08:29:43 UTC,primo,Primo Rindless Middle Bacon,"Meat, Seafood & Deli",500g,g,,,,,,,,,,10,TRUE,8,FALSE,,,1534285783.0-W-8077
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Beef Mince,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,8,TRUE,7,FALSE,,,1534285783.0-W-8078
+2018-08-15 08:29:43 UTC,macro,Macro Free Range Lean Pork Mince,"Meat, Seafood & Deli",500g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534285783.0-W-8079
+2018-08-15 08:29:43 UTC,bruemar,Bruemar Vietnamese Style Pork Belly Pieces,"Meat, Seafood & Deli",500g,125g,4,,1193kJ,16.4g,20.9g,8.6g,7.8g,3.8g,325mg,12,FALSE,12,FALSE,,,1534285783.0-W-8080
+2018-08-15 08:29:43 UTC,pork,Pork Stir Fry ,"Meat, Seafood & Deli",500g,g,,,,,,,,,,9,FALSE,9,FALSE,,,1534285783.0-W-8081
+2018-08-15 08:29:43 UTC,woolworths simply heat,Woolworths Simply Heat Slow Cook Pork Brisket With Rum Bbq Sauce,"Meat, Seafood & Deli",500g,100g,3,,Approx. 956kJ,Approx. 19.7g,Approx. 15.1g,Approx. 5.9g,Approx. 3.7g,Approx. 3.3g,Approx. 434mg,10.5,FALSE,10.5,FALSE,,,1534285783.0-W-8082
+2018-08-15 08:29:43 UTC,pork,Pork Belly ,"Meat, Seafood & Deli",500g - 900g,g,,,,,,,,,,17.09,TRUE,13.5,FALSE,,,1534285783.0-W-8083
+2018-08-15 08:29:43 UTC,bertocchi authentic leg,Bertocchi Authentic Leg Ham Boneless,"Meat, Seafood & Deli",600g - 900g,g,,,,,,,,,,16.2,FALSE,16.2,FALSE,,,1534285783.0-W-8084
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Lean Beef Mince,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,13,FALSE,13,FALSE,,,1534285783.0-W-8085
+2018-08-15 08:29:43 UTC,three rivers,Three Rivers Veal Mince,"Meat, Seafood & Deli",500g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534285783.0-W-8086
+2018-08-15 08:29:43 UTC,three aussie farmers,Three Aussie Farmers Slow Cooked And Pulled Bbq Pork,"Meat, Seafood & Deli",250g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534285783.0-W-8087
+2018-08-15 08:29:43 UTC,bertocchi gold,Bertocchi Gold Short Rindless Bacon ,"Meat, Seafood & Deli",400g,30g,13,,690kJ,15.2g,11.4g,4.7g,<1g,<1g,1050mg,7.7,FALSE,7.7,FALSE,,,1534285783.0-W-8088
+2018-08-15 08:29:43 UTC,bertocchi gold,Bertocchi Gold Long Rindless Bacon ,"Meat, Seafood & Deli",400g,30g,13,,940kJ,15.1g,18.1g,7.5g,1.0g,<1g,1000mg,7.7,FALSE,7.7,FALSE,,,1534285783.0-W-8089
+2018-08-15 08:29:43 UTC,d'orsogna,D'orsogna 100% Natural Bacon ,"Meat, Seafood & Deli",300g,25g,,,,,,3.9g,,,1050mg,7,FALSE,7,FALSE,,,1534285783.0-W-8090
+2018-08-15 08:29:43 UTC,hans,Hans Pork Ham Steaks,"Meat, Seafood & Deli",300g,100g,3,,370kJ,14.9g,2.9g,<1.0g,3.4g,<1.0g,1470mg,3.25,FALSE,3.25,FALSE,,,1534285783.0-W-8091
+2018-08-15 08:29:43 UTC,pork loin medallion,Pork Loin Medallion Steak Heart Smart,"Meat, Seafood & Deli",300g - 500g,g,,,,,,,,,,12,FALSE,12,FALSE,,,1534285783.0-W-8092
+2018-08-15 08:29:43 UTC,bertocchi,Bertocchi Half Ham On Bone Gold,"Meat, Seafood & Deli",4.67kg - 4.8kg,kg,,,,,,,,,,48,FALSE,48,FALSE,,,1534285783.0-W-8093
+2018-08-15 08:29:43 UTC,three aussie farmers,Three Aussie Farmers Slow Cooked Pork Belly,"Meat, Seafood & Deli",400g - 600g,g,,,,,,,,,,12.89,FALSE,12.89,FALSE,,,1534285783.0-W-8094
+2018-08-15 08:29:43 UTC,pork fillet,Pork Fillet Steak Heart Smart,"Meat, Seafood & Deli",400g - 600g,g,,,,,,,,,,19.19,FALSE,19.19,FALSE,,,1534285783.0-W-8095
+2018-08-15 08:29:43 UTC,d'orsogna,D'orsogna Streaky Bacon ,"Meat, Seafood & Deli",500g,g,,,,,,,,,,9,FALSE,9,FALSE,,,1534285783.0-W-8096
+2018-08-15 08:29:43 UTC,roast,Roast Pork Leg Boneless Small,"Meat, Seafood & Deli",1.5kg - 2.2kg,kg,,,,,,,,,,10,TRUE,17.6,FALSE,,,1534285783.0-W-8097
+2018-08-15 08:29:43 UTC,roast,Roast Pork Shoulder Boneless Small,"Meat, Seafood & Deli",1.5kg - 2.5kg,kg,,,,,,,,,,10,TRUE,15,FALSE,,,1534285783.0-W-8098
+2018-08-15 08:29:43 UTC,don premium,Don Premium Double Smoked Pan Size Bacon,"Meat, Seafood & Deli",200g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534285783.0-W-8099
+2018-08-15 08:29:43 UTC,pork scotch fillet,Pork Scotch Fillet Steak ,"Meat, Seafood & Deli",200g - 550g,g,,,,,,,,,,10.99,FALSE,10.99,FALSE,,,1534285783.0-W-8100
+2018-08-15 08:29:43 UTC,mayfair,Mayfair Shortcut Bacon,"Meat, Seafood & Deli",1kg,50g,20,,657kJ,17.2g,9.5g,4.0g,<1g,<1g,997mg,0,FALSE,0,FALSE,,,1534285783.0-W-8101
+2018-08-15 08:29:43 UTC,homebrand,Homebrand Bacon Middle Rashers,"Meat, Seafood & Deli",1kg,50g,20,,1090kJ,13.6g,21.9g,8.5g,3.0g,1.2g,1090mg,8,FALSE,8,FALSE,,,1534285783.0-W-8102
+2018-08-15 08:29:43 UTC,essentials,Essentials Cooking Bacon ,"Meat, Seafood & Deli",1kg,50g,20,,910kJ,16.2g,16.6g,6.8g,1.2g,1.2g,1190mg,7.5,FALSE,7.5,FALSE,,,1534285783.0-W-8103
+2018-08-15 08:29:43 UTC,homebrand,Homebrand Bacon Middle Cut Rashers,"Meat, Seafood & Deli",250g,50g,5,,1090kJ,13.6g,21.9g,8.5g,3.0g,1.2g,1090mg,3.1,FALSE,3.1,FALSE,,,1534285783.0-W-8104
+2018-08-15 08:29:43 UTC,don premium,Don Premium Butcher's Style Rindless Bacon,"Meat, Seafood & Deli",200g,50g,4,,655kJ,18.1g,8.8g,3.9g,1.2g,1.2g,1000mg,5,FALSE,5,FALSE,,,1534285783.0-W-8105
+2018-08-15 08:29:43 UTC,msa gravy beef,Msa Gravy Beef Slow Cook 3-4 Pieces,"Meat, Seafood & Deli",400g - 900g,g,,,,,,,,,,15.3,FALSE,15.3,FALSE,,,1534285783.0-W-8106
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Beef Stir Fry ,"Meat, Seafood & Deli",500g,g,,,,,,,,,,9,FALSE,9,FALSE,,,1534285783.0-W-8107
+2018-08-15 08:29:43 UTC,beef,Beef Offal Heart,"Meat, Seafood & Deli",350g - 650g,g,,,,,,,,,,4.55,FALSE,4.55,FALSE,,,1534285783.0-W-8108
+2018-08-15 08:29:43 UTC,perfectly balanced ,Perfectly Balanced Beef & Carrot Chipolata,"Meat, Seafood & Deli",400g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534285783.0-W-8109
+2018-08-15 08:29:43 UTC,woolworths msa,Woolworths Msa Slow Cooked Diced Beef,"Meat, Seafood & Deli",450g - 650g,g,,,,,,,,,,16.99,TRUE,9.1,FALSE,,,1534285783.0-W-8110
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Beef Bourguignon ,"Meat, Seafood & Deli",500g,250g,2,,Approx. 565kJ,Approx. 24.8g,Approx. 3.1g,Approx. 1.4g,Approx. 1.7g,Approx. 0.8g,Approx. 273mg,10,TRUE,9,FALSE,,,1534285783.0-W-8111
+2018-08-15 08:29:43 UTC,perfectly balanced ,Perfectly Balanced Beef Carrot & Lentil Sausage,"Meat, Seafood & Deli",450g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534285783.0-W-8112
+2018-08-15 08:29:43 UTC,perfectly balanced ,"Perfectly Balanced Beef, Sweet Potato & Kale Meatball","Meat, Seafood & Deli",450g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534285783.0-W-8113
+2018-08-15 08:29:43 UTC,beef heart smart,Beef Heart Smart Diced ,"Meat, Seafood & Deli",450g - 650g,g,,,,,,,,,,13.65,FALSE,13.65,FALSE,,,1534285783.0-W-8114
+2018-08-15 08:29:43 UTC,woolworths simply heat,Woolworths Simply Heat Slow Cooked Beef With Onion & Gravy,"Meat, Seafood & Deli",500g,250g,2,,721kJ,24.0g,8.0g,3.9g,1.0g,1.0g,128mg,10,TRUE,9,FALSE,,,1534285783.0-W-8115
+2018-08-15 08:29:43 UTC,grasslands grassfed,Grasslands Grassfed Scotch Fillet Steak,"Meat, Seafood & Deli",230g - 330g,g,,,,,,,,,,13.53,FALSE,13.53,FALSE,,,1534285783.0-W-8116
+2018-08-15 08:29:43 UTC,beef topside,Beef Topside Roast Heart Smart,"Meat, Seafood & Deli",1kg - 1.4kg,kg,,,,,,,,,,23.8,FALSE,23.8,FALSE,,,1534285783.0-W-8117
+2018-08-15 08:29:43 UTC,corn beef,Corn Beef Large ,"Meat, Seafood & Deli",2.5kg - 3kg,100g,10,,499kJ,15.8g,5.6g,2.4g,1.4g,<1.0g,922mg,27,FALSE,27,FALSE,,,1534285783.0-W-8118
+2018-08-15 08:29:43 UTC,msa beef t-bone,Msa Beef T-bone Steak 1 Piece,"Meat, Seafood & Deli",200g - 600g,g,,,,,,,,,,14.4,FALSE,14.4,FALSE,,,1534285783.0-W-8119
+2018-08-15 08:29:43 UTC,woolworths msa,Woolworths Msa Bone In Beef Rib Steak,"Meat, Seafood & Deli",200g - 700g,g,,,,,,,,,,20.3,FALSE,20.3,FALSE,,,1534285783.0-W-8120
+2018-08-15 08:29:43 UTC,three aussie farmers,Three Aussie Farmers Slow Cooked And Pulled Beef,"Meat, Seafood & Deli",250g,83.3g,3,,567kJ,24.0g,3.2g,1.4g,2.4g,1.0g,480mg,7.5,FALSE,7.5,FALSE,,,1534285783.0-W-8121
+2018-08-15 08:29:43 UTC,woolworths msa,Woolworths Msa Beef Fillet Steak Whole,"Meat, Seafood & Deli",600g - 750g,g,,,,,,,,,,33,TRUE,29.25,FALSE,,,1534285783.0-W-8122
+2018-08-15 08:29:43 UTC,beef,Beef Offal Tail,"Meat, Seafood & Deli",350g - 650g,g,,,,,,,,,,9.1,FALSE,9.1,FALSE,,,1534285783.0-W-8123
+2018-08-15 08:29:43 UTC,woolworths msa,Woolworths Msa Beef Roast Standing Rib,"Meat, Seafood & Deli",1.5kg - 2kg,kg,,,,,,,,,,52,FALSE,52,FALSE,,,1534285783.0-W-8124
+2018-08-15 08:29:43 UTC,three rivers,Three Rivers Veal Osso Bucco,"Meat, Seafood & Deli",290g - 580g,g,,,,,,,,,,12.18,FALSE,12.18,FALSE,,,1534285783.0-W-8125
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Raw Prawns,"Meat, Seafood & Deli",per kg,200g,5,,277kJ,13.7g,0.93g,0.2g,<0.5g,<0.5g,229mg,38,TRUE,34,FALSE,,,1534285783.0-W-8126
+2018-08-15 08:29:43 UTC,woolworths fresh ,Woolworths Fresh Pacific Oysters,"Meat, Seafood & Deli",1 dozen,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,18,FALSE,18,FALSE,,,1534285783.0-W-8127
+2018-08-15 08:29:43 UTC,australian fresh ,Australian Fresh Crab Green Blue Swimmer,"Meat, Seafood & Deli",1kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,26,FALSE,26,FALSE,,,1534285783.0-W-8128
+2018-08-15 08:29:43 UTC,moreton bay,Moreton Bay Bug Cooked,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,44,FALSE,44,FALSE,,,1534285783.0-W-8129
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Cooked Frozen Extra Large Tiger Prawns,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,34,FALSE,34,FALSE,,,1534285783.0-W-8130
+2018-08-15 08:29:43 UTC,woolworths,Woolworths Prawn Cooked Banana Medium,"Meat, Seafood & Deli",per kg,per,,,,,,,,,,27,FALSE,27,FALSE,,,1534285783.0-W-8131
+2018-08-15 08:29:43 UTC,woolworths msa,Woolworths Msa Beef Roast Bolar Blade,"Meat, Seafood & Deli",1.4kg - 2.7kg,kg,,,,,,,,,,15.99,TRUE,32.4,FALSE,,,1534285783.0-W-8132
+2018-08-15 08:29:43 UTC,western australian,Western Australian Rock Lobster Cooked Frozen Small,"Meat, Seafood & Deli",each,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,40,FALSE,40,FALSE,,,1534285783.0-W-8133
+2018-08-15 08:29:43 UTC,macro,Macro Organic Beef Stir Fry,"Meat, Seafood & Deli",300g - 500g,g,,,,,,,,,,12.5,FALSE,12.5,FALSE,,,1534285783.0-W-8134
+2018-08-15 08:29:43 UTC,cleavers organic,Cleavers Organic Lamb Rack ,"Meat, Seafood & Deli",min. 450g,min,,,,,,,,,,15.75,FALSE,15.75,FALSE,,,1534285783.0-W-8135
+2018-08-15 08:29:43 UTC,cleavers,Cleavers Organic Lamb Shanks,"Meat, Seafood & Deli",300g - 500g,g,,,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534285783.0-W-8136
+2018-08-15 08:29:43 UTC,macro,Macro Organic Lean Beef Mince,"Meat, Seafood & Deli",500g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534285783.0-W-8137
+2018-08-15 08:29:43 UTC,macro,Macro Organic Beef Mince Heart Smart,"Meat, Seafood & Deli",500g,100.0g,5,,Approx. 549.0kJ,Approx. 20.4g,Approx. 5.0g,Approx. 2.2g,<1.0g,<1.0g,Approx. 60.0mg,12,FALSE,12,FALSE,,,1534285783.0-W-8138
+2018-08-15 08:29:44 UTC,cleaver's,Cleaver's Organic Smokey Bbq Beef Steaks ,"Meat, Seafood & Deli",550g - 900g,g,,,,,,,,,,25.2,FALSE,25.2,FALSE,,,1534285784.0-W-8139
+2018-08-15 08:29:44 UTC,cleaver's,Cleaver's Organic Lamb Butterfly Leg,"Meat, Seafood & Deli",590g - 1.12kg,g,,,,,,,,,,0,FALSE,0,FALSE,,,1534285784.0-W-8140
+2018-08-15 08:29:44 UTC,cleaver's,Cleaver's Organic Lamb Butterfly Shoulder Greek Seasoned,"Meat, Seafood & Deli",640g - 1.08kg,g,,,,,,,,,,27.11,FALSE,27.11,FALSE,,,1534285784.0-W-8141
+2018-08-15 08:29:44 UTC,australian tasmanian atlantic,Australian Tasmanian Atlantic Salmon Fillets Skin On,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,26.5,FALSE,26.5,FALSE,,,1534285784.0-W-8142
+2018-08-15 08:29:44 UTC,gourmet,Gourmet Seafood Salad Chilled  Premium Gourmet,"Meat, Seafood & Deli",per kg,,,,574.00kJ,6.60g,7.00g,0.90g,12.20g,6.50g,600.00mg,19,TRUE,16,FALSE,,,1534285784.0-W-8143
+2018-08-15 08:29:44 UTC,tasmanian atlantic,Tasmanian Atlantic Salmon Fillets Skinned & Boned,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,30,FALSE,30,FALSE,,,1534285784.0-W-8144
+2018-08-15 08:29:44 UTC,salmon,Salmon Marinated  Portions Sweet Chilli,"Meat, Seafood & Deli",per kg,,,,931.00kJ,17.30g,13.40g,2.90g,8.50g,7.20g,262.00mg,27,FALSE,27,FALSE,,,1534285784.0-W-8145
+2018-08-15 08:29:44 UTC,thawed tasmanian,Thawed Tasmanian Scallops ,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,42,FALSE,42,FALSE,,,1534285784.0-W-8146
+2018-08-15 08:29:44 UTC,macro,Macro Organic Beef Scotch Fillet,"Meat, Seafood & Deli",220g - 440g,g,,,,,,,,,,19.8,FALSE,19.8,FALSE,,,1534285784.0-W-8147
+2018-08-15 08:29:44 UTC,half shell,Half Shell Scallop ,"Meat, Seafood & Deli",each,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,1.3,TRUE,1,FALSE,,,1534285784.0-W-8148
+2018-08-15 08:29:44 UTC,woolworths ,Woolworths Cocktail Prawns Cooked Tail On,"Meat, Seafood & Deli",per kg,100g,10,,318kJ,17.6g,1g,1g,<1g,<1g,258mg,29,TRUE,25,FALSE,,,1534285784.0-W-8149
+2018-08-15 08:29:44 UTC,woolworths fresh ,Woolworths Fresh Scallops Commercial,"Meat, Seafood & Deli",1kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,0,FALSE,0,FALSE,,,1534285784.0-W-8150
+2018-08-15 08:29:44 UTC,macro,Macro Organic Beef Eye Fillet Steak,"Meat, Seafood & Deli",165g - 335g,g,,,,,,,,,,19.1,FALSE,19.1,FALSE,,,1534285784.0-W-8151
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Hot Smoked Rainbow Trout,"Meat, Seafood & Deli",350g,g,,,,,,,,,,10,TRUE,9.5,FALSE,,,1534285784.0-W-8152
+2018-08-15 08:29:44 UTC,ocean blue,Ocean Blue Smoked Ocean Trout Sliced,"Meat, Seafood & Deli",50g,50g,1,,651kJ,22.6g,7.2g,1.5g,0g,0g,1170mg,4.5,TRUE,4,FALSE,,,1534285784.0-W-8153
+2018-08-15 08:29:44 UTC,woolworths simply bbq,Woolworths Simply Bbq Lamb Kebabs Mint & Honey Flavour,"Meat, Seafood & Deli",450g,112g,4,,Approx. 1200kJ,Approx. 14.5g,Approx. 20.3g,Approx. 10.5g,Approx. 12.2g,Approx. 2.6g,Approx. 623mg,7.5,FALSE,7.5,FALSE,,,1534285784.0-W-8154
+2018-08-15 08:29:44 UTC,clearly premium,Clearly Premium Octopus ,"Meat, Seafood & Deli",200g,25g,8,,370kJ,20.0g,0.8g,0.3g,<1.0g,<1.0g,520mg,12.99,TRUE,11.99,FALSE,,,1534285784.0-W-8155
+2018-08-15 08:29:44 UTC,thawed marinara,Thawed Marinara Mix ,"Meat, Seafood & Deli",per kg,,,,259.00kJ,12.80g,1.00g,1.00g,0.70g,0.00g,412.00mg,13,FALSE,13,FALSE,,,1534285784.0-W-8156
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Aussie Beef Gluten Free Sausage Mince,"Meat, Seafood & Deli",500g,100g,5,,Approx. 1020kJ,Approx. 12.3g,Approx. 19g,Approx. 9.5g,Approx. 6.4g,<1g,Approx. 539mg,3.5,FALSE,3.5,FALSE,,,1534285784.0-W-8157
+2018-08-15 08:29:44 UTC,tassal,Tassal Atlantic Salmon Skin Off,"Meat, Seafood & Deli",300g,g,,,,,,,,,,12,TRUE,11,FALSE,,,1534285784.0-W-8158
+2018-08-15 08:29:44 UTC,ocean chef,Ocean Chef Whole Clams ,"Meat, Seafood & Deli",500g,g,,,,,,,,,,10,TRUE,9,FALSE,,,1534285784.0-W-8159
+2018-08-15 08:29:44 UTC,woolworths ,Woolworths Thawed Lobster Tails,"Meat, Seafood & Deli",each,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,9,TRUE,7,FALSE,,,1534285784.0-W-8160
+2018-08-15 08:29:44 UTC,woolworths market value,Woolworths Market Value Chicken Rissoles With Cheese,"Meat, Seafood & Deli",500g,125g,4,,1060kJ,12.2g,14.1g,4.0g,19.7g,4.2g,559mg,5.5,FALSE,5.5,FALSE,,,1534285784.0-W-8161
+2018-08-15 08:29:44 UTC,perfecto chicken,Perfecto Chicken Kebabs Bbq,"Meat, Seafood & Deli",800g,g,,,,,,,,,,12.9,FALSE,12.9,FALSE,,,1534285784.0-W-8162
+2018-08-15 08:29:44 UTC,, Lemon Thyme Chicken With Kale Coleslaw Bundle ,"Meat, Seafood & Deli",,,,,,,,,,,,12,FALSE,12,FALSE,,,1534285784.0-W-8163
+2018-08-15 08:29:44 UTC,lamb leg butterflied,Lamb Leg Butterflied Roast With Garlic & Herbs,"Meat, Seafood & Deli",850g - 1.3kg,g,,,,,,,,,,24.99,TRUE,26,FALSE,,,1534285784.0-W-8164
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Lamb Eye Of Loin,"Meat, Seafood & Deli",min. 200g,min,,,,,,,,,,8.8,FALSE,8.8,FALSE,,,1534285784.0-W-8165
+2018-08-15 08:29:44 UTC,created with jamie chicken,Created With Jamie Chicken Fillet Crispy Garlic,"Meat, Seafood & Deli",400g - 600g,125g,8,,Approx. 548kJ,Approx. 20.6g,Approx. 2.6g,<1g,Approx. 6g,Approx. 0.7g,Approx. 206mg,14.1,FALSE,14.1,FALSE,,,1534285784.0-W-8166
+2018-08-15 08:29:44 UTC,woolworths simply,Woolworths Simply Roast Greek Style Lemon And Herb Boneless Butterflied,"Meat, Seafood & Deli",900g - 1.25kg,g,,,,,,,,,,16.25,FALSE,16.25,FALSE,,,1534285784.0-W-8167
+2018-08-15 08:29:44 UTC,jamie,Jamie Smashin' Chicken Fillets Lemon Pepper,"Meat, Seafood & Deli",400g - 600g,125g,8,,494kJ,20.9g,3.0g,<1g,1.6g,0.5g,180mg,14.1,FALSE,14.1,FALSE,,,1534285784.0-W-8168
+2018-08-15 08:29:44 UTC,perfecto chicken,Perfecto Chicken Kebabs Satay,"Meat, Seafood & Deli",800g,g,,,,,,,,,,12.9,FALSE,12.9,FALSE,,,1534285784.0-W-8169
+2018-08-15 08:29:44 UTC,woolworths simply,Woolworths Simply Roast Portuguese Style Peri Peri Boneless Butterflied,"Meat, Seafood & Deli",900g - 1.25kg,g,,,,,,,,,,16.25,FALSE,16.25,FALSE,,,1534285784.0-W-8170
+2018-08-15 08:29:44 UTC,ocean chef,Ocean Chef Blue Swimmer Crab With Singapore Style Chilli Sauce,"Meat, Seafood & Deli",750g,g,,,,,,,,,,20,FALSE,20,FALSE,,,1534285784.0-W-8171
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Frozen Large Green Banana Prawns,"Meat, Seafood & Deli",5kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,115,TRUE,100,FALSE,,,1534285784.0-W-8172
+2018-08-15 08:29:44 UTC,just caught,Just Caught Barramundi Skinless Fillets,"Meat, Seafood & Deli",700g,100g,7,,391kj,20g,1.3g,0.4g,0.5g,>1.0g,52.5mg,20,FALSE,20,FALSE,,,1534285784.0-W-8173
+2018-08-15 08:29:44 UTC,just caught,Just Caught Ling Skinless Portions,"Meat, Seafood & Deli",700g,g,,,,,,,,,,20,TRUE,15,FALSE,,,1534285784.0-W-8174
+2018-08-15 08:29:44 UTC,whole raw,Whole Raw Banana Prawns,"Meat, Seafood & Deli",800g,g,,,,,,,,,,20,FALSE,20,FALSE,,,1534285784.0-W-8175
+2018-08-15 08:29:44 UTC,fresh,Fresh Swordfish Steaks,"Meat, Seafood & Deli",each,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,44,FALSE,44,FALSE,,,1534285784.0-W-8176
+2018-08-15 08:29:44 UTC,fresh rainbow,Fresh Rainbow Trout Skin On,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,30,FALSE,30,FALSE,,,1534285784.0-W-8177
+2018-08-15 08:29:44 UTC,woolworths fresh ,Woolworths Fresh Bream Yellowfin Whole Fillets,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,16,FALSE,16,FALSE,,,1534285784.0-W-8178
+2018-08-15 08:29:44 UTC,lamb shoulder,Lamb Shoulder Roast Butterflied Lemon & Garlic,"Meat, Seafood & Deli",800g - 1.4kg,g,,,,,,,,,,22.99,TRUE,25.2,FALSE,,,1534285784.0-W-8179
+2018-08-15 08:29:44 UTC,woolworths fresh ,Woolworths Fresh Whole Rainbow Trout,"Meat, Seafood & Deli",per kg,per,,,,,,,,,,20,FALSE,20,FALSE,,,1534285784.0-W-8180
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Jumbo Cooked Prawn,"Meat, Seafood & Deli",500g,g,,,,,,,,,,22,FALSE,22,FALSE,,,1534285784.0-W-8181
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Crumbed Tartare Infused Fish Bites 10pk,"Meat, Seafood & Deli",500g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534285784.0-W-8182
+2018-08-15 08:29:44 UTC,ocean chef,Ocean Chef Marinated Prawns Garlic & Herb,"Meat, Seafood & Deli",500g,g,,,,,,,,,,18.5,FALSE,18.5,FALSE,,,1534285784.0-W-8183
+2018-08-15 08:29:44 UTC,ocean chef,Ocean Chef Marinated Prawns Lime & Lemongrass,"Meat, Seafood & Deli",500g,g,,,,,,,,,,18.5,FALSE,18.5,FALSE,,,1534285784.0-W-8184
+2018-08-15 08:29:44 UTC,ocean chef,Ocean Chef Extra Large Raw Prawn Cutlet,"Meat, Seafood & Deli",500g,g,,,,,,,,,,22,TRUE,20,FALSE,,,1534285784.0-W-8185
+2018-08-15 08:29:44 UTC,just caught,Just Caught Tomato And Garlic Mussels,"Meat, Seafood & Deli",450g,g,,,,,,,,,,6,FALSE,6,FALSE,,,1534285784.0-W-8186
+2018-08-15 08:29:44 UTC,woolworths ,Woolworths Crumbed Prawn Cutlets ,"Meat, Seafood & Deli",500g,100g,5,,1106kJ,9.86g,14.5g,6.08g,23.6g,0.58g,444.3mg,10,FALSE,10,FALSE,,,1534285784.0-W-8187
+2018-08-15 08:29:44 UTC,just caught,Just Caught Garlic Prawns Heat & Eat,"Meat, Seafood & Deli",500g,250g,2,,384kJ,9.58g,5.01g,1.4g,2.14g,<1g,799.9mg,14,FALSE,14,FALSE,,,1534285784.0-W-8188
+2018-08-15 08:29:44 UTC,just caught,Just Caught Whole Cooked Clams In Garlic Butter Sauce,"Meat, Seafood & Deli",500g,75g,2,,1170kj,10.8g,24.7g,6.8g,3.6g,2.52g,305mg,7,FALSE,7,FALSE,,,1534285784.0-W-8189
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Southern Style Crumbed Fish Bites 12pk,"Meat, Seafood & Deli",500g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534285784.0-W-8190
+2018-08-15 08:29:44 UTC,ocean chef,Ocean Chef Smoked Hoki ,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,16,FALSE,16,FALSE,,,1534285784.0-W-8191
+2018-08-15 08:29:44 UTC,ocean chef,Ocean Chef South American Flathead Fillets,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,18,FALSE,18,FALSE,,,1534285784.0-W-8192
+2018-08-15 08:29:44 UTC,ocean blue,Ocean Blue Smoked & Sliced Salmon Selection,"Meat, Seafood & Deli",210g,g,,,,,,,,,,12.5,FALSE,12.5,FALSE,,,1534285784.0-W-8193
+2018-08-15 08:29:44 UTC,cape merchant ,Cape Merchant Raw Prawn Cutlets,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,38,TRUE,35,FALSE,,,1534285784.0-W-8194
+2018-08-15 08:29:44 UTC,raw prawn,Raw Prawn Meat ,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,35,FALSE,35,FALSE,,,1534285784.0-W-8195
+2018-08-15 08:29:44 UTC,baby octopus,Baby Octopus Cleaned ,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,18,FALSE,18,FALSE,,,1534285784.0-W-8196
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Frozen Barramundi,"Meat, Seafood & Deli",1 kg,,,,,,,,,,,18,FALSE,18,FALSE,,,1534285784.0-W-8197
+2018-08-15 08:29:44 UTC,australian fresh ,Australian Fresh Prawn King Cooked Large,"Meat, Seafood & Deli",1kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,0,FALSE,0,FALSE,,,1534285784.0-W-8198
+2018-08-15 08:29:44 UTC,ocean chef,Ocean Chef Hoki Fillets ,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,14,FALSE,14,FALSE,,,1534285784.0-W-8199
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Aussie Pork Sausages ,"Meat, Seafood & Deli",680g,170g,4,,820kJ,12.8g,13.6g,6.0g,5.9g,0.9g,537mg,5,FALSE,5,TRUE,2,4.5,1534285784.0-W-8200
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Aussie Beef Sausages ,"Meat, Seafood & Deli",680g,g,,,,,,,,,,5,FALSE,5,TRUE,3,4,1534285784.0-W-8201
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Aussie Pork Sausages Chipolatas,"Meat, Seafood & Deli",680g,g,,,,,,,,,,5,FALSE,5,TRUE,3,4,1534285784.0-W-8202
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Aussie Beef Sausages Herb & Garlic,"Meat, Seafood & Deli",680g,g,,,,,,,,,,5,FALSE,5,TRUE,3,4,1534285784.0-W-8203
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Chicken Sausages ,"Meat, Seafood & Deli",680g,170g,4,,720kJ,12.6g,10.0g,2.3g,8.0g,0.5g,483mg,5,FALSE,5,TRUE,2,4.5,1534285784.0-W-8204
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Aussie Beef Sausages Honey Flavoured,"Meat, Seafood & Deli",680g,170g (2 Sausages),4,,1090kJ,11.5g,20.7g,10.7g,7.6g,3.0g,522mg,5,FALSE,5,TRUE,3,4,1534285784.0-W-8205
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Aussie Beef Sausages Chipolatas,"Meat, Seafood & Deli",680g,85g (2 Chipolatas),8,,1040kJ,12.4g,18.9g,9.0g,7.7g,0.5g,649mg,5,FALSE,5,TRUE,3,4,1534285784.0-W-8206
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Aussie Beef Sausages Thick,"Meat, Seafood & Deli",760g,g,,,,,,,,,,5,FALSE,5,TRUE,2,4.5,1534285784.0-W-8207
+2018-08-15 08:29:44 UTC,thawed squid,Thawed Squid Tubes Tubes,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,17,FALSE,17,FALSE,,,1534285784.0-W-8208
+2018-08-15 08:29:44 UTC,lamb shoulder,Lamb Shoulder Roast Butterflied Mint & Rosemary,"Meat, Seafood & Deli",800g - 1.4kg,g,,,,,,,,,,22.99,TRUE,25.2,FALSE,,,1534285784.0-W-8209
+2018-08-15 08:29:44 UTC,birch & waite,Birch & Waite Maylasian Curry Seafood Cooking Sauce,"Meat, Seafood & Deli",175g,g,,,,,,,,,,3.8,TRUE,2.5,FALSE,,,1534285784.0-W-8210
+2018-08-15 08:29:44 UTC,just caught,Just Caught Seafood Salad Mix,"Meat, Seafood & Deli",1kg,100g,10,,431.2kJ,6.3g,<1g,<1g,18.8g,4.4g,666mg,6.5,FALSE,6.5,FALSE,,,1534285784.0-W-8211
+2018-08-15 08:29:44 UTC,ocean blue,Ocean Blue Bilinis Mini,"Meat, Seafood & Deli",205g,41g (4 Blinis),5,,1161kJ,6.5g,11.8g,2.0g,35.3g,3.3g,430mg,5,FALSE,5,FALSE,,,1534285784.0-W-8212
+2018-08-15 08:29:44 UTC,birch & waite,Birch & Waite Seafood Sauce Creamy Cocktail,"Meat, Seafood & Deli",250ml,Ml,,,,,,,,,,4,TRUE,3,FALSE,,,1534285784.0-W-8213
+2018-08-15 08:29:44 UTC,birch & waite,Birch & Waite Rich Tartare Seafood Sauce ,"Meat, Seafood & Deli",250ml,Ml,,,,,,,,,,4,TRUE,3,FALSE,,,1534285784.0-W-8214
+2018-08-15 08:29:44 UTC,birch & waite,Birch & Waite Parsley Dill & Tarragon Seafood Sauce,"Meat, Seafood & Deli",250ml,15mL,16,,2640kJ,2.0g,69.6g,5.1g,1.8g,1.4g,499mg,4,TRUE,3,FALSE,,,1534285784.0-W-8215
+2018-08-15 08:29:44 UTC,de costi,De Costi Cooked Prawns Peeled With Cocktail Sauce,"Meat, Seafood & Deli",260g,130g,2,,883kJ,13.5g,6.2g,0.9g,2.6g,2.6g,498mg,11,FALSE,11,FALSE,,,1534285784.0-W-8216
+2018-08-15 08:29:44 UTC,birch & waite ,Birch & Waite Lemon Herb Butter Cooking Sauce,"Meat, Seafood & Deli",175g,g,,,,,,,,,,3.8,TRUE,2.5,FALSE,,,1534285784.0-W-8217
+2018-08-15 08:29:44 UTC,shore mariner,Shore Mariner Seafood Sticks ,"Meat, Seafood & Deli",1kg,100g,10,,452kJ,5.6g,1.2g,0.6g,18.6g,5.8g,446mg,8,TRUE,7,FALSE,,,1534285784.0-W-8218
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Hot Smoked Salmon Natural,"Meat, Seafood & Deli",150g,50g,3,,1070kJ,22.4g,18.5g,2.3g,<0.5g,<0.5g,620mg,6.5,FALSE,6.5,FALSE,,,1534285784.0-W-8219
+2018-08-15 08:29:44 UTC,huon,Huon Wood Roast Thai Lemgrass Salmon,"Meat, Seafood & Deli",100g,g,,,,,,,,,,9,FALSE,9,FALSE,,,1534285784.0-W-8220
+2018-08-15 08:29:44 UTC,clearly premium,Clearly Premium Smoked Salmon ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534285784.0-W-8221
+2018-08-15 08:29:44 UTC,superior gold,Superior Gold Hot Smoked Salmon Natural,"Meat, Seafood & Deli",150g,g,,,,,,,,,,10.5,FALSE,10.5,FALSE,,,1534285784.0-W-8222
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Hot Smoked Salmon Pepper,"Meat, Seafood & Deli",150g,50g,3,,1010kJ,21.60%,16.7g,2.3g,1.5g,1.5g,700mg,6.5,FALSE,6.5,FALSE,,,1534285784.0-W-8223
+2018-08-15 08:29:44 UTC,superior gold,Superior Gold Smoked Salmon Sliced,"Meat, Seafood & Deli",200g,50g,4,,862kJ,25.1g,11.8g,2.8g,<1g,<1g,1120mg,13.5,TRUE,12,FALSE,,,1534285784.0-W-8224
+2018-08-15 08:29:44 UTC,superior gold,Superior Gold Smoked Peppercorn Salmon,"Meat, Seafood & Deli",150g,g,,,,,,,,,,10.5,FALSE,10.5,FALSE,,,1534285784.0-W-8225
+2018-08-15 08:29:44 UTC,woolworth,Woolworth Tomato And Garlic Hot Smoked Salmon,"Meat, Seafood & Deli",150g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534285784.0-W-8226
+2018-08-15 08:29:44 UTC,ocean blue,Ocean Blue Surimi Sea Sticks,"Meat, Seafood & Deli",150g,50g,3,,393kJ,9.1g,3.4g,0.5g,5.8g,1.9g,727mg,4.5,TRUE,3.5,FALSE,,,1534285784.0-W-8227
+2018-08-15 08:29:44 UTC,birch & waite,Birch & Waite Japanese Sesame Soy Cooking Sauce,"Meat, Seafood & Deli",175g,g,,,,,,,,,,0,FALSE,0,FALSE,,,1534285784.0-W-8228
+2018-08-15 08:29:44 UTC,tassal pure tasmanian,Tassal Pure Tasmanian Smoked Salmon Slices,"Meat, Seafood & Deli",200g,50g,4,,879kJ,23.7g,12.8g,2.8g,<0.5g,<0.5g,1120mg,11.5,FALSE,11.5,FALSE,,,1534285784.0-W-8229
+2018-08-15 08:29:44 UTC,tassal premium tasmanian,Tassal Premium Tasmanian Smoked Salmon Slices,"Meat, Seafood & Deli",100g,50g,2,,879kJ,23.7g,12.8g,2.8g,<0.8g,<0.5g,1120mg,7,FALSE,7,FALSE,,,1534285784.0-W-8230
+2018-08-15 08:29:44 UTC,ocean blue,Ocean Blue Smoked Salmon ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.8,FALSE,5.8,FALSE,,,1534285784.0-W-8231
+2018-08-15 08:29:44 UTC,superior gold,Superior Gold Smoked Salmon ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534285784.0-W-8232
+2018-08-15 08:29:44 UTC,holland house,Holland House Matjes Fillets,"Meat, Seafood & Deli",250g,50g,5,,908kJ,10.9g,18.1g,1.52g,2.07g,0g,3000mg,4.99,FALSE,4.99,FALSE,,,1534285784.0-W-8233
+2018-08-15 08:29:44 UTC,huon,Huon Tasmanian Smoked Salmon Cold Smoked,"Meat, Seafood & Deli",100g,50g,2,,740kJ,25g,7.5g,1.6g,2g,1.8g,1000mg,8.5,FALSE,8.5,FALSE,,,1534285784.0-W-8234
+2018-08-15 08:29:44 UTC,tassal,Tassal Smoked Salmon ,"Meat, Seafood & Deli",300g,50g,6,,879kJ,23.7g,12.8g,2.8g,<0.5g,<0.5g,1120mg,15.5,TRUE,13,FALSE,,,1534285784.0-W-8235
+2018-08-15 08:29:44 UTC,ocean blue,Ocean Blue Smoked Salmon ,"Meat, Seafood & Deli",300g,50g,6,,825kJ,22.0g,12g,1.8g,0g,0g,1040mg,12,FALSE,12,FALSE,,,1534285784.0-W-8236
+2018-08-15 08:29:44 UTC,ocean blue,Ocean Blue Smoked Salmon ,"Meat, Seafood & Deli",180g,,3.6,,688kJ,21.3g,,,0g,0g,1170mg,10,FALSE,10,FALSE,,,1534285784.0-W-8237
+2018-08-15 08:29:44 UTC,ocean blue,Ocean Blue Smoked Salmon Sliced,"Meat, Seafood & Deli",50g,50g,1,,688kJ,21.3g,8.8g,1.3g,0g,0g,1170mg,4.5,TRUE,4,FALSE,,,1534285784.0-W-8238
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Beef Burgers ,"Meat, Seafood & Deli",500g 4pk,125g,4,,Approx. 810kJ,Approx. 14.9g,Approx. 13.8g,Approx. 7g,Approx. 2.7g,<1g,Approx. 336mg,6.5,FALSE,6.5,FALSE,,,1534285784.0-W-8239
+2018-08-15 08:29:44 UTC,beak & sons,Beak & Sons Classic Burger ,"Meat, Seafood & Deli",500g,125g,4,,1060kJ,21.0g,18.0g,7.5g,2.4g,1.6g,404mg,8.5,TRUE,7.5,FALSE,,,1534285784.0-W-8240
+2018-08-15 08:29:44 UTC,ocean blue,Ocean Blue Ocean Trout Natural,"Meat, Seafood & Deli",100g,50g,2,,582kJ,20.3g,6.4g,1.6g,0g,0g,1298mg,6,FALSE,6,FALSE,,,1534285784.0-W-8241
+2018-08-15 08:29:44 UTC,beak & sons,Beak & Sons Gourmet Beef Sausages,"Meat, Seafood & Deli",500g,84g (1 sausage),6,,766kJ,15.3g,12.2g,5.9g,3.2g,0.6g,432mg,7.5,TRUE,6.5,FALSE,,,1534285784.0-W-8242
+2018-08-15 08:29:44 UTC,peppercorn beef,Peppercorn Beef Burger Extra Lean,"Meat, Seafood & Deli",500g,83g,6,,622kJ,13.3g,8.0g,3.0g,5.5g,1.2g,450mg,8.5,FALSE,8.5,FALSE,,,1534285784.0-W-8243
+2018-08-15 08:29:44 UTC,created with jamie,Created With Jamie Meatballs Beef & Wagyu Chorizo,"Meat, Seafood & Deli",600g,300g,2,,Approx. 594kJ,Approx. 10.4g,Approx. 9.2g,Approx. 4.6g,Approx. 4.4g,Approx. 1.5g,Approx. 316mg,8.5,FALSE,8.5,FALSE,,,1534285784.0-W-8244
+2018-08-15 08:29:44 UTC,peppercorn butcher,Peppercorn Butcher Jumbo Beef Burgers ,"Meat, Seafood & Deli",600g,150g,4,,751kJ,16.4g,10.6g,5.4g,4.7g,<1g,580mg,9.5,FALSE,9.5,FALSE,,,1534285784.0-W-8245
+2018-08-15 08:29:44 UTC,ocean blue,Ocean Blue Ocean Trout Smoked,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.8,FALSE,5.8,FALSE,,,1534285784.0-W-8246
+2018-08-15 08:29:44 UTC,tassal,Tassal Salmon For Cooking,"Meat, Seafood & Deli",200g,50g,4,,874kJ,24.1g,12.5g,2.8g,<1.0g,<1.0g,1120mg,6,FALSE,6,FALSE,,,1534285784.0-W-8247
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Lamb Sausages With Mint & Rosemary,"Meat, Seafood & Deli",500g,g,,,,,,,,,,7.5,FALSE,7.5,TRUE,2,6,1534285784.0-W-8248
+2018-08-15 08:29:44 UTC,grasslands,Grasslands Beef Burgers,"Meat, Seafood & Deli",500g,,,,,17.4g,,,,0.1g,,7.5,FALSE,7.5,FALSE,,,1534285784.0-W-8249
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Beef & Pork Sausages Italian Style,"Meat, Seafood & Deli",500g,83g (1 sausage),6,,700kJ,15.5g,10.7g,4.3g,2.4g,<0.1g,500mg,7.5,FALSE,7.5,TRUE,2,6,1534285784.0-W-8250
+2018-08-15 08:29:44 UTC,created with jamie beef,Created With Jamie Beef Burgers Mexican Style,"Meat, Seafood & Deli",500g,100g,4,,Approx. 765kJ,Approx. 16.4g,Approx. 11.7g,Approx. 5.5g,Approx. 3.1g,<1g,Approx. 445mg,8,FALSE,8,FALSE,,,1534285784.0-W-8251
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Beef Sausages Mexican Style,"Meat, Seafood & Deli",500g,83g (1 Sausage),6,,816kJ,16.6g,12.0g,5.4g,5.3g,<1.0g,470mg,7.5,FALSE,7.5,TRUE,2,6,1534285784.0-W-8252
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Chicken Sausages Chives Thyme & Rosemary,"Meat, Seafood & Deli",500g,83g (1 Sausage),6,,670kJ,13.9g,9.7g,2.9g,4.4g,<0.1g,430mg,7.5,FALSE,7.5,TRUE,2,6,1534285784.0-W-8253
+2018-08-15 08:29:44 UTC,home style,Home Style Chicken Burgers ,"Meat, Seafood & Deli",500g,55.6g,9,,1020kJ,19.0g,8.7g,2.4g,21.2g,2.6g,1050mg,5,FALSE,5,FALSE,,,1534285784.0-W-8254
+2018-08-15 08:29:44 UTC,beak & sons,Beak & Sons Gourmet Pork Sausages,"Meat, Seafood & Deli",500g,g,,,,,,,,,,7.5,TRUE,6.5,FALSE,,,1534285784.0-W-8255
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Beef Chevapi,"Meat, Seafood & Deli",500g,100g,5,,Approx. 826kJ,Approx. 16.1g,Approx. 14.7g,Approx. 7.6g,<1g,<1g,Approx. 569mg,7,FALSE,7,FALSE,,,1534285784.0-W-8256
+2018-08-15 08:29:44 UTC, peppercorn extra,Peppercorn Extra Lean Chicken Chipolatas ,"Meat, Seafood & Deli",450g,g,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534285784.0-W-8257
+2018-08-15 08:29:44 UTC,peppercorn butcher's classic,Peppercorn Butcher's Classic Chorizo Sausages ,"Meat, Seafood & Deli",450g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534285784.0-W-8258
+2018-08-15 08:29:44 UTC,beak & sons,Beak & Sons The Godfather Pork & Beef Sausages,"Meat, Seafood & Deli",450g,g,,,,,,,,,,7.5,TRUE,6.5,FALSE,,,1534285784.0-W-8259
+2018-08-15 08:29:44 UTC,beak & sons,Beak & Sons Original Bratwurst Sausages,"Meat, Seafood & Deli",450g,g,,,,,,,,,,7.5,TRUE,6.5,FALSE,,,1534285784.0-W-8260
+2018-08-15 08:29:44 UTC,peppercorn,Peppercorn Beef Sausages Extra Lean,"Meat, Seafood & Deli",450g,64g,7,,622kJ,13.3g,8.0g,3.0g,5.5g,1.2g,450mg,8.5,FALSE,8.5,FALSE,,,1534285784.0-W-8261
+2018-08-15 08:29:44 UTC,created with jamie,Created With Jamie Pork Sausages Classic Cumberland,"Meat, Seafood & Deli",450g,90g (1 Sausage),5,,955kJ,15.2g,16.8g,6.4g,4.4g,<0.5g,440mg,8.5,FALSE,8.5,FALSE,,,1534285784.0-W-8262
+2018-08-15 08:29:44 UTC,top table,Top Table Wagyu Beef Sausage ,"Meat, Seafood & Deli",450g,75g (1 sausage),6,,861kJ,17.1g,13.5g,5.2g,3.7g,0.6g,662mg,8,TRUE,7,FALSE,,,1534285784.0-W-8263
+2018-08-15 08:29:44 UTC,cleavers,Cleavers Minty Lamb Chipolatas Organic,"Meat, Seafood & Deli",480g,120g,4,,1317kJ,12.5g,32.5g,17.0g,2.9g,0.5g,549mg,8.5,FALSE,8.5,FALSE,,,1534285784.0-W-8264
+2018-08-15 08:29:44 UTC,woolworths,Woolworths 4 Chunky Cheese Beef Burger,"Meat, Seafood & Deli",500g,g,,,,,,,,,,7,FALSE,7,TRUE,2,6,1534285784.0-W-8265
+2018-08-15 08:29:44 UTC,cleaver's,Cleaver's Organic Paleo Beef Sausages,"Meat, Seafood & Deli",450g,75g,6,,997kJ,14.8g,19.0g,8.7g,1.3g,0.5g,383mg,8.5,FALSE,8.5,FALSE,,,1534285784.0-W-8266
+2018-08-15 08:29:44 UTC,woolworths simply cook,Woolworths Simply Cook Chicken Breast With Lemon Thyme & Garlic,"Meat, Seafood & Deli",370g - 425g,g,,,,,,,,,,7.65,FALSE,7.65,FALSE,,,1534285784.0-W-8267
+2018-08-15 08:29:44 UTC,woolworths simply cook,Woolworths Simply Cook Chicken Kebabs With Sweet Chilli & Lime,"Meat, Seafood & Deli",375g,75g,5,,659kJ,18.0g,5.9g,1.7g,7.9g,4.5g,307mg,0,FALSE,0,FALSE,,,1534285784.0-W-8268
+2018-08-15 08:29:44 UTC,cleavers,Cleavers Organic Paleo Honey Beef Chipolatas,"Meat, Seafood & Deli",440g,g,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534285784.0-W-8269
+2018-08-15 08:29:44 UTC,lamb,Lamb Cutlets Large,"Meat, Seafood & Deli",550g - 750g,g,,,,,,,,,,25.13,FALSE,25.13,FALSE,,,1534285784.0-W-8270
+2018-08-15 08:29:44 UTC,lamb,Lamb Cutlets Small,"Meat, Seafood & Deli",350g - 700g,g,,,,,,,,,,23.45,FALSE,23.45,FALSE,,,1534285784.0-W-8271
+2018-08-15 08:29:44 UTC,created with jamie,Created With Jamie Rspca Approved Asian Style Chicken Meatballs,"Meat, Seafood & Deli",400g,80g,5,,769kJ,14.8g,8.6g,2.6g,11.6g,1.6g,149mg,6,FALSE,6,FALSE,,,1534285784.0-W-8272
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Beef & Lamb Meatballs,"Meat, Seafood & Deli",400g,100g,4,,Approx. 924kJ,Approx. 13.7g,Approx. 16.2g,Approx. 8.4g,Approx. 5.4g,<1g,Approx. 487mg,6,FALSE,6,FALSE,,,1534285784.0-W-8273
+2018-08-15 08:29:44 UTC,woolworths simply cook,Woolworths Simply Cook Chicken Kebab Sweet Smoky Bbq,"Meat, Seafood & Deli",375g,75g,5,,656kJ,17.4g,6.9g,2.4g,6.2g,3.6g,406mg,5.5,FALSE,5.5,FALSE,,,1534285784.0-W-8274
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Kebabs Chicken Thigh Hoisin,"Meat, Seafood & Deli",375g,75g,5,,702kJ,16.4g,6.1g,1.8g,11.6g,4.2g,298mg,5.5,FALSE,5.5,FALSE,,,1534285784.0-W-8275
+2018-08-15 08:29:44 UTC,bec campbell,Bec Campbell Pork Sausages Cumberland Style,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,10,FALSE,10,FALSE,,,1534285784.0-W-8276
+2018-08-15 08:29:44 UTC,market value,Market Value Burger ,"Meat, Seafood & Deli",1kg,100g (1 Burger),10,,1030kJ,13.0g,20.0g,10.2g,4.1g,1.0g,555mg,9,TRUE,8,FALSE,,,1534285784.0-W-8277
+2018-08-15 08:29:44 UTC,woolworths market value,Woolworths Market Value Bbq Pack 8 Sausages & 4 Burgers,"Meat, Seafood & Deli",1kg,100g,4,,1070kJ,12.7g,20.9g,10.5g,4.4g,1.1g,557mg,9,TRUE,8,FALSE,,,1534285784.0-W-8278
+2018-08-15 08:29:44 UTC,lamb midloin,Lamb Midloin Chops Large,"Meat, Seafood & Deli",300g - 700g,g,,,,,,,,,,16.1,FALSE,16.1,FALSE,,,1534285784.0-W-8279
+2018-08-15 08:29:44 UTC,cleavers,Cleavers Organic Beef Hot Dogs,"Meat, Seafood & Deli",275g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534285784.0-W-8280
+2018-08-15 08:29:44 UTC,market value,Market Value Thin Sausage ,"Meat, Seafood & Deli",1.8kg,kg,,,,,,,,,,8.5,TRUE,8,FALSE,,,1534285784.0-W-8281
+2018-08-15 08:29:44 UTC,lamb midloin,Lamb Midloin Chops Small,"Meat, Seafood & Deli",250g - 500g,g,,,,,,,,,,11.5,FALSE,11.5,FALSE,,,1534285784.0-W-8282
+2018-08-15 08:29:44 UTC,woolworths specially seasoned ,Woolworths Specially Seasoned Angus Beef Burger Sea Salt Crack Pepper,"Meat, Seafood & Deli",320g,g,,,,,,,,,,7.5,FALSE,7.5,TRUE,2,6,1534285784.0-W-8283
+2018-08-15 08:29:44 UTC,woolworths specially seasoned ,Woolworths Specially Seasoned Lamb Burger Garlic And Rosemary,"Meat, Seafood & Deli",320g,g,,,,,,,,,,7.5,FALSE,7.5,TRUE,2,6,1534285784.0-W-8284
+2018-08-15 08:29:44 UTC,san marino,San Marino Extra Hot Chilli Sopressa,"Meat, Seafood & Deli",per kg,,,,1140.00kJ,18.60g,21.10g,9.40g,2.30g,1.00g,1200.00mg,29,TRUE,24,FALSE,,,1534285784.0-W-8285
+2018-08-15 08:29:44 UTC,bertocchi,Bertocchi Jamon Serrano,"Meat, Seafood & Deli",per kg,,,,1210.00kJ,29.00g,19.00g,2.70g,0.50g,0.50g,2000.00mg,47.5,FALSE,47.5,FALSE,,,1534285784.0-W-8286
+2018-08-15 08:29:44 UTC,four brothers,Four Brothers Beef Rump Steak ,"Meat, Seafood & Deli",1kg - 1.7kg,kg,,,,,,,,,,27.2,FALSE,27.2,FALSE,,,1534285784.0-W-8287
+2018-08-15 08:29:44 UTC,msa beef porterhouse,Msa Beef Porterhouse Steak Small 1 - 2 Pieces,"Meat, Seafood & Deli",200g - 550g,g,,,,,,,,,,18.7,TRUE,16.5,FALSE,,,1534285784.0-W-8288
+2018-08-15 08:29:44 UTC,four brothers,Four Brothers Beef Porterhouse Steak ,"Meat, Seafood & Deli",800g - 1.4kg,g,,,,,,,,,,30.8,FALSE,30.8,FALSE,,,1534285784.0-W-8289
+2018-08-15 08:29:44 UTC,four brothers,Four Brothers Scotch Fillet Steak ,"Meat, Seafood & Deli",800g - 1.4kg,g,,,,,,,,,,33.6,FALSE,33.6,FALSE,,,1534285784.0-W-8290
+2018-08-15 08:29:44 UTC,three rivers,Three Rivers Veal Mignon With Mushroom & Butter,"Meat, Seafood & Deli",min. 250g,min,,,,,,,,,,5.25,FALSE,5.25,FALSE,,,1534285784.0-W-8291
+2018-08-15 08:29:44 UTC,three rivers,Three Rivers Veal Salt & Pepper Medallion,"Meat, Seafood & Deli",min. 320g,min,,,,,,,,,,8.64,FALSE,8.64,FALSE,,,1534285784.0-W-8292
+2018-08-15 08:29:44 UTC,homebrand,Homebrand Roll Ham & Chicken,"Meat, Seafood & Deli",1kg,100g,20,,Approx. 759kJ,Approx. 10.4g,Approx. 10.9g,Approx. 3.6g,Approx. 10.5g,Approx. 0.7g,Approx. 786mg,3,FALSE,3,FALSE,,,1534285784.0-W-8293
+2018-08-15 08:29:44 UTC,homebrand devon,Homebrand Devon Roll ,"Meat, Seafood & Deli",1kg,50g,20,,Approx. 690kJ,Approx. 10.6g,Approx. 7.8g,Approx. 2.6g,Approx. 13g,Approx. 0.4g,Approx. 825mg,3,FALSE,3,FALSE,,,1534285784.0-W-8294
+2018-08-15 08:29:44 UTC,don strasburg,Don Strasburg Roll ,"Meat, Seafood & Deli",500g,50g,10,,1130kJ,13.6g,23.1g,9.6g,2.5g,<1g,1070mg,5.8,TRUE,4.5,FALSE,,,1534285784.0-W-8295
+2018-08-15 08:29:44 UTC,primo,Primo Speck Portion,"Meat, Seafood & Deli",min. 380g,min,,,,,,,,,,9.19,FALSE,9.19,FALSE,,,1534285784.0-W-8296
+2018-08-15 08:29:44 UTC,hot round,Hot Round Pancetta ,"Meat, Seafood & Deli",per kg,,,,778.00kJ,18.10g,13.20g,5.00g,1.00g,1.00g,1340.00mg,28,FALSE,28,FALSE,,,1534285784.0-W-8297
+2018-08-15 08:29:44 UTC,d'orsogna,D'orsogna Tasty Sticks Mild,"Meat, Seafood & Deli",per kg,,,,1340.00kJ,21.60g,23.70g,9.80g,5.70g,3.80g,1380.00mg,30,TRUE,20,FALSE,,,1534285784.0-W-8298
+2018-08-15 08:29:44 UTC,ingham's,Ingham's Roll Chicken,"Meat, Seafood & Deli",250g,20g,12.5,,1037kJ,12.7g,18.7g,6.0g,7.6g,<1g,838mg,3.5,FALSE,3.5,FALSE,,,1534285784.0-W-8299
+2018-08-15 08:29:44 UTC,d'orsogna,D'orsogna Tasty Stick Mild,"Meat, Seafood & Deli",400g,25g,16,,1341.2kJ,21.6g,23.7g,9.75g,5.7g,3.8g,1385mg,9.2,FALSE,9.2,FALSE,,,1534285784.0-W-8300
+2018-08-15 08:29:44 UTC,three aussie farmers,Three Aussie Farmers Smoked Pork Bones,"Meat, Seafood & Deli",500g,125g,4,,982kJ,19.8g,17.3g,7.1g,0.5g,0.5g,1570mg,5.8,TRUE,4.6,FALSE,,,1534285784.0-W-8301
+2018-08-15 08:29:44 UTC,mild round,Mild Round Pancetta ,"Meat, Seafood & Deli",per kg,,,,778.00kJ,18.10g,13.20g,5.00g,1.00g,1.00g,1340.00mg,28,FALSE,28,FALSE,,,1534285784.0-W-8302
+2018-08-15 08:29:44 UTC,bertocchi,Bertocchi Salami Sopressa Hot,"Meat, Seafood & Deli",per kg,,,,1140.00kJ,18.60g,21.10g,9.40g,2.30g,1.00g,1200.00mg,29,TRUE,24,FALSE,,,1534285784.0-W-8303
+2018-08-15 08:29:44 UTC,don all natural,Don All Natural English Style Sliced Leg Ham,"Meat, Seafood & Deli",100g,50g,2,,395g,16.7g,1.4g,<1g,3.5g,1.5g,1220g,3.5,FALSE,3.5,FALSE,,,1534285784.0-W-8304
+2018-08-15 08:29:44 UTC,tibaldi,Tibaldi Ham Sliced Off The Bone,"Meat, Seafood & Deli",150g,50g,3,,762kJ,15.5g,12.2g,4.7g,2.2g,1.1g,951mg,4.5,FALSE,4.5,FALSE,,,1534285784.0-W-8305
+2018-08-15 08:29:44 UTC,roma,Roma Hot Salami ,"Meat, Seafood & Deli",per kg,,,,1490.00kJ,25.30g,28.10g,12.70g,1.40g,1.00g,1840.00mg,25,FALSE,25,FALSE,,,1534285784.0-W-8306
+2018-08-15 08:29:44 UTC,bertocchi,Bertocchi Salami Sopressa Mild,"Meat, Seafood & Deli",per kg,,,,1140.00kJ,18.60g,21.10g,9.40g,2.30g,1.00g,1200.00mg,29,TRUE,24,FALSE,,,1534285784.0-W-8307
+2018-08-15 08:29:44 UTC,primo,Primo Pulled Chicken ,"Meat, Seafood & Deli",150g,75g,2,,470kJ,20.3g,2.6g,1.0g,1.2g,<1g,911mg,5,FALSE,5,FALSE,,,1534285784.0-W-8308
+2018-08-15 08:29:44 UTC,moira macs,Moira Macs Sliced Chicken Breast Tandoori,"Meat, Seafood & Deli",150g,50g,3,,499kJ,21.6g,2.7g,0.8g,1.9g,0.5g,361mg,5,FALSE,5,FALSE,,,1534285784.0-W-8309
+2018-08-15 08:29:44 UTC,don,Don Ham Honey Mustard ,"Meat, Seafood & Deli",250g,g,,,,,,,,,,4.8,FALSE,4.8,FALSE,,,1534285784.0-W-8310
+2018-08-15 08:29:44 UTC,primo,Primo Danish Salami ,"Meat, Seafood & Deli",80g,40g,2,,1780kJ,19.4g,38.9g,13.7g,<1g,<1g,1300mg,3,FALSE,3,TRUE,2,2.5,1534285784.0-W-8311
+2018-08-15 08:29:44 UTC,d'orsogna deli fresh mild,D'orsogna Deli Fresh Mild Salami ,"Meat, Seafood & Deli",80g,25g,3.2,,1720kJ,20.0g,36.0g,12.6g,3.0g,2.0g,1500mg,3.5,FALSE,3.5,FALSE,,,1534285784.0-W-8312
+2018-08-15 08:29:44 UTC,kr castlemaine,Kr Castlemaine Hot Hungarian Salami Sliced,"Meat, Seafood & Deli",per kg,,,,1600.00kJ,23.40g,31.00g,11.90g,1.70g,1.00g,1780.00mg,26,TRUE,20,FALSE,,,1534285784.0-W-8313
+2018-08-15 08:29:44 UTC,kr castlemaine,Kr Castlemaine Mild Hungarian Salami Sliced,"Meat, Seafood & Deli",per kg,,,,1570.00kJ,20.70g,30.60g,12.10g,4.70g,1.00g,1790.00mg,26,TRUE,20,FALSE,,,1534285784.0-W-8314
+2018-08-15 08:29:44 UTC,primo,Primo Pepperoni Salami Hot,"Meat, Seafood & Deli",80g,40g,2,,1620kJ,24.1g,32.1g,11.9g,<1g,<1g,1460mg,3,FALSE,3,TRUE,2,2.5,1534285784.0-W-8315
+2018-08-15 08:29:44 UTC,primo premium selections,Primo Premium Selections Pepper Crusted Roast Beef,"Meat, Seafood & Deli",80g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534285784.0-W-8316
+2018-08-15 08:29:44 UTC,primo premium selections,Primo Premium Selections Traditional Leg Ham,"Meat, Seafood & Deli",80g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534285784.0-W-8317
+2018-08-15 08:29:44 UTC,primo premium selections,Primo Premium Selections Pepper Crusted Roast Pork,"Meat, Seafood & Deli",80g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534285784.0-W-8318
+2018-08-15 08:29:44 UTC,primo,Primo Salami Danish Shaved Mild,"Meat, Seafood & Deli",per kg,,,,1600.00kJ,19.60g,32.50g,12.60g,3.80g,0.50g,1400.00mg,26,FALSE,26,FALSE,,,1534285784.0-W-8319
+2018-08-15 08:29:44 UTC,felino,Felino Mild Salami ,"Meat, Seafood & Deli",per kg,,,,1490.00kJ,25.30g,28.10g,12.70g,1.40g,1.00g,1840.00mg,25,FALSE,25,FALSE,,,1534285784.0-W-8320
+2018-08-15 08:29:44 UTC,primo,Primo Hungarian Salami Mild,"Meat, Seafood & Deli",80g,40g,2,,1780kJ,19.4g,38.9g,13.7g,<1g,<1g,1300mg,3,FALSE,3,TRUE,2,2.5,1534285784.0-W-8321
+2018-08-15 08:29:44 UTC,don ,Don Salami Sliced Pepperoni,"Meat, Seafood & Deli",100g,20g,5,,1610kJ,22.3g,31.9g,13.8g,3.1g,1.2g,1480mg,4,FALSE,4,FALSE,,,1534285784.0-W-8322
+2018-08-15 08:29:44 UTC,hans,Hans Pepperilli Salami ,"Meat, Seafood & Deli",200g,g,,,,,,,,,,6.99,FALSE,6.99,FALSE,,,1534285784.0-W-8323
+2018-08-15 08:29:44 UTC,hans,Hans Pizza Salami ,"Meat, Seafood & Deli",200g,50g,4,,1571kJ,20.4g,31.9g,13.9g,2.4g,<1.0g,1270mg,6.99,FALSE,6.99,FALSE,,,1534285784.0-W-8324
+2018-08-15 08:29:44 UTC,d'orsogna deli fresh spicy,D'orsogna Deli Fresh Spicy Chorizo Salami,"Meat, Seafood & Deli",80g,25g,3.2,,1720kJ,20.0g,36.0g,12.6g,3.0g,2.0g,1500mg,3.5,FALSE,3.5,FALSE,,,1534285784.0-W-8325
+2018-08-15 08:29:44 UTC,montecatini,Montecatini Salami Fennel & Garlic,"Meat, Seafood & Deli",100g,100g,1,,1550kJ,28.1g,28.7g,10.9g,0.8g,0.5g,1680mg,5.98,FALSE,5.98,FALSE,,,1534285784.0-W-8326
+2018-08-15 08:29:44 UTC,hans,Hans Csabai Salami ,"Meat, Seafood & Deli",200g,50g,4,,1480kJ,24.4g,28.4g,11.8g,<1.0g,<1.0g,1270mg,6.99,FALSE,6.99,FALSE,,,1534285784.0-W-8327
+2018-08-15 08:29:44 UTC,hans,Hans Tuscan Salami ,"Meat, Seafood & Deli",200g,g,,,,,,,,,,6.99,FALSE,6.99,FALSE,,,1534285784.0-W-8328
+2018-08-15 08:29:44 UTC,hans,Hans Hungarian Salami ,"Meat, Seafood & Deli",200g,g,,,,,,,,,,6.99,FALSE,6.99,FALSE,,,1534285784.0-W-8329
+2018-08-15 08:29:44 UTC,bertocchi,Bertocchi Salami Hungarian,"Meat, Seafood & Deli",500g,g,,,,,,,,,,10.89,FALSE,10.89,FALSE,,,1534285784.0-W-8330
+2018-08-15 08:29:44 UTC,bertocchi,Bertocchi Hickory Smoked Rindless Bacon,"Meat, Seafood & Deli",per kg,,,,885.00kJ,17.70g,15.50g,7.00g,1.00g,1.00g,1020.00mg,18,FALSE,18,FALSE,,,1534285784.0-W-8331
+2018-08-15 08:29:44 UTC,d'orsogna,D'orsogna Premium Jarrah Honey Sliced Ham Off The Bone,"Meat, Seafood & Deli",per kg,,,,722.00kJ,16.80g,11.20g,3.60g,2.60g,2.60g,1000.00mg,25,FALSE,25,FALSE,,,1534285784.0-W-8332
+2018-08-15 08:29:44 UTC,primo,Primo Diced Bacon ,"Meat, Seafood & Deli",per kg,,,,1430.00kJ,14.80g,31.90g,11.80g,1.30g,1.30g,980.00mg,13,FALSE,13,FALSE,,,1534285784.0-W-8333
+2018-08-15 08:29:44 UTC,d'orsogna,D'orsogna Premium Australian Ham Off The Bone Sliced,"Meat, Seafood & Deli",per kg,,,,736.00kJ,16.80g,11.20g,3.60g,2.10g,1.00g,1000.00mg,28,TRUE,22,FALSE,,,1534285784.0-W-8334
+2018-08-15 08:29:44 UTC,kr castlemaine leg,Kr Castlemaine Leg Ham Sliced,"Meat, Seafood & Deli",per kg,,,,340.00kJ,15.00g,1.60g,1.00g,1.50g,1.20g,684.00mg,14,TRUE,13.5,FALSE,,,1534285784.0-W-8335
+2018-08-15 08:29:44 UTC,bertocchi,Bertocchi Premium Boneless Leg Ham Sliced,"Meat, Seafood & Deli",per kg,,,,710.00kJ,21.40g,9.40g,3.70g,0.50g,0.50g,1400.00mg,24,FALSE,24,FALSE,,,1534285784.0-W-8336
+2018-08-15 08:29:44 UTC,d'orsogna,D'orsogna Sliced Leg Ham Triple Smoked 97% Fat Free,"Meat, Seafood & Deli",per kg,,,,392.00kJ,16.10g,2.40g,1.00g,1.80g,1.80g,1150.00mg,21,TRUE,17,FALSE,,,1534285784.0-W-8337
+2018-08-15 08:29:44 UTC,champagne,Champagne Ham Sliced,"Meat, Seafood & Deli",per kg,,,,561.00kJ,15.60g,7.60g,3.80g,1.20g,1.20g,1050.00mg,22,TRUE,17,FALSE,,,1534285784.0-W-8338
+2018-08-15 08:29:44 UTC,pastoral traditional,Pastoral Traditional Ham Double Smoked Sliced,"Meat, Seafood & Deli",per kg,,,,484.00kJ,14.80g,5.00g,2.00g,2.80g,0.50g,1500.00mg,22,FALSE,22,FALSE,,,1534285784.0-W-8339
+2018-08-15 08:29:44 UTC,bertocchi,Bertocchi Double Smoked Sliced Ham Off Bone,"Meat, Seafood & Deli",per kg,,,,710.00kJ,21.40g,9.40g,3.70g,0.50g,0.50g,1400.00mg,28,FALSE,28,FALSE,,,1534285784.0-W-8340
+2018-08-15 08:29:44 UTC,barossa fine foods,Barossa Fine Foods Schulz Bacon Sliced,"Meat, Seafood & Deli",250g,g,,,,,,,,,,7.98,FALSE,7.98,FALSE,,,1534285784.0-W-8341
+2018-08-15 08:29:44 UTC,d'orsogna,D'orsogna Maple Glazed Streaky Bacon ,"Meat, Seafood & Deli",per kg,,,,1180.00kJ,14.40g,23.90g,9.00g,2.90g,2.90g,940.00mg,13,FALSE,13,FALSE,,,1534285784.0-W-8342
+2018-08-15 08:29:44 UTC,primo,Primo Bacon Lean Shortcut,"Meat, Seafood & Deli",350g,50g,7,,940kJ,15.2g,17.9g,7.3g,1.2g,1.2g,1200mg,7,FALSE,7,FALSE,,,1534285784.0-W-8343
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Shortcut Bacon ,"Meat, Seafood & Deli",600g,100g,12,,Approx. 754kJ,Approx. 14.7g,Approx. 10.6g,Approx. 4.3g,Approx. 6.6g,<1g,Approx. 971mg,7,FALSE,7,FALSE,,,1534285784.0-W-8344
+2018-08-15 08:29:44 UTC,primo,Primo Short Cut Bacon,"Meat, Seafood & Deli",750g,g,,,,,,,,,,13.5,FALSE,13.5,FALSE,,,1534285784.0-W-8345
+2018-08-15 08:29:44 UTC,serrasol,Serrasol Jam  n Serrano Sliced,"Meat, Seafood & Deli",80g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534285784.0-W-8346
+2018-08-15 08:29:44 UTC,berretta,Berretta Prosciutto Di Parma,"Meat, Seafood & Deli",85g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534285784.0-W-8347
+2018-08-15 08:29:44 UTC,prosciutto di san daniele,Prosciutto Di San Daniele Sliced ,"Meat, Seafood & Deli",85g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534285784.0-W-8348
+2018-08-15 08:29:44 UTC,kr castlemaine,Kr Castlemaine Short Cut Bacon Rashers Rindless,"Meat, Seafood & Deli",per kg,,,,758.00kJ,15.50g,12.60g,4.90g,1.50g,1.00g,1060.00mg,17,FALSE,17,FALSE,,,1534285784.0-W-8349
+2018-08-15 08:29:44 UTC,primo,Primo Bacon Middle Rashers,"Meat, Seafood & Deli",per kg,,,,1230.00kJ,16.00g,25.40g,10.10g,1.20g,1.20g,1400.00mg,12,TRUE,10,FALSE,,,1534285784.0-W-8350
+2018-08-15 08:29:44 UTC,thawed green,Thawed Green King Prawns Large Frozen,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,26,FALSE,26,FALSE,,,1534285784.0-W-8351
+2018-08-15 08:29:44 UTC,woolworths australian,Woolworths Australian Tiger Prawns Medium Cooked Frozen,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,28,TRUE,24,FALSE,,,1534285784.0-W-8352
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Green Banana Prawns Large Frozen,"Meat, Seafood & Deli",per kg,per,,,,,,,,,,23,TRUE,20,FALSE,,,1534285784.0-W-8353
+2018-08-15 08:29:44 UTC,woolworths,Woolworths Green King Prawns Extra Large Frozen,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,,,,0.00g,,29,FALSE,29,FALSE,,,1534285784.0-W-8354
+2018-08-15 08:29:45 UTC,kr castlemaine,Kr Castlemaine Short Cut Bacon Rashers Rindless,"Meat, Seafood & Deli",2.5kg,,,,743.00kJ,16.90g,11.70g,5.00g,1.30g,1.00g,937.00mg,42.5,FALSE,42.5,FALSE,,,1534285785.0-W-8355
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Bacon Pan Size,"Meat, Seafood & Deli",200g,100g,4,,Approx. 754kJ,Approx. 14.7g,Approx. 10.6g,Approx. 4.3g,Approx. 6.6g,<1g,Approx. 971mg,4.5,FALSE,4.5,FALSE,,,1534285785.0-W-8356
+2018-08-15 08:29:45 UTC,don all natural,Don All Natural Pan Size Bacon Rashers,"Meat, Seafood & Deli",200g,50g,4,,623g,18.6g,7.1g,2.6g,2.6g,2.6g,1190g,6,FALSE,6,FALSE,,,1534285785.0-W-8357
+2018-08-15 08:29:45 UTC,don all natural,Don All Natural Short Cut Bacon Rashers,"Meat, Seafood & Deli",200g,50g,4,,593g,17.2g,6.9g,2.6g,2.7g,2.7g,1120g,6,FALSE,6,FALSE,,,1534285785.0-W-8358
+2018-08-15 08:29:45 UTC,miguel maestre,Miguel Maestre Free Range Chorizo ,"Meat, Seafood & Deli",200g,100g,2,,1500kJ,23.6g,28.9g,11.4g,1.5g,<1.0g,1300mg,6.49,FALSE,6.49,FALSE,,,1534285785.0-W-8359
+2018-08-15 08:29:45 UTC,don,Don Diced Bacon ,"Meat, Seafood & Deli",250g,50g,5,,891kJ,17.6g,14.9g,6.0g,2.3g,1.7g,1190mg,4,FALSE,4,FALSE,,,1534285785.0-W-8360
+2018-08-15 08:29:45 UTC,woolworths fresh ,Woolworths Fresh Snapper Saddletail Fillets,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,32,FALSE,32,FALSE,,,1534285785.0-W-8361
+2018-08-15 08:29:45 UTC,imported smoked,Imported Smoked Cod African Fillets,"Meat, Seafood & Deli",per kg,,,,421.00kJ,15.20g,4.40g,0.00g,0.00g,0.00g,530.00mg,13,FALSE,13,FALSE,,,1534285785.0-W-8362
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Barramundi Thawed Fillets,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,20,TRUE,16,FALSE,,,1534285785.0-W-8363
+2018-08-15 08:29:45 UTC,portion,Portion Ling Skinned & Boned Thawed,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,21,TRUE,17,FALSE,,,1534285785.0-W-8364
+2018-08-15 08:29:45 UTC,de costi,De Costi Prawns Lemon & Garlic Butter,"Meat, Seafood & Deli",280g,g,,,,,,,,,,13,FALSE,13,FALSE,,,1534285785.0-W-8365
+2018-08-15 08:29:45 UTC,thawed marinated,Thawed Marinated Garlic Prawns ,"Meat, Seafood & Deli",per kg,,,,642.00kJ,18.70g,6.10g,1.00g,5.80g,1.70g,220.00mg,28,FALSE,28,FALSE,,,1534285785.0-W-8366
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Freshwater Basa Fillets,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,9,TRUE,7,FALSE,,,1534285785.0-W-8367
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Nile Perch Thawed Fillets,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,17,TRUE,14,FALSE,,,1534285785.0-W-8368
+2018-08-15 08:29:45 UTC,de costi,De Costi Garlic Prawns With Chilli & Parsley,"Meat, Seafood & Deli",260g,g,,,,,,,,,,13,FALSE,13,FALSE,,,1534285785.0-W-8369
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Vannamei Prawns Small Cooked Frozen,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,20,TRUE,16,FALSE,,,1534285785.0-W-8370
+2018-08-15 08:29:45 UTC,ocean chef,Ocean Chef Tuna Yellowfin Tuna Steaks,"Meat, Seafood & Deli",1kg,125g,8,,444kJ,25.4g,0.4g,0.12g,0.0g,0.0g,50mg,28.99,TRUE,25,FALSE,,,1534285785.0-W-8371
+2018-08-15 08:29:45 UTC,just caught,Just Caught Atlantic Salmon Skinless,"Meat, Seafood & Deli",1kg,100g,7,,835kJ,19.0g,13.5g,2.2g,<1.0g,<1.0g,120mg,25,FALSE,25,FALSE,,,1534285785.0-W-8372
+2018-08-15 08:29:45 UTC,just caught,Just Caught Whiting Fillets Crumbed,"Meat, Seafood & Deli",1kg,100g,10,,885kJ,10.9g,10.0g,1.7g,19.4g,2.1g,445mg,11,TRUE,10,FALSE,,,1534285785.0-W-8373
+2018-08-15 08:29:45 UTC,ocean chef,Ocean Chef Fish King Snapper Portions,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,29.99,TRUE,25,FALSE,,,1534285785.0-W-8374
+2018-08-15 08:29:45 UTC,ocean chef,Ocean Chef Crispy Battered Flathead,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,19.95,TRUE,16,FALSE,,,1534285785.0-W-8375
+2018-08-15 08:29:45 UTC,de costi,De Costi Whiting Fillets Crumbed,"Meat, Seafood & Deli",275g,90g,3,,902kJ,10.1g,9.9g,1.0g,19.9g,2.4g,277mg,10,FALSE,10,FALSE,,,1534285785.0-W-8376
+2018-08-15 08:29:45 UTC,fresh hoki,Fresh Hoki Blue Grenadier Fillets,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,16,TRUE,13,FALSE,,,1534285785.0-W-8377
+2018-08-15 08:29:45 UTC,just caught,Just Caught Whiting Fillets Skin On,"Meat, Seafood & Deli",1kg,100g,10,,275kj,14.8g,>1.0g,>1.0g,>1.0g,>1.0g,365mg,10,FALSE,10,FALSE,,,1534285785.0-W-8378
+2018-08-15 08:29:45 UTC,ocean chef,Ocean Chef Salmon Portions Skin On,"Meat, Seafood & Deli",1kg,125g,8,,742kJ,19.9g,10.9g,2.4g,<1g,<1g,57mg,28,TRUE,24.5,FALSE,,,1534285785.0-W-8379
+2018-08-15 08:29:45 UTC,de costi,De Costi New Zealand Hoki Fillets,"Meat, Seafood & Deli",300g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534285785.0-W-8380
+2018-08-15 08:29:45 UTC,bertocchi,Bertocchi Bacon Short Rindless,"Meat, Seafood & Deli",500g,30g,16.67,,690kJ,15.2g,11.4g,4.7g,<1g,<1g,1050mg,7,FALSE,7,FALSE,,,1534285785.0-W-8381
+2018-08-15 08:29:45 UTC,bruemar pork,Bruemar Pork Loin Steak With Garlic & Chives,"Meat, Seafood & Deli",300g - 550g,g,,,,,,,,,,12.64,TRUE,10.73,FALSE,,,1534285785.0-W-8382
+2018-08-15 08:29:45 UTC,pork midloin,Pork Midloin Chops ,"Meat, Seafood & Deli",300g - 600g,g,,,,,,,,,,11.99,FALSE,11.99,FALSE,,,1534285785.0-W-8383
+2018-08-15 08:29:45 UTC,pork loin,Pork Loin Cutlets ,"Meat, Seafood & Deli",400g - 900g,g,,,,,,,,,,18.89,TRUE,13.5,FALSE,,,1534285785.0-W-8384
+2018-08-15 08:29:45 UTC,pork,Pork Rashers ,"Meat, Seafood & Deli",400g - 600g,g,,,,,,,,,,11.39,TRUE,9,FALSE,,,1534285785.0-W-8385
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Frozen Basa Fillets,"Meat, Seafood & Deli",1kg,100g,10,,276jK,12.5g,1.4g,0.5g,0.7g,0.1g,320mg,6.5,FALSE,6.5,FALSE,,,1534285785.0-W-8386
+2018-08-15 08:29:45 UTC,don,Don Ham Leg Honey Roasted Shaved,"Meat, Seafood & Deli",250g,50g,5,,406kJ,16.0g,2.1g,<1g,3.4g,2.9g,1310mg,6.3,TRUE,4.8,FALSE,,,1534285785.0-W-8387
+2018-08-15 08:29:45 UTC,bruemar pork mignon,Bruemar Pork Mignon Steak With A Garlic & Herb Butter Core,"Meat, Seafood & Deli",300g - 500g,g,,,,,,,,,,12.5,FALSE,12.5,FALSE,,,1534285785.0-W-8388
+2018-08-15 08:29:45 UTC,porks ribs aussie,Porks Ribs Aussie Roast ,"Meat, Seafood & Deli",350g - 700g,g,,,,,,,,,,14.69,FALSE,14.69,FALSE,,,1534285785.0-W-8389
+2018-08-15 08:29:45 UTC,ocean chef,Ocean Chef Salmon Lemon Pepper,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,28,TRUE,24.5,FALSE,,,1534285785.0-W-8390
+2018-08-15 08:29:45 UTC,don,Don Salami White Hungarian,"Meat, Seafood & Deli",200g,25g,8,,1460kJ,21.1g,29.1g,11.4g,<1g,<1g,1400mg,6.99,TRUE,5,FALSE,,,1534285785.0-W-8391
+2018-08-15 08:29:45 UTC,oliving by hans ,Oliving By Hans Twiggy Mild Sticks,"Meat, Seafood & Deli",200g,2Sticks (Approx 40g),5,,1463kJ,37.4g,23.6g,8.4g,7.2g,5.4g,961mg,5.5,TRUE,4.8,FALSE,,,1534285785.0-W-8392
+2018-08-15 08:29:45 UTC,don,Don Ham Shaved Champagne,"Meat, Seafood & Deli",250g,50g,5,,423kJ,17.5g,2.1g,<1g,2.8g,2.8g,1110mg,6.3,TRUE,4.8,FALSE,,,1534285785.0-W-8393
+2018-08-15 08:29:45 UTC,don,Don Salami Pepperoni,"Meat, Seafood & Deli",200g,g,,,,,,,,,,6.99,TRUE,5,FALSE,,,1534285785.0-W-8394
+2018-08-15 08:29:45 UTC,primo,Primo Middle Bacon Rashers Middle Rashers,"Meat, Seafood & Deli",250g,50g,5,,1230kJ,16.0g,25.4g,10.1g,1.2g,1.2g,1400mg,5,FALSE,5,FALSE,,,1534285785.0-W-8395
+2018-08-15 08:29:45 UTC,d'orsogna,D'orsogna 100% Natural Chorizo,"Meat, Seafood & Deli",250g,g,,,,,,,,,,7,TRUE,6,FALSE,,,1534285785.0-W-8396
+2018-08-15 08:29:45 UTC,three aussie farmers,Three Aussie Farmers Pulled Hock Meat Australian Pork,"Meat, Seafood & Deli",250g,g,,,,,,,,,,7,TRUE,6,FALSE,,,1534285785.0-W-8397
+2018-08-15 08:29:45 UTC,don,Don Chicken Breast Thinly Sliced,"Meat, Seafood & Deli",250g,50g,5,,437kJ,14.8g,3.0g,<1g,4.4g,<1g,940mg,6.3,TRUE,4.8,FALSE,,,1534285785.0-W-8398
+2018-08-15 08:29:45 UTC,don,Don Ham Leg English Baked Shaved,"Meat, Seafood & Deli",250g,50g,5,,376kJ,16.4g,1.7g,<1g,2.0g,1.3g,944mg,6.3,TRUE,4.8,FALSE,,,1534285785.0-W-8399
+2018-08-15 08:29:45 UTC,don,Don Ham Leg Double Smoked Shaved,"Meat, Seafood & Deli",250g,50g,5,,415kJ,16.8g,2.6g,<1g,1.9g,<1g,1430mg,6.3,TRUE,4.8,FALSE,,,1534285785.0-W-8400
+2018-08-15 08:29:45 UTC,pastoral,Pastoral Free Range Short Cut Bacon ,"Meat, Seafood & Deli",1kg,,,,881.00kJ,14.70g,16.70g,5.70g,0.80g,0.40g,1100.00mg,25,TRUE,20,FALSE,,,1534285785.0-W-8401
+2018-08-15 08:29:45 UTC,don,Don Salami Danish,"Meat, Seafood & Deli",200g,g,,,,,,,,,,6.99,TRUE,5,FALSE,,,1534285785.0-W-8402
+2018-08-15 08:29:45 UTC,montecatini rosemary,Montecatini Rosemary Pancetta ,"Meat, Seafood & Deli",100g,100g,1,,1090kJ,19.4g,19.4g,7.6g,1.5g,0.5g,1160mg,5.98,FALSE,5.98,FALSE,,,1534285785.0-W-8403
+2018-08-15 08:29:45 UTC,d'orsogna,D'orsogna Salami Romano,"Meat, Seafood & Deli",200g,25g,8,,1720kJ,20.0g,36.0g,12.6g,3.0g,2.0g,1500mg,7.69,TRUE,5.5,FALSE,,,1534285785.0-W-8404
+2018-08-15 08:29:45 UTC,hans,Hans Salami Sticks,"Meat, Seafood & Deli",15g,g,,,,,,,,,,0.95,FALSE,0.95,TRUE,5,0.8,1534285785.0-W-8405
+2018-08-15 08:29:45 UTC,hans,Hans Pepperoni Hot Rocket,"Meat, Seafood & Deli",15g,g,,,,,,,,,,0.95,FALSE,0.95,TRUE,5,0.8,1534285785.0-W-8406
+2018-08-15 08:29:45 UTC,primo,Primo Bacon Short Cut Rindless,"Meat, Seafood & Deli",175g,50g,3.5,,502kJ,16.8g,5.8g,2.4g,<1g,<1g,1200mg,5,FALSE,5,FALSE,,,1534285785.0-W-8407
+2018-08-15 08:29:45 UTC,d'orsogna,D'orsogna Salami Spicy Calabrese,"Meat, Seafood & Deli",200g,25g,8,,1720kJ,20.0g,36.0g,12.6g,3.0g,2.0g,1500mg,7.69,TRUE,5.5,FALSE,,,1534285785.0-W-8408
+2018-08-15 08:29:45 UTC,san marino,San Marino Prosciutto ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8409
+2018-08-15 08:29:45 UTC,san marino,San Marino Roast Turkey Breast ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8410
+2018-08-15 08:29:45 UTC,san marino,San Marino Outdoor Bred Leg Ham,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8411
+2018-08-15 08:29:45 UTC,san marino,San Marino Hungarian Mild Salami,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8412
+2018-08-15 08:29:45 UTC,don all natural,Don All Natural Double Smoked Sliced Leg Ham,"Meat, Seafood & Deli",100g,50g,2,,395g,16.7g,1.4g,<1g,3.5g,1.5g,1220g,3.5,FALSE,3.5,FALSE,,,1534285785.0-W-8413
+2018-08-15 08:29:45 UTC,mayfair,Mayfair Hungarian Salami Mild,"Meat, Seafood & Deli",100g,50g,2,,1750kJ,23.0g,35.1g,19.2g,2.8g,0.6g,1420mg,2,FALSE,2,FALSE,,,1534285785.0-W-8414
+2018-08-15 08:29:45 UTC,riverland,Riverland Triple Smoked Ham Shaved,"Meat, Seafood & Deli",100g,g,,,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534285785.0-W-8415
+2018-08-15 08:29:45 UTC,riverland,Riverland Honey Ham Shaved,"Meat, Seafood & Deli",100g,g,,,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534285785.0-W-8416
+2018-08-15 08:29:45 UTC,san marino,San Marino Ham Off The Bone ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8417
+2018-08-15 08:29:45 UTC,montecatini truffle,Montecatini Truffle Salami ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.98,FALSE,5.98,FALSE,,,1534285785.0-W-8418
+2018-08-15 08:29:45 UTC,montecatini,Montecatini Wagyu Bresaola,"Meat, Seafood & Deli",100g,g,,,,,,,,,,13.98,FALSE,13.98,FALSE,,,1534285785.0-W-8419
+2018-08-15 08:29:45 UTC,san marino,San Marino Pancetta ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8420
+2018-08-15 08:29:45 UTC,san marino,San Marino Silverside ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8421
+2018-08-15 08:29:45 UTC,san marino,San Marino Spicy Chorizo ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8422
+2018-08-15 08:29:45 UTC,san marino,San Marino Sopressa Mild Salami ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8423
+2018-08-15 08:29:45 UTC,primo choice,Primo Choice Prosciutto ,"Meat, Seafood & Deli",100g,,,,,,,,,<1g,,7,FALSE,7,FALSE,,,1534285785.0-W-8424
+2018-08-15 08:29:45 UTC,san marino,San Marino Spanish Serrano ,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8425
+2018-08-15 08:29:45 UTC,miguel maestre,Miguel Maestre Jamon Serrano ,"Meat, Seafood & Deli",100g,16g,6,,874kJ,34g,6.2g,2.9g,0.5g,0.5g,2200mg,7.79,FALSE,7.79,FALSE,,,1534285785.0-W-8426
+2018-08-15 08:29:45 UTC,riverland,Riverland Englsh Style Ham Shaved,"Meat, Seafood & Deli",100g,g,,,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534285785.0-W-8427
+2018-08-15 08:29:45 UTC,san marino,San Marino Cheese Italian Provolone,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8428
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Olives Stuffed With Creamy Fetta,"Meat, Seafood & Deli",per kg,per,,,,,,,,,,33,TRUE,19.95,FALSE,,,1534285785.0-W-8429
+2018-08-15 08:29:45 UTC,fresh,Fresh Olives Kalamata Sliced,"Meat, Seafood & Deli",per kg,,,,592.00kJ,1.60g,13.80g,1.70g,1.90g,0.10g,1600.00mg,22,TRUE,19.95,FALSE,,,1534285785.0-W-8430
+2018-08-15 08:29:45 UTC,woolworths fresh,Woolworths Fresh Olives Kalamata Greek,"Meat, Seafood & Deli",per kg,,,,592.00kJ,1.60g,13.80g,1.70g,1.90g,0.00g,1600.00mg,26.25,TRUE,19.95,FALSE,,,1534285785.0-W-8431
+2018-08-15 08:29:45 UTC,san marino,San Marino Salami Soppressa Hot,"Meat, Seafood & Deli",100g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534285785.0-W-8432
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Olives Mixed Marinated,"Meat, Seafood & Deli",per kg,,,,982.00kJ,1.10g,23.20g,5.60g,6.20g,0.50g,1190.00mg,25,TRUE,19.95,FALSE,,,1534285785.0-W-8433
+2018-08-15 08:29:45 UTC,bonvallis,Bonvallis Cracker Olive Oil Tortas,"Meat, Seafood & Deli",180g,g,,,,,,,,,,4.99,FALSE,4.99,FALSE,,,1534285785.0-W-8434
+2018-08-15 08:29:45 UTC,180 degrees,180 Degrees Oat Crackers Walnut,"Meat, Seafood & Deli",150g,14g (3 Crackers),10.7,,100g,9.5g,34.5g,11.8g,42.8g,,809mg,6.5,FALSE,6.5,FALSE,,,1534285785.0-W-8435
+2018-08-15 08:29:45 UTC,bonvallis,Bonvallis Cracker Orange Tortas,"Meat, Seafood & Deli",180g,g,,,,,,,,,,4.99,FALSE,4.99,FALSE,,,1534285785.0-W-8436
+2018-08-15 08:29:45 UTC,quince,Quince Paste Paste,"Meat, Seafood & Deli",240g,g,,,,,,,,,,5.99,FALSE,5.99,FALSE,,,1534285785.0-W-8437
+2018-08-15 08:29:45 UTC,simon johnson,Simon Johnson Soft Pecan Brittle,"Meat, Seafood & Deli",280g,100g,10,,Approx. 2380kJ,Approx. 3.6g,Approx. 50g,Approx. 12.5g,Approx. 35.7g,Approx. 25g,Approx. 411mg,24.9,FALSE,24.9,FALSE,,,1534285785.0-W-8438
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Olives Kalamata Greek Pitted,"Meat, Seafood & Deli",per kg,,,,793.00kJ,1.60g,13.80g,1.70g,1.90g,0.00g,1600.00mg,26.25,TRUE,19.95,FALSE,,,1534285785.0-W-8439
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Olives Green Stuffed Chilli Garlic,"Meat, Seafood & Deli",per kg,,,,746.00kJ,1.20g,16.50g,1.80g,6.80g,0.50g,1280.00mg,22,TRUE,19.95,FALSE,,,1534285785.0-W-8440
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Olives Green Split With Herbs,"Meat, Seafood & Deli",per kg,,,,544.00kJ,1.40g,13.00g,1.40g,2.30g,0.10g,2000.00mg,22.99,TRUE,19.95,FALSE,,,1534285785.0-W-8441
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Olives Pitted Mediterranean,"Meat, Seafood & Deli",per kg,,,,644.00kJ,1.20g,11.40g,1.50g,11.90g,0.10g,1900.00mg,26,TRUE,19.95,FALSE,,,1534285785.0-W-8442
+2018-08-15 08:29:45 UTC,plain black kalamata,Plain Black Kalamata Olives ,"Meat, Seafood & Deli",per kg,,,,592.00kJ,1.60g,13.80g,1.70g,1.90g,0.00g,1600.00mg,19.95,FALSE,19.95,FALSE,,,1534285785.0-W-8443
+2018-08-15 08:29:45 UTC,rspca approved chicken ,Rspca Approved Chicken Maryland Supreme,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,6,FALSE,6,FALSE,,,1534285785.0-W-8444
+2018-08-15 08:29:45 UTC,tassal smoked,Tassal Smoked Salmon Salt Reduced,"Meat, Seafood & Deli",90g,45g,2,,812kJ,22.0g,11.5g,2.6g,<0.5g,<0.5g,334mg,7,FALSE,7,FALSE,,,1534285785.0-W-8445
+2018-08-15 08:29:45 UTC,beechworth honey,Beechworth Honey Honey & Honeycomb ,"Meat, Seafood & Deli",140g,100g,5,,Approx. 1401kJ,Approx. 0.3g,Approx. 0g,Approx. 0g,Approx. 82.1g,Approx. 82.1g,Approx. 14mg,7,FALSE,7,FALSE,,,1534285785.0-W-8446
+2018-08-15 08:29:45 UTC,ocean blue organic,Ocean Blue Organic Smoked Salmon Sliced,"Meat, Seafood & Deli",100g,50g,2,,637kJ,25.7g,5.4g,1.4g,0g,0g,1060mg,9,FALSE,9,FALSE,,,1534285785.0-W-8447
+2018-08-15 08:29:45 UTC,beechworth honey,Beechworth Honey Creamy Honey Fig & Ginger ,"Meat, Seafood & Deli",135g,100g,4,,Approx. 1390kJ,Approx. 0.4g,Approx. 0g,Approx. 0g,Approx. 80.8g,Approx. 80.8g,Approx. 16mg,7,FALSE,7,FALSE,,,1534285785.0-W-8448
+2018-08-15 08:29:45 UTC,180 degrees,180 Degrees Oat Crackers Hazelnut,"Meat, Seafood & Deli",150g,14g (3 Crackers),10.7,,100g,9.1g,31.9g,11.1g,41.6g,3.2g,8112mg,6.5,FALSE,6.5,FALSE,,,1534285785.0-W-8449
+2018-08-15 08:29:45 UTC,180 degrees,180 Degrees Oat Crackers Natural,"Meat, Seafood & Deli",150g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534285785.0-W-8450
+2018-08-15 08:29:45 UTC,huon,Huon Tasmanian Smoked Salmon Wood Roasted,"Meat, Seafood & Deli",150g,50g,3,,780kJ,29.0g,7.9g,2.0g,<1g,<1g,730mg,10.7,FALSE,10.7,FALSE,,,1534285785.0-W-8451
+2018-08-15 08:29:45 UTC,simon johnson,Simon Johnson Dark Choc Coated Salted Butter Caramels,"Meat, Seafood & Deli",125g,100g,8,,Approx. 2320kJ,Approx. 4.7g,Approx. 35.3g,Approx. 20.9g,Approx. 54.9g,Approx. 38g,Approx. 142mg,12.9,FALSE,12.9,FALSE,,,1534285785.0-W-8452
+2018-08-15 08:29:45 UTC,rspca approved woolworths,Rspca Approved Woolworths Fresh Chicken Drumsticks,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,3.5,TRUE,3,FALSE,,,1534285785.0-W-8453
+2018-08-15 08:29:45 UTC,rspca approved chicken ,Rspca Approved Chicken Thigh Cutlets,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,5.5,TRUE,5,FALSE,,,1534285785.0-W-8454
+2018-08-15 08:29:45 UTC,rspca approved chicken ,Rspca Approved Chicken Wings Bbq Plum,"Meat, Seafood & Deli",per kg,,,,734.00kJ,12.40g,11.10g,3.50g,5.40g,5.40g,420.00mg,8,TRUE,7,FALSE,,,1534285785.0-W-8455
+2018-08-15 08:29:45 UTC,rspca approved chicken,Rspca Approved Chicken Lovely Legs ,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,7,FALSE,7,FALSE,,,1534285785.0-W-8456
+2018-08-15 08:29:45 UTC,rspca approved chicken ,Rspca Approved Chicken Wings Three Joint,"Meat, Seafood & Deli",min 250g,,,,,0.00g,,,,0.00g,,6,TRUE,4,FALSE,,,1534285785.0-W-8457
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Rspca Approved Chicken Breast Fillet,"Meat, Seafood & Deli",min. 500g,min,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534285785.0-W-8458
+2018-08-15 08:29:45 UTC,rspca approved chicken,Rspca Approved Chicken Wings Honey Soy,"Meat, Seafood & Deli",per kg,,,,768.00kJ,13.20g,12.10g,3.70g,4.40g,4.40g,400.00mg,8,TRUE,7,FALSE,,,1534285785.0-W-8459
+2018-08-15 08:29:45 UTC,rspca approved chicken,Rspca Approved Chicken Thigh Fillet,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,10,TRUE,9,FALSE,,,1534285785.0-W-8460
+2018-08-15 08:29:45 UTC,rspca approved chicken,Rspca Approved Chicken Tenderloins ,"Meat, Seafood & Deli",per kg,per,,,,,,,,,,13.5,TRUE,12,FALSE,,,1534285785.0-W-8461
+2018-08-15 08:29:45 UTC,rspca approved woolworths,Rspca Approved Woolworths Chicken Pieces Bone In,"Meat, Seafood & Deli",per kg,,,,0.00kJ,0.00g,0.00g,0.00g,0.00g,0.00g,0.00mg,4,FALSE,4,FALSE,,,1534285785.0-W-8462
+2018-08-15 08:29:45 UTC,woolworths chicken,Woolworths Chicken Kiev Garlic,"Meat, Seafood & Deli",each,,,,914.00kJ,12.40g,13.80g,6.20g,11.30g,3.50g,431.00mg,2.6,FALSE,2.6,FALSE,,,1534285785.0-W-8463
+2018-08-15 08:29:45 UTC,chicken,Chicken Schnitzel Parmi Crumbed,"Meat, Seafood & Deli",each,,,,829.00kJ,13.60g,7.60g,1.00g,18.60g,5.90g,602.00mg,3,FALSE,3,FALSE,,,1534285785.0-W-8464
+2018-08-15 08:29:45 UTC,chicken schnitzel,Chicken Schnitzel Crumbed ,"Meat, Seafood & Deli",each,,,,947.00kJ,13.70g,12.00g,3.10g,15.90g,4.10g,470.00mg,3,FALSE,3,FALSE,,,1534285785.0-W-8465
+2018-08-15 08:29:45 UTC,chicken,Chicken Sandwich Schnitzel,"Meat, Seafood & Deli",each,,,,805.00kJ,16.00g,9.40g,1.20g,10.90g,1.00g,442.00mg,2,TRUE,1,FALSE,,,1534285785.0-W-8466
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Rspca Approved Chicken Kebab Lemon & Garlic,"Meat, Seafood & Deli",each,,,,626.00kJ,16.70g,6.30g,2.20g,6.50g,2.60g,538.00mg,1.5,FALSE,1.5,FALSE,,,1534285785.0-W-8467
+2018-08-15 08:29:45 UTC,rspca approved chicken ,Rspca Approved Chicken Kebab Smokey Bbq,"Meat, Seafood & Deli",each,,,,590.00kJ,15.10g,6.20g,4.20g,6.00g,3.70g,357.00mg,1.5,FALSE,1.5,FALSE,,,1534285785.0-W-8468
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Rspca Approved Chicken Kebab Satay Style,"Meat, Seafood & Deli",each,,,,626.00kJ,16.20g,6.80g,2.00g,5.80g,2.70g,200.00mg,1.5,FALSE,1.5,FALSE,,,1534285785.0-W-8469
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Rspca Approved Chicken Mignon,"Meat, Seafood & Deli",each,,,,793.00kJ,16.40g,13.50g,6.20g,1.50g,1.00g,230.00mg,3,FALSE,3,FALSE,,,1534285785.0-W-8470
+2018-08-15 08:29:45 UTC,woolworths rspca approved,Woolworths Rspca Approved Lemon Chicken Breast Schnitzel,"Meat, Seafood & Deli",each,,,,656.00kJ,14.50g,3.70g,1.00g,17.40g,0.40g,489.00mg,3.5,TRUE,2.95,FALSE,,,1534285785.0-W-8471
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Regular Chicken Breast Schnitzel,"Meat, Seafood & Deli",each,,,,670.00kJ,14.50g,3.70g,1.00g,18.10g,0.30g,350.00mg,3.5,TRUE,2.95,FALSE,,,1534285785.0-W-8472
+2018-08-15 08:29:45 UTC,created with jamie,"Created With Jamie Soup Chipotle Chicken, Black Bean & Sweetcorn","Meat, Seafood & Deli",300g,300g,1,,309kJ,4.4g,2.9g,0.6g,6.7g,2.3g,198mg,4,FALSE,4,FALSE,,,1534285785.0-W-8473
+2018-08-15 08:29:45 UTC,ob finest,Ob Finest Fig & Pecan Specialty Cracker,"Meat, Seafood & Deli",150g,15g,10,,1820kJ,10.8g,16.0g,2.2g,56.9g,23.7g,795mg,6.49,TRUE,6,FALSE,,,1534285785.0-W-8474
+2018-08-15 08:29:45 UTC,chicken breast schnitzel,Chicken Breast Schnitzel Crumbed Honey Mustard,"Meat, Seafood & Deli",each,,,,874.00kJ,16.10g,9.40g,2.40g,14.80g,3.80g,379.00mg,3,FALSE,3,FALSE,,,1534285785.0-W-8475
+2018-08-15 08:29:45 UTC,ob finest,Ob Finest Apricot & Macadamia Specialty Cracker,"Meat, Seafood & Deli",150g,15g,10,,1750kJ,10.4g,13.5g,,59.7g,24.6g,723mg,6.49,TRUE,6,FALSE,,,1534285785.0-W-8476
+2018-08-15 08:29:45 UTC,chicken,Chicken Necks ,"Meat, Seafood & Deli",1kg,,,,644.00kJ,17.60g,8.80g,2.30g,0.90g,0.90g,81.00mg,4,FALSE,4,FALSE,,,1534285785.0-W-8477
+2018-08-15 08:29:45 UTC,ob finest,Ob Finest Cracker Cashew Rosemary,"Meat, Seafood & Deli",150g,15g (about 3.5 crackers),10,,1810kJ,10.8g,14.1g,3.2g,62.4g,18.5g,810mg,6.49,TRUE,6,FALSE,,,1534285785.0-W-8478
+2018-08-15 08:29:45 UTC,ob finest,Ob Finest Cracker Goji Coconut,"Meat, Seafood & Deli",150g,15g (about 3.5 crackers),10,,1790kJ,10.1g,12.0g,5.8g,65.8g,23.4g,790mg,6.49,TRUE,6,FALSE,,,1534285785.0-W-8479
+2018-08-15 08:29:45 UTC,lemnos,Lemnos Haloumi Salt Reduced ,"Meat, Seafood & Deli",180g,g,,,,,,,,,,6,TRUE,5,FALSE,,,1534285785.0-W-8480
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Chicken & Mozzarella Mini Roast,"Meat, Seafood & Deli",1 each,,,,955.00kJ,14.90g,17.80g,6.40g,5.80g,0.50g,502.00mg,5,FALSE,5,FALSE,,,1534285785.0-W-8481
+2018-08-15 08:29:45 UTC,chicken schnitzel,Chicken Schnitzel Peri Peri ,"Meat, Seafood & Deli",each,,,,829.00kJ,13.60g,7.60g,1.00g,18.60g,5.90g,602.00mg,3,FALSE,3,FALSE,,,1534285785.0-W-8482
+2018-08-15 08:29:45 UTC,primo,Primo Thin Franks ,"Meat, Seafood & Deli",per kg,,,,765.00kJ,12.50g,12.40g,4.50g,5.20g,1.00g,1140.00mg,7.5,FALSE,7.5,FALSE,,,1534285785.0-W-8483
+2018-08-15 08:29:45 UTC,maggie beer,Maggie Beer Duck Fig & Ginger Pate,"Meat, Seafood & Deli",120g,g,,,,,,,,,,7,TRUE,6,FALSE,,,1534285785.0-W-8484
+2018-08-15 08:29:45 UTC,ob finest,Ob Finest Cracker Cranberry Pumpkin,"Meat, Seafood & Deli",150g,15g (about 3.5 crackers),10,,1780kJ,13.1g,14.7g,2.6g,56.3g,23.2g,711mg,6.49,TRUE,6,FALSE,,,1534285785.0-W-8485
+2018-08-15 08:29:45 UTC,primo,Primo Kransky Cheese,"Meat, Seafood & Deli",per kg,,,,956.00kJ,15.10g,17.90g,7.80g,2.20g,1.00g,810.00mg,16,FALSE,16,FALSE,,,1534285785.0-W-8486
+2018-08-15 08:29:45 UTC,primo,Primo Chorizo ,"Meat, Seafood & Deli",per kg,,,,1280.00kJ,18.10g,25.30g,9.70g,2.00g,1.00g,890.00mg,23,FALSE,23,FALSE,,,1534285785.0-W-8487
+2018-08-15 08:29:45 UTC,primo,Primo Kransky Double Smoked,"Meat, Seafood & Deli",per kg,,,,925.00kJ,13.70g,18.70g,7.00g,0.50g,0.50g,760.00mg,16,FALSE,16,FALSE,,,1534285785.0-W-8488
+2018-08-15 08:29:45 UTC,fresh,Fresh Otto Wurth Frank German Style,"Meat, Seafood & Deli",per kg,,,,840.00kJ,12.10g,14.20g,5.40g,6.30g,1.30g,920.00mg,14.6,FALSE,14.6,FALSE,,,1534285785.0-W-8489
+2018-08-15 08:29:45 UTC,primo,Primo Cocktail Franks ,"Meat, Seafood & Deli",per kg,,,,765.00kJ,12.50g,12.40g,4.50g,5.20g,1.00g,1140.00mg,7.5,FALSE,7.5,FALSE,,,1534285785.0-W-8490
+2018-08-15 08:29:45 UTC,dorsogna,Dorsogna Gourmet Hot Dog Traditional,"Meat, Seafood & Deli",400g,g,,,,,,,,,,6,TRUE,5.5,FALSE,,,1534285785.0-W-8491
+2018-08-15 08:29:45 UTC,primo,Primo Pepperoni Sausage,"Meat, Seafood & Deli",per kg,,,,1280.00kJ,18.10g,25.30g,9.70g,2.00g,,890.00mg,21.99,FALSE,21.99,FALSE,,,1534285785.0-W-8492
+2018-08-15 08:29:45 UTC,dorsogna,Dorsogna Gourmet Hot Dogs Cheddar & Chipotle,"Meat, Seafood & Deli",400g,g,,,,,,,,,,6,TRUE,5.5,FALSE,,,1534285785.0-W-8493
+2018-08-15 08:29:45 UTC,gotzinger continental,Gotzinger Continental Black Pudding ,"Meat, Seafood & Deli",400g,g,,,,,,,,,,6.9,TRUE,6,FALSE,,,1534285785.0-W-8494
+2018-08-15 08:29:45 UTC,don,Don Donskis Mild,"Meat, Seafood & Deli",40g,20g,2,,1790,25.2g,31.9g,13.3g,10.4g,1.3g,1750mg,3,FALSE,3,FALSE,,,1534285785.0-W-8495
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Hotdogs ,"Meat, Seafood & Deli",500g,62g,Approx.8,,738kJ,12.1g,12.1g,4.1g,5.0g,0.8g,1160mg,2.25,FALSE,2.25,FALSE,,,1534285785.0-W-8496
+2018-08-15 08:29:45 UTC,woolworths,Woolworths Cocktail Frankfurts ,"Meat, Seafood & Deli",500g,62g,8,,738kJ,12.1g,12.1g,4.1g,5.0g,0.8g,1160mg,2.4,FALSE,2.4,FALSE,,,1534285785.0-W-8497
+2018-08-15 08:29:45 UTC,don footy,Don Footy Frankfurts Skinless,"Meat, Seafood & Deli",600g,68g,9,,689kJ,12.9g,11.3g,3.6g,3.1g,<1g,1200mg,6.85,FALSE,6.85,FALSE,,,1534285785.0-W-8498
+2018-08-15 08:29:45 UTC,gotzinger,Gotzinger Kransky Cheese,"Meat, Seafood & Deli",400g,g,,,,,,,,,,8.5,TRUE,6.5,FALSE,,,1534285785.0-W-8499
+2018-08-15 08:29:45 UTC,primo,Primo Cabanossi Traditional,"Meat, Seafood & Deli",per kg,,,,1380.00kJ,16.40g,29.00g,12.40g,2.00g,0.80g,1200.00mg,16.29,FALSE,16.29,FALSE,,,1534285785.0-W-8500
+2018-08-15 08:29:45 UTC,primo,Primo Chorizo 2 Pack,"Meat, Seafood & Deli",250g,50g,5,,1280kJ,18.1g,25.3g,9.7g,2.0g,<1g,890mg,7.2,TRUE,6.5,FALSE,,,1534285785.0-W-8501
+2018-08-15 08:29:45 UTC,primo ,Primo Kabana ,"Meat, Seafood & Deli",375g,g,,,,,,,,,,6.25,TRUE,6,FALSE,,,1534285785.0-W-8502
+2018-08-15 08:29:45 UTC,don famous football,Don Famous Football Hot Dogs Skinless,"Meat, Seafood & Deli",375g,g,,,,,,,,,,5.6,TRUE,5,FALSE,,,1534285785.0-W-8503
+2018-08-15 08:29:45 UTC,don,Don Kransky Cheese,"Meat, Seafood & Deli",300g,g,,,,,,,,,,7.39,TRUE,6.5,FALSE,,,1534285785.0-W-8504
+2018-08-15 08:29:45 UTC,primo,Primo Cabanossi ,"Meat, Seafood & Deli",300g,1/2 Stick (Aprrox. 85g),3,,843kJ,18.6g,13.6g,5.0g,<1g,<1g,859mg,5,FALSE,5,FALSE,,,1534285785.0-W-8505
+2018-08-15 08:29:45 UTC,don,Don Kransky Plain,"Meat, Seafood & Deli",300g,100g,3,,925kJ,16.0g,16.6g,6.3g,2.3g,<1g,1020mg,7.39,TRUE,6.5,FALSE,,,1534285785.0-W-8506
+2018-08-15 08:29:45 UTC,gotzinger,Gotzinger Frankfurts Continental,"Meat, Seafood & Deli",300g,g,,,,,,,,,,7.48,TRUE,6.5,FALSE,,,1534285785.0-W-8507
+2018-08-15 08:29:45 UTC,hans,Hans Hot Dogs American,"Meat, Seafood & Deli",375g,62g,6,,878kJ,13.6g,16.3g,0.072,2.2g,<1.0g,895mg,6,FALSE,6,FALSE,,,1534285785.0-W-8508
+2018-08-15 08:29:45 UTC,primo ,Primo Cabanossi ,"Meat, Seafood & Deli",375g,50g,7.5,,1380kJ,16.4g,29.0g,12.4g,2.0g,<1g,1200mg,6.25,TRUE,6,FALSE,,,1534285785.0-W-8509
+2018-08-15 08:29:45 UTC,gotzinger,Gotzinger Bratwurst German,"Meat, Seafood & Deli",400g,100g,4,,890kJ,13.1g,21.6g,8.3g,0.7g,0.2g,1030mg,7.98,TRUE,6.5,FALSE,,,1534285785.0-W-8510
+2018-08-15 08:29:45 UTC,don ,Don Liverwurst Latvian,"Meat, Seafood & Deli",100g,25g,4,,1160kJ,11.6g,23.1g,8.7g,6.4g,<1g,1270mg,2.2,FALSE,2.2,FALSE,,,1534285785.0-W-8511
+2018-08-15 08:29:45 UTC,miguel maestre,Miguel Maestre Valdeon Cheese,"Meat, Seafood & Deli",150g,30g,3Aprox.,,480kJ,6.96g,9.36g,6.58g,0.90g,<0.5g,270mg,6,FALSE,6,FALSE,,,1534285785.0-W-8512
+2018-08-15 08:29:45 UTC,pork,Pork Bones Smoked,"Meat, Seafood & Deli",per kg,,,,910.00kJ,21.20g,14.10g,5.90g,1.70g,1.00g,1800.00mg,8,FALSE,8,FALSE,,,1534285785.0-W-8513
+2018-08-15 08:29:45 UTC,shaw river,Shaw River Smoked Buffalino Cheese,"Meat, Seafood & Deli",150g,20g,50,,1480kJ,18.3g,30.7g,19.3g,2.0g,0.8g,1300mg,10.25,FALSE,10.25,FALSE,,,1534285785.0-W-8514
+2018-08-15 08:29:45 UTC,paesonella,Paesonella Buffalo Bocconcini ,"Meat, Seafood & Deli",150g,30g,5,,1050kJ,16.0g,19.8g,13.0g,2.9g,<0.5g,240mg,14,FALSE,14,FALSE,,,1534285785.0-W-8515
+2018-08-15 08:29:45 UTC,bertocchi,Bertocchi Meaty Hock Smoked,"Meat, Seafood & Deli",1kg,,,,865.00kJ,17.70g,15.50g,7.00g,0.90g,0.90g,1020.00mg,9,FALSE,9,FALSE,,,1534285785.0-W-8516
+2018-08-15 08:29:45 UTC,gold ,Gold Tasmanian Smoked Salmon,"Meat, Seafood & Deli",300g,50g,6,,909kJ,26.7g,12.2g,2.6g,0.2g,0.2g,1440mg,18,FALSE,18,FALSE,,,1534285785.0-W-8517
+2018-08-15 08:29:45 UTC,hans,Hans Liverwurst Traditional,"Meat, Seafood & Deli",100g,25g,4,,1296kJ,13.0g,28.0g,10.7g,2.3g,<1g,677mg,2.19,FALSE,2.19,FALSE,,,1534285785.0-W-8518
+2018-08-15 08:29:45 UTC,montecatini,Montecatini Chorizo Spanish,"Meat, Seafood & Deli",250g,g,,,,,,,,,,6.98,FALSE,6.98,FALSE,,,1534285785.0-W-8519
+2018-08-15 08:29:45 UTC,igor,Igor Gorgonzola Piccante ,"Meat, Seafood & Deli",150g,g,,,,,,,,,,7.25,FALSE,7.25,FALSE,,,1534285785.0-W-8520
+2018-08-15 09:49:37 UTC,woolworths,Woolworths Prawn Meat Raw,"Meat, Seafood & Deli",300g,g,,,,,,,,,,12,FALSE,12,FALSE,,,1534290577.0-W-12500
+2018-08-15 09:49:37 UTC,ocean chef,Ocean Chef Squid Rings Panko,"Meat, Seafood & Deli",360g,120g,3,,"1,080kJ",6.9g,14.7g,1.3g,24.4g,1.3g,395mg,6,FALSE,6,FALSE,,,1534290577.0-W-12501
+2018-08-15 09:49:37 UTC,dorsogna,Dorsogna Hungarian Salami Quad Pack ,"Meat, Seafood & Deli",320g,g,,,,,,,,,,6,FALSE,6,FALSE,,,1534290577.0-W-12502
+2018-08-15 09:49:37 UTC,scottish,Scottish Kippers ,"Meat, Seafood & Deli",335g,1kipper aprrox. 168g,0.2,,930kJ,26g,13.2g,2.3g,0g,,900mg,7.5,FALSE,7.5,FALSE,,,1534290577.0-W-12503
+2018-08-15 09:49:37 UTC,ocean chef,Ocean Chef Squid Salt & Pepper,"Meat, Seafood & Deli",360g,120g(7 pieces approx.),3,,,9.2g,13.1g,<1.0g,8.1g,<1.0g,663mg,6,FALSE,6,FALSE,,,1534290577.0-W-12504
+2018-08-15 09:49:37 UTC,talleys chilled,Talleys Chilled Mussels Marinated Plain,"Meat, Seafood & Deli",375g,94g,2,,590kJ,17.2g,2.8g,0.7g,11.4g,6.8g,450mg,7,FALSE,7,FALSE,,,1534290577.0-W-12505
+2018-08-15 09:49:37 UTC,tegel,Tegel Meal Maker Sliced Roast Chicken,"Meat, Seafood & Deli",280g,g,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534290577.0-W-12506
+2018-08-15 09:49:37 UTC,tassal,Tassal Atlantic Salmon Skin On,"Meat, Seafood & Deli",300g,g,,,,,,,,,,11,FALSE,11,FALSE,,,1534290577.0-W-12507
+2018-08-15 09:49:37 UTC,tassal,Tassal Salmon With Japanese Bbq Sauce,"Meat, Seafood & Deli",300g,g,,,,,,,,,,12,FALSE,12,FALSE,,,1534290577.0-W-12508
+2018-08-15 09:49:37 UTC,talleys chilled,Talleys Chilled Mussels Marinated Garlic,"Meat, Seafood & Deli",375g,94g,2,,571kJ,17.1g,2.7g,0.7g,10.5g,7.0g,460m,7,FALSE,7,FALSE,,,1534290577.0-W-12509
+2018-08-15 09:49:37 UTC,hans,Hans Polish ,"Meat, Seafood & Deli",375g,g,,,,,,,,,,3.5,FALSE,3.5,FALSE,,,1534290577.0-W-12510
+2018-08-15 09:49:37 UTC,created with jamie,Created With Jamie Vietnamese-style Salmon Portions,"Meat, Seafood & Deli",280g,100.0g,2,,Approx. 896.0kJ,Approx. 19.2g,Approx. 14.7g,Approx. 2.6g,Approx. 1.5g,<1.0g,Approx. 352.0mg,13,FALSE,13,FALSE,,,1534290577.0-W-12511
+2018-08-15 09:49:37 UTC,tegel,Tegel Meal Maker Shredded Roast Chicken,"Meat, Seafood & Deli",280g,g,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534290577.0-W-12512
+2018-08-15 09:49:37 UTC,moira macs,Moira Macs Shredded Chicken,"Meat, Seafood & Deli",300g,50g,6,,405kJ,18.3g,1.9g,0.6g,1.4g,1.1g,790mg,6,FALSE,6,FALSE,,,1534290577.0-W-12513
+2018-08-15 09:49:37 UTC,talleys chilled,Talleys Chilled Mussels Chilli,"Meat, Seafood & Deli",375g,94g,2,,548kJ,16.7g,2.9g,0.7g,9.2g,6.5g,430mg,7,FALSE,7,FALSE,,,1534290577.0-W-12514
+2018-08-15 09:49:37 UTC,woolworths msa,Woolworths Msa Beef Roast Pepper,"Meat, Seafood & Deli",800g - 1.2kg,g,,,,,,,,,,21.6,FALSE,21.6,FALSE,,,1534290577.0-W-12515
+2018-08-15 09:49:37 UTC,woolworths beef soup,Woolworths Beef Soup Bones ,"Meat, Seafood & Deli",min. 1kg,min,,,,,,,,,,5,FALSE,5,FALSE,,,1534290577.0-W-12516
+2018-08-15 09:49:37 UTC,beef fillet,Beef Fillet Portions ,"Meat, Seafood & Deli",min. 130g,min,,,,,,,,,,5.2,FALSE,5.2,FALSE,,,1534290577.0-W-12517
+2018-08-15 09:49:37 UTC,macro ,Macro Free Range Pork Loin Steak,"Meat, Seafood & Deli",min. 380g,min,,,,,,,,,,9.88,FALSE,9.88,FALSE,,,1534290577.0-W-12518
+2018-08-15 09:49:37 UTC,bruemar,Bruemar Pork Loin Roast With Spices & Herbs,"Meat, Seafood & Deli",min. 600g,min,,,,,,,,,,13.79,FALSE,13.79,FALSE,,,1534290577.0-W-12519
+2018-08-15 09:49:37 UTC,pork,Pork Scotch Bone In,"Meat, Seafood & Deli",min. 730g,min,,,,,,,,,,9.49,FALSE,9.49,FALSE,,,1534290577.0-W-12520
+2018-08-15 09:49:37 UTC,virginian silverside,Virginian Silverside Roast Beef,"Meat, Seafood & Deli",800g - 1.2kg,g,,,,,,,,,,20.4,FALSE,20.4,FALSE,,,1534290577.0-W-12521
+2018-08-15 09:49:37 UTC,riverland,Riverland Chicken Shaved ,"Meat, Seafood & Deli",80g,g,,,,,,,,,,1.8,FALSE,1.8,FALSE,,,1534290577.0-W-12522
+2018-08-15 09:49:37 UTC,created with jamie,Created With Jamie Spicy Asian Style Bbq Salmon,"Meat, Seafood & Deli",374g,185g,2,,Approx. 798kJ,Approx. 18.9g,Approx. 10.4g,Approx. 2.3g,Approx. 5.4g,Approx. 3.8g,Approx. 541mg,14,FALSE,14,FALSE,,,1534290577.0-W-12523
+2018-08-15 09:49:37 UTC,de costi,De Costi Seafood Salad ,"Meat, Seafood & Deli",375g,90g,4,,484kJ,5.7g,4.3g,<1.0g,13.3g,6.4g,525mg,8,FALSE,8,FALSE,,,1534290577.0-W-12524
+2018-08-15 09:49:37 UTC,peppercorn butchers,Peppercorn Butchers Variety Pack Beef & Pork ,"Meat, Seafood & Deli",600g,g,,,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534290577.0-W-12525
+2018-08-15 09:49:37 UTC,primo,Primo Bacon Pan Size,"Meat, Seafood & Deli",750g,g,,,,,,,,,,13.5,FALSE,13.5,FALSE,,,1534290577.0-W-12526
+2018-08-15 09:49:37 UTC,woolworths pickled pork,Woolworths Pickled Pork Roast ,"Meat, Seafood & Deli",620g - 1.1kg,g,,,,,,,,,,14.29,FALSE,14.29,FALSE,,,1534290577.0-W-12527
+2018-08-15 09:49:37 UTC,de costi,De Costi Cooked Australian Mussels,"Meat, Seafood & Deli",650g,g,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534290577.0-W-12528
+2018-08-15 09:49:37 UTC,woolworths simply roast,Woolworths Simply Roast Beef Marinated In A Classic Herb Mix,"Meat, Seafood & Deli",700g - 1.24kg,g,,,,,,,,,,20.46,FALSE,20.46,FALSE,,,1534290577.0-W-12529
+2018-08-15 09:49:37 UTC,simply roast,Simply Roast In Onion Garlic And Red Wine,"Meat, Seafood & Deli",700g - 1.24kg,g,,,,,,,,,,20.46,FALSE,20.46,FALSE,,,1534290577.0-W-12530
+2018-08-15 09:49:37 UTC,beef brisket,Beef Brisket Bones ,"Meat, Seafood & Deli",850g - 1.1kg,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534290577.0-W-12531
+2018-08-15 09:49:37 UTC,woolworths,Woolworths Simply Bake Meat Loaf With Sauce,"Meat, Seafood & Deli",950g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534290577.0-W-12532
+2018-08-15 09:49:37 UTC,peppercorn butchers,Peppercorn Butchers Bbq Beef Pack ,"Meat, Seafood & Deli",700g,g,,,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534290577.0-W-12533
+2018-08-15 09:49:37 UTC,woolworths,Woolworths Simply Beef Curried Sausage ,"Meat, Seafood & Deli",850g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534290577.0-W-12534
+2018-08-15 09:49:37 UTC,ocean chef,Ocean Chef Peeled Prawns ,"Meat, Seafood & Deli",500g,g,,,,,,,,,,20,FALSE,20,FALSE,,,1534290577.0-W-12535
+2018-08-15 09:49:37 UTC,clearly premium,Clearly Premium Wafer Thin Finely Sliced Smoked Salmon,"Meat, Seafood & Deli",50g,g,,,,,,,,,,4.8,FALSE,4.8,FALSE,,,1534290577.0-W-12536
+2018-08-15 09:49:37 UTC,clearly premium,Clearly Premium Smoked Ocean Trout ,"Meat, Seafood & Deli",500g,g,,,,,,,,,,20,FALSE,20,FALSE,,,1534290577.0-W-12537
+2018-08-15 09:49:37 UTC,just caught,Just Caught Prawn Meat,"Meat, Seafood & Deli",500g,100g,5,,371,20.5,<1,<1,<1,<1,350,24,FALSE,24,FALSE,,,1534290577.0-W-12538
+2018-08-15 09:49:37 UTC,ocean chef usa sea,Ocean Chef Usa Sea Scallops ,"Meat, Seafood & Deli",425g,g,,,,,,,,,,25,FALSE,25,FALSE,,,1534290577.0-W-12539
+2018-08-15 09:49:37 UTC,tassal,Tassal Tasmanian Fresh Salmon Skin On,"Meat, Seafood & Deli",450g,g,,,,,,,,,,16,FALSE,16,FALSE,,,1534290577.0-W-12540
+2018-08-15 09:49:37 UTC,salamanca seafoods,Salamanca Seafoods Company Atlantic Salmon Skin-on Fillets,"Meat, Seafood & Deli",460g,g,,,,,,,,,,13,FALSE,13,FALSE,,,1534290577.0-W-12541
+2018-08-15 09:49:37 UTC,holland house,Holland House Rollmops Marinated,"Meat, Seafood & Deli",500g,50g,5,,875kJ,16.6g,13.9g,4.6g,4.6g,3.7g,1100mg,5.6,FALSE,5.6,FALSE,,,1534290577.0-W-12542
+2018-08-15 09:49:37 UTC,aussie country ,Aussie Country Style Burger ,"Meat, Seafood & Deli",500g,55.6g,9,,94.2kJ,16.3g,11.6g,4.4g,15.3g,5.6g,796mg,5,FALSE,5,FALSE,,,1534290577.0-W-12543
+2018-08-15 09:49:37 UTC,holland house,Holland House Caviar Black,"Meat, Seafood & Deli",50g,10g,5,,326kJ,10.4g,3.8g,0.8g,0.5g,<0.1g,2100mg,5.65,FALSE,5.65,FALSE,,,1534290577.0-W-12544
+2018-08-15 09:49:37 UTC,pastoral herb crusted,Pastoral Herb Crusted Sliced Roast Pork,"Meat, Seafood & Deli",per kg,,,,505.00kJ,24.10g,1.70g,0.60g,1.90g,0.60g,650.00mg,25,FALSE,25,FALSE,,,1534290577.0-W-12545
+2018-08-15 09:49:37 UTC,woolworths,Woolworths Australian Premium Roast Beef Sliced,"Meat, Seafood & Deli",per kg,,,,533.00kJ,20.90g,3.60g,1.40g,2.60g,1.80g,723.00mg,24,FALSE,24,FALSE,,,1534290577.0-W-12546
+2018-08-15 09:49:37 UTC,moira macs,Moira Macs Chicken Breast Fillets,"Meat, Seafood & Deli",per kg,,,,466.00kJ,18.00g,4.20g,1.30g,0.30g,0.30g,588.00mg,23,FALSE,23,FALSE,,,1534290577.0-W-12547
+2018-08-15 09:49:37 UTC,ingham's,Ingham's Chicken Sliced Roll,"Meat, Seafood & Deli",per kg,,,,1040.00kJ,12.70g,18.70g,6.00g,7.60g,1.00g,838.00mg,12.5,FALSE,12.5,FALSE,,,1534290577.0-W-12548
+2018-08-15 09:49:37 UTC,ingham's,Ingham's Turkey Sliced Breast Swtherb Mustard,"Meat, Seafood & Deli",per kg,,,,526.00kJ,16.90g,4.90g,1.60g,3.40g,1.00g,1070.00mg,30,FALSE,30,FALSE,,,1534290577.0-W-12549
+2018-08-15 09:49:37 UTC,woolworths rare roast,Woolworths Rare Roast Beef Sliced,"Meat, Seafood & Deli",per kg,,,,585.00kJ,26.60g,3.40g,1.80g,0.40g,0.40g,37.00mg,28,FALSE,28,FALSE,,,1534290577.0-W-12550
+2018-08-15 09:49:37 UTC,huon,Huon Tasmanian Smoked Salmon Deli Bites Natural,"Meat, Seafood & Deli",,50g,5,,920kJ,25g,13.5g,3.0g,<1g,<1g,780mg,6,FALSE,6,FALSE,,,1534290577.0-W-12551
+2018-08-15 09:49:37 UTC,woolworths homestyle ,Woolworths Homestyle Beef Rissoles ,"Meat, Seafood & Deli",8pk 600g,g,,,,,,,,,,7.5,FALSE,7.5,TRUE,2,6,1534290577.0-W-12552
+2018-08-15 09:49:37 UTC,macro free range,Macro Free Range Pork Belly Roast With Salt & Pepper,"Meat, Seafood & Deli",min. 500g,min,,,,,,,,,,10,TRUE,8.5,FALSE,,,1534290577.0-W-12553
+2018-08-15 09:49:37 UTC,hans,Hans Devon Sliced,"Meat, Seafood & Deli",per kg,,,,754.00kJ,12.20g,11.80g,4.50g,6.40g,1.00g,792.00mg,7.3,FALSE,7.3,FALSE,,,1534290577.0-W-12554
+2018-08-15 09:49:37 UTC,bertocchi,Bertocchi Mortadella Sliced Green Olive,"Meat, Seafood & Deli",per kg,,,,1230.00kJ,13.60g,29.10g,19.50g,3.50g,0.00g,860.00mg,11.4,FALSE,11.4,FALSE,,,1534290577.0-W-12555
+2018-08-15 09:49:37 UTC,bertocchi,Bertocchi Mortadella Shaved Plain,"Meat, Seafood & Deli",per kg,,,,1230.00kJ,13.60g,29.10g,19.50g,3.50g,1.00g,860.00mg,11.4,FALSE,11.4,FALSE,,,1534290577.0-W-12556
+2018-08-15 09:49:37 UTC,macro free range chicken,Macro Free Range Chicken Thigh Fillet,"Meat, Seafood & Deli",900g - 1.1kg,g,,,,,,,,,,16.49,TRUE,15.4,FALSE,,,1534290577.0-W-12557
+2018-08-15 09:49:37 UTC,woolworths simply roast,Woolworths Simply Roast Butterflied Chicken With Bone In Sweet & Smokey Bbq Marinade,"Meat, Seafood & Deli",900g - 1.25kg,100g,5,,Approx. 662kJ,Approx. 16.3g,Approx. 9.2g,Approx. 2.8g,Approx. 2.6g,Approx. 2.2g,Approx. 368mg,11.88,FALSE,11.88,FALSE,,,1534290577.0-W-12558
+2018-08-15 09:49:37 UTC,ingham's,Ingham's Roast In A Bag Garlic Butter,"Meat, Seafood & Deli",min. 1.5kg,150g,5,,781,15.6,12.7,4.6,2.2,0.8,207,12.38,FALSE,12.38,FALSE,,,1534290577.0-W-12559
+2018-08-15 09:49:37 UTC,ingham's,Ingham's Turkey Breast Oven Roasted Sliced,"Meat, Seafood & Deli",per kg,,,,526.00kJ,17.00g,6.40g,2.00g,1.00g,1.00g,915.00mg,28,FALSE,28,FALSE,,,1534290577.0-W-12560
+2018-08-15 09:49:37 UTC,ingham's,Ingham's Diced Chicken Breast ,"Meat, Seafood & Deli",900g - 1.1kg,g,,,,,,,,,,14.3,FALSE,14.3,FALSE,,,1534290577.0-W-12561
+2018-08-15 09:49:37 UTC,woolworths simply roast,Woolworths Simply Roast Butterflied Chicken With Bone In Garlic & Herb Marinade,"Meat, Seafood & Deli",900g - 1.25kg,150g,5,,Approx. 653kJ,Approx. 16.2g,Approx. 9.2g,Approx. 2.8g,Approx. 2.2g,Approx. 1.5g,Approx. 367mg,11.88,FALSE,11.88,FALSE,,,1534290577.0-W-12562
+2018-08-15 09:49:37 UTC,chicken,Chicken Breast Supreme Shaved,"Meat, Seafood & Deli",per kg,,,,523.00kJ,125.00g,18.70g,3.90g,1.20g,1.00g,751.00mg,20,FALSE,20,FALSE,,,1534290577.0-W-12563
+2018-08-15 09:49:37 UTC,bertocchi,Bertocchi Mortadella Sliced Plain,"Meat, Seafood & Deli",per kg,,,,1230.00kJ,13.60g,29.10g,19.50g,3.50g,1.00g,860.00mg,11.4,FALSE,11.4,FALSE,,,1534290577.0-W-12564
+2018-08-15 09:49:37 UTC,macro chicken lovely,Macro Chicken Lovely Legs Free Range,"Meat, Seafood & Deli",550g - 650g,g,,,,,,,,,,5.84,FALSE,5.84,FALSE,,,1534290577.0-W-12565
+2018-08-15 09:49:37 UTC,macro chicken,Macro Chicken Wing Nibbles Free Range,"Meat, Seafood & Deli",600g - 800g,g,,,,,,,,,,6.8,FALSE,6.8,FALSE,,,1534290577.0-W-12566
+2018-08-15 09:49:37 UTC,chicken ,Chicken Thigh Cutlets Skinless,"Meat, Seafood & Deli",550g - 650g,g,,,,,,,,,,5.85,FALSE,5.85,FALSE,,,1534290577.0-W-12567
+2018-08-15 09:49:37 UTC,woolworths simply roast,Woolworths Simply Roast Boneless Chicken Tomato & Basil Stuffing,"Meat, Seafood & Deli",800g - 950g,g,,,,,,,,,,13.78,FALSE,13.78,FALSE,,,1534290577.0-W-12568
+2018-08-15 09:49:37 UTC,chicken,Chicken Breast Fillet Skinless Small,"Meat, Seafood & Deli",550g - 650g,g,,,,,,,,,,0,FALSE,0,FALSE,,,1534290577.0-W-12569
+2018-08-15 09:49:37 UTC,woolworths simply bake,Woolworths Simply Bake Chicken Meatloaf ,"Meat, Seafood & Deli",750g,150g,5,,672kJ,14.6g,8.6g,2.6g,6.2g,1.6g,349mg,11,FALSE,11,FALSE,,,1534290577.0-W-12570
+2018-08-15 09:49:37 UTC,macro,Macro Free Range Chicken Boomerang Wings,"Meat, Seafood & Deli",750g - 1.1kg,g,,,,,,,,,,9.35,FALSE,9.35,FALSE,,,1534290577.0-W-12571
+2018-08-15 09:49:37 UTC,chicken,Chicken Tenderloins ,"Meat, Seafood & Deli",550g - 650g,g,,,,,,,,,,11.7,FALSE,11.7,FALSE,,,1534290577.0-W-12572
+2018-08-15 09:49:37 UTC,macro chicken,Macro Chicken Drumsticks Free Range,"Meat, Seafood & Deli",800g - 1.1kg,g,,,,,,,,,,6.05,TRUE,5.5,FALSE,,,1534290577.0-W-12573
+2018-08-15 09:49:37 UTC,macro chicken,Macro Chicken Breast Fillets Free Range,"Meat, Seafood & Deli",800g - 1.1kg,g,,,,,,,,,,16.99,TRUE,0,FALSE,,,1534290577.0-W-12574
+2018-08-15 09:49:37 UTC,chicken,Chicken Giblets ,"Meat, Seafood & Deli",500g,g,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534290577.0-W-12575
+2018-08-15 09:49:37 UTC,macro,Macro Free Range Chicken Stir Fry,"Meat, Seafood & Deli",500g,g,,,,,,,,,,9,FALSE,9,FALSE,,,1534290577.0-W-12576
+2018-08-15 09:49:37 UTC,woolworths,Woolworths Simply Roast Mini Chicken Garlic Bread Stuffing,"Meat, Seafood & Deli",500g - 700g,100g,6,,Approx. 807kJ,Approx. 14.8g,Approx. 12.4g,Approx. 4g,Approx. 5.7g,<1g,Approx. 177mg,12.25,FALSE,12.25,FALSE,,,1534290577.0-W-12577
+2018-08-15 09:49:37 UTC,woolworths,Woolworths Simply Roast Chicken Breast Cous Cous Stuffing,"Meat, Seafood & Deli",480g - 580g,g,,,,,,,,,,8.12,FALSE,8.12,FALSE,,,1534290577.0-W-12578
+2018-08-15 09:49:37 UTC,chicken,Chicken Hearts ,"Meat, Seafood & Deli",500g,g,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534290577.0-W-12579
+2018-08-15 09:49:37 UTC,chicken,Chicken Liver ,"Meat, Seafood & Deli",500g,g,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534290577.0-W-12581
+2018-08-15 09:49:37 UTC,macro free range,Macro Free Range Breast Chicken Schnitzel,"Meat, Seafood & Deli",500g - 600g,g,,,,,,,,,,11.4,FALSE,11.4,FALSE,,,1534290577.0-W-12582
+2018-08-15 09:49:37 UTC,macro chicken,Macro Chicken Breast Fillets Free Range,"Meat, Seafood & Deli",500g - 650g,g,,,,,,,,,,18.89,TRUE,10.39,FALSE,,,1534290577.0-W-12583
+2018-08-15 09:49:37 UTC,woolworths,Woolworths Simply Roast Mini Chicken Potato & Cheese Stuffing,"Meat, Seafood & Deli",500g - 700g,100g,6,,Approx. 815kJ,Approx. 13.6g,Approx. 12.6g,Approx. 4.2g,Approx. 6.9g,<1g,Approx. 311mg,12.25,FALSE,12.25,FALSE,,,1534290577.0-W-12584
+2018-08-15 09:49:38 UTC,king island,King Island Cheddar Cheese,"Meat, Seafood & Deli",170g,25g,6.8,,1590kJ,26.5g,,19.1g,<1.0g,<1.0g,655mg,0,FALSE,0,FALSE,,,1534290578.0-W-12845
+2018-08-15 09:49:38 UTC,riverina,Riverina Haloumi With Basil,"Meat, Seafood & Deli",180g,g,,,,,,,,,,6,FALSE,6,FALSE,,,1534290578.0-W-12846
+2018-08-15 09:49:38 UTC,pittas,Pittas Firm Halloumi Cheese,"Meat, Seafood & Deli",250g,25g,10,,1313kJ,22.5g,24.0g,15.0g,2.5g,,1100mg,7.09,FALSE,7.09,FALSE,,,1534290578.0-W-12847
+2018-08-15 09:49:38 UTC,king island,King Island Smoked Cheddar Cheese,"Meat, Seafood & Deli",170g,25g,6.8,,1590kJ,26.5g,30g,19.1g,<1.0g,<1.0g,655mg,8.79,FALSE,8.79,FALSE,,,1534290578.0-W-12848
+2018-08-15 09:49:38 UTC,odysseus barrel,Odysseus Barrel Aged Fetta Portion,"Meat, Seafood & Deli",170g,28g,6,,1185kJ,16.0g,24.3g,15.5g,<1g,<1g,1200mg,11.99,FALSE,11.99,FALSE,,,1534290578.0-W-12849
+2018-08-15 09:49:38 UTC,king island,King Island Discovery Ash Blue Cheese,"Meat, Seafood & Deli",175g,,7,,1640kJ,19.2g,35.0g,23.0g,<1g,<1g,780mg,12,FALSE,12,FALSE,,,1534290578.0-W-12850
+2018-08-15 09:49:38 UTC,lemnos,Lemnos Organic Fetta Cheese ,"Meat, Seafood & Deli",180g,g,,,,,,,,,,6.8,FALSE,6.8,FALSE,,,1534290578.0-W-12851
+2018-08-15 09:49:38 UTC,lemnos,Lemnos Organic Halloumi Cheese,"Meat, Seafood & Deli",180g,g,,,,,,,,,,6.95,FALSE,6.95,FALSE,,,1534290578.0-W-12852
+2018-08-15 09:49:38 UTC,riverina,Riverina Haloumi With Chilli,"Meat, Seafood & Deli",180g,g,,,,,,,,,,6,FALSE,6,FALSE,,,1534290578.0-W-12853
+2018-08-15 09:49:38 UTC,riverina,Riverina Haloumi With Cracked Pepper,"Meat, Seafood & Deli",180g,g,,,,,,,,,,6,FALSE,6,FALSE,,,1534290578.0-W-12854
+2018-08-15 09:49:38 UTC,alambra,Alambra Cypriot Halloumi,"Meat, Seafood & Deli",225g,25g,9,,1367kJ,22g,25g,15g,1.8g,0.9g,,6.49,FALSE,6.49,FALSE,,,1534290578.0-W-12855
+2018-08-15 09:49:38 UTC,the pure produce company,The Pure Produce Company Persian Fetta ,"Meat, Seafood & Deli",250g,g,,,,,,,,,,8,TRUE,7.5,FALSE,,,1534290578.0-W-12856
+2018-08-15 09:49:38 UTC,dodoni,Dodoni Cypriot Halloumi ,"Meat, Seafood & Deli",225g,g,,,,,,,,,,6.2,TRUE,5.5,FALSE,,,1534290578.0-W-12857
+2018-08-15 09:49:38 UTC,frico,Frico Mild Goats Cheese Wedge,"Meat, Seafood & Deli",230g,30g,7,,1650kJ,24g,33g,24g,0g,0g,699mg,11.95,FALSE,11.95,FALSE,,,1534290578.0-W-12858
+2018-08-15 09:49:38 UTC,mersey valley,Mersey Valley Peppercorn Medley Cheddar Cheese,"Meat, Seafood & Deli",235g,25g,9.4,,1660kJ,24.2g,33.1g,23.8g,1.4g,<1.0g,690mg,7.45,FALSE,7.45,FALSE,,,1534290578.0-W-12859
+2018-08-15 09:49:38 UTC,mersey valley,Mersey Valley Original Cheddar Cheese,"Meat, Seafood & Deli",235g,25g,9.4,,1740kJ,24.8g,33.0g,21.1g,1.4g,<1.0g,720mg,7.45,FALSE,7.45,FALSE,,,1534290578.0-W-12860
+2018-08-15 09:49:38 UTC,mersey valley,Mersey Valley Pickled Onion Cheddar Cheese,"Meat, Seafood & Deli",235g,25g,9.4,,1510kJ,22.1g,28.7g,18.7g,3.0g,2.4g,710mg,7.45,FALSE,7.45,FALSE,,,1534290578.0-W-12861
+2018-08-15 09:49:38 UTC,mersey valley,Mersey Valley Ploughmans Cheddar Cheese,"Meat, Seafood & Deli",235g,,9.4,,1510kJ,22.1g,,,3.0g,,,7.45,FALSE,7.45,FALSE,,,1534290578.0-W-12862
+2018-08-15 09:49:38 UTC,mersey valley,Mersey Valley Classic Cheedar Cheese,"Meat, Seafood & Deli",235g,25g,9.4,,1740kJ,24.8g,33.0g,21.1g,1.4g,<1.0g,762mg,7.45,FALSE,7.45,FALSE,,,1534290578.0-W-12863
+2018-08-15 09:49:38 UTC,the pure produce company,The Pure Produce Company Fetta With Garlic & Herbs,"Meat, Seafood & Deli",250g,g,,,,,,,,,,8,TRUE,7.5,FALSE,,,1534290578.0-W-12864
+2018-08-15 09:49:38 UTC,lemnos,Lemnos Smooth Fetta Cheese,"Meat, Seafood & Deli",200g,25g,8,,1055kJ,11.1g,22.0g,13.9g,3.0g,1.5g,1218mg,4.75,FALSE,4.75,FALSE,,,1534290578.0-W-12865
+2018-08-15 09:49:38 UTC,south cape,South Cape Australian Gouda Cheese,"Meat, Seafood & Deli",200g,g,,,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534290578.0-W-12866
+2018-08-15 09:49:38 UTC,lemnos,Lemnos Reduced Fat Fetta Cheese,"Meat, Seafood & Deli",200g,25g,4,,793kJ,10.6g,15.0g,7.6g,3.3g,1.9g,1027mg,4.75,FALSE,4.75,FALSE,,,1534290578.0-W-12867
+2018-08-15 09:49:38 UTC,frico,Frico Mild Edam Cheese Wedge,"Meat, Seafood & Deli",200g,30g,7,,1335kJ,26g,24g,16g,0g,0g,,7.5,TRUE,6,FALSE,,,1534290578.0-W-12868
+2018-08-15 09:49:38 UTC,south cape,South Cape Edam Cheese,"Meat, Seafood & Deli",200g,25g,8,,1360kJ,25.5g,24.7g,16g,<1.0g,<1.0g,660mg,6.3,FALSE,6.3,FALSE,,,1534290578.0-W-12869
+2018-08-15 09:49:38 UTC,king island,King Island Lighthouse Blue Brie Cheese,"Meat, Seafood & Deli",200g,g,,,,,,,,,,12,FALSE,12,FALSE,,,1534290578.0-W-12870
+2018-08-15 09:49:38 UTC,south cape,South Cape Crumbled Fetta ,"Meat, Seafood & Deli",200g,g,,,,,,,,,,8,TRUE,7,FALSE,,,1534290578.0-W-12871
+2018-08-15 09:49:38 UTC,lemnos,Lemnos Paneer Cheese,"Meat, Seafood & Deli",200g,50g,4,,923kJ,18.5g,14.7g,9.6g,3.8g,2.1g,131mg,6.3,FALSE,6.3,FALSE,,,1534290578.0-W-12872
+2018-08-15 09:49:38 UTC,south cape,South Cape Havarti Cheese,"Meat, Seafood & Deli",200g,g,,,,,,,,,,6.3,FALSE,6.3,FALSE,,,1534290578.0-W-12873
+2018-08-15 09:49:38 UTC,yarra valley dairy,Yarra Valley Dairy White Savourine Log ,"Meat, Seafood & Deli",200g,g,,,,,,,,,,22,FALSE,22,FALSE,,,1534290578.0-W-12874
+2018-08-15 09:49:38 UTC,dodoni,Dodoni Fetta Goats Cheese,"Meat, Seafood & Deli",200g,g,,,,,,,,,,7,TRUE,6,FALSE,,,1534290578.0-W-12875
+2018-08-15 09:49:38 UTC,nisi,Nisi Danish Feta,"Meat, Seafood & Deli",200g,g,,,,,,,,,,3.99,FALSE,3.99,FALSE,,,1534290578.0-W-12876
+2018-08-15 09:49:38 UTC,paesonella,Paesonella Full Cream Ricotta Tub,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,16,FALSE,16,FALSE,,,1534290578.0-W-12877
+2018-08-15 09:49:38 UTC,king island,King Island Cheese Blue Triple Cream Black Label,"Meat, Seafood & Deli",1kg,,,,1710.00kJ,18.70g,37.00g,24.30g,1.00g,,890.00mg,60,FALSE,60,FALSE,,,1534290578.0-W-12878
+2018-08-15 09:49:38 UTC,south cape,South Cape Reduced Fat Greek Style Fetta,"Meat, Seafood & Deli",200g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534290578.0-W-12879
+2018-08-15 09:49:38 UTC,south cape,South Cape Greek Style Fetta ,"Meat, Seafood & Deli",200g,25g,8,,1360kJ,20.8g,26.3g,17.1g,<1.0g,<1.0g,1230mg,5.99,TRUE,5,FALSE,,,1534290578.0-W-12880
+2018-08-15 09:49:38 UTC,dodoni,Dodoni Greek Feta Cheese,"Meat, Seafood & Deli",400g,g,,,,,,,,,,12,FALSE,12,FALSE,,,1534290578.0-W-12881
+2018-08-15 09:49:38 UTC,lemnos,Lemnos Haloumi ,"Meat, Seafood & Deli",2 pack,,,,,,,,,,,7.5,TRUE,6.5,FALSE,,,1534290578.0-W-12882
+2018-08-15 09:49:38 UTC,south cape,South Cape Reduced Fat Tasmanian Fetta,"Meat, Seafood & Deli",200g,g,,,,,,,,,,5.99,TRUE,5,FALSE,,,1534290578.0-W-12883
+2018-08-15 09:49:38 UTC,dodoni,Dodoni Fetta Cheese,"Meat, Seafood & Deli",200g,g,,,,,,,,,,7,TRUE,6,FALSE,,,1534290578.0-W-12884
+2018-08-15 09:49:38 UTC,riverina,Riverina Reduced Fat Fetta Cheese Reduced Fat Fetta Cheese,"Meat, Seafood & Deli",1kg,,,,1020.00kJ,23.60g,16.40g,11.20g,0.90g,0.10g,1400.00mg,15,FALSE,15,FALSE,,,1534290578.0-W-12885
+2018-08-15 09:49:38 UTC,south cape,South Cape Sliced Fetta ,"Meat, Seafood & Deli",600g,g,,,,,,,,,,14.35,FALSE,14.35,FALSE,,,1534290578.0-W-12886
+2018-08-15 09:49:38 UTC,barbers,Barbers Cheddar ,"Meat, Seafood & Deli",1kg,kg,,,,,,,,,,45,FALSE,45,FALSE,,,1534290578.0-W-12887
+2018-08-15 09:49:38 UTC,lemnos,Lemnos Traditional Fetta,"Meat, Seafood & Deli",180g,g,,,,,,,,,,4.75,FALSE,4.75,FALSE,,,1534290578.0-W-12888
+2018-08-15 09:49:38 UTC,la casa del formaggio,La Casa Del Formaggio Traditional Ricotta Cheese,"Meat, Seafood & Deli",1kg,50g,20,,679kj,13g,11.1g,7.7g,2.8g,2.8g,168g,9,FALSE,9,FALSE,,,1534290578.0-W-12889
+2018-08-15 09:49:38 UTC,fromager d'affinois,Fromager D'affinois Excellence Mild & Creamy,"Meat, Seafood & Deli",1kg,,,,1700.00kJ,12.00g,40.00g,28.00g,2.60g,2.60g,520.00mg,80,FALSE,80,FALSE,,,1534290578.0-W-12890
+2018-08-15 09:49:38 UTC,island berries,Island Berries Pear & Pistachio Paste,"Meat, Seafood & Deli",60g,10g,6,,1060kJ,0.8g,0.1g,0.1g,61.9g,58.9g,14mg,3.9,FALSE,3.9,FALSE,,,1534290578.0-W-12891
+2018-08-15 09:49:38 UTC,barbers 1833,Barbers 1833 Vintage Cheddar,"Meat, Seafood & Deli",190g,28g,,,1700kJ,25.0g,34.4g,21.7g,0.1g,0.1g,670mg,9,FALSE,9,FALSE,,,1534290578.0-W-12892
+2018-08-15 09:49:38 UTC,le superbe,Le Superbe Gruyere Cheese,"Meat, Seafood & Deli",195g,30g,6.5,,1645kJ,27g,32g,19.4g,0g,0g,590mg,9.99,FALSE,9.99,FALSE,,,1534290578.0-W-12893
+2018-08-15 09:49:38 UTC,riverina,Riverina Full Cream Fetta,"Meat, Seafood & Deli",1kg,,,,1180.00kJ,17.70g,23.60g,15.80g,0.40g,0.10g,1400.00mg,15,FALSE,15,FALSE,,,1534290578.0-W-12894
+2018-08-15 09:49:38 UTC,kebia,Kebia Bulgarian Fetta Cheese,"Meat, Seafood & Deli",450g,28g,16,,1300kJ,17g,24.5g,15g,1.0g,1.0g,1400mg,8.99,FALSE,8.99,FALSE,,,1534290578.0-W-12895
+2018-08-15 09:49:38 UTC,geoff jansz,Geoff Jansz Marinated Danish Fetta Cheese,"Meat, Seafood & Deli",320g,40g,8,,1830kJ,6.8g,45.1g,12.4g,1.8g,1.0g,866mg,7.5,FALSE,7.5,FALSE,,,1534290578.0-W-12896
+2018-08-15 09:49:38 UTC,la casa,La Casa Del Formaggio Smooth Ricotta,"Meat, Seafood & Deli",375g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534290578.0-W-12897
+2018-08-15 09:49:38 UTC,south cape,South Cape White Wine Matched Selection,"Meat, Seafood & Deli",320g,g,,,,,,,,,,13,FALSE,13,FALSE,,,1534290578.0-W-12898
+2018-08-15 09:49:38 UTC,south cape,South Cape Entertaining Platter Selection,"Meat, Seafood & Deli",4 piece 435g,,,,,,,,,,,15.75,FALSE,15.75,FALSE,,,1534290578.0-W-12899
+2018-08-15 09:49:38 UTC,meredith dairy,Meredith Dairy Marinated Goat Cheese Jar,"Meat, Seafood & Deli",550g,g,,,,,,,,,,20,FALSE,20,FALSE,,,1534290578.0-W-12900
+2018-08-15 09:49:38 UTC,south cape,South Cape Marinated Fetta ,"Meat, Seafood & Deli",350g,g,,,,,,,,,,11.9,TRUE,10,FALSE,,,1534290578.0-W-12901
+2018-08-15 09:49:38 UTC,yarra valley,Yarra Valley Persian Fetta Classic ,"Meat, Seafood & Deli",350g,25g,14,,1400kJ,15g,29.1g,29.1g,3.9g,1.1g,400mg,10,FALSE,10,FALSE,,,1534290578.0-W-12902
+2018-08-15 09:49:38 UTC,la casa del formaggio,La Casa Del Formaggio Mozzarella Ball ,"Meat, Seafood & Deli",450g,25g,18,,1260kJ,26.0g,22.0g,14.1g,<1.0g,<1.0g,375mg,7.5,FALSE,7.5,FALSE,,,1534290578.0-W-12903
+2018-08-15 09:49:38 UTC,meredith,Meredith Goat Cheese In Olive Oil,"Meat, Seafood & Deli",320g,25g,7,,1230kJ,14g,25g,14g,3g,2g,950mg,12.99,FALSE,12.99,FALSE,,,1534290578.0-W-12904
+2018-08-15 09:49:38 UTC,castello,Castello Double Cream Brie ,"Meat, Seafood & Deli",300g,g,,,,,,,,,,11.99,FALSE,11.99,FALSE,,,1534290578.0-W-12905
+2018-08-15 09:49:38 UTC,bleu,Bleu D'auvergne Cheese ,"Meat, Seafood & Deli",per kg,,,,1430.00kJ,19.30g,28.00g,10.00g,1.00g,1.00g,1140.00mg,63,FALSE,63,FALSE,,,1534290578.0-W-12906
+2018-08-15 09:49:38 UTC,greek,Greek Kefalograviera ,"Meat, Seafood & Deli",per kg,,,,1390.00kJ,24.00g,30.00g,15.00g,0.00g,0.00g,1610.00mg,26.99,FALSE,26.99,FALSE,,,1534290578.0-W-12907
+2018-08-15 09:49:38 UTC,frico,Frico Gouda Cumin Cheese Wedge,"Meat, Seafood & Deli",255g,30g,9,,1539kJ,23g,30g,21g,0g,0g,737mg,6.99,FALSE,6.99,FALSE,,,1534290578.0-W-12908
+2018-08-15 09:49:38 UTC,frico,Frico Gouda Cheese Wedge,"Meat, Seafood & Deli",260g,30g,9,,1537kJ,23g,30g,21g,0g,0g,784mg,6.99,FALSE,6.99,FALSE,,,1534290578.0-W-12909
+2018-08-15 09:49:38 UTC,chrystal fresh,Chrystal Fresh Cheese Board Selection,"Meat, Seafood & Deli",275g,25g,11.8,,"Vintage Cheddar:1710kJ, Dutch Smoked: 1280kJ, Dutch gouda: 1600kJ, Peppercorn: 1670kJ","Vintage Cheddar:26.1g, Dutch Smoked: 20.4g, Dutch gouda: 23.8g, Peppercorn: 25.1g","Vintage Cheddar:33.1g, Dutch Smoked: 24.3g, Dutch gouda: 31.6g, Peppercorn: 33.0g","Vintage Cheddar:21.6g, Dutch Smoked: 15.0g, Dutch gouda: 22.2g, Peppercorn: 22.5g","Vintage Cheddar:2.5g, Dutch Smoked: 2.1g, Dutch gouda: 1.6g, Peppercorn: 1.9g","Vintage Cheddar: <0.5g, Dutch Smoked: <0.5g, Dutch gouda: <0.5g, Peppercorn: 1.9g","Vintage Cheddar:658mg, Dutch Smoked: 1570mg, Dutch gouda: 770mg, Peppercorn: 639mg",9.9,FALSE,9.9,FALSE,,,1534290578.0-W-12910
+2018-08-15 09:49:38 UTC,beechworth honey,Beechworth Honey Raw Honeycomb ,"Meat, Seafood & Deli",300g,100g,10,,Approx. 1401kJ,Approx. 0.3g,Approx. 0g,Approx. 0g,Approx. 82.1g,Approx. 82.1g,Approx. 14mg,15,FALSE,15,FALSE,,,1534290578.0-W-12911
+2018-08-15 09:49:38 UTC,castello,Castello Soft Mild Blue Cheese,"Meat, Seafood & Deli",300g,30g,10,,1780kJ,13.0g,42.0g,27.0g,0.1g,0.1g,640mg,11.99,FALSE,11.99,FALSE,,,1534290578.0-W-12912
+2018-08-15 09:49:38 UTC,geoff jansz,Geoff Jansz Marinated Fetta Cheese,"Meat, Seafood & Deli",320g,50g,6,,2149kJ,10.4g,52.6g,11.5g,1.3g,1.0g,602mg,7.5,FALSE,7.5,FALSE,,,1534290578.0-W-12913
+2018-08-15 09:49:38 UTC,monterey,Monterey Jack Jalapeno Cheese Jalapeno,"Meat, Seafood & Deli",per kg,,,,1650.00kJ,21.40g,32.10g,21.40g,0.00g,0.00g,679.00mg,38,FALSE,38,FALSE,,,1534290578.0-W-12914
+2018-08-15 09:49:38 UTC,woolworths fresh,Woolworths Fresh Dutch Log Smoked Cheese,"Meat, Seafood & Deli",per kg,,,,1170.00kJ,18.00g,21.40g,10.70g,3.50g,0.00g,1500.00mg,0,FALSE,0,FALSE,,,1534290578.0-W-12915
+2018-08-15 09:49:38 UTC,cropwell bishop,Cropwell Bishop Blue Stilton Cheese,"Meat, Seafood & Deli",per kg,,,,1600.00kJ,20.90g,33.50g,0.00g,100.00g,0.00g,780.00mg,79,FALSE,79,FALSE,,,1534290578.0-W-12916
+2018-08-15 09:49:38 UTC,fromager d'affinois,Fromager D'affinois Garlic & Herb Cheese ,"Meat, Seafood & Deli",per kg,,,,1380.00kJ,15.00g,30.00g,20.00g,1.20g,1.20g,600.00mg,80,FALSE,80,FALSE,,,1534290578.0-W-12917
+2018-08-15 09:49:38 UTC,il forteto,Il Forteto Cacio Di Bosco ,"Meat, Seafood & Deli",per kg,,,,1880.00kJ,24.10g,38.90g,24.70g,1.60g,0.00g,819.00mg,80,FALSE,80,FALSE,,,1534290578.0-W-12918
+2018-08-15 09:49:38 UTC,fromager d'affinois,Fromager D'affinois De Brebis ,"Meat, Seafood & Deli",per kg,,,,1250.00kJ,18.00g,25.00g,18.90g,1.00g,1.00g,600.00mg,95,FALSE,95,FALSE,,,1534290578.0-W-12919
+2018-08-15 09:49:38 UTC,cashel,Cashel Irish Blue Cheese ,"Meat, Seafood & Deli",per kg,,,,1440.00kJ,24.90g,27.20g,16.00g,0.10g,0.10g,862.00mg,98,FALSE,98,FALSE,,,1534290578.0-W-12920
+2018-08-15 09:49:38 UTC,auricchio,Auricchio Pecorino Romano ,"Meat, Seafood & Deli",per kg,28g,481kJ,,1720.00kJ,27.00g,34.00g,20.40g,<1g,<1g,1260.00mg,35,FALSE,35,FALSE,,,1534290578.0-W-12921
+2018-08-15 09:49:38 UTC,fromager d'affinois,Fromager D'affinois Red Chilli Pepper Cheese,"Meat, Seafood & Deli",per kg,,,,1410.00kJ,15.00g,,,1.00g,1.00g,580.00mg,80,FALSE,80,FALSE,,,1534290578.0-W-12922
+2018-08-15 09:49:38 UTC,port salut,Port Salut Cheese ,"Meat, Seafood & Deli",per kg,,,,1360.00kJ,21.00g,27.00g,18.00g,1.00g,1.00g,650.00mg,50,FALSE,50,FALSE,,,1534290578.0-W-12923
+2018-08-15 09:49:38 UTC,woolworths fresh,Woolworths Fresh Parmigianno Reggiano Cheese Wheel,"Meat, Seafood & Deli",per kg,,,,1640.00kJ,33.00g,28.40g,21.40g,1.00g,1.00g,643.00mg,56,FALSE,56,FALSE,,,1534290578.0-W-12924
+2018-08-15 09:49:38 UTC,jarlsberg,Jarlsberg Shaved Cheese,"Meat, Seafood & Deli",per kg,,,,1480.00kJ,27.00g,25.00g,14.00g,3.60g,1.00g,459.00mg,22,FALSE,22,FALSE,,,1534290578.0-W-12925
+2018-08-15 09:49:38 UTC,jarlsberg,Jarlsberg Cheese ,"Meat, Seafood & Deli",per kg,,,,1510.00kJ,28.00g,28.00g,17.00g,0.00g,0.00g,550.00mg,25,FALSE,25,FALSE,,,1534290578.0-W-12926
+2018-08-15 09:49:38 UTC,king island,King Island Surprise Bay Cheddar Cheese,"Meat, Seafood & Deli",per kg,,,,1590.00kJ,26.50g,30.00g,19.10g,1.00g,1.00g,655.00mg,42,FALSE,42,FALSE,,,1534290578.0-W-12927
+2018-08-15 09:49:38 UTC,woolworths fresh,Woolworths Fresh Round Loaf Maasdam Cheese,"Meat, Seafood & Deli",per kg,,,,1520.00kJ,26.80g,28.10g,17.90g,0.00g,0.00g,527.00mg,18,TRUE,9,FALSE,,,1534290578.0-W-12928
+2018-08-15 09:49:38 UTC,king island,King Island Smoke Stokes Cheddar Cheese,"Meat, Seafood & Deli",per kg,,,,1590.00kJ,26.50g,30.00g,19.10g,0.10g,0.10g,655.00mg,42,FALSE,42,FALSE,,,1534290578.0-W-12929
+2018-08-15 09:49:38 UTC,woolworths fresh,Woolworths Fresh Parmesan Grana Padano Cheese Wheel,"Meat, Seafood & Deli",per kg,,,,1610.00kJ,33.00g,28.00g,17.20g,0.00g,0.00g,1600.00mg,45,FALSE,45,FALSE,,,1534290578.0-W-12930
+2018-08-15 09:49:38 UTC,tasmanian heritage,Tasmanian Heritage Red Square Cheese,"Meat, Seafood & Deli",per kg,,,,1630.00kJ,17.50g,,,,0.50g,,55,FALSE,55,FALSE,,,1534290578.0-W-12931
+2018-08-15 09:49:38 UTC,singletons,Singletons Black Wax Cheddar Cheese,"Meat, Seafood & Deli",per kg,,,,1710.00kJ,25.50g,34.40g,21.70g,0.10g,0.10g,870.00mg,53,FALSE,53,FALSE,,,1534290578.0-W-12932
+2018-08-15 09:49:38 UTC,frico,Frico Maasdam Shaved Cheese,"Meat, Seafood & Deli",per kg,,,,1520.00kJ,26.80g,28.10g,17.90g,0.00g,0.00g,527.00mg,19.98,TRUE,9.99,FALSE,,,1534290578.0-W-12933
+2018-08-15 09:49:38 UTC,simon johnson,Simon Johnson Salted Caramel Wafers,"Meat, Seafood & Deli",80g,100g,2,,Approx. 1890kJ,Approx. 6.1g,Approx. 13.7g,Approx. 8.7g,Approx. 76.1g,Approx. 33.3g,Approx. 444mg,8.9,FALSE,8.9,FALSE,,,1534290578.0-W-12934
+2018-08-15 09:49:38 UTC,swiss,Swiss Maasdam Cheese Wedge,"Meat, Seafood & Deli",min. 300g,,,,1520.00kJ,26.80g,28.10g,17.90g,0.00g,0.00g,527.00mg,5.7,FALSE,5.7,FALSE,,,1534290578.0-W-12935
+2018-08-15 09:49:38 UTC,boursin,Boursin Herb & Garlic Cheese,"Meat, Seafood & Deli",80g,20g,4,,1667kJ,8.0g,40g,27g,3g,,510mg,6.49,FALSE,6.49,FALSE,,,1534290578.0-W-12936
+2018-08-15 09:49:38 UTC,alambra,Alambra Cypriot Halloumi,"Meat, Seafood & Deli",850g,25g,34,,1331kJ,22.0g,25.0g,16.0g,1.9g,1.6g,,18.99,FALSE,18.99,FALSE,,,1534290578.0-W-12937
+2018-08-15 09:49:38 UTC,beechworth honey,Beechworth Honey Almond Honey Nougat ,"Meat, Seafood & Deli",86g,100g,5,,Approx. 1960kJ,Approx. 8.2g,Approx. 20.8g,Approx. 1.4g,Approx. 60.4g,Approx. 59.2g,Approx. 17mg,12,FALSE,12,FALSE,,,1534290578.0-W-12938
+2018-08-15 09:49:38 UTC,beechworth honey,Beechworth Honey Macadamia Honey Nougat ,"Meat, Seafood & Deli",86g,100g,5,,Approx. 2140kJ,Approx. 3.5g,Approx. 28.3g,Approx. 3.8g,Approx. 60g,Approx. 58.8g,Approx. 16mg,12,FALSE,12,FALSE,,,1534290578.0-W-12939
+2018-08-15 09:49:38 UTC,riverina,Riverina Haloumi Log Haloumi Log,"Meat, Seafood & Deli",900g,g,,,,,,,,,,18,FALSE,18,FALSE,,,1534290578.0-W-12940
+2018-08-15 09:49:38 UTC,will studd aphrodite,Will Studd Aphrodite Halloumi ,"Meat, Seafood & Deli",min. 250g,,,,1270.00kJ,21.00g,25.00g,14.00g,4.00g,0.00g,857.00mg,10,FALSE,10,FALSE,,,1534290578.0-W-12941
+2018-08-15 09:49:38 UTC,danish,Danish Fetta Cheese,"Meat, Seafood & Deli",per kg,,,,935.00kJ,17.00g,17.00g,1.20g,1.00g,1.00g,1.00mg,14.99,FALSE,14.99,FALSE,,,1534290578.0-W-12942
+2018-08-15 09:49:38 UTC,dodoni,Dodoni Greek Fetta Cheese,"Meat, Seafood & Deli",per kg,per,,,,,,,,,,29,FALSE,29,FALSE,,,1534290578.0-W-12943
+2018-08-15 09:49:38 UTC,meredith dairy,Meredith Dairy Goat Cheese Dill,"Meat, Seafood & Deli",80g,g,,,,,,,,,,6,TRUE,4,FALSE,,,1534290578.0-W-12946
+2018-08-15 09:49:38 UTC,meredith dairy,Meredith Dairy Goat Cheese Chives And Garlic,"Meat, Seafood & Deli",80g,g,,,,,,,,,,6,TRUE,4,FALSE,,,1534290578.0-W-12953
+2018-08-15 10:29:37 UTC,beak & sons,Beak & Sons Gourmet Chicken With Mushroom Sausages,"Meat, Seafood & Deli",500g,84g (1 Sausage),6,,687kJ,14.1g,9.7g,3.1g,5.2g,<0.5g,480mg,7.5,TRUE,6.5,FALSE,,,1534292977.0-W-13120
+2018-08-15 13:49:43 UTC,kebia,Kebia Bulgarian Goats Cheese,"Meat, Seafood & Deli",450g,28g (1' cube),16,,310kJ,4.5g,6.0g,4.5g,0.2g,0.2g,390mg,9.89,FALSE,9.89,FALSE,,,1534304983.0-W-13142

@@ -1,0 +1,957 @@
+Date of data Extraction,Brand,Product name,Category,Pack size,Serving size,Servings per pack,Product code,Energy per 100g (or 100ml),Protein per 100g (or 100ml),Total fat per 100g (or 100ml),Saturated fat per 100g (or 100ml),Carbohydrate per 100g (or 100ml),Sugars per 100g (or 100ml),Sodium per 100g (or 100ml),Original Price,Price Promoted,Price Promoted Price,Multi Buy Special,Multi Buy Special Details,Multi Buy Price,UID
+2018-08-15 06:49:39 UTC,birds eye ,Birds Eye Hash Browns ,Freezer,375g,62.0g,6,,795kJ,1.9g,10.8g,0.8g,20.2g,<1g,350mg,3.19,TRUE,3,FALSE,,,1534279779.0-W-2194
+2018-08-15 06:49:39 UTC,bell farms,Bell Farms Crunchy Chips ,Freezer,750g,100g,7.5,,537kJ,2.3g,3.7g,<1.0g,20.4g,0.3g,127mg,3,TRUE,2.5,FALSE,,,1534279779.0-W-2195
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Chunky Steakhouse Chips,Freezer,1kg,100g,10,,Approx. 550kJ,Approx. 3.1g,Approx. 3.7g,<1g,Approx. 19.9g,Approx. 0.5g,Approx. 39mg,2.69,TRUE,2,FALSE,,,1534279779.0-W-2196
+2018-08-15 06:49:39 UTC,birds eye ,Birds Eye Golden Crunch Straight Cut Chips,Freezer,1kg,100g,10,,561kJ,2.0g,4.5g,0.3g,20.1g,<1g,283mg,4.29,TRUE,3,FALSE,,,1534279779.0-W-2197
+2018-08-15 06:49:39 UTC,birds eye golden crunch ,Birds Eye Golden Crunch Crinkle Cut Chips,Freezer,1kg,100g,10,,634kJ,2.2g,5.0g,0.4g,23.1g,<1g,286mg,4.29,TRUE,3,FALSE,,,1534279779.0-W-2198
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Potato Minis,Freezer,1kg,100g,10,,662kJ,2.4g,8.1g,<1.0g,17.8g,0.5g,388mg,3.49,TRUE,2.9,FALSE,,,1534279779.0-W-2199
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Golden Crunch Crisps Lightly Seasoned,Freezer,500g,g,,,,,,,,,,3.99,TRUE,1.99,FALSE,,,1534279779.0-W-2200
+2018-08-15 06:49:39 UTC,birds eye deli,Birds Eye Deli Seasoned Roast Potatoes Rosemary & Garlic,Freezer,600g,100.0g,6,,578kJ,2.0g,6.0g,0.5g,17.6g,<1.0g,224mg,3.95,TRUE,1.97,FALSE,,,1534279779.0-W-2201
+2018-08-15 06:49:39 UTC,simply wize,Simply Wize Pastry Puff Gluten Free,Freezer,540g,30g,18,,1213kJ,3.1g,7.5g,4.7g,51.3g,4.3g,378mg,8.99,FALSE,8.99,FALSE,,,1534279779.0-W-2202
+2018-08-15 06:49:39 UTC,noshu,Noshu Donut Caramel Spice ,Freezer,45g,g,,,,,,,,,,3.75,FALSE,3.75,FALSE,,,1534279779.0-W-2203
+2018-08-15 06:49:39 UTC,bell farms,Bell Farms French Fries ,Freezer,1kg,100g,10,,592kJ,2.5g,4.0g,<1g,22.6g,0.6g,29mg,3,TRUE,2.5,FALSE,,,1534279779.0-W-2204
+2018-08-15 06:49:39 UTC,birds eye ,Birds Eye Golden Crunch Wedges,Freezer,1kg,100.0g,10,,534kJ,1.9g,4.1g,0.3g,19.2g,<1g,249mg,4.29,TRUE,3,FALSE,,,1534279779.0-W-2205
+2018-08-15 06:49:39 UTC,noshu,Noshu Donut Banana & Coconut ,Freezer,45g,g,,,,,,,,,,3.75,FALSE,3.75,FALSE,,,1534279779.0-W-2206
+2018-08-15 06:49:39 UTC,noshu,Noshu Donut Strawberry ,Freezer,45g,45g,,,Approx. 1100kJ,Approx. 9g,Approx. 18.7g,Approx. 13.9g,Approx. 7.1g,Approx. 3.2g,Approx. 110mg,3.75,FALSE,3.75,FALSE,,,1534279779.0-W-2207
+2018-08-15 06:49:39 UTC,kez's kitchen ,Kez's Kitchen Gluten Free Melting Moment Ice Cream,Freezer,473ml,Ml,,,,,,,,,,9.9,FALSE,9.9,FALSE,,,1534279779.0-W-2208
+2018-08-15 06:49:39 UTC,mccain,Mccain Gluten Free Chips ,Freezer,750g,g,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534279779.0-W-2209
+2018-08-15 06:49:39 UTC,bell farms,Bell Farms Frozen Chips Steak Cut,Freezer,1kg,100g,10,,551g,2.0g,4.0g,<1g,20.9g,0.6g,24mg,3,TRUE,2.5,FALSE,,,1534279779.0-W-2210
+2018-08-15 06:49:39 UTC,bell farms,Bell Farms Frozen Mash Potato ,Freezer,1kg,100g,10,,410kJ,1.8g,3.0g,2.0g,15.0g,0.3g,220mg,3.5,FALSE,3.5,FALSE,,,1534279779.0-W-2211
+2018-08-15 06:49:39 UTC,tutto pasta,Tutto Pasta Gluten Free Vegetarian Lasagne,Freezer,350g,350g,1,,534kJ,4.4g,5.6g,2.4g,13.6g,3.0g,588mg,7.8,FALSE,7.8,FALSE,,,1534279779.0-W-2212
+2018-08-15 06:49:39 UTC,jases kitchen,Jases Kitchen Gluten Free Mini Apple Pies,Freezer,300g,75g,4,,1130kJ,3.7g,7.5g,3.3g,45.4g,31.2g,79mg,8.99,TRUE,7.2,FALSE,,,1534279779.0-W-2213
+2018-08-15 06:49:39 UTC,mr chens,Mr Chens Gluten Free Pork Dumpling ,Freezer,300g,g,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534279779.0-W-2214
+2018-08-15 06:49:39 UTC,syndian,Syndian Lighter Being Veg Boost Burger,Freezer,400g,100g,4,,425.09kJ,2.85g,2.45g,0.28g,15.74g,1.39g,324.81mg,7,FALSE,7,FALSE,,,1534279779.0-W-2215
+2018-08-15 06:49:39 UTC,ingham,Ingham Chicken Breast Tenders Gluten Free,Freezer,400g,100g,4,,791kJ,14.9g,7.4g,0.8g,15.5g,<1g,433mg,9,FALSE,9,FALSE,,,1534279779.0-W-2216
+2018-08-15 06:49:39 UTC,cheesebuddy,Cheesebuddy Gluten Free Cheese Puffs,Freezer,450g,24g (uncooked 30g) 1 cheesebuddy,15,,1380kJ,6g,15g,6.2g,40g,1.4g,517mg,6.59,TRUE,5.89,FALSE,,,1534279779.0-W-2217
+2018-08-15 06:49:39 UTC,noshu,Noshu Donut Chocolate Raspberry ,Freezer,45g,45g,,,Approx. 1240kJ,Approx. 11g,Approx. 21.4g,Approx. 16.3g,Approx. 7.1g,Approx. 3g,Approx. 110mg,3.75,FALSE,3.75,FALSE,,,1534279779.0-W-2218
+2018-08-15 06:49:39 UTC,sealord,Sealord Gluten Free Hoki Bites,Freezer,350g,87.5g (Approx. 3 pieces),4,,796kJ,11.2g,6.8g,0.6g,20.8g,1.5g,410mg,8.8,FALSE,8.8,FALSE,,,1534279779.0-W-2219
+2018-08-15 06:49:39 UTC,syndian,Syndian Lighter Vegetarian Lentil Burger Patties,Freezer,400g,100g,4,,489.79kJ,5.48g,2.93g,0.37g,15.11g,1.56g,209.04mg,7,FALSE,7,FALSE,,,1534279779.0-W-2220
+2018-08-15 06:49:39 UTC,ingham,Ingham Breast Schnitzel Gluten Free,Freezer,400g,100g (Approx. 1 Crumbled Breast),Approx.4,,877kJ,12.0g,9.1g,1.1g,19.8g,1.9g,358mg,9,FALSE,9,FALSE,,,1534279779.0-W-2221
+2018-08-15 06:49:39 UTC,zehnder,Zehnder Gluten Free Chocolate Puddings,Freezer,2x90g,90g,2,,1410kJ,3.9g,12.6g,3.5g,48.2g,38.1g,145mg,6,FALSE,6,FALSE,,,1534279779.0-W-2222
+2018-08-15 06:49:39 UTC,simply,Simply Gluten Free Spring Rolls,Freezer,228g,57g,4,,605kJ,2.4g,9.8g,0.7g,13.2g,0.9g,209mg,7.99,FALSE,7.99,FALSE,,,1534279779.0-W-2223
+2018-08-15 06:49:39 UTC,sealord,Sealord Gluten Free Hoki Fillets,Freezer,280g,140g (approx. 2 fillets),2,,1134kJ,16.7g,9.8g,0.8g,28.7g,1.0g,476mg,8.8,FALSE,8.8,FALSE,,,1534279779.0-W-2224
+2018-08-15 06:49:39 UTC,jase's kitchen,Jase's Kitchen Sausage Rolls Gluten Free,Freezer,3 pack,,,,,,,,,,,9.99,FALSE,9.99,FALSE,,,1534279779.0-W-2225
+2018-08-15 06:49:39 UTC,simply,Simply Gluten Free Custard Pastries,Freezer,300g,30g,10,,1469kJ,1.8g,18g,7.1g,46.1g,10.4g,457mg,7.99,FALSE,7.99,FALSE,,,1534279779.0-W-2226
+2018-08-15 06:49:39 UTC,gluten free bakehouse,Gluten Free Bakehouse Chunky Beef Pie,Freezer,2 pack,,,,,,,,,,,8,TRUE,7,FALSE,,,1534279779.0-W-2227
+2018-08-15 06:49:39 UTC,jase's kitchen,Jase's Kitchen Frozen Pizza Base Gluten Free,Freezer,2 pack,190g,2,,1160kJ,2.9g,3.3g,0.8g,56.6g,3.3g,350mg,7.99,FALSE,7.99,FALSE,,,1534279779.0-W-2228
+2018-08-15 06:49:39 UTC,amys,Amys Gluten Free Rice Mac & Cheese,Freezer,255g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534279779.0-W-2229
+2018-08-15 06:49:39 UTC,bayview gluten free,Bayview Gluten Free Chicken Pieces Breast  Bites,Freezer,260g,22g,12,,909kJ,13.9g,7.7g,0.8g,22.8g,0.8g,365mg,8.99,FALSE,8.99,FALSE,,,1534279779.0-W-2230
+2018-08-15 06:49:39 UTC,zehnder,Zehnder Gluten Free Sticky Date Puddings,Freezer,2x90g,90g,2,,1085kJ,1.8g,8.6g,4.5g,43.5g,35.4g,256mg,6,FALSE,6,FALSE,,,1534279779.0-W-2231
+2018-08-15 06:49:39 UTC,, Mexican Steak Taco Bundle ,Freezer,,,,,,,,,,,,11.5,FALSE,11.5,FALSE,,,1534279779.0-W-2232
+2018-08-15 06:49:39 UTC,i&j,I&j Battered Fish Light And Crispy Lemon,Freezer,570g,71g,8,,890kJ,12.5g,8.2g,0.6g,21.9g,<0.99g,264mg,6.5,FALSE,6.5,FALSE,,,1534279779.0-W-2233
+2018-08-15 06:49:39 UTC,i&j light and crispy,I&j Light And Crispy Crumbed Fish Original,Freezer,570g,141g,4,,883kJ,12.5g,8.2g,0.6g,21.5g,<1g,399mg,6.5,FALSE,6.5,FALSE,,,1534279779.0-W-2234
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Fish Cakes Salmon With Vegetables & Herbs,Freezer,480g,80.0g,6,,850kJ,8.5g,10.3g,1.4g,18.3g,4.2g,260mg,7.5,FALSE,7.5,FALSE,,,1534279779.0-W-2235
+2018-08-15 06:49:39 UTC,findus jamie oliver,Findus Jamie Oliver Fish Fingers ,Freezer,720g,90g,8,,873kJ,11.3g,9.1g,1.0g,20.8g,1.0g,322mg,8.99,FALSE,8.99,FALSE,,,1534279779.0-W-2236
+2018-08-15 06:49:39 UTC,amy's mexican,Amy's Mexican Burrito Cheddar & Rice,Freezer,156g,,,,690kJ,5.8g,5.1g,1.3g,24.0g,1.9g,276mg,5.25,FALSE,5.25,FALSE,,,1534279779.0-W-2237
+2018-08-15 06:49:39 UTC,jases kitchen,Jases Kitchen Mini Lemon Cheesecake ,Freezer,180g,g,,,,,,,,,,5.55,FALSE,5.55,FALSE,,,1534279779.0-W-2238
+2018-08-15 06:49:39 UTC,jases kitchen,Jases Kitchen Gluten Free Chicken Pesto Pizza,Freezer,185g,46.25g,4,,1040kJ,10.2kJ,10.9g,3.4g,27.1g,3.1g,573mg,6.99,TRUE,5.6,FALSE,,,1534279779.0-W-2239
+2018-08-15 06:49:39 UTC,the cooks cuts,The Cooks Cuts Chuck Eye Roast ,Freezer,800g - 1.1kg,g,,,,,,,,,,18.7,FALSE,18.7,FALSE,,,1534279779.0-W-2240
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Beef Chuck Slow Cook Large,Freezer,850g - 1.15kg,g,,,,,,,,,,13.8,FALSE,13.8,FALSE,,,1534279779.0-W-2241
+2018-08-15 06:49:39 UTC,woolworths simply heat,Woolworths Simply Heat Butterflied Beef In A Rich And Savoury Sauce,Freezer,min 830g,min,,,,,,,,,,16.59,FALSE,16.59,FALSE,,,1534279779.0-W-2242
+2018-08-15 06:49:39 UTC,woolworths simply heat,Woolworths Simply Heat Smoked Beef Brisket,Freezer,min. 750g,125g,8,,932kJ,17.3g,14.4g,6.0g,6.2g,5.8g,479mg,15.75,FALSE,15.75,FALSE,,,1534279779.0-W-2243
+2018-08-15 06:49:39 UTC,grasslands,Grasslands Premium Beef Mince,Freezer,500g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534279779.0-W-2244
+2018-08-15 06:49:39 UTC,msa australian beef ,Msa Australian Beef Osso Bucco ,Freezer,550g - 850g,g,,,,,,,,,,13.6,FALSE,13.6,FALSE,,,1534279779.0-W-2245
+2018-08-15 06:49:39 UTC,the cooks cuts,The Cooks Cuts Beef Cheek,Freezer,600g - 850g,g,,,,,,,,,,13.6,FALSE,13.6,FALSE,,,1534279779.0-W-2246
+2018-08-15 06:49:39 UTC,the cooks cuts,The Cooks Cuts Beef Brisket,Freezer,700g - 900g,g,,,,,,,,,,10.8,FALSE,10.8,FALSE,,,1534279779.0-W-2247
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Flat Iron Steak,Freezer,min. 250g,min,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534279779.0-W-2248
+2018-08-15 06:49:39 UTC,woolworths simply heat,Woolworths Simply Heat Smoked Beef Ribs,Freezer,min. 750g,125g,8,,984kJ,16.9g,15.8g,9.1g,6.6g,5.2g,485mg,15,FALSE,15,FALSE,,,1534279779.0-W-2249
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Chicken Family Duets Creamy Garlic,Freezer,600g,150g (1 Duet),4,,1000kJ,12.1g,15.8g,6.3g,12.3g,3.8g,426mg,11,TRUE,10,FALSE,,,1534279779.0-W-2250
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Crumbed Chicken Nuggets Family Pack,Freezer,700g,100g (Approx. 4 nuggets),Approx.7,,1087kJ,9.8g,14.9g,4.6g,21.7g,1.1g,798mg,7.99,TRUE,7,FALSE,,,1534279779.0-W-2251
+2018-08-15 06:49:39 UTC,the cooks cuts,The Cooks Cuts Beef Flank Steak,Freezer,300g - 500g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534279779.0-W-2252
+2018-08-15 06:49:39 UTC,msa beef rump,Msa Beef Rump Steak 2-3 Pieces,Freezer,800g - 1.2kg,g,,,,,,,,,,27.6,FALSE,27.6,FALSE,,,1534279779.0-W-2253
+2018-08-15 06:49:39 UTC,msa beef rump,Msa Beef Rump Steak 1-2 Pieces,Freezer,300g - 700g,g,,,,,,,,,,16.1,FALSE,16.1,FALSE,,,1534279779.0-W-2254
+2018-08-15 06:49:39 UTC,beef,Beef Sizzle Steak ,Freezer,400g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534279779.0-W-2255
+2018-08-15 06:49:39 UTC,msa beef blade boneless,Msa Beef Blade Boneless Steak 1-2 Pieces,Freezer,400g - 800g,g,,,,,,,,,,13.6,FALSE,13.6,FALSE,,,1534279779.0-W-2256
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Simply Stir-fry Bulgogi Beef,Freezer,500g,100.0g,4,,Approx. 679.0kJ,Approx. 20.2g,Approx. 5.8g,Approx. 2.4g,Approx. 7.1g,Approx. 3.9g,Approx. 424.0mg,10,FALSE,10,FALSE,,,1534279779.0-W-2257
+2018-08-15 06:49:39 UTC,the cooks cuts,The Cooks Cuts Hanger Steak ,Freezer,200g - 400g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534279779.0-W-2258
+2018-08-15 06:49:39 UTC,msa beef scotch fillet,Msa Beef Scotch Fillet Steak 3-4 Pieces,Freezer,500g - 900g,g,,,,,,,,,,31.5,TRUE,29.7,FALSE,,,1534279779.0-W-2259
+2018-08-15 06:49:39 UTC,i&j,I&j Sea Shantys ,Freezer,420g,105g,4,,973kJ,7.9g,13.8g,1.3g,18.5g,1.7g,390mg,5.5,FALSE,5.5,FALSE,,,1534279779.0-W-2260
+2018-08-15 06:49:39 UTC,i&j light & crispy,I&j Light & Crispy Lightly Seasoned Crumbed Fish Portions,Freezer,570g,141g,4,,896kJ,12.4g,8.6g,0.6g,21.4g,<0.99g,445mg,6.5,FALSE,6.5,FALSE,,,1534279779.0-W-2261
+2018-08-15 06:49:39 UTC,, I&j Salt & Pepper Crumbed Squid 360g X2 Bundle ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534279779.0-W-2262
+2018-08-15 06:49:39 UTC,, I&j Salt & Pepper Crumbed Calamari 360g X2 Bundle ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534279779.0-W-2263
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Scotch Fillet Steak,Freezer,170g,g,,,,,,,,,,7,FALSE,7,TRUE,2,6,1534279779.0-W-2264
+2018-08-15 06:49:39 UTC,woolworths msa,Woolworths Msa Slow Cooked Beef Chuck Steak,Freezer,300g - 700g,g,,,,,,,,,,14.99,TRUE,8.4,FALSE,,,1534279779.0-W-2265
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Chicken Breast Schnitzel,Freezer,400g,Approx.100g,4,,889kJ,13.0g,9.0g,2.4g,19.7g,2.8g,331mg,8.15,TRUE,7,FALSE,,,1534279779.0-W-2266
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Simply Heat Beef Ragu ,Freezer,500g,250g,2,,Approx. 436kJ,Approx. 12.6g,Approx. 3.8g,Approx. 1.6g,Approx. 4.8g,Approx. 2.5g,Approx. 213mg,10,TRUE,9,FALSE,,,1534279779.0-W-2267
+2018-08-15 06:49:39 UTC,, I&j Frozen Crumbed Calamari Rings 400g X2 Bundle ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534279779.0-W-2268
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Eye Fillet Steak ,Freezer,250g - 450g,g,,,,,,,,,,19.8,TRUE,17.55,FALSE,,,1534279779.0-W-2269
+2018-08-15 06:49:39 UTC,sealord southern,Sealord Southern Blue Whiting Classic Crumb,Freezer,4pk 420g,g,,,,,,,,,,8.49,FALSE,8.49,FALSE,,,1534279779.0-W-2270
+2018-08-15 06:49:39 UTC,sealord,Sealord Hoki Fillets Classic Crumb,Freezer,425g,140g (approx 2 fillets),3,,719kJ,12.3g,7.4g,0.8g,13.9g,3.1,190mg,8.79,FALSE,8.79,FALSE,,,1534279779.0-W-2271
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Wild Caught Deep Sea Dory Original Crumb,Freezer,425g,140g,6,,855kJ,10.4g,8.9g,0.8g,20.1g,3.3g,333mg,9.49,TRUE,7.5,FALSE,,,1534279779.0-W-2272
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Southern Blue Whiting Original Crumb,Freezer,425g,140g,6,,850kJ,11.5g,8.9g,0.7g,18.5g,4.2g,268mg,9.49,TRUE,7.5,FALSE,,,1534279779.0-W-2273
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Wild Caught Deep Sea Dory Zesty Lemon Crumb,Freezer,425g,140g,6,,855kJ,10.4g,8.9g,0.8g,20.1g,3.3g,380mg,9.49,TRUE,7.5,FALSE,,,1534279779.0-W-2274
+2018-08-15 06:49:39 UTC,sealord southern,Sealord Southern Blue Whiting Tempura,Freezer,4pk 390g,g,,,,,,,,,,8.49,FALSE,8.49,FALSE,,,1534279779.0-W-2275
+2018-08-15 06:49:39 UTC,i&j,I&j Battered Fish Fillets Tempura,Freezer,570g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534279779.0-W-2276
+2018-08-15 06:49:39 UTC,i&j beer,I&j Beer Battered Fish Fillets,Freezer,570g,71g,8,,744kJ,10.3g,8.0g,0.8g,15.7g,2.2g,417mg,6.5,FALSE,6.5,FALSE,,,1534279779.0-W-2277
+2018-08-15 06:49:39 UTC,sealord,Sealord Dory Classic Crumb ,Freezer,4pk 320g,160g,2,,1677kJ,15.8g,27.7g,3.2g,22.4g,22.4g,352mg,7.49,TRUE,5,FALSE,,,1534279779.0-W-2278
+2018-08-15 06:49:39 UTC,essentials fish oven,Essentials Fish Oven Crumbed ,Freezer,500g,Fish fillet,6,,1050kJ,12.6g,11.9g,5.5g,23.0g,1.9g,316mg,3.99,FALSE,3.99,FALSE,,,1534279779.0-W-2279
+2018-08-15 06:49:39 UTC,birds eye oven bake,Birds Eye Oven Bake Crumbed Lemon,Freezer,425g,141.0g,6,,878kJ,12.1g,8.8g,0.9g,19.8g,3.8g,270mg,8.79,FALSE,8.79,FALSE,,,1534279779.0-W-2280
+2018-08-15 06:49:39 UTC,i&j,I&j Frozen Calamari Rings,Freezer,400g,,,,,9.5g,,,,<1g,,7.99,FALSE,7.99,FALSE,,,1534279779.0-W-2281
+2018-08-15 06:49:39 UTC,findus jamie oliver,Findus Jamie Oliver Fish Cakes With Parsley Crumb,Freezer,4 pack,100g,2,,765kJ,8.2g,7.7g,1.1g,20.8g,4.3g,189mg,4.69,TRUE,3.75,FALSE,,,1534279779.0-W-2282
+2018-08-15 06:49:39 UTC,sealord classic,Sealord Classic Crumbed Fish Bites,Freezer,400g,g,,,,,,,,,,8.29,TRUE,7,FALSE,,,1534279779.0-W-2283
+2018-08-15 06:49:39 UTC,sealord southern,Sealord Southern Blue Whiting Classic Crumb Bites,Freezer,400g,100g,4,,900kJ,13.9g,11.0g,0.8g,15.1g,2.9g,310mg,8.49,FALSE,8.49,FALSE,,,1534279779.0-W-2284
+2018-08-15 06:49:39 UTC,i&j,I&j Lightly Crumbed Fish Bites,Freezer,400g,g,,,,,,,,,,6.99,TRUE,3.5,FALSE,,,1534279779.0-W-2285
+2018-08-15 06:49:39 UTC,birdseye ,Birdseye Oven Bake Salt & Pepper ,Freezer,425g,141.00g,3,,887kJ,10.7g,10.1g,0.9g,18.8g,2.2g,348mg,8.79,FALSE,8.79,FALSE,,,1534279779.0-W-2286
+2018-08-15 06:49:39 UTC,birds eye oven bake,Birds Eye Oven Bake Crumbed ,Freezer,425g,g,,,,,,,,,,8.79,FALSE,8.79,FALSE,,,1534279779.0-W-2287
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Hoki And Veg Lil Fishie,Freezer,330g,66g,5,,883kJ,8.8g,8.9g,0.9g,22.9g,3.2g,268mg,5.6,TRUE,4.5,FALSE,,,1534279779.0-W-2288
+2018-08-15 06:49:39 UTC,sealord,Sealord Hoki Fries Classic Crumb ,Freezer,350g,g,,,,,,,,,,8.29,TRUE,7,FALSE,,,1534279779.0-W-2289
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Steam Fresh Lemon & Parsley Fish Fillets,Freezer,360g,180g,2,,338kJ,12.3g,2.8g,0.6g,1.5g,<1g,320mg,7.99,TRUE,3.99,FALSE,,,1534279779.0-W-2290
+2018-08-15 06:49:39 UTC,sealord,Sealord Hoki Fillets Tempura Batter,Freezer,390g,130g (approx. 2 fillets),3,,789kJ,12.8g,10.1g,1.0g,11.6g,2.8g,240mg,8.79,FALSE,8.79,FALSE,,,1534279779.0-W-2291
+2018-08-15 06:49:39 UTC,findus jamie oliver,Findus Jamie Oliver Fish Cakes Pollock,Freezer,4 pack,100g,2,,796kJ,9.9g,8.4g,1.5g,19.4g,2.2g,229mg,4.69,TRUE,3.75,FALSE,,,1534279779.0-W-2292
+2018-08-15 06:49:39 UTC,sealord,Sealord Hoki Fillets Premium Lime & Coconut,Freezer,350g,150g,2,,730kJ,12.5g,7.5g,1.1g,14.1g,3.4g,270mg,6.59,FALSE,6.59,FALSE,,,1534279779.0-W-2293
+2018-08-15 06:49:39 UTC,i&j,I&j Salt & Pepper Calamari,Freezer,360g,120.0g,3,,1000kJ,8.7g,12.6g,2.0g,22.7g,<1.0g,449mg,7.99,FALSE,7.99,FALSE,,,1534279779.0-W-2294
+2018-08-15 06:49:39 UTC,i&j,I&j Salt & Pepper Squid ,Freezer,360g,100g,3.6,,629kJ,10.5g,5.9g,0.9g,13.7g,<1.0g,694mg,7.99,FALSE,7.99,FALSE,,,1534279779.0-W-2295
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Steam Fresh Thai Coconut Curry Fish Fillets,Freezer,360g,180g,2,,339kJ,12.8g,2.4g,0.7g,1.9g,<1g,245mg,7.99,FALSE,7.99,FALSE,,,1534279779.0-W-2296
+2018-08-15 06:49:39 UTC,sealord,Sealord Hoki Fillets Fish Bites Lemon Pepper,Freezer,350g,87.5g (approx. 3 pieces),4,,893kJ,12g,9.7g,0.9g,19.4g,4.3g,220mg,8.29,TRUE,7,FALSE,,,1534279779.0-W-2297
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Deli Hoki Fillets Lightly Battered,Freezer,250g,g,,,,,,,,,,6.99,FALSE,6.99,FALSE,,,1534279779.0-W-2298
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Fresh Caught Barramundi Original Crumb,Freezer,270g,134.0g,4,,896kJ,12.9g,10.5g,1.2g,16.3g,2.0g,221mg,9.49,TRUE,7.5,FALSE,,,1534279779.0-W-2299
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Deli New Zealand Hoki Lemon Lime & Herb,Freezer,260g,g,,,,,,,,,,6.99,FALSE,6.99,FALSE,,,1534279779.0-W-2300
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye South Atlantic Flathead,Freezer,270g,135.0g,2,,826kJ,12.1g,7.9g,0.7g,18.7g,3.7g,403mg,9.49,TRUE,7.5,FALSE,,,1534279779.0-W-2301
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Fillets Natural Salmon,Freezer,270g,130.0g,2,,918kJ,19.8g,15.7g,2.5g,<1.0g,<1.0g,26mg,12.5,FALSE,12.5,FALSE,,,1534279779.0-W-2302
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Salmon Provencale Lemon Pepper,Freezer,270g,130.0g,2,,938kJ,19.8g,15.7g,2.5g,1.0g,1.0g,200mg,12.5,FALSE,12.5,FALSE,,,1534279779.0-W-2303
+2018-08-15 06:49:39 UTC,ocean chef,Ocean Chef Salmon Parcels In Leek & Cheese Sauce,Freezer,280g,140g,2,,1100kJ,9g,16.5g,6.2g,19g,<1g,194mg,9.99,TRUE,4.99,FALSE,,,1534279779.0-W-2304
+2018-08-15 06:49:39 UTC,sealord,Sealord Dori Wholemeal Crumb ,Freezer,2pk 230g,115g,2,,1030kJ,10.0g,12.9g,1.0g,22.5g,4.g,334mg,7.49,TRUE,6,FALSE,,,1534279779.0-W-2305
+2018-08-15 06:49:39 UTC,sealord,Sealord Hoki Parmesan & Rosemary ,Freezer,2pk 300g,150g (1 fillet),2,,1064kJ,19.2g,9.5g,0.9g,22.8g,2.6g,345mg,6.59,FALSE,6.59,FALSE,,,1534279779.0-W-2306
+2018-08-15 06:49:39 UTC,birds eye ,Birds Eye Fish Cakes Oven Fry,Freezer,300g,,,,,,,1.0g,,,450mg,4.99,FALSE,4.99,FALSE,,,1534279779.0-W-2307
+2018-08-15 06:49:39 UTC,homebrand,Homebrand Fish Fingers ,Freezer,1kg,50g,20,,971kJ,10.1g,13.1g,2.4g,18.0g,1.7g,344mg,3.79,FALSE,3.79,FALSE,,,1534279779.0-W-2308
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Fish Fingers ,Freezer,375g,75.0g,5,,849kJ,10.7g,8.8g,0.8g,20.1g,1.4g,252mg,5.6,FALSE,5.6,FALSE,,,1534279779.0-W-2309
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Frozen Fish Fillets Battered,Freezer,1kg,,,,Approx. 770kJ,Approx. 11.1g,,,Approx. 15.6g,Approx. 3.7g,,7.6,FALSE,7.6,FALSE,,,1534279779.0-W-2310
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Fish Fillets Crumbed,Freezer,425g,142g,3,,Approx. 898kJ,Approx. 11.8g,Approx. 9.3g,Approx. 1g,Approx. 20.2g,Approx. 3.8g,Approx. 316mg,4.2,FALSE,4.2,FALSE,,,1534279779.0-W-2311
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Fish Fingers Fillets,Freezer,400g,50g,8,,720kJ,11.1,7,2.2,16.0g,<0.3g,206mg,3.8,FALSE,3.8,FALSE,,,1534279779.0-W-2312
+2018-08-15 06:49:39 UTC,sealord premium,Sealord Premium Hoki Fillets Wholemeal,Freezer,2 pack,,,,,,,,,,,6.59,FALSE,6.59,FALSE,,,1534279779.0-W-2313
+2018-08-15 06:49:39 UTC,birds eye deli,Birds Eye Deli Whiting Crisp Light Batter ,Freezer,250g,g,,,,,,,,,,6.99,FALSE,6.99,FALSE,,,1534279779.0-W-2314
+2018-08-15 06:49:39 UTC,birds eye,Birds Eye Fish Fingers ,Freezer,1kg,75.0g,13.3,,849kJ,10.7g,8.8g,0.8g,20.1g,1.4g,252mg,8.99,TRUE,7,FALSE,,,1534279779.0-W-2315
+2018-08-15 06:49:39 UTC,woolworths select,Woolworths Select Battered Fish Fillets,Freezer,425g,142g,3,,Approx. 770kJ,Approx. 11.1g,Approx. 8.4g,<1g,Approx. 15.6g,Approx. 3.7g,Approx. 319mg,4.2,FALSE,4.2,FALSE,,,1534279779.0-W-2316
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Frozen Fish Crumbed,Freezer,1kg,100g,7,,Approx. 898kJ,Approx. 11.8g,Approx. 9.3g,Approx. 1g,Approx. 20.2g,Approx. 3.8g,Approx. 316mg,7.6,FALSE,7.6,FALSE,,,1534279779.0-W-2317
+2018-08-15 06:49:39 UTC,pepes,Pepes Frozen Duck No. 23,Freezer,2.3kg,kg,,,,,,,,,,23.99,TRUE,11.99,FALSE,,,1534279779.0-W-2318
+2018-08-15 06:49:39 UTC,i&j light and crispy,I&j Light And Crispy Battered Fish ,Freezer,1kg,kg,,,,,,,,,,11.99,TRUE,10,FALSE,,,1534279779.0-W-2319
+2018-08-15 06:49:39 UTC,findus jamie oliver,Findus Jamie Oliver Fish Fingers ,Freezer,10 pack,100g,3,,873kJ,11.3g,9.1g,1.0g,20.8g,1.0g,322mg,4.69,FALSE,4.69,FALSE,,,1534279779.0-W-2320
+2018-08-15 06:49:39 UTC,i&j light and crispy,I&j Light And Crispy Crumbed Original Jumbo Pack,Freezer,1kg,71g,14,,891kJ,12.5g,8.2g,0.7g,21.9g,<0.99g,403mg,11.99,TRUE,10,FALSE,,,1534279779.0-W-2321
+2018-08-15 06:49:39 UTC,i&j,I&j Light & Crispy Lemon Fish Fillets,Freezer,1kg,141g,7,,890kJ,12.5g,8.2g,0.6g,21.9g,<0.99g,264mg,11.99,TRUE,10,FALSE,,,1534279779.0-W-2322
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Frozen Pizza Hawaiian,Freezer,500g,125g,4,,856kJ,9.1g,4.9g,2.5g,29.0g,5.1g,450mg,2.95,FALSE,2.95,FALSE,,,1534279779.0-W-2323
+2018-08-15 06:49:39 UTC,heart smart,Heart Smart Extra Lean Pork Mince,Freezer,500g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534279779.0-W-2324
+2018-08-15 06:49:39 UTC,three aussie farmers,Three Aussie Farmers Lightly Seasoned Pork Schnitzel,Freezer,500g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534279779.0-W-2325
+2018-08-15 06:49:39 UTC,woolworths simply roast,Woolworths Simply Roast Pork Scotch With Chinese 5 Spice,Freezer,min 450g,min,,,,,,,,,,7.65,FALSE,7.65,FALSE,,,1534279779.0-W-2326
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Chicken Breast Tempura Nuggets,Freezer,400g,100g,4,,Approx. 939kJ,Approx. 16.4g,Approx. 12.7g,Approx. 1.5g,Approx. 11.2g,<1g,Approx. 387mg,3.59,FALSE,3.59,FALSE,,,1534279779.0-W-2327
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Frozen Chicken Nuggets Microwave,Freezer,400g,100g (Approx. 4 Nuggets),Approx.4,,922kJ,12.3g,10.8g,1.6g,18.5g,<1g,672mg,7.15,FALSE,7.15,FALSE,,,1534279779.0-W-2328
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Chicken Breast Sweet Chilli Tenders,Freezer,400g,100g,4,,Approx. 748kJ,Approx. 15.1g,Approx. 7g,<1g,Approx. 13.2g,Approx. 1.2g,Approx. 310mg,3.8,FALSE,3.8,FALSE,,,1534279779.0-W-2329
+2018-08-15 06:49:39 UTC,three aussie farmers,Three Aussie Farmers German Style Pork Knuckle,Freezer,1kg - 1.4kg,kg,,,,,,,,,,11.2,FALSE,11.2,FALSE,,,1534279779.0-W-2330
+2018-08-15 06:49:39 UTC,bruemar,Bruemar Butterflied Pork Loin Spiced Bbq,Freezer,800g,100g,,,Approx. 679kJ,Approx. 17g,Approx. 9.1g,Approx. 3.6g,Approx. 3.1g,Approx. 0.5g,Approx. 551mg,14,FALSE,14,FALSE,,,1534279779.0-W-2331
+2018-08-15 06:49:39 UTC,bruemar,Bruemar Pork Scotch Steak With A Peking Glace,Freezer,min. 420g,min,,,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534279779.0-W-2332
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Tempura Chicken Breast Nuggets,Freezer,400g,100g (Approx. 5 Nuggets),4,,960kJ,12.7g,12.0g,3.6g,17.6g,<1g,510mg,5,FALSE,5,FALSE,,,1534279779.0-W-2333
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Chicken Breast Crumbed Tenders,Freezer,400g,100g,4,,Approx. 765kJ,Approx. 15.2g,Approx. 8.1g,Approx. 1g,Approx. 11.7g,Approx. 0.5g,Approx. 350mg,3.8,FALSE,3.8,FALSE,,,1534279779.0-W-2334
+2018-08-15 06:49:39 UTC,steggles,Steggles Chicken Pieces Premium Breast Fingers,Freezer,400g,100g,4,,934kJ,11.4g,11.1g,2.5g,19.4g,2.0g,620mg,6.8,FALSE,6.8,FALSE,,,1534279779.0-W-2335
+2018-08-15 06:49:39 UTC,steggles,Steggles Premium Chicken Nuggets,Freezer,400g,100g,4,,919kJ,10.3g,11.8g,2.1g,18.1g,2.2g,650mg,5,TRUE,4,FALSE,,,1534279779.0-W-2336
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Frozen Chicken Breast Chipees,Freezer,400g,100g (Approx. 9 Chipees),4,,1062kJ,14.7g,15.1g,4.4g,14.9g,<1g,682mg,6,TRUE,5,FALSE,,,1534279779.0-W-2337
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Tempura Chicken Breast Nuggets,Freezer,600g,100g (Approx. 4 nuggets),Approx.6,,994kJ,11.1g,11.6g,3.6g,22.1g,<1.0g,449mg,7.99,TRUE,7,FALSE,,,1534279779.0-W-2338
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Crumbed Chicken Breast Munchies,Freezer,400g,approx100g (10-12 Breast Munchies),4,,1088kJ,10.1g,13.0g,3.9g,25.6g,0.4g,650mg,6,TRUE,5,FALSE,,,1534279779.0-W-2339
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Chicken Breast Crunchy Bites,Freezer,400g,g,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534279779.0-W-2340
+2018-08-15 06:49:39 UTC,steggles,Steggles Tempura Chicken Breast Nuggets,Freezer,400g,100g,4,,720kJ,13.6g,7.0g,1.6g,13.5g,3.4g,460mg,5,TRUE,4,FALSE,,,1534279779.0-W-2341
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Crumbed Chicken Breast Nuggets,Freezer,400g,100g (Approx. 4 Nuggets),4,,1015kJ,13.3g,13.1g,4.0g,17.9g,1.1g,645mg,5,FALSE,5,FALSE,,,1534279779.0-W-2342
+2018-08-15 06:49:39 UTC,created with jamie,Created With Jamie Crumbed Chicken Crunchy Cajun Fillets,Freezer,350g,175g,2,,Approx. 506kJ,Approx. 21.7g,<1g,<1g,Approx. 6.1g,<1g,Approx. 275mg,8.99,FALSE,8.99,FALSE,,,1534279779.0-W-2343
+2018-08-15 06:49:39 UTC,inghams,Inghams Chicken Cheesy Nuggets,Freezer,400g,100g (Approx. 4 Nuggets),Approx.4Nuggets,,966kJ,13.2g,12.3g,3.1g,16.8g,<1g,773mg,7.15,FALSE,7.15,FALSE,,,1534279779.0-W-2344
+2018-08-15 06:49:39 UTC,wingin' it,Wingin' It Southern Style Chicken Tenders,Freezer,400g,g,,,,,,,,,,6,TRUE,4,FALSE,,,1534279779.0-W-2345
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Chicken Tender Sweet Chilli,Freezer,400g,approx100g,Approx.4,,847kJ,15.7g,8.1g,2.3g,16.6g,6.5g,506mg,8.3,TRUE,4,FALSE,,,1534279779.0-W-2346
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Chicken Breast Crumbed Nuggets,Freezer,400g,100g,4,,Approx. 843kJ,Approx. 15.1g,Approx. 9.6g,Approx. 1.4g,Approx. 13.6g,Approx. 1.2g,Approx. 396mg,3.59,FALSE,3.59,FALSE,,,1534279779.0-W-2347
+2018-08-15 06:49:39 UTC,tegel,Tegel Panko & Quinoa Crumbed Chicken Tenders,Freezer,365g,g,,,,,,,,,,9,TRUE,7,FALSE,,,1534279779.0-W-2348
+2018-08-15 06:49:39 UTC,tegel,Tegel Tempura Battered Chicken Nuggets,Freezer,380g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534279779.0-W-2349
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Chicken Tender Honey/soy,Freezer,400g,100g,,,,,10.4g,1.9g,,,444mg,8.3,TRUE,4,FALSE,,,1534279779.0-W-2350
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Frozen Chicken Breast Tender Southern Style,Freezer,400g,100g (Approx. 2 Tenders),4,,885kJ,12.6g,12.1g,2.4g,13.1g,2.4g,498mg,8.3,TRUE,4,FALSE,,,1534279779.0-W-2351
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Chicken Breast Tenders Original,Freezer,400g,100g,Approx4,,1015kJ,13.3g,13.1g,4.0g,17.9g,1.1g,645mg,8.3,TRUE,4,FALSE,,,1534279779.0-W-2352
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Chicken Breast Kiev,Freezer,350g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534279779.0-W-2353
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Crumbed Chicken Kiev Cordon Bleu,Freezer,350g,,,,,,,,,<1.0g,,9,FALSE,9,FALSE,,,1534279779.0-W-2354
+2018-08-15 06:49:39 UTC,steggles,Steggles Frozen Chicken Kiev Kiev,Freezer,350g,175g,2,,783kJ,13.0g,8.2g,2.9g,15.2g,2.5g,510mg,7.99,TRUE,3.99,FALSE,,,1534279779.0-W-2355
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Frozen Chicken Breast Garlic & Herb Kiev,Freezer,350g,150g,2,,936kJ,17.1g,13.3g,6.9g,9.0g,1.3g,253mg,5.5,FALSE,5.5,FALSE,,,1534279779.0-W-2356
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Crumbed Chicken Kiev Garlic Butter,Freezer,350g,Approx.150g (1 Kiev),Approx.2,,995kJ,13.5g,14.1g,6.4g,12.5g,3.8g,467mg,9,FALSE,9,FALSE,,,1534279779.0-W-2357
+2018-08-15 06:49:39 UTC,created with jamie,"Created With Jamie Chilli, Garlic & Rosemary Chicken Fillets",Freezer,350g,100g,2,,Approx. 454kJ,Approx. 21.2g,Approx. 1.6g,<1g,Approx. 2g,<1g,Approx. 200mg,8.99,FALSE,8.99,FALSE,,,1534279779.0-W-2358
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Frozen Turkey Breast Roast Traditional,Freezer,2kg serves 12-13,150g,13,,454kJ,16.4g,4.0g,1.2g,1.9g,<1g,666mg,42,TRUE,32,FALSE,,,1534279779.0-W-2359
+2018-08-15 06:49:39 UTC,ingham's,Ingham's Frozen Turkey Breast Sweet Herb & Mustard,Freezer,2kg,kg,,,,,,,,,,42,FALSE,42,FALSE,,,1534279779.0-W-2360
+2018-08-15 06:49:39 UTC,created with jamie,Created With Jamie Crumbed Chicken Crunchy Garlic Fillets,Freezer,350g,175g,2,,Approx. 603kJ,Approx. 19.6g,Approx. 4.8g,<1g,Approx. 5.4g,<1g,Approx. 255mg,8.99,FALSE,8.99,FALSE,,,1534279779.0-W-2361
+2018-08-15 06:49:39 UTC,created with jamie,Created With Jamie Crumbed Chicken Crispy Parmesan & Tomato,Freezer,350g,175g,2,,Approx. 640kJ,Approx. 20g,Approx. 5.3g,Approx. 1.2g,Approx. 6.1g,<1g,Approx. 247mg,8.99,FALSE,8.99,FALSE,,,1534279779.0-W-2362
+2018-08-15 06:49:39 UTC,papa giuseppis,Papa Giuseppis Rising Stuffed Crust Bbq Pork Pizza,Freezer,500g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534279779.0-W-2363
+2018-08-15 06:49:39 UTC,mccain,Mccain Family Pizza Bbq Chicken & Pineapple,Freezer,500g,g,,,,,,,,,,6.5,TRUE,5,FALSE,,,1534279779.0-W-2364
+2018-08-15 06:49:39 UTC,mccain,Mccain Pizza Meatlovers Bbq,Freezer,500g,125g,4,,1010kJ,12.7g,8.0g,3.9g,28.5g,6.7g,440mg,6.5,TRUE,5,FALSE,,,1534279779.0-W-2365
+2018-08-15 06:49:39 UTC,mccain,Mccain Pizza Margherita,Freezer,500g,Approx.125g,4,,1090kJ,13.1g,10.0g,6.7g,28.3g,6.8g,350mg,6.5,TRUE,5,FALSE,,,1534279779.0-W-2366
+2018-08-15 06:49:39 UTC,steggles,Steggles Chicken Pieces Ovenroasted Wings,Freezer,1kg,100g,10,,743kJ,21.4g,9.1g,2.4g,2.5g,0.2g,470mg,10.99,FALSE,10.99,FALSE,,,1534279779.0-W-2367
+2018-08-15 06:49:39 UTC,mccain,Mccain Supreme Pizza,Freezer,500g,125g,4,,955kJ,10.50%,6.8g,3.5g,30.2g,4.9g,350mg,6.5,TRUE,5,FALSE,,,1534279779.0-W-2368
+2018-08-15 06:49:39 UTC,steggles,Steggles Chicken Nuggets ,Freezer,1kg,kg,,,,,,,,,,9,FALSE,9,FALSE,,,1534279779.0-W-2369
+2018-08-15 06:49:39 UTC,steggles,Steggles Sweet Chilli Chicken Tenders,Freezer,1kg,62.5g,16,,946kJ,13.7g,12.4g,1.9g,14.6g,2.2g,379mg,11,TRUE,9,FALSE,,,1534279779.0-W-2370
+2018-08-15 06:49:39 UTC,steggles,Steggles Chicken Breast Fingers ,Freezer,1kg,100g,10,,1016kJ,15.0g,12.3g,1.2g,18.0g,0.4g,610mg,0,FALSE,0,FALSE,,,1534279779.0-W-2371
+2018-08-15 06:49:39 UTC,mccain,Mccain Pizza Slice Cheese & Bacon,Freezer,600g,Approx.100g,,,,,6.8g,3.6g,,,,7,FALSE,7,FALSE,,,1534279779.0-W-2372
+2018-08-15 06:49:39 UTC,papa giuseppi's,Papa Giuseppi's Deep Pan Bakehouse Crust Bbq Meatlovers,Freezer,460g,115g,4,,1080kJ,10.9g,9.3g,4g,31.1g,4.3g,650mg,8,TRUE,6.5,FALSE,,,1534279779.0-W-2373
+2018-08-15 06:49:39 UTC,mccain,Mccain Pizza Pocket Cheese & Bacon,Freezer,4 pack,100g,4,,1110kJ,11.0g,10.6g,4.6g,30.4g,3.9g,480mg,7.5,FALSE,7.5,FALSE,,,1534279779.0-W-2374
+2018-08-15 06:49:39 UTC,mccain,Mccain Pizza Cheese & Bacon,Freezer,500g,Approx.125g,4,,934kJ,12.9g,7.0g,3.9g,26.0g,5.0g,400mg,6.5,TRUE,5,FALSE,,,1534279779.0-W-2375
+2018-08-15 06:49:39 UTC,papa giuseppi's,Papa Giuseppi's Bakehouse Crust Hawaiian,Freezer,465g,116g,4,,1030kJ,9.7g,9.0g,3.5g,30.1g,4.0g,500mg,8,TRUE,6.5,FALSE,,,1534279779.0-W-2376
+2018-08-15 06:49:39 UTC,papa giuseppis pizza,Papa Giuseppis Pizza Deep Pan Bakehouse Crust Firebreather,Freezer,465g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534279779.0-W-2377
+2018-08-15 06:49:39 UTC,papa giuseppis,Papa Giuseppis Rising Stuffed Crust Pepperoni Pizza,Freezer,470g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534279779.0-W-2378
+2018-08-15 06:49:39 UTC,papa giuseppi's,Papa Giuseppi's Crust Pizza Cheese,Freezer,480g,240g,2,,1089kJ,10.2g,10.3g,6.0g,30.5g,2.3g,413mg,8,FALSE,8,FALSE,,,1534279779.0-W-2379
+2018-08-15 06:49:39 UTC,mccain,Mccain Pizza Ham & Pineapple,Freezer,500g,Approx.125g,4,,963kJ,11.7g,6.3g,3.4g,30.5g,6.0g,340mg,6.5,TRUE,5,FALSE,,,1534279779.0-W-2380
+2018-08-15 06:49:39 UTC,mccain,Mccain Pizza Slice Ham & Pineapple,Freezer,600g,Approx.100g,6,,924kJ,10.4g,6.0g,2.8g,30.2g,5.7g,350mg,7,FALSE,7,FALSE,,,1534279779.0-W-2381
+2018-08-15 06:49:39 UTC,mccain rustica pizza,Mccain Rustica Pizza Margherita ,Freezer,350g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534279779.0-W-2382
+2018-08-15 06:49:39 UTC,dr oetker,Dr Oetker Ristorante Pizza Hawaiian,Freezer,355g,355g,1,,925kJ,9.0g,8.6g,2.7g,26.0g,6.0g,450mg,7.5,FALSE,7.5,FALSE,,,1534279779.0-W-2383
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Frozen Pizza Four Cheeses,Freezer,360g,90g,4,,1150kJ,12.1g,8.0g,4.3g,37.1g,,420mg,4,FALSE,4,FALSE,,,1534279779.0-W-2384
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Frozen Pizza Pepperoni,Freezer,360g,90g,4,,1070kJ,12.9g,8.1g,3.8g,31.5g,1.3g,460mg,4,FALSE,4,FALSE,,,1534279779.0-W-2385
+2018-08-15 06:49:39 UTC,dr oetker,Dr Oetker Ristorante Pizza Spinaci,Freezer,390g,390g,1,,921kJ,7.1g,11.0g,2.8g,21.0g,2.1g,400mg,7.5,TRUE,5,FALSE,,,1534279779.0-W-2386
+2018-08-15 06:49:39 UTC,woolworths,Woolworths Frozen Pizza Bbq Chicken & Onion,Freezer,360g,90g,4,,937kJ,10.9g,4.9g,2.3g,32.4g,4.2g,390mg,4,FALSE,4,FALSE,,,1534279779.0-W-2387
+2018-08-15 06:49:39 UTC,mccain rustica pizza,Mccain Rustica Pizza Spinach & Mozzarella ,Freezer,365g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534279779.0-W-2388
+2018-08-15 06:49:39 UTC,dr oetker,Dr Oetker Ristorante Pizza Funghi,Freezer,365g,365g,1,,3538kJ,27.8g,43.4g,11.3g,82g,8.9g,1630mg,7.5,TRUE,5,FALSE,,,1534279779.0-W-2389
+2018-08-15 06:49:39 UTC,dr oetker,Dr Oetker Ristorante Pizza Bolognese,Freezer,375g,375g,1,,908kJ,9.0g,9.0g,2.4g,24.0g,3.8g,420mg,7.5,FALSE,7.5,FALSE,,,1534279779.0-W-2390
+2018-08-15 06:49:39 UTC,mccain,Mccain Rustica Pizza Pumpkin & Spinach,Freezer,386g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534279779.0-W-2391
+2018-08-15 06:49:39 UTC,mccain,Mccain Ultra Thin Crust Pizza Tandoori,Freezer,320g,80g,4,,1120kJ,10.0g,13.6g,6.0g,25.0g,6.0g,510mg,6.99,TRUE,5.5,FALSE,,,1534279779.0-W-2392
+2018-08-15 06:49:39 UTC,dr oetker,Dr Oetker Ristorante Pizza Quattro Formaggi,Freezer,340g,340g,1,,1110kJ,10.7g,13.7g,6.2g,23.9g,2.9g,420mg,7.5,TRUE,5,FALSE,,,1534279779.0-W-2393
+2018-08-15 06:49:39 UTC,bell farms,Bell Farms Hash Browns ,Freezer,1kg,64g (1 piece),15,,794kJ,2.2g,10.0g,1.3g,,0.4g,360mg,3,TRUE,2.5,FALSE,,,1534279779.0-W-2394
+2018-08-15 06:49:39 UTC,papa giuseppis,Papa Giuseppis Pizza Pie Hawaiian,Freezer,330g,g,,,,,,,,,,6.5,TRUE,5,FALSE,,,1534279779.0-W-2395
+2018-08-15 06:49:39 UTC,papa giuseppis,Papa Giuseppis Pizza Pie Mega Meaty,Freezer,330g,g,,,,,,,,,,6.5,TRUE,5,FALSE,,,1534279779.0-W-2396
+2018-08-15 06:49:39 UTC,dr oetker,Dr Oetker Ristorante Pizza Mozzarella,Freezer,335g,335g,1,,1091kJ,10.4g,13.3g,4.6g,23.9g,2.8g,420mg,7.5,TRUE,5,FALSE,,,1534279779.0-W-2397
+2018-08-15 06:49:40 UTC,dr oetker,Dr Oetker Ristorante Pizza Speciale,Freezer,345g,345g,1,,960kJ,9.9g,10.3g,23.2g,23.2g,3.4g,510mg,7.5,FALSE,7.5,FALSE,,,1534279780.0-W-2398
+2018-08-15 06:49:40 UTC,mccain,Mccain Ultra Thin Angus Beef Pizza,Freezer,320g,Approx.80g,4,,1090kJ,10.2g,12.0g,5.6g,26.8g,6.5g,580mg,6.99,TRUE,5.5,FALSE,,,1534279780.0-W-2399
+2018-08-15 06:49:40 UTC,mccain,Mccain Ultra Thin Crust Pizza Pepperoni & Red Onion,Freezer,310g,g,,,,,,,,,,5.5,FALSE,5.5,FALSE,,,1534279780.0-W-2400
+2018-08-15 06:49:40 UTC,mccain,Mccain Pizza Garlic,Freezer,320g,Approx.160g,2,,1080kJ,10.3g,7.2g,3.5g,36.5g,6.5g,260mg,4.5,TRUE,4,FALSE,,,1534279780.0-W-2401
+2018-08-15 06:49:40 UTC,papa giuseppis,Papa Giuseppis Pizza Pie Pepperoni,Freezer,330g,g,,,,,,,,,,6.5,TRUE,5,FALSE,,,1534279780.0-W-2402
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Garlic Cheese Pizza ,Freezer,2 pack,80g,4,,1230kJ,10.2g,9.8g,5.8g,39.4g,3.3g,480mg,4,FALSE,4,FALSE,,,1534279780.0-W-2403
+2018-08-15 06:49:40 UTC,papa giuseppi's,Papa Giuseppi's Panini Tomato & Cheese ,Freezer,250g 2pk,125g,2,,966kJ,7.3g,8.7g,2.6g,29.5g,3.3g,510mg,5,FALSE,5,FALSE,,,1534279780.0-W-2404
+2018-08-15 06:49:40 UTC,papa giuseppis,Papa Giuseppis Pizza Pie Cheese,Freezer,310g,g,,,,,,,,,,6.5,TRUE,5,FALSE,,,1534279780.0-W-2405
+2018-08-15 06:49:40 UTC,dr oetker,Dr Oetker Ristorante Pizza Peperoni,Freezer,310g,310g,1,,1120kJ,10.4g,13.2g,4.2g,25.4g,3.5g,600mg,7.5,FALSE,7.5,FALSE,,,1534279780.0-W-2406
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Sliced Onions,Freezer,500g,75g,6,,210kJ,2.7g,<1.0g,<1.0g,7.6g,7.6g,22mg,2.1,FALSE,2.1,FALSE,,,1534279780.0-W-2407
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Scalloped Potatoes,Freezer,600g,g,,,,,,,,,,4.99,TRUE,4.49,FALSE,,,1534279780.0-W-2408
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Broccoli Florets,Freezer,500g,75g,6,,124kJ,2.7g,<1.0g,<1.0g,2.0g,1.4g,28mg,2.5,FALSE,2.5,FALSE,,,1534279780.0-W-2409
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Diced Onions ,Freezer,500g,75g,6,,210kJ,2.7g,<1.0g,<1.0g,7.6g,7.6g,22mg,2.1,FALSE,2.1,FALSE,,,1534279780.0-W-2410
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Cauliflower Florets,Freezer,500g,100g,5,,101kJ,2.2g,0.2g,<0.1g,2.0g,2.0g,31mg,2.15,FALSE,2.15,FALSE,,,1534279780.0-W-2411
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Brussels Sprouts,Freezer,500g,75g,6,,181kJ,3.2g,<1.0g,<1.0g,4.6g,3.1g,25mg,2.35,FALSE,2.35,FALSE,,,1534279780.0-W-2412
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Onion Rings ,Freezer,500g,100g,5,,868kJ,2.6g,8.6g,0.9g,28.4g,4.0g,389mg,3.99,FALSE,3.99,FALSE,,,1534279780.0-W-2413
+2018-08-15 06:49:40 UTC,mccain,Mccain Superfries Steak Cut,Freezer,900g,100g,9,,590kJ,3.3,3.3,0.3g,23.2g,0.2g,27mg,3.79,TRUE,3,FALSE,,,1534279780.0-W-2414
+2018-08-15 06:49:40 UTC,macro,Macro Organic Chopped Spinach Frozen,Freezer,250g,100g,3,,Approx. 134kJ,Approx. 3.5g,<1g,<1g,Approx. 0.7g,Approx. 0.5g,Approx. 100mg,1.99,FALSE,1.99,FALSE,,,1534279780.0-W-2415
+2018-08-15 06:49:40 UTC,logan farms,Logan Farms Chopped Spinach Portions,Freezer,250g,g,,,,,,,,,,2.09,FALSE,2.09,FALSE,,,1534279780.0-W-2416
+2018-08-15 06:49:40 UTC,birds eye,"Birds Eye Steam Fresh Broccoli, Carrots & Corn",Freezer,750g,75g,10,,232kJ,2.7g,0.7g,0.1g,7.9g,3.4g,26mg,5,FALSE,5,FALSE,,,1534279780.0-W-2417
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Stir Fry Oriental,Freezer,850g,125g,7,,151kJ,1.8g,0.3g,0.1g,5.1g,3.0g,13mg,5,FALSE,5,FALSE,,,1534279780.0-W-2418
+2018-08-15 06:49:40 UTC,," Heinz Steamer Bag With Fresh Carrot, Corn & Broccoli 750g X4 Bundle ",Freezer,,,,,,,,,,,,18,FALSE,18,FALSE,,,1534279780.0-W-2419
+2018-08-15 06:49:40 UTC,," Heinz Steamer Bag With Fresh Broccoli, Carrots & Cauliflower 750g X4 Bundle ",Freezer,,,,,,,,,,,,18,FALSE,18,FALSE,,,1534279780.0-W-2420
+2018-08-15 06:49:40 UTC,bell farms,Bell Farms Kale ,Freezer,250g,g,,,,,,,,,,0.99,FALSE,0.99,FALSE,,,1534279780.0-W-2421
+2018-08-15 06:49:40 UTC,bell farms,Bell Farms Chopped Spinach ,Freezer,250g,75g (3-4 portions),3.3,,124kJ,2.8g,<1.0g,<1.0g,1.5g,1.5g,140mg,0.99,FALSE,0.99,FALSE,,,1534279780.0-W-2422
+2018-08-15 06:49:40 UTC,logan farm,Logan Farm Spinach Portions,Freezer,500g,g,,,,,,,,,,3.09,TRUE,2.69,FALSE,,,1534279780.0-W-2423
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Julienne Carrots,Freezer,500g,75g,6,,128kJ,1.2g,<1.0g,<1.0g,4.1g,3.7g,40mg,2,FALSE,2,FALSE,,,1534279780.0-W-2424
+2018-08-15 06:49:40 UTC,birds eye ,Birds Eye Country Harvest Peas Corn & Capsicum,Freezer,500g,g,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534279780.0-W-2425
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Country Harvest Carrot Cauliflower Beans & Broccoli,Freezer,500g,g,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534279780.0-W-2426
+2018-08-15 06:49:40 UTC,macro organic,Macro Organic Mix Vegetables ,Freezer,500g,g,,,,,,,,,,2.6,FALSE,2.6,FALSE,,,1534279780.0-W-2427
+2018-08-15 06:49:40 UTC,birds eye ,Birds Eye Stir Fry Mix Thai,Freezer,500g,125.0g,4,,141kJ,1.5g,0.4g,0.1g,4.7g,2.7g,17mg,3.69,TRUE,2.5,FALSE,,,1534279780.0-W-2428
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Steam Fresh Peas Beans Broccoli Corn Mix,Freezer,750g,75g,10,,230kJ,3.5g,0.74g,0.1g,6.7g,2.2g,7mg,5,FALSE,5,FALSE,,,1534279780.0-W-2429
+2018-08-15 06:49:40 UTC,mccain,Mccain Mixed Vegetables Peas & Corn,Freezer,500g,100g,5,,380kJ,4.4g,1.4g,0.3g,13.5g,3.5g,6mg,2.99,TRUE,2.6,FALSE,,,1534279780.0-W-2430
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Peas & Corn,Freezer,500g,75g,6,,269kJ,3.8g,1.0g,<1.0g,7.5g,5.1g,<5mg,2.35,FALSE,2.35,FALSE,,,1534279780.0-W-2431
+2018-08-15 06:49:40 UTC,bell farms,Bell Farms Stir Fry Vegetables,Freezer,500g,75g,6,,118kJ,1.6g,<1.0g,<1.0g,3.2g,1.4g,30mg,2,FALSE,2,FALSE,,,1534279780.0-W-2432
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Broccoli & Cauliflower,Freezer,500g,75g,6,,112kJ,2.4g,<1.0g,<0.1g,2.0g,1.7g,25mg,2.15,FALSE,2.15,FALSE,,,1534279780.0-W-2433
+2018-08-15 06:49:40 UTC,heinz,Heinz Steam Fresh Carrot Corn & Broccoli,Freezer,750g,75g,6,,215kJ,3.0g,0.7g,0.2g,6.6g,3.8g,24mg,5.09,FALSE,5.09,FALSE,,,1534279780.0-W-2434
+2018-08-15 06:49:40 UTC,mccain,Mccain Mixed Vegetables Peas Corn & Carrot,Freezer,500g,100g,5,,334kJ,3.1g,1.0g,0.2g,12.5g,5.6g,35mg,2.99,TRUE,2.6,FALSE,,,1534279780.0-W-2435
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Steam Potato & Broccoli,Freezer,400g,200.0g,2,,285kJ,2.5g,,0.2g,9.6g,1.8g,203mg,4.2,TRUE,3.3,FALSE,,,1534279780.0-W-2436
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Steam Plus Quinoa & Veg,Freezer,400g,200g,2,,440kJ,3.5g,2.1g,0.3g,16.8g,1.8g,121mg,5,FALSE,5,FALSE,,,1534279780.0-W-2437
+2018-08-15 06:49:40 UTC,heinz,Heinz Steam Fresh Broccoli Carrot Snap Pea,Freezer,450g,75g,6,,140kJ,2.8g,0.2g,0g,3.5g,2.8g,23mg,3.49,TRUE,3,FALSE,,,1534279780.0-W-2438
+2018-08-15 06:49:40 UTC,heinz,Heinz Steam Fresh Beans Broccoli & Sugarsnap,Freezer,450g,75g,6,,125kJ,3.1g,0.2g,0g,2.3g,1.3g,8mg,3.49,TRUE,3,FALSE,,,1534279780.0-W-2439
+2018-08-15 06:49:40 UTC,birds eye country harvest,Birds Eye Country Harvest Mixed Vegetables Peas Corn & Carrot,Freezer,1kg,75.0g,13.3,,208kJ,2.8g,0.8g,0.1g,6.1g,4.5g,17mg,5,FALSE,5,FALSE,,,1534279780.0-W-2440
+2018-08-15 06:49:40 UTC,mccain,Mccain Mixed Vegetables Peas Corn & Carrot,Freezer,2kg,100g,20,,334kJ,3.1g,1.0g,0.2g,12.5g,5.6g,35mg,8.69,TRUE,7.8,FALSE,,,1534279780.0-W-2441
+2018-08-15 06:49:40 UTC,birds eye steam fresh,Birds Eye Steam Fresh Potato Mash With Butter,Freezer,400g,g,,,,,,,,,,4.2,FALSE,4.2,FALSE,,,1534279780.0-W-2442
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Steam Fresh Penne Pasta With Napoli Vegetarian Sauce,Freezer,400g,g,,,,,,,,,,4.2,TRUE,3.3,FALSE,,,1534279780.0-W-2443
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Steam Plus Cous Cous,Freezer,400g,200.0g,2,,558kJ,5.1g,2.1g,0.3g,21.8g,2.3g,237mg,5,FALSE,5,FALSE,,,1534279780.0-W-2444
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Winter Veg Mix,Freezer,1kg,75g,13,,113kJ,1.5g,<1.0g,<1.0g,3.1g,2.6g,26mg,3,FALSE,3,FALSE,,,1534279780.0-W-2445
+2018-08-15 06:49:40 UTC,birds eye country harvest,Birds Eye Country Harvest Mixed Vegetables Spring Greens,Freezer,1kg,75.0g,13.3,,157kJ,3.1g,0.3g,<0.1g,3.8g,1.7g,3mg,5,FALSE,5,FALSE,,,1534279780.0-W-2446
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Mixed Vegetables Beans Carrot Corn & Broccoli,Freezer,1kg,75g,13.3,,kJ,2.0g,0.7g,0.1g,5.4g,4.1g,13mg,5,FALSE,5,FALSE,,,1534279780.0-W-2447
+2018-08-15 06:49:40 UTC,birds eye country harvest,Birds Eye Country Harvest Mixed Vegetables Carrot Cauliflower & Broccoli,Freezer,1kg,75.0g,,,,1.9g,0.3g,<0.1g,,,28mg,5,FALSE,5,FALSE,,,1534279780.0-W-2448
+2018-08-15 06:49:40 UTC,birds eye country harvest,Birds Eye Country Harvest Mixed Vegetables Peas & Corn,Freezer,1kg,75g,13.3,,266kJ,3.8g,1.1g,0.2g,7.5g,5.1g,2mg,5,FALSE,5,FALSE,,,1534279780.0-W-2449
+2018-08-15 06:49:40 UTC,mccain,Mccain Mixed Vegetables Peas & Super Sweet Corn,Freezer,1kg,100g,10,,387kJ,4.4g,1.7g,0.3g,13.0g,6.5g,9mg,5,TRUE,4.4,FALSE,,,1534279780.0-W-2450
+2018-08-15 06:49:40 UTC,birds eye country harvest ,Birds Eye Country Harvest Mixed Vegetables Garden,Freezer,1kg,75g,13.3,,110kJ,1.7g,0.3g,<0.1g,2.9g,2.3g,20mg,5,FALSE,5,FALSE,,,1534279780.0-W-2451
+2018-08-15 06:49:40 UTC,heinz,Heinz Mixed Vegetables ,Freezer,1kg,75g,13,,220kJ,2.8g,0.4g,0g,7.3g,3.9g,25mg,4.69,FALSE,4.69,FALSE,,,1534279780.0-W-2452
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Carrots Peas & Corn,Freezer,1kg,75g,13,,213kJ,2.8g,<1.0g,<1.0g,6.1g,4.5g,17mg,3,FALSE,3,FALSE,,,1534279780.0-W-2453
+2018-08-15 06:49:40 UTC,logan farms,Logan Farms Corn Kernels Value Pack,Freezer,600g,g,,,,,,,,,,2.85,TRUE,2.4,FALSE,,,1534279780.0-W-2454
+2018-08-15 06:49:40 UTC,mccain,Mccain Corn Kernels,Freezer,500g,100g,5,,441kJ,3.2g,2.2g,0.5g,16.8g,9.5g,10mg,2.9,TRUE,2.5,FALSE,,,1534279780.0-W-2455
+2018-08-15 06:49:40 UTC,, Summer Muesli Bowl Bundle ,Freezer,,,,,,,,,,,,17.35,FALSE,17.35,FALSE,,,1534279780.0-W-2456
+2018-08-15 06:49:40 UTC,birds eye ,Birds Eye Corn Kernels Super Sweet,Freezer,1kg,75.0g,13.3,,279kJ,2.5g,1.8g,0.4g,0.4g,7.7g,1mg,4.99,FALSE,4.99,FALSE,,,1534279780.0-W-2457
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Corn Kernels,Freezer,1kg,75g,13,,278kJ,2.5g,1.8g,<1.0g,8.6g,7.7g,<5mg,2.7,FALSE,2.7,FALSE,,,1534279780.0-W-2458
+2018-08-15 06:49:40 UTC,, Oob Organic Frozen Mixed Berries 500g X3 Bundle ,Freezer,,,,,,,,,,,,25,FALSE,25,FALSE,,,1534279780.0-W-2459
+2018-08-15 06:49:40 UTC,, Oob Organic Frozen Blueberries 450g X3 Bundle ,Freezer,,,,,,,,,,,,25,FALSE,25,FALSE,,,1534279780.0-W-2460
+2018-08-15 06:49:40 UTC,, Oob Frozen Organic Raspberries 450g X3 Bundle ,Freezer,,,,,,,,,,,,0,FALSE,0,FALSE,,,1534279780.0-W-2461
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Corn Cobs Super Sweet,Freezer,1kg,50.0g,8,,385kJ,3.5g,2.9g,0.7g,11.3g,7.3g,1mg,4.99,FALSE,4.99,FALSE,,,1534279780.0-W-2462
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Frozen Blackberries ,Freezer,500g,150g,3,,211kJ,1.4g,<1.0g,<1.0g,7.5g,7.5g,<5mg,4,FALSE,4,FALSE,,,1534279780.0-W-2463
+2018-08-15 06:49:40 UTC,creative gourmet,Creative Gourmet Frozen Mixed Berries ,Freezer,500g,100g,5,,195kJ,0.9g,0.2g,<0.1g,8.4g,8.0g,<5mg,6,TRUE,4.5,FALSE,,,1534279780.0-W-2464
+2018-08-15 06:49:40 UTC,oob,Oob Organic Frozen Mixed Berries,Freezer,500g,100g,5,,181kJ,1.0g,0.2g,0.1g,6.4g,6.3g,1mg,9.7,FALSE,9.7,FALSE,,,1534279780.0-W-2465
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Frozen Tropical Fruit,Freezer,500g,150g,33,,163kJ,0.7g,0.2g,<1g,7g,7g,13mg,4,FALSE,4,FALSE,,,1534279780.0-W-2466
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Frozen Mixed Berries ,Freezer,500g,150g,3.3,,192kJ,0.9g,<1.0g,<1.0g,7.4g,7.3g,<5mg,4,FALSE,4,FALSE,,,1534279780.0-W-2467
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Frozen Pitted Cherries ,Freezer,500g,150g,3.3,,232kJ,0.8g,0.2g,0.1g,10.9g,10.9g,<5mg,4,FALSE,4,FALSE,,,1534279780.0-W-2468
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Frozen Raspberries ,Freezer,500g,150g,3,,238kJ,1.2g,0.3g,0.1g,7.3g,7.09g,<5mg,4,FALSE,4,FALSE,,,1534279780.0-W-2469
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Frozen Mango ,Freezer,500g,150g,3,,232kJ,0.9g,<1.0g,<1.0g,11.6g,11.2g,<5mg,4,FALSE,4,FALSE,,,1534279780.0-W-2470
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Frozen Blueberries ,Freezer,500g,150g,3.3,,238kJ,0.6g,0.1g,<1.0g,11.6g,11.1g,<5mg,4,FALSE,4,FALSE,,,1534279780.0-W-2471
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Frozen Strawberries ,Freezer,500g,150g,3,,106kJ,0.7g,<1.0g,<1.0g,3.9g,3.8g,<5mg,4,FALSE,4,FALSE,,,1534279780.0-W-2472
+2018-08-15 06:49:40 UTC,creative gourmet,Creative Gourmet Frozen Dragon Fruit Chunks ,Freezer,400g,g,,,,,,,,,,6,TRUE,4.5,FALSE,,,1534279780.0-W-2473
+2018-08-15 06:49:40 UTC,creative gourmet,Creative Gourmet Frozen Organic Acai Puree,Freezer,400g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534279780.0-W-2474
+2018-08-15 06:49:40 UTC,creative gourmet,Creative Gourmet Frozen Passion Fruit Pulp ,Freezer,400g,g,,,,,,,,,,6,TRUE,4.5,FALSE,,,1534279780.0-W-2475
+2018-08-15 06:49:40 UTC,oob,Oob Organic Raspberries ,Freezer,450g,100g,4.5,,238kJ,1.2g,0.3g,0.1g,7.3g,7.0g,1mg,9.7,FALSE,9.7,FALSE,,,1534279780.0-W-2476
+2018-08-15 06:49:40 UTC,oob,Oob Frozen Sliced Banana Organic,Freezer,450g,100g,4.5,,398kJ,1.4g,0.3g,0.0g,19.6g,12.8g,0mg,7,FALSE,7,FALSE,,,1534279780.0-W-2477
+2018-08-15 06:49:40 UTC,oob ,Oob Organic Frozen Blueberries ,Freezer,450g,100g,4.5,,238kJ,,0.1g,0.0g,11.6g,11.1g,0mg,9.7,FALSE,9.7,FALSE,,,1534279780.0-W-2478
+2018-08-15 06:49:40 UTC,creative gourmet frozen,Creative Gourmet Frozen Raspberries ,Freezer,500g,125g,4,,225kJ,1.2g,0.3g,0.1g,7.3g,7.0g,<5mg,6,TRUE,4.5,FALSE,,,1534279780.0-W-2479
+2018-08-15 06:49:40 UTC,creative gourmet frozen,Creative Gourmet Frozen Fruit Blueberries,Freezer,500g,100g,5,,224kJ,0.6g,0.1g,0g,11.6g,11.1g,<5mg,6,TRUE,4.5,FALSE,,,1534279780.0-W-2480
+2018-08-15 06:49:40 UTC,creative gourmet,Creative Gourmet Frozen Pineapple Pieces ,Freezer,500g,100g,5,,231kJ,1.0g,<1g,<0.1g,12.8g,11.0g,8mg,6,TRUE,4.5,FALSE,,,1534279780.0-W-2481
+2018-08-15 06:49:40 UTC,creative gourmet,Creative Gourmet Frozen Banana Chunks ,Freezer,500g,g,,,,,,,,,,5,TRUE,4.5,FALSE,,,1534279780.0-W-2482
+2018-08-15 06:49:40 UTC,boost,Boost Frozen Mango,Freezer,1kg,kg,,,,,,,,,,9,TRUE,8,FALSE,,,1534279780.0-W-2483
+2018-08-15 06:49:40 UTC,creative gourmet,Creative Gourmet Tropical Acai Superbowl ,Freezer,266ml,Ml,,,,,,,,,,6,FALSE,6,FALSE,,,1534279780.0-W-2484
+2018-08-15 06:49:40 UTC,creative gourmet,Creative Gourmet Raspberry Dragon Fruit Superbowl,Freezer,266ml,Ml,,,,,,,,,,6,FALSE,6,FALSE,,,1534279780.0-W-2485
+2018-08-15 06:49:40 UTC,creative gourmet,Creative Gourmet Mngomtchasprbwl ,Freezer,266ml,Ml,,,,,,,,,,6,FALSE,6,FALSE,,,1534279780.0-W-2486
+2018-08-15 06:49:40 UTC,boost smoothie,Boost Smoothie Mix Tropical Sunrise,Freezer,3 pack,220g,3,,195kJ,1.0g,<1.0g,<1.0g,9.3g,9.2g,10mg,7,FALSE,7,FALSE,,,1534279780.0-W-2487
+2018-08-15 06:49:40 UTC,boost smoothie,Boost Smoothie Mix Rise And Shine,Freezer,3 pack,,,,,,,,,,,7,FALSE,7,FALSE,,,1534279780.0-W-2488
+2018-08-15 06:49:40 UTC,boost smoothie,Boost Smoothie Mix Green Pastures ,Freezer,3 pack,220g,3,,214kJ,1.0g,<1.0g,<1.0g,10.2g,9.2g,<1.0g,7,FALSE,7,FALSE,,,1534279780.0-W-2489
+2018-08-15 06:49:40 UTC,boost,Boost Frozen Raspberries,Freezer,1kg,kg,,,,,,,,,,9,TRUE,8,FALSE,,,1534279780.0-W-2490
+2018-08-15 06:49:40 UTC,boost,Boost Frozen Blueberries,Freezer,1kg,kg,,,,,,,,,,9,TRUE,8,FALSE,,,1534279780.0-W-2491
+2018-08-15 06:49:40 UTC,boost,Boost Smoothie Mix Rawesome,Freezer,3 pack,220g,3,,183kJ,1.0g,<1.0g,<1.0g,8.5g,8.4g,9mg,7,FALSE,7,FALSE,,,1534279780.0-W-2492
+2018-08-15 06:49:40 UTC,heinz,Heinz Beans Broad,Freezer,500g,75g,6.5,,335kJ,6.4g,0.3g,<0.1g,9.8g,3.5g,15mg,3.09,FALSE,3.09,FALSE,,,1534279780.0-W-2493
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Golden Crunch Beer Batter Fries,Freezer,500g,g,,,,,,,,,,2.5,TRUE,2,FALSE,,,1534279780.0-W-2494
+2018-08-15 06:49:40 UTC,pomlife,Pomlife Frozen Pomegranate Arils,Freezer,150g,150g,1,,247%,0.7g,0.2g,<0.1g,12.1g,11.5g,5%,4,FALSE,4,FALSE,,,1534279780.0-W-2495
+2018-08-15 06:49:40 UTC,wel pac,Wel Pac Edamame Salted Frozen,Freezer,454g,75g,6,,671kJ,12.0g,8.0g,1.3g,12.0g,1.0g,653.3mg,3.29,FALSE,3.29,FALSE,,,1534279780.0-W-2496
+2018-08-15 06:49:40 UTC,mccain,Mccain Sliced Beans Sliced,Freezer,500g,100g,5,,101kJ,1.5g,0.4g,0.1g,2.5g,2.2g,5mg,2.79,TRUE,2.5,FALSE,,,1534279780.0-W-2497
+2018-08-15 06:49:40 UTC,mccain,Mccain Beans Baby,Freezer,500g,100g,5,,151kJ,1.6g,0.3g,0.1g,5.2g,2.0g,6mg,3.09,TRUE,2.6,FALSE,,,1534279780.0-W-2498
+2018-08-15 06:49:40 UTC,mccain,Mccain Peas Baby,Freezer,500g,100g,5,,300kJ,5.0g,0.9g,0.2g,9.0g,6.0g,10mg,3.25,TRUE,2.5,FALSE,,,1534279780.0-W-2499
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Baby Beans,Freezer,500g,100g,5,,90kJ,1.5g,0.2g,<0.1g,2.2g,1.7g,3mg,2.35,FALSE,2.35,FALSE,,,1534279780.0-W-2500
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Sliced Beans,Freezer,500g,75g,6,,100kJ,1.4g,<1.0g,<1.0g,2.8g,1.3g,<5mg,1.5,FALSE,1.5,FALSE,,,1534279780.0-W-2501
+2018-08-15 06:49:40 UTC,boost,Boost Frozen Mix Berries,Freezer,1kg,150g,6,,192kJ,0.9g,0.2g,<1.0g,,7.2g,1mg,9,TRUE,8,FALSE,,,1534279780.0-W-2502
+2018-08-15 06:49:40 UTC,mccain,Mccain Peas ,Freezer,1kg,100g,10,,373kJ,5.5g,1.2g,0.2g,12.2g,3.5g,8mg,4,TRUE,3.79,FALSE,,,1534279780.0-W-2503
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Peas Baby Frozen,Freezer,1kg,75g,13.3,,257kJ,4.6g,0.6g,0.1g,7.2g,4.2g,1mg,4.7,TRUE,4,FALSE,,,1534279780.0-W-2504
+2018-08-15 06:49:40 UTC,homebrand frozen,Homebrand Frozen Peas ,Freezer,1kg,100g,10,,293kJ,6.6g,0.6g,0.2g,12.5g,4.3g,<5mg,1.99,FALSE,1.99,FALSE,,,1534279780.0-W-2505
+2018-08-15 06:49:40 UTC,essentials,Essentials Frozen Cut Green Beans,Freezer,1kg,75g(approx 1/2 cup),Approx13,,111kJ,2.2g,<1g,<1g,2.4g,1.2g,<5mg,1.99,FALSE,1.99,FALSE,,,1534279780.0-W-2506
+2018-08-15 06:49:40 UTC,macro organic,Macro Organic Frozen Peas ,Freezer,400g,100g,4,,392kJ,6.9g,1.5g,0.3g,10.5g,2.2g,1mg,2.5,FALSE,2.5,FALSE,,,1534279780.0-W-2507
+2018-08-15 06:49:40 UTC,birds eye,Birds Eye Peas Garden Field Fresh,Freezer,1kg,75.0g,13.3,,253kJ,5.2g,0.3g,<0.1g,6.4g,2.5g,3mg,4.39,TRUE,3.7,FALSE,,,1534279780.0-W-2508
+2018-08-15 06:49:40 UTC,mccain,Mccain Peas Baby,Freezer,1kg,100g,10,,300kJ,5.0g,0.9g,0.2g,9.0g,6.0g,10mg,4.79,TRUE,4.4,FALSE,,,1534279780.0-W-2509
+2018-08-15 06:49:40 UTC,birds eye ,Birds Eye Beans Sliced,Freezer,1kg,75.0g,13.3,,100kJ,1.4g,0.2g,<0.1g,2.8g,1.3g,2mg,4.89,TRUE,3.7,FALSE,,,1534279780.0-W-2510
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Peas Peas,Freezer,500g,75g,6,,261kJ,5.2g,<1.0g,<1.0g,6.4g,2.5g,11mg,1.6,FALSE,1.6,FALSE,,,1534279780.0-W-2511
+2018-08-15 06:49:40 UTC,bell farms,Bell Farms Salted Edamame ,Freezer,400g,75g,5,,554kJ,12.4g,6.1g,<1.0g,3.6g,3.2g,420mg,2.5,FALSE,2.5,FALSE,,,1534279780.0-W-2512
+2018-08-15 06:49:40 UTC,streets ,Streets Viennetta Vanilla ,Freezer,650ml,Ml,,,,,,,,,,7,FALSE,7,FALSE,,,1534279780.0-W-2513
+2018-08-15 06:49:40 UTC,logan farm,Logan Farm Peas ,Freezer,1.6kg,kg,,,,,,,,,,4.85,FALSE,4.85,FALSE,,,1534279780.0-W-2514
+2018-08-15 06:49:40 UTC,mccain frozen,Mccain Frozen Peas ,Freezer,500g,100g,5,,373kJ,5.5g,1.2g,0.2g,3.5g,3.5g,8mg,2.25,TRUE,2,FALSE,,,1534279780.0-W-2515
+2018-08-15 06:49:40 UTC,twisted,Twisted Frozen Yoghurt Mini Multpack,Freezer,4x120ml,85g,4,,"Strawberry & VaNilla Bean:519kJ, Chocolate & VaNilla Bean: 530kJ","Strawberry & VaNilla Bean:1.7g, Chocolate & VaNilla Bean: 2.0g","Strawberry & VaNilla Bean:2.8g, Chocolate & VaNilla Bean: 3.2g","Strawberry & VaNilla Bean:0.8g, Chocolate & VaNilla Bean: 1.0g","Strawberry & VaNilla Bean:21.8g, Chocolate & VaNilla Bean: 21.7g","Strawberry & VaNilla Bean:17.6g, Chocolate & VaNilla Bean: 17.1g","Strawberry & VaNilla Bean:43mg, Chocolate & VaNilla Bean: 43mg",8,FALSE,8,FALSE,,,1534279780.0-W-2516
+2018-08-15 06:49:40 UTC,twisted,Twisted Frozen Yoghurt Original Tart,Freezer,450ml tub,120mL,4,,497kJ,2.6g,2.6g,2.3g,20.0g,16.6g,50.6mg,7.99,TRUE,6.99,FALSE,,,1534279780.0-W-2517
+2018-08-15 06:49:40 UTC,twisted,Twisted Frozen Yoghurt Salted Caramel Choc,Freezer,450ml tub,120mL,4,,529kJ,2.02g,2.18g,1.93g,21.76g,16.91g,2.78g,7.99,TRUE,6.99,FALSE,,,1534279780.0-W-2518
+2018-08-15 06:49:40 UTC,twisted,Twisted Frozen Yoghurt Strawberry & Vanilla,Freezer,450ml tub,120mL,4,,439kJ,2.23g,1.74g,0.53g,20.09g,18.08g,46.77mg,7.99,TRUE,6.99,FALSE,,,1534279780.0-W-2519
+2018-08-15 06:49:40 UTC,twisted,Twisted Frozen Yoghurt Creamy Coconut,Freezer,480ml,Ml,,,,,,,,,,6.99,FALSE,6.99,FALSE,,,1534279780.0-W-2520
+2018-08-15 06:49:40 UTC,weis,Weis Frozen Yoghurt Mango & Toasted Coconut,Freezer,6 pack,50g,6,,721kJ,3.1g,6.2g,4.5g,25.3g,23.2g,51mg,6.8,FALSE,6.8,FALSE,,,1534279780.0-W-2521
+2018-08-15 06:49:40 UTC,peters,Peters Lactose Free Ice Cream Creamy Vanilla,Freezer,1.2l tub,49g (100mL) approx. 2 Scoops,12,,880kJ,2.7g,10.9g,7.1g,25.3g,18.6g,70mg,7.6,FALSE,7.6,FALSE,,,1534279780.0-W-2522
+2018-08-15 06:49:40 UTC,peters,Peters Original Vanilla ,Freezer,2l,46g,20,,750kJ,1.8g,6.4g,4.3g,28.0g,21.7g,81mg,5,FALSE,5,FALSE,,,1534279780.0-W-2523
+2018-08-15 06:49:40 UTC,weis,Weis Frozen Yoghurt Vanilla Bean,Freezer,1l tub,Litre,,,,,,,,,,8,FALSE,8,FALSE,,,1534279780.0-W-2524
+2018-08-15 06:49:40 UTC,weis,Weis Real Good Feel Good Simply Coconut,Freezer,1l,Litre,,,,,,,,,,8,FALSE,8,FALSE,,,1534279780.0-W-2525
+2018-08-15 06:49:40 UTC,weis,Weis Real Good Feel Good Dark Chocolate,Freezer,1l,Litre,,,,,,,,,,8,FALSE,8,FALSE,,,1534279780.0-W-2526
+2018-08-15 06:49:40 UTC,sanitarium,Sanitarium So Good Vanilla Bliss,Freezer,1l tub,51g,10,,630kJ,2.9g,2.9g,0.7g,27.5g,16.2g,60mg,6.6,FALSE,6.6,FALSE,,,1534279780.0-W-2527
+2018-08-15 06:49:40 UTC,weis,Weis Frozen Yoghurt Mango & Toasted Coconut,Freezer,1l tub,71g,10,,716kJ,3.4g,6.2g,4.4g,25.2g,21.9g,52mg,8,FALSE,8,FALSE,,,1534279780.0-W-2528
+2018-08-15 06:49:40 UTC,bulla,Bulla Creamy Classics Frozen Chocolate Custard,Freezer,1l,Litre,,,,,,,,,,8,FALSE,8,FALSE,,,1534279780.0-W-2529
+2018-08-15 06:49:40 UTC,sanitarium,Sanitarium So Good Chocolate Bliss,Freezer,1l tub,51g,10,,610kJ,3.4g,2.9g,0.8g,26.2g,16.9g,65mg,6.6,FALSE,6.6,FALSE,,,1534279780.0-W-2530
+2018-08-15 06:49:40 UTC,peters original,Peters Original Vanilla ,Freezer,4l tub,46g,40,,750kJ,1.8g,6.4g,4.3g,28.0g,21.7g,81mg,9.5,FALSE,9.5,FALSE,,,1534279780.0-W-2531
+2018-08-15 06:49:40 UTC,," Weis Bar Ice Cream Passionfruit, Banana & Pineapple Bars 280ml 4pk X3 Bundle ",Freezer,,,,,,,,,,,,18,FALSE,18,FALSE,,,1534279780.0-W-2532
+2018-08-15 06:49:40 UTC,, Weis Bar Ice Cream Blackberry Rich Vanilla Bars 280ml 4pk X3 Bundle ,Freezer,,,,,,,,,,,,18,FALSE,18,FALSE,,,1534279780.0-W-2533
+2018-08-15 06:49:40 UTC,peters,Peters Ice Cream No Added Sugar Creamy Vanilla,Freezer,1.2l tub,50g (100mL) approx. 2 Scoops,12,,510kJ,5.6g,2.7g,1.8g,8.5g,8.5g,54mg,7.6,FALSE,7.6,FALSE,,,1534279780.0-W-2534
+2018-08-15 06:49:40 UTC,weis,Weis Ice Cream Bar Blackberry Rich Vanilla,Freezer,4 pack,80g,4,,633kJ,2.3g,4.6g,3.4g,24.3g,23.1g,28mg,6.8,FALSE,6.8,FALSE,,,1534279780.0-W-2535
+2018-08-15 06:49:40 UTC,, Weis Bar Ice Cream Mango & Cream Bars 280ml 4pk X3 Bundle ,Freezer,,,,,,,,,,,,18,FALSE,18,FALSE,,,1534279780.0-W-2536
+2018-08-15 06:49:40 UTC,, Weis Bar Ice Cream Macadamia With Mango & Cream Bars 280ml 4pk X3 Bundle ,Freezer,,,,,,,,,,,,18,FALSE,18,FALSE,,,1534279780.0-W-2537
+2018-08-15 06:49:40 UTC,peters,Peters Lactose Free Ice Cream Cookies & Cream,Freezer,1.2l,Litre,,,,,,,,,,7.6,FALSE,7.6,FALSE,,,1534279780.0-W-2538
+2018-08-15 06:49:40 UTC,weis,Weis Sorbet Summer Berries,Freezer,1l tub,64g,10,,486kJ,0.4g,<0.1g,0.0g,27.8g,26.5g,5mg,7,FALSE,7,FALSE,,,1534279780.0-W-2539
+2018-08-15 06:49:40 UTC,weis,Weis Ice Cream Macadamia With Mango & Cream,Freezer,4 pack,80g,4,,858kJ,2.6g,11.5g,6.0g,22.4g,20.5g,32mg,6.8,FALSE,6.8,FALSE,,,1534279780.0-W-2540
+2018-08-15 06:49:40 UTC,magnum,Magnum Ice Cream Peppermint,Freezer,4 pack,82g,4,,1300kJ,3.9g,20.7g,14.1g,27.2g,26.8g,60mg,8.5,FALSE,8.5,FALSE,,,1534279780.0-W-2541
+2018-08-15 06:49:40 UTC,magnum,Magnum Ice Cream Honeycomb Crunch,Freezer,4 pack,85g,4,,1430kJ,3.8g,22.3g,15.4g,31.4g,31.3g,60mg,8.5,FALSE,8.5,FALSE,,,1534279780.0-W-2542
+2018-08-15 06:49:40 UTC,gelativo,Gelativo Sorbet Lemon Lime Lemon Lime,Freezer,1l,100g,10,,Approx. 519kJ,Approx. 0.2g,Approx. 0.1g,Approx. 0g,Approx. 30.1g,Approx. 25.5g,Approx. 9mg,6,FALSE,6,FALSE,,,1534279780.0-W-2543
+2018-08-15 06:49:40 UTC,weis,Weis Sorbet Lemon,Freezer,1l tub,67g,10,,451kJ,<0.1g,<0.1g,0.0g,26.5g,24.9g,7mg,7,FALSE,7,FALSE,,,1534279780.0-W-2544
+2018-08-15 06:49:40 UTC,weis,Weis Sorbet Mango,Freezer,1l tub,72g,10,,463kJ,0.4g,<0.1g,0.0g,26.4g,25.5g,3mg,7,FALSE,7,FALSE,,,1534279780.0-W-2545
+2018-08-15 06:49:40 UTC,weis,Weis Ice Cream Mango & Cream,Freezer,4 pack,80g,4,,579kJ,1.4g,4.3g,3.2g,23.2g,21.5g,19mg,6.8,FALSE,6.8,FALSE,,,1534279780.0-W-2546
+2018-08-15 06:49:40 UTC,weis,Weis Ice Cream Mini Mango & Cream,Freezer,8 pack,40g,8,,579kJ,1.4g,4.3g,3.2g,23.2g,21.5g,19mg,6.8,FALSE,6.8,FALSE,,,1534279780.0-W-2547
+2018-08-15 06:49:40 UTC,weis,Weis Ice Cream Passionfruit Banana Pineapple,Freezer,4 pack,80g,4,,598kJ,1.5g,4.2g,3.2g,24.2g,22.3g,19mg,6.8,FALSE,6.8,FALSE,,,1534279780.0-W-2548
+2018-08-15 06:49:40 UTC,peters drumstick,Peters Drumstick Salted Caramel & White Chocolate,Freezer,4 pack,,,,,,,,,,,8,FALSE,8,FALSE,,,1534279780.0-W-2549
+2018-08-15 06:49:40 UTC,peters drumstick,Peters Drumstick Caramel ,Freezer,4 pack,79g,4,,1200kJ,3.0g,12.2g,9.9g,41.2g,29.3g,79mg,8,FALSE,8,FALSE,,,1534279780.0-W-2550
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Ice Cream Sicilian Blood Orange Choc,Freezer,4 pack,95g,4,,1420kJ,4.3g,23.0g,14.4g,28.6g,27.9g,42mg,8.4,TRUE,4.2,FALSE,,,1534279780.0-W-2551
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Ice Cream Chocolate Vanilla Almond,Freezer,4 pack,93g,4,,1570kJ,5.3g,25.7g,14.5g,31.0g,27.3g,91mg,8.4,TRUE,4.2,FALSE,,,1534279780.0-W-2552
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Mango & Coconut Ice Cream,Freezer,4 pack,,,,,,,,,,,8.4,TRUE,4.2,FALSE,,,1534279780.0-W-2553
+2018-08-15 06:49:40 UTC,connoisseur kangaroo island,Connoisseur Kangaroo Island Honey With Honeycomb Shards Ice Cream,Freezer,4 pack,,,,,,,,,,,8.4,TRUE,4.2,FALSE,,,1534279780.0-W-2554
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Ice Cream Mint Choc Cookie,Freezer,4 pack,92g,4,,1550kJ,4.8g,24.3g,14.8g,33.4g,26.3g,90mg,8.4,TRUE,4.2,FALSE,,,1534279780.0-W-2555
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Belgian Chocolate Fudge With Roasted Hazelnut,Freezer,4 pack,92g,4,,1560kJ,4.5g,25.1g,15.3g,32.4g,28.1g,60mg,8.4,TRUE,4.2,FALSE,,,1534279780.0-W-2556
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Murray River Salted Caramel Macadamia,Freezer,4 pack,92g,4,,1530kJ,4.6g,24.9g,13.5g,31.1g,27.2g,81mg,8.4,TRUE,4.2,FALSE,,,1534279780.0-W-2557
+2018-08-15 06:49:40 UTC,magnum,Magnum Ice Cream White,Freezer,4 pack,82g,4,,1350kJ,3.6g,21.4g,14.6g,29.0g,29.0g,50mg,8.5,FALSE,8.5,FALSE,,,1534279780.0-W-2558
+2018-08-15 06:49:40 UTC,peters drumstick,Peters Drumstick Super Chocolate ,Freezer,4 pack,81g,4,,1320kJ,4.1g,16.5g,12.5g,37.7g,28.7g,93mg,8,FALSE,8,FALSE,,,1534279780.0-W-2559
+2018-08-15 06:49:40 UTC,magnum,Magnum Mini Ice Cream Dulce De Leche 6 Pack,Freezer,360ml,Ml,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534279780.0-W-2560
+2018-08-15 06:49:40 UTC,peters drumstick,Peters Drumstick Chocolate Mint ,Freezer,4 pack,79g,4,,1210kJ,3.1g,12.6g,9.6g,40.8g,26.6g,54mg,8,FALSE,8,FALSE,,,1534279780.0-W-2561
+2018-08-15 06:49:40 UTC,peters drumstick,Peters Drumstick Ice Cream Boysenberry Swirl,Freezer,4 pack,85g,4,,1150kJ,2.7g,11.7g,9.5g,39.3g,28.0g,95mg,8,FALSE,8,FALSE,,,1534279780.0-W-2562
+2018-08-15 06:49:40 UTC,peters drumstick minis,Peters Drumstick Minis Ice Cream Vanilla,Freezer,6 pack,50g,6,,1400kJ,4.5g,18.1g,12.9g,38.5g,23.7g,49mg,8,FALSE,8,FALSE,,,1534279780.0-W-2563
+2018-08-15 06:49:40 UTC,peters drumstick,Peters Drumstick Ice Cream Vanilla,Freezer,4 pack,,,,,,,,,,,8,FALSE,8,FALSE,,,1534279780.0-W-2564
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Ice Pops ,Freezer,20 pack,75g (1 Ice Block),20,,313kJ,0.4g,<1.0g,<1.0g,17.8g,15.6g,5mg,2.8,FALSE,2.8,FALSE,,,1534279780.0-W-2565
+2018-08-15 06:49:40 UTC,magnum,Magnum Mini Ice Cream Raspberry Choc Truffle 6 Pack,Freezer,360ml,Ml,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534279780.0-W-2566
+2018-08-15 06:49:40 UTC,oreo,Oreo Ice Cream Cone ,Freezer,4 pack,,,,,,,,,,,8,TRUE,6,FALSE,,,1534279780.0-W-2567
+2018-08-15 06:49:40 UTC,peters maxibon,Peters Maxibon Vanilla ,Freezer,4 pack,102g,4,,1330kJ,4.0g,15.6g,10.9g,39.7g,27.0g,99mg,8.4,FALSE,8.4,FALSE,,,1534279780.0-W-2568
+2018-08-15 06:49:40 UTC,paddle pop,Paddle Pop Reduced Fat Ice Cream Rainbow,Freezer,10 pack,68g,10,,660kJ,3.4g,4.8g,2.4g,24.9g,19.8g,46mg,7,FALSE,7,FALSE,,,1534279780.0-W-2569
+2018-08-15 06:49:40 UTC,streets paddle pop,Streets Paddle Pop Chocolate ,Freezer,10 pack,54g,10,,611kJ,3.7g,3.0g,2.1g,25.4g,19.7g,55mg,7,FALSE,7,FALSE,,,1534279780.0-W-2570
+2018-08-15 06:49:40 UTC,calippo mini water,Calippo Mini Water Ice Raspberry & Pineapple,Freezer,10 pack,62g,10,,363kJ,0.0g,0.0g,0.0g,20.5g,20.1g,3mg,7,FALSE,7,FALSE,,,1534279780.0-W-2571
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Choc Coated Ice Cream,Freezer,10 pack,100.0g,10,,1190kJ,2.6g,19.2g,15.3g,25.9g,24.1g,43mg,3,FALSE,3,FALSE,,,1534279780.0-W-2572
+2018-08-15 06:49:40 UTC,bulla,Bulla Icy Pops Lemonade Raspberry & Cola,Freezer,10 pack,70g,10,,369kJ,<1g,<1g,<1g,19.8g,19.7g,<1mg,4.3,FALSE,4.3,FALSE,,,1534279780.0-W-2573
+2018-08-15 06:49:40 UTC,peters,Peters Light & Creamy Classic Vanilla Ice Cream Slices,Freezer,12 pack,46g,12,,660kJ,3.6g,2.8g,1.8g,28.9g,20.3g,75mg,8,FALSE,8,FALSE,,,1534279780.0-W-2574
+2018-08-15 06:49:40 UTC,streets paddle pop,Streets Paddle Pop Banana ,Freezer,10 pack,54g,10,,599kJ,2.7g,2.8g,2.0g,26.4g,20.1g,45mg,7,FALSE,7,FALSE,,,1534279780.0-W-2575
+2018-08-15 06:49:40 UTC,peters drumstick,Peters Drumstick Ice Cream Vanilla,Freezer,16 pack,72g,16,,1310kJ,4.0g,16.6g,11.6g,36.8g,22.2g,54mg,22.5,TRUE,17,FALSE,,,1534279780.0-W-2576
+2018-08-15 06:49:40 UTC,bulla mini,Bulla Mini Frozen Yoghurt Assorted Flavours,Freezer,14 pack,"Strawberry and Passion fruit :34g, Wildberry and Mango spilt : 38g",14,,"Strawberry and Passion fruit :533kJ, Wildberry and Mango spilt : 458kJ","Strawberry and Passion fruit :4.5g, Wildberry and Mango spilt : 2.6g","Strawberry and Passion fruit :3.0g, Wildberry and Mango spilt : 1.7g","Strawberry and Passion fruit :2.0g,Wildberry and Mango spilt : 1.1g","Strawberry and Passion fruit :20.7g, Wildberry and Mango spilt : 21.0g","Strawberry and Passion fruit :19.4g, Wildberry and Mango spilt : 20.2g","Strawberry and Passion fruit :55mg, Wildberry and Mango spilt : 32mg",6.8,TRUE,4.5,FALSE,,,1534279780.0-W-2577
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Ice Cream Creme Brulee,Freezer,1l,62g  (Approx. 1 Scoop),10,,937kJ,3.5g,10.7g,7.6g,27.7g,24.9g,48mg,4.7,FALSE,4.7,FALSE,,,1534279780.0-W-2578
+2018-08-15 06:49:40 UTC,blue ribbon,Blue Ribbon Reduced Fat Ice Cream Light Vanilla,Freezer,2l,Litre,,,,,,,,,,7.49,TRUE,4.9,FALSE,,,1534279780.0-W-2579
+2018-08-15 06:49:40 UTC,bulla,Bulla Mini Splits Tropical Raspberry,Freezer,14 pack,37g,14,,616kJ,1.5g,5.7g,3.4g,22.2g,20.7g,30mg,6.8,TRUE,4.5,FALSE,,,1534279780.0-W-2580
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Ice Cream Coconut Chocolate,Freezer,1l,62g (Approx. 1 Scoop),10,,1020kJ,3.9g,14.3g,8.3g,24.5g,21.5g,61mg,4.7,FALSE,4.7,FALSE,,,1534279780.0-W-2581
+2018-08-15 06:49:40 UTC,gelativo,Gelativo Sorbet Passionfruit,Freezer,1l tub,Litre,,,,,,,,,,7.99,TRUE,6,FALSE,,,1534279780.0-W-2582
+2018-08-15 06:49:40 UTC,bulla creamy classics,Bulla Creamy Classics Ice Cream Vanilla & Boysenberry,Freezer,2l,Litre,,,,,,,,,,8,TRUE,5,FALSE,,,1534279780.0-W-2583
+2018-08-15 06:49:40 UTC,bulla,Bulla Reduced Fat Vanilla Ice Cream,Freezer,2l,45g,20,,718kJ,3.1g,6.0g,4.3g,26.2g,,53mg,4,FALSE,4,FALSE,,,1534279780.0-W-2584
+2018-08-15 06:49:40 UTC,bulla ,Bulla Reduced Fat Strawberry & Cream Ice Cream,Freezer,2l,47g,20,,710kJ,3.0g,5.8g,4.1g,26.5g,21.4g,51mg,4,FALSE,4,FALSE,,,1534279780.0-W-2585
+2018-08-15 06:49:40 UTC,bulla splits,"Bulla Splits Multipack Raspberry, Mango & Lemon Lime",Freezer,10 pack,64g,10,,619kJ,1.4g,5.5g,3.7g,22.9g,21.8g,28mg,6.8,TRUE,4.5,FALSE,,,1534279780.0-W-2586
+2018-08-15 06:49:40 UTC,peters,Peters Light & Creamy Choc Caramel & Vanilla Swirl Ice Cream,Freezer,1.8l,47g (100mL) approx.2 Scoops,18,,670kJ,3.5g,2.8g,1.8g,29.4g,20.8g,78mg,5,TRUE,4,FALSE,,,1534279780.0-W-2587
+2018-08-15 06:49:40 UTC,peters,Peters Light & Creamy Raspberry Ripple Ice Cream,Freezer,1.8l,48g (100mL) approx.2 Scoops,18,,670kJ,3.4g,2.6g,1.7g,30.0g,21.3g,71mg,5,TRUE,4,FALSE,,,1534279780.0-W-2588
+2018-08-15 06:49:40 UTC,peters,Peters Light & Creamy French Vanilla Ice Cream,Freezer,1.8l,46g (100mL) approx.2 Scoops,18,,650kJ,3.6g,2.7g,1.8g,28.9g,20.3g,75mg,5,TRUE,4,FALSE,,,1534279780.0-W-2589
+2018-08-15 06:49:40 UTC,bulla,Bulla Splits Raspberry,Freezer,10 pack,64g,10,,619kJ,1.4g,5.5g,3.7g,22.9g,21.8g,28mg,6.8,TRUE,4.5,FALSE,,,1534279780.0-W-2590
+2018-08-15 06:49:40 UTC,bulla splits,Bulla Splits Ice Cream Wildberry Orange Tropical,Freezer,10 pack,64g,10,,619kJ,1.4g,5.5g,3.7g,22.9g,21.8g,28mg,6.8,TRUE,4.5,FALSE,,,1534279780.0-W-2591
+2018-08-15 06:49:40 UTC,bulla,Bulla Choc Bars Malt Choc Mint & Vanilla,Freezer,10 pack,60g,10,,1308kJ,2.8g,21.2g,18.7g,27.7g,,44mg,6.8,TRUE,4.5,FALSE,,,1534279780.0-W-2592
+2018-08-15 06:49:40 UTC,bulla,Bulla Choc Bars Vanilla,Freezer,10 pack,60g,10,,1259kJ,2.8g,20.5g,18.0g,26.5g,24.6g,42mg,6.8,TRUE,4.5,FALSE,,,1534279780.0-W-2593
+2018-08-15 06:49:40 UTC,peters,Peters Light & Creamy Classic Vanilla Ice Cream,Freezer,1.8l,46g (100mL) approx.2 Scoops,18,,660kJ,3.6g,2.8g,1.8g,28.9g,20.3g,75mg,5,TRUE,4,FALSE,,,1534279780.0-W-2594
+2018-08-15 06:49:40 UTC,blue ribbon,Blue Ribbon Reduced Fat Ice Cream Caramel & Honeycomb Crunch,Freezer,2l tub,46g,20,,738kJ,3.1g,4.3g,3.2g,30.6g,21.5g,45mg,7.49,TRUE,4.9,FALSE,,,1534279780.0-W-2595
+2018-08-15 06:49:40 UTC,magnum,Magnum Tub Ice Cream Almond,Freezer,440ml,Ml,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534279780.0-W-2596
+2018-08-15 06:49:40 UTC,magnum,Magnum Dark Chocolate Raspberry Ice Cream,Freezer,440ml,Ml,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534279780.0-W-2597
+2018-08-15 06:49:40 UTC,h  agen-dazs,H  agen-dazs Classic Collection Ice Cream,Freezer,4 pack,"VaNilla Ice Cream:87g (1 minicup), Caramel Ice Cream and Caramel Biscuit: 87g (1 minicup), Chocolate Ice Cream with Belgian Chocolate: 87g (1 minicup), VaNilla Ice Cream with Cookies: 83g (1 minicup)","VaNilla Ice Cream:1, Caramel Ice Cream and Caramel Biscuit: 1, Chocolate Ice Cream with Belgian Chocolate: 1, VaNilla Ice Cream with Cookies: 1",,"VaNilla Ice Cream:1040kJ, Caramel Ice Cream and Caramel Biscuit: 1190kJ, Chocolate Ice Cream with Belgian Chocolate: 1310kJ, VaNilla Ice Cream with Cookies: 1090kJ","VaNilla Ice Cream:4.3g, Caramel Ice Cream and Caramel Biscuit: 4.6g, Chocolate Ice Cream with Belgian Chocolate: 4.5g, VaNilla Ice Cream with Cookies: 4.4g","VaNilla Ice Cream:17.0g, Caramel Ice Cream and Caramel Biscuit: 18.4g, Chocolate Ice Cream with Belgian Chocolate: 20.7g, VaNilla Ice Cream with Cookies: 17.1g","VaNilla Ice Cream:10.4g, Caramel Ice Cream and Caramel Biscuit: 11.4g, Chocolate Ice Cream with Belgian Chocolate: 12.7g, VaNilla Ice Cream with Cookies: 10.7g","VaNilla Ice Cream:20.0g, Caramel Ice Cream and Caramel Biscuit: 25.5g, Chocolate Ice Cream with Belgian Chocolate: 26.2g, VaNilla Ice Cream with Cookies: 22.4g","VaNilla Ice Cream:18.8g, Caramel Ice Cream and Caramel Biscuit: 17.8g, Chocolate Ice Cream with Belgian Chocolate: 24.3g, VaNilla Ice Cream with Cookies: 19.3g","VaNilla Ice Cream:73mg, Caramel Ice Cream and Caramel Biscuit: 141mg, Chocolate Ice Cream with Belgian Chocolate: 53mg, VaNilla Ice Cream with Cookies: 69mg",12.5,FALSE,12.5,FALSE,,,1534279780.0-W-2598
+2018-08-15 06:49:40 UTC,magnum,Magnum Tub Ice Cream Classic,Freezer,440ml,Ml,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534279780.0-W-2599
+2018-08-15 06:49:40 UTC,magnum,Magnum Tub Ice Cream White,Freezer,440ml,Ml,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534279780.0-W-2600
+2018-08-15 06:49:40 UTC,magnum,Magnum Chocolate Hazelnut Praline Ice Cream,Freezer,440ml,Ml,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534279780.0-W-2601
+2018-08-15 06:49:40 UTC,h  agen dazs,H  agen Dazs Coconut Chocolate Ice Cream ,Freezer,457ml,Ml,,,,,,,,,,11.5,FALSE,11.5,FALSE,,,1534279780.0-W-2602
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Chocolate Ice Cream,Freezer,2l,46g,20,,Approx. 697kJ,Approx. 1.9g,Approx. 4.4g,Approx. 3g,Approx. 29.5g,Approx. 21.2g,Approx. 42mg,4.5,FALSE,4.5,FALSE,,,1534279780.0-W-2603
+2018-08-15 06:49:40 UTC,sara lee,Sara Lee Ice Cream Salted Caramel,Freezer,1l tub,65g,10,,1060kJ,3.8g,14.2g,8.2g,27.6g,27.4g,118mg,9,FALSE,9,FALSE,,,1534279780.0-W-2604
+2018-08-15 06:49:40 UTC,streets blue ribbon,Streets Blue Ribbon Classic Chocolate Ice Cream,Freezer,2l,Litre,,,,,,,,,,7.49,TRUE,4.9,FALSE,,,1534279780.0-W-2605
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Ice Cream Raspberry White Chocolate,Freezer,1l tub,76g,10,,1220kJ,3.4g,16.1g,11.4g,33.2g,28.8g,42mg,10,TRUE,7,FALSE,,,1534279780.0-W-2606
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Ice Cream Murray River Salted Caramel,Freezer,1l tub,75g,10,,1120kJ,3.7g,15.0g,9.3g,29.8g,24.2g,105mg,10,TRUE,7,FALSE,,,1534279780.0-W-2607
+2018-08-15 06:49:40 UTC,weis for dessert,Weis For Dessert Mango With Macadamia Cream ,Freezer,1l tub,76g,10,,823kJ,2.8g,10.0g,6.2g,23.8g,22.2g,32mg,9,FALSE,9,FALSE,,,1534279780.0-W-2608
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Ice Cream Vanilla Bean,Freezer,1l tub,78g (Approx 1 Scoop),10,,971kJ,3.9g,14.2g,10.5g,22.3g,19.4g,52mg,4.7,FALSE,4.7,FALSE,,,1534279780.0-W-2609
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Ice Cream Honey Caramel Macadamia,Freezer,1l tub,64g (Approx. 1 Scoop),10,,1040kJ,3.7g,14.2g,8.8g,26.7g,22.2g,47mg,4.7,FALSE,4.7,FALSE,,,1534279780.0-W-2610
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Ice Cream Cookies & Cream,Freezer,1l tub,64g (Approx 1 Scoop),10,,1060kJ,4.3g,13.2g,7.9g,29.4g,20.7g,140mg,4.7,FALSE,4.7,FALSE,,,1534279780.0-W-2611
+2018-08-15 06:49:40 UTC,weis for dessert,Weis For Dessert Ice Cream Vanilla Bean,Freezer,1l tub,78g,10,,983kJ,3.7g,13.2g,10.1g,25.5g,23.4g,49mg,9,FALSE,9,FALSE,,,1534279780.0-W-2612
+2018-08-15 06:49:40 UTC,bulla,Bulla Classics Hokey Pokey Frozen Custard,Freezer,1l,Litre,,,,,,,,,,8,FALSE,8,FALSE,,,1534279780.0-W-2613
+2018-08-15 06:49:40 UTC,sara lee,Sara Lee Hazelnut Chocolate Ripple Ice Cream,Freezer,1l,Litre,,,,,,,,,,9,FALSE,9,FALSE,,,1534279780.0-W-2614
+2018-08-15 06:49:40 UTC,blue ribbon ,Blue Ribbon Cookies & Cream ,Freezer,1l,Litre,,,,,,,,,,10,FALSE,10,FALSE,,,1534279780.0-W-2615
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Ice Cream Cafe Grande,Freezer,1l tub,75g,10,,1150kJ,4.4g,15.7g,9.0g,28.2g,23.4g,43mg,10,TRUE,7,FALSE,,,1534279780.0-W-2616
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Ice Cream Vanilla Caramel Brownie,Freezer,1l,Litre,,,,,,,,,,10,TRUE,7,FALSE,,,1534279780.0-W-2617
+2018-08-15 06:49:40 UTC,blue ribbon ,Blue Ribbon Rich Chocolate ,Freezer,1l,Litre,,,,,,,,,,10,FALSE,10,FALSE,,,1534279780.0-W-2618
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Ice Cream Caramel Honey Macadamia,Freezer,1l tub,69g,10,,1140kJ,3.8g,16.7g,9.4g,27.0g,20.0g,44mg,10,TRUE,7,FALSE,,,1534279780.0-W-2619
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Ice Cream Belgian Chocolate,Freezer,1l tub,72g,10,,1050kJ,3.9g,15.5g,10.6g,24.1g,23.4g,55mg,10,TRUE,7,FALSE,,,1534279780.0-W-2620
+2018-08-15 06:49:40 UTC,blue ribbon,Blue Ribbon Reduced Fat Ice Cream Original Golden Gaytime,Freezer,1.25l tub,44g,13,,881kJ,3.0g,7.4g,5.1g,32.3g,22.9g,55mg,7,TRUE,4.9,FALSE,,,1534279780.0-W-2621
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Ice Cream Intense Coffee,Freezer,1l,64g (approx 1 scoop),10,,959kJ,3.9g,12.4g,8.5g,25.5g,21.7g,59mg,4.7,FALSE,4.7,FALSE,,,1534279780.0-W-2622
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Ice Cream Salted Caramel,Freezer,1l,63g (approx 1 Scoop),10,,950kJ,3.7g,12.3g,8.5g,25.4g,22.8g,163mg,4.7,FALSE,4.7,FALSE,,,1534279780.0-W-2623
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Cheese & Ham Croquettes,Freezer,8pk 300g,g,,,,,,,,,,5,TRUE,4,TRUE,3,4,1534279780.0-W-2624
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Ice Cream Cookies & Cream,Freezer,4 pack,91g,4,,1540kJ,4.9g,22.5g,13.3g,36.4g,27.2g,120mg,8.4,TRUE,4.2,FALSE,,,1534279780.0-W-2625
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Montana Mint Ice Cream,Freezer,1l,Litre,,,,,,,,,,10,TRUE,7,FALSE,,,1534279780.0-W-2626
+2018-08-15 06:49:40 UTC,connoisseur,Connoisseur Coconut Chocolate Ice Cream,Freezer,1l,Litre,,,,,,,,,,10,TRUE,7,FALSE,,,1534279780.0-W-2627
+2018-08-15 06:49:40 UTC,sara lee,Sara Lee Strawberries & Cream Ice Cream,Freezer,1l,Litre,,,,,,,,,,9,FALSE,9,FALSE,,,1534279780.0-W-2628
+2018-08-15 06:49:40 UTC,blue ribbon ,Blue Ribbon Buttermilk Vanilla ,Freezer,1l,Litre,,,,,,,,,,10,FALSE,10,FALSE,,,1534279780.0-W-2629
+2018-08-15 06:49:40 UTC,sara lee,Sara Lee Sticky Date Pudding ,Freezer,475g,59g,8,,1410kJ,2.8g,12.4g,7.3g,52.2g,38.4g,424mg,6.25,FALSE,6.25,FALSE,,,1534279780.0-W-2630
+2018-08-15 06:49:40 UTC,linda mccartney,Linda Mccartney Vegetarian Sausages,Freezer,6pk 300g,92g,3,,671kJ,17.9g,5.4g,1.9g,7.5g,1.5g,650mg,6,TRUE,5,FALSE,,,1534279780.0-W-2631
+2018-08-15 06:49:40 UTC,linda mccartney,Linda Mccartney Sausage Roll Vegetarian,Freezer,6pk 342g,100g,3,,Approx. 1200kJ,Approx. 10.9g,Approx. 16.2g,Approx. 7.3g,Approx. 22.7g,Approx. 2.1g,Approx. 345mg,6,TRUE,5,FALSE,,,1534279780.0-W-2632
+2018-08-15 06:49:40 UTC,crazy dragon,Crazy Dragon Hong Kong Chicken Dumplings,Freezer,750g,40g (2 Dumplings),19,,692kJ,10.7g,1.2g,0.3g,26.3g,1.2g,494mg,15.5,TRUE,7.75,FALSE,,,1534279780.0-W-2633
+2018-08-15 06:49:40 UTC,sara lee,Sara Lee Family Pies & Desserts Apple Pie,Freezer,600g,75g,8,,1120kJ,2.8g,10.9g,5.1g,38.8g,19.8g,208mg,6.25,FALSE,6.25,FALSE,,,1534279780.0-W-2634
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Garlic Chicken Bites ,Freezer,360g,g,,,,,,,,,,5,TRUE,4,TRUE,3,4,1534279780.0-W-2635
+2018-08-15 06:49:40 UTC,borg's,Borg's Pastizzis Spinach And Ricotta Cheese,Freezer,625g,62.5g,10,,1230kJ,7.0g,10.7g,5.1g,41.0g,0.9g,363mg,6,TRUE,5,FALSE,,,1534279780.0-W-2636
+2018-08-15 06:49:40 UTC,crazy dragon,Crazy Dragon Hong Kong Pork Dumplings ,Freezer,750g,40.00g (2 Dumplings),19,,771kJ,10.0g,3.7g,1.2g,26.3g,1.3g,464mg,15.5,TRUE,7.75,FALSE,,,1534279780.0-W-2637
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Chicken & Mushroom Arancini ,Freezer,8 pieces 200g,100g,8,,Approx. 982kJ,Approx. 7.2g,Approx. 11.5g,Approx. 3.2g,Approx. 25.3g,Approx. 0.2g,Approx. 400mg,5,TRUE,4,TRUE,3,4,1534279780.0-W-2638
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Macaroni Cheese Balls ,Freezer,8 pieces 200g,25g,8,,1140kJ,11.9g,12.3g,4.7g,27.7g,1.9g,480mg,5,TRUE,4,TRUE,3,4,1534279780.0-W-2639
+2018-08-15 06:49:40 UTC,bulla,Bulla Creamy Classics Vanilla Sandwiches,Freezer,4 pack,,,,,,,,,,,8,FALSE,8,FALSE,,,1534279780.0-W-2640
+2018-08-15 06:49:40 UTC,streets,Streets Golden Gaytime Unicorn Limited Edition,Freezer,400ml,Ml,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534279780.0-W-2641
+2018-08-15 06:49:40 UTC,weis,Weis Real Good Feel Good Dark Chocolate Coconut,Freezer,4x70ml,Ml,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534279780.0-W-2642
+2018-08-15 06:49:40 UTC,sara lee,Sara Lee Family Pies & Desserts Blueberry Danish,Freezer,400g,66.5g,6,,1150kJ,4.1g,9.9g,5.8g,41.0g,17.9g,199mg,6.25,FALSE,6.25,FALSE,,,1534279780.0-W-2643
+2018-08-15 06:49:40 UTC,nannas,Nannas Frozen Crepes ,Freezer,400g,50g,8,,884kJc,2.6g,8.4g,2.1g,31.4g,3.4g,290mg,6,FALSE,6,FALSE,,,1534279780.0-W-2644
+2018-08-15 06:49:40 UTC,weis,Weis Real Good Feel Good Mango Passionfruit Coconut,Freezer,4x120ml,Ml,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534279780.0-W-2645
+2018-08-15 06:49:40 UTC,gold,Gold Salted Caramel Lava Cake,Freezer,2pk 180g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534279780.0-W-2646
+2018-08-15 06:49:40 UTC,pampas ,Pampas Lemon Meringue Pies ,Freezer,4 pack,Approx100g (One pie),4,,1060kJ,1.9g,10.0g,4.6g,38.6,23.2g,360mg,5.8,FALSE,5.8,FALSE,,,1534279780.0-W-2647
+2018-08-15 06:49:40 UTC,sara lee,Sara Lee Desserts Danish Custard,Freezer,400g,approx.66.5g,6,,1220kJ,5.5g,14.2g,7.7g,34.3g,14.2g,263mg,6.25,FALSE,6.25,FALSE,,,1534279780.0-W-2648
+2018-08-15 06:49:40 UTC,nannas,Nannas Apple & Salted Caramel Crumble,Freezer,400g,g,,,,,,,,,,6,FALSE,6,FALSE,,,1534279780.0-W-2649
+2018-08-15 06:49:40 UTC,four n twenty,Four N Twenty Sausage Roll Party,Freezer,500g,42g,12,,1180kJ,7.7g,15.1g,7.9g,28.0g,0.5g,658mg,5,TRUE,4,FALSE,,,1534279780.0-W-2650
+2018-08-15 06:49:40 UTC,four n twenty,Four N Twenty Peppered Beef Pie With Dark Stout,Freezer,4 pack,,,,,,,,,,,8.7,FALSE,8.7,FALSE,,,1534279780.0-W-2651
+2018-08-15 06:49:40 UTC,temptation,Temptation Quiche Petite Cheese & Spinach,Freezer,300g,17g,18,,1150kJ,7.5g,16.7g,9.2g,22.7g,2.6g,535mg,6,FALSE,6,FALSE,,,1534279780.0-W-2652
+2018-08-15 06:49:40 UTC,four n twenty,Four N Twenty Classic Angus Beef Pie With Golden Ale,Freezer,4 pack,,,,,,,,,,,8.7,FALSE,8.7,FALSE,,,1534279780.0-W-2653
+2018-08-15 06:49:40 UTC,temptations bakeries,Temptations Bakeries Quiche Lorraine ,Freezer,550g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534279780.0-W-2654
+2018-08-15 06:49:40 UTC,borg's,Borg's Pastizzis Greek Spinach & Fetta,Freezer,625g,62.5g,10,,1230kJ,7.2g,11.9g,5.5g,38.1g,0.8g,355mg,6,TRUE,5,FALSE,,,1534279780.0-W-2655
+2018-08-15 06:49:40 UTC,temptation,Temptation Quiche Petite Lorraine Bacon & Cheese,Freezer,300g,17g,18,,1190kJ,7.7g,18.1g,9.9g,22.0g,1.8g,580mg,6,FALSE,6,FALSE,,,1534279780.0-W-2656
+2018-08-15 06:49:40 UTC,temptation bakeries,Temptation Bakeries Quiche Petite,Freezer,30pk 500g,17g,30,,"Cheese and Spinach:1150kJ, Quiche Lorraine: 1190kJ","Cheese and Spinach:7.5g, Quiche Lorraine: 7.7g","Cheese and Spinach:16.7g, 18.1g","Cheese and Spinach:9.2g, Quiche Lorraine: 9.9g","Cheese and Spinach:22.7g, Quiche Lorraine: 22.0g","Cheese and Spinach:2.6g, 1.8g","Cheese and Spinach:535mg, Quiche Lorraine: 580mg",10,FALSE,10,FALSE,,,1534279780.0-W-2657
+2018-08-15 06:49:40 UTC,sargents aussie angus,Sargents Aussie Angus Premium Chunky Beef Pies,Freezer,4 pack,,,,,,,,,,,8.5,TRUE,6,FALSE,,,1534279780.0-W-2658
+2018-08-15 06:49:40 UTC,patties,Patties Sausage Roll Party,Freezer,450g,112.5g (3 party sausage rolls),4,,1100kJ,7.7g,14.8g,7.5g,24.1g,0.7g,635mg,7.15,FALSE,7.15,FALSE,,,1534279780.0-W-2659
+2018-08-15 06:49:40 UTC,sargents,Sargents Party Pack ,Freezer,36 pack,38g (Party pies) 30g (Sausage rolls),36,,"Party pie:1097kJ, Sausage roll: 1318kJ","Party pie:7.7g, Sausage roll: 6.6g","Party pie:11.9g, Sausage roll: 17.7g","Party pie:6.0g, Sausage roll: 9.0g","Party pie:31.1g,Sausage roll: 32.3g","Party pie:1.8g, Sausage roll: 2.1g","Party pie:365mg, Sausage roll: 545mg",13.5,TRUE,9.5,FALSE,,,1534279780.0-W-2660
+2018-08-15 06:49:40 UTC,mrs macs ,Mrs Macs Pies Microwave Beef,Freezer,200g,200g,1,,1160kj,9.2g,15.1g,7.2g,25.7g,0.6g,430mg,2.25,FALSE,2.25,FALSE,,,1534279780.0-W-2661
+2018-08-15 06:49:40 UTC,mrs macs ,Mrs Macs Pies Microwave Beef & Cheese,Freezer,200g,200g,1,,1170kj,9.2g,15.7g,8g,25.2g,0.5g,446mg,2.25,FALSE,2.25,FALSE,,,1534279780.0-W-2662
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Party Pack Party Pies & Sausage Rolls,Freezer,30 pack,,,,,,,,,,,8,FALSE,8,FALSE,,,1534279780.0-W-2663
+2018-08-15 06:49:40 UTC,borg's,Borg's Pastizzis Triangles Spinach & Ricotta,Freezer,360g,30g,12,,1230kJ,7.4g,10.6g,5.1g,41.6g,0.9g,324mg,3,FALSE,3,FALSE,,,1534279780.0-W-2664
+2018-08-15 06:49:40 UTC,borg's ,Borg's Triangles Feta Cheese ,Freezer,360g,g,,,,,,,,,,3,FALSE,3,FALSE,,,1534279780.0-W-2665
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Indian Selection Mixed Pack 24 Pieces,Freezer,360g,30g (2 Pieces),4,,"Vegetable Samosa:1025kJ, Vegetable Pakora: 862kJ, Onion Bhaji: 1117kJ","Vegetable Samosa:5.3g, Vegetable Pakora: 5.3g, Onion Bhaji: 5.0g","Vegetable Samosa:10.8g, Vegetable Pakora: 7.6g, Onion Bhaji: 14.4g","Vegetable Samosa:2.5g, Vegetable Pakora: 2.2g, Onion Bhaji: 4.4g","Vegetable Samosa:31.7g, Vegetable Pakora: 29.1g, Onion Bhaji: 29.3g","Vegetable Samosa:4.4g, Vegetable Pakora: 2.0g, Onion Bhaji: 5.9g","Vegetable Samosa:278mg, Vegetable Pakora: 395mg, Onion Bhaji: 334mg",7.5,TRUE,5,FALSE,,,1534279780.0-W-2666
+2018-08-15 06:49:40 UTC,patties party ,Patties Party Pies ,Freezer,24 pack,93.4g (2 Party Pies),12,,860kJ,7.0g,9.0g,6.6g,23.6g,0.8g,665mg,13,FALSE,13,FALSE,,,1534279780.0-W-2667
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Party Pies ,Freezer,24 pack,,,,,,,,,,,4.8,FALSE,4.8,FALSE,,,1534279780.0-W-2668
+2018-08-15 06:49:40 UTC,woolworths,Woolworths Party Sausage Rolls ,Freezer,24 pack,,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534279780.0-W-2669
+2018-08-15 06:49:40 UTC,mr chens,Mr Chens Steam Selection ,Freezer,240g,"Prawn Shao Mai:25g, ginger Prawn: 30g, Prawn Hargow: 25g",3,,"Prawn Shao Mai:385kJ, ginger Prawn: 711kJ, Prawn Hargow: 730kJ","Prawn Shao Mai:10.5g, ginger Prawn: 9.1g, Prawn Hargow: 5g","Prawn Shao Mai:0.7g, ginger Prawn: 5.2g, Prawn Hargow: 6.3g","Prawn Shao Mai:0.1g, ginger Prawn: 0.8g, Prawn Hargow: 1.1g","Prawn Shao Mai:11g, ginger Prawn: 21.1g, 23.9g","Prawn Shao Mai:0.2g, ginger Prawn: 2.7g, Prawn Hargow: 1.8g","Prawn Shao Mai:260mg, ginger Prawn: 560mg, Prawn Hargow: 570mg",7.5,FALSE,7.5,FALSE,,,1534279780.0-W-2670
+2018-08-15 06:49:40 UTC,patties,Patties Party Sausage Rolls ,Freezer,24 pack,112.5(3 Party Sausage Rolls),8,,1100kJ,7.7g,14.8g,7.5g,24.1g,0.7g,635mg,13,FALSE,13,FALSE,,,1534279780.0-W-2671
+2018-08-15 06:49:40 UTC,mr chens,Mr Chens Chive & Prawn Wonton,Freezer,240g,20g,2,,640kj,7.7g,5g,1g,18g,2.6g,350mg,7.5,FALSE,7.5,FALSE,,,1534279780.0-W-2672
+2018-08-15 06:49:40 UTC,mr chens,Mr Chens Ginger Prawn Dumplings,Freezer,240g,30g,8,,711kj,9.1g,5.2g,0.8g,21.1g,2.7g,560mg,7.5,FALSE,7.5,FALSE,,,1534279780.0-W-2673
+2018-08-15 06:49:40 UTC,dibble dabbles,Dibble Dabbles Mini Dagwood Dog ,Freezer,270g,45g,6,,851,8.4g,8.3g,2.6g,23.6g,5.7g,753mg,6,TRUE,5,FALSE,,,1534279780.0-W-2674
+2018-08-15 06:49:40 UTC,essentials,Essentials Asian Dim Sims,Freezer,30 pack,100g,30,,Approx. 809kJ,Approx. 5.3g,Approx. 6g,Approx. 3.2g,Approx. 28.3g,Approx. 2.7g,Approx. 577mg,4,FALSE,4,FALSE,,,1534279780.0-W-2675
+2018-08-15 06:49:40 UTC,mr chens,Mr Chens Prawn Hargow ,Freezer,300g,25g,12,,730kJ,5g,6.3g,1.1g,23.9g,1.8g,570mg,7.5,FALSE,7.5,FALSE,,,1534279780.0-W-2676
+2018-08-15 06:49:40 UTC,mr chens,Mr Chens Steamed Prawn Roll ,Freezer,300g,"1Soy Sauce, 5 Prawn Roll",5,,"207.5kJ Soy Sauce, 770kJ Prawn Roll","2.5g Soy Sauce, 7.8g Prawn Roll","0.2g Soy Sauce, 5.2g Prawn Roll","0g Soy Sauce, 0g Prawn Roll","9.5g Soy Sauce, 26.58g Prawn Roll","7.2g Soy Sauce, 1.3g Prawn Roll","1867.3mg Soy Sauce, 381.1mg Prawn Roll",7.5,FALSE,7.5,FALSE,,,1534279780.0-W-2677
+2018-08-15 06:49:40 UTC,hong kong,Hong Kong Dim Sim Kitchen Pork Dim Sim,Freezer,320g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534279780.0-W-2678
+2018-08-15 06:49:40 UTC,dibble dabbles,Dibble Dabbles Mozzarella Sticks ,Freezer,235g,23.5g,10,,1279kJ,11.6g,17.9g,,24.8g,1.4g,645mg,6,TRUE,5,FALSE,,,1534279780.0-W-2679
+2018-08-15 06:49:40 UTC,mr chens,Mr Chens Gluten Free Prawn Hargow,Freezer,204g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534279780.0-W-2680
+2018-08-15 06:49:40 UTC,hong kong dim sim kitchens,Hong Kong Dim Sim Kitchens Bbq Pork Buns ,Freezer,200g 6pk,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534279780.0-W-2681
+2018-08-15 06:49:40 UTC,asiana,Asiana Yum Cha Selection Sampler Pack,Freezer,210g,g,,,,,,,,,,2.5,FALSE,2.5,FALSE,,,1534279780.0-W-2682
+2018-08-15 06:49:40 UTC,asiana,Asiana Asian Dumplings Vegetable,Freezer,200g,40g (2 Pieces),5,,833kJ,6.4g,9.0g,3.3g,23.3g,1.2g,505mg,3.29,TRUE,2.5,FALSE,,,1534279780.0-W-2683
+2018-08-15 06:49:40 UTC,herbert adams,Herbert Adams Artisan Black Angus Pies,Freezer,2 pack,,,,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534279780.0-W-2684
+2018-08-15 06:49:40 UTC,herbert adams,Herbert Adams Artisan Butter Chicken Pies ,Freezer,2 pack,,,,,,,,,,,9.5,FALSE,9.5,FALSE,,,1534279780.0-W-2685
+2018-08-15 06:49:40 UTC,herbert adams slow cooked,Herbert Adams Slow Cooked Beef Pie With Caramelised Onion & Cabernet Sauvignon,Freezer,2 pack,,,,,,,,,,,6.3,TRUE,4,FALSE,,,1534279780.0-W-2686
+2018-08-15 06:49:40 UTC,mr chens,Mr Chens Premium Prawn Springroll,Freezer,200g,g,,,,,,,,,,0,FALSE,0,FALSE,,,1534279780.0-W-2687
+2018-08-15 06:49:40 UTC,temptation,Temptation Quiche Tasty Cheese & Bacon,Freezer,2 pack,140g,2,,1180kJ,8.3g,18.5g,10.3g,20.1g,1.6g,617mg,5,TRUE,4,FALSE,,,1534279780.0-W-2688
+2018-08-15 06:49:40 UTC,asiana,Asiana Springs Rolls Thai,Freezer,180g,30g ( 2 Pieces),6,,1110kJ,4.8g,12.1g,5.0g,34.8g,2.0g,493mg,3.29,TRUE,2.5,FALSE,,,1534279780.0-W-2689
+2018-08-15 06:49:40 UTC,petite cuisine,Petite Cuisine Hamburger Patties 20pk ,Freezer,1kg,50g,20,,1230kJ,15g,22.1g,10.0g,9.1g,1.6g,410g,8.7,FALSE,8.7,FALSE,,,1534279780.0-W-2690
+2018-08-15 06:49:41 UTC,borg's,Borg's Pastizzis Cocktail Spinach & Ricotta,Freezer,1kg,25g,40,,1230kJ,7.0g,10.7g,5.1g,41.0g,0.9g,636mg,7,FALSE,7,FALSE,,,1534279781.0-W-2691
+2018-08-15 06:49:41 UTC,patties,Patties Party Pack Mini Pies & Sausage Rolls,Freezer,1kg,"Mini Party Pies:24g, Mini Sausage Rolls: 26g",20,,"Mini Party Pies:992kJ, Mini Sausage Rolls: 852kJ","Mini Party Pies:7.6g, Mini Sausage Rolls: 7.7g","Mini Party Pies:9.4g, Mini Sausage Rolls: 7.9g","Mini Party Pies:7.9g, Mini Sausage Rolls: 7.6g","Mini Party Pies:29.7g, Mini Sausage Rolls: 24.7g","Mini Party Pies:0.2g, Mini Sausage Rolls: 0.7g","Mini Party Pies:480mg, Mini Sausage Rolls: 625mg",13.5,FALSE,13.5,FALSE,,,1534279781.0-W-2692
+2018-08-15 06:49:41 UTC,ho mai,Ho Mai Asian Entertainer Pack,Freezer,1kg,"Cocktail Spring Roll: Avg17g, Cocktail Samosa: Avg 17g, Money Bag: Avg 20g",,,,,,"Cocktail Spring Roll:4.1g, Cocktail Samosa: 1.8g, Money Bag: 1.0g",,,,14,TRUE,7,FALSE,,,1534279781.0-W-2693
+2018-08-15 06:49:41 UTC,ho mai,Ho Mai Spring Rolls Cocktail,Freezer,1kg,Avg17g,60,,929kJ,4.1g,8.8g,4.1g,31.8g,2.4g,488mg,14,TRUE,7,FALSE,,,1534279781.0-W-2694
+2018-08-15 06:49:41 UTC,asiana,Asiana Dynasty Banquet Selection Value Pack,Freezer,1kg,"Spring Rolls:18g (1 Piece), Vegetable Samosas 15g (1 Piece), Dim Sims 18g (1 Piece)",20,,"Spring Rolls:1180kJ, Vegetable Samosas: 1074kJ, Dim Sims: 940kJ","Spring Rolls:4.0g, Vegetable Samosas: 4.2g, Dim Sims: 7.9g","Spring Rolls:14.0g, Vegetable Samosa: 11.9g, Dim Sims: 6.5g","Spring Rolls:6.2g, Vegetable Samosas: 5.2g, Dim Sims: 2.0g","Spring Rolls:35.0g, Vegetable samosas: 33.1g, Dim Sims: 33.2g","Spring Rolls:1.5g, Vegetable Samosas: 1.3g, Dim Sims:  2.9g","Spring Rolls:485mg, Vegetable Samosas: 460mg, Dim Sims: 550mg",12,TRUE,10,FALSE,,,1534279781.0-W-2695
+2018-08-15 06:49:41 UTC,kbs,Kbs Prawn Gyoza,Freezer,1kg,kg,,,,,,,,,,21.3,FALSE,21.3,FALSE,,,1534279781.0-W-2696
+2018-08-15 06:49:41 UTC,asiana,Asiana Spring Rolls ,Freezer,1kg,kg,,,,,,,,,,12,TRUE,10,FALSE,,,1534279781.0-W-2697
+2018-08-15 06:49:41 UTC,herbert adams,Herbert Adams Pies Gourmet King Beef,Freezer,12 pack,35g,12,,1030kJ,9.1g,13.6g,7.4g,21.1g,1.7g,490mg,7.9,TRUE,6,FALSE,,,1534279781.0-W-2698
+2018-08-15 06:49:41 UTC,herbert adams,Herbert Adams Sausage Rolls King Island Beef,Freezer,12 pack,35g,12,,,8.8g,,,,0.7g,721mg,7.9,TRUE,6,FALSE,,,1534279781.0-W-2699
+2018-08-15 06:49:41 UTC,patties party ,Patties Party Pies ,Freezer,12 pack,47g,12,,945kJ,7.6g,11.7g,6.1g,22.2g,1.5g,430mg,7.15,FALSE,7.15,FALSE,,,1534279781.0-W-2700
+2018-08-15 06:49:41 UTC,mrs macs,Mrs Macs Crispy Microwave Pastie,Freezer,165g,165g,1,,1120kj,6.6g,15.1g,7.7g,26.2g,0.9g,528mg,2.25,FALSE,2.25,FALSE,,,1534279781.0-W-2701
+2018-08-15 06:49:41 UTC,four n twenty,Four N Twenty Pies Party,Freezer,12 pack,50g,12,,1012kJ,6.2g,12.3g,6.5g,26.1g,0.2g,498mg,5,TRUE,4,FALSE,,,1534279781.0-W-2702
+2018-08-15 06:49:41 UTC,mrs macs,Mrs Macs Bacon & Cheese Roll ,Freezer,140g,140g,1,,1230kj,8g,16.8g,8.7g,27.4g,1g,582mg,2.5,FALSE,2.5,FALSE,,,1534279781.0-W-2703
+2018-08-15 06:49:41 UTC,snowy river,Snowy River Pasties Single,Freezer,150g,150g,1,,933kJ,4.2g,10.2g,5.7g,27.8g,1.1g,538mg,1.25,FALSE,1.25,FALSE,,,1534279781.0-W-2704
+2018-08-15 06:49:41 UTC,on the menu,On The Menu Pulled Beef & Gravy Roll,Freezer,160g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534279781.0-W-2705
+2018-08-15 06:49:41 UTC,mrs macs ,Mrs Macs Sausage Roll Microwave,Freezer,175g,175g,1,,1210kj,8.1g,16.1g,8.3g,27.8g,0.5g,520mg,2.25,FALSE,2.25,FALSE,,,1534279781.0-W-2706
+2018-08-15 06:49:41 UTC,asiana,Asiana Asian Vegetable Samosas,Freezer,180g,30g (2 pieces),6,,884kJ,4.3g,8.3g,2.1g,29.6g,1.3g,304mg,3.29,TRUE,2.5,FALSE,,,1534279781.0-W-2707
+2018-08-15 06:49:41 UTC,zeagold,Zeagold Frozen Pasteurised Egg White Pasteurised,Freezer,980ml,245mL,4,,206kJ,11.7g,0.0g,0.0g,0.4g,0.4g,183mg,9,FALSE,9,FALSE,,,1534279781.0-W-2708
+2018-08-15 06:49:41 UTC,sara lee,Sara Lee Deep Dish Pie With Apple Crumble Top,Freezer,800g,100g,8,,1210kJ,2.9g,11.5g,5.6g,42.7g,24.2g,174mg,7.5,TRUE,6,FALSE,,,1534279781.0-W-2709
+2018-08-15 06:49:41 UTC,snowy river,Snowy River Sausage Roll ,Freezer,100g,100g,1,,1060kJ,6.8g,11.6g,6.2g,29.3g,0.4g,684mg,1.25,FALSE,1.25,FALSE,,,1534279781.0-W-2710
+2018-08-15 06:49:41 UTC,patties,Patties Party Pack ,Freezer,1.25kg,"Parties Pies:93.4g (2 Party Pies), Sausage Rolls: 112.5g (3 Party Sausage Rolls)",13,,"Parties Pies:860kJ, Sausage Rolls: 1100kJ","Parties Pies:7.0g, Sausage Rolls: 7.7g","Parties Pies:9.0g, Sausage Rolls: 14.8g","Parties Pies:6.6g, Sausage Rolls: 7.5g","Parties Pies:23.6g, Sausage Rolls: 24.1g","Parties Pies:0.8g, Sausage Rolls: 0.7g","Parties Pies:665mg, Sausage Rolls: 635mg",13.5,FALSE,13.5,FALSE,,,1534279781.0-W-2711
+2018-08-15 06:49:41 UTC,patties,Patties Pasties Party,Freezer,12 pack,42g,12,,970kJ,5.1g,11.6g,5.9g,25.4g,2.4g,552mg,7.15,FALSE,7.15,FALSE,,,1534279781.0-W-2712
+2018-08-15 06:49:41 UTC,double merino,Double Merino Pastry Gow Gee,Freezer,275g,g,,,,,,,,,,2.6,FALSE,2.6,FALSE,,,1534279781.0-W-2713
+2018-08-15 06:49:41 UTC,antoniou,Antoniou Fillo Pastry ,Freezer,375g,65g,5.8,,1293kJ,9.9g,3.2g,0.4g,58.4g,1.9g,594mg,3.8,FALSE,3.8,FALSE,,,1534279781.0-W-2714
+2018-08-15 06:49:41 UTC,double merino,Double Merino Pastry Wonton Skin Shanghai,Freezer,40pk 270g,g,,,,,,,,,,2.6,FALSE,2.6,FALSE,,,1534279781.0-W-2715
+2018-08-15 06:49:41 UTC,nanna's,Nanna's Apple Crumble ,Freezer,550g,110g,5,,936kJ,2.3g,6.8g,3.5g,37.7g,19.9g,82mg,6,TRUE,4,FALSE,,,1534279781.0-W-2716
+2018-08-15 06:49:41 UTC,nanna's,Nanna's Multipack Pies & Desserts Apple Pie,Freezer,4 pack,113g,4,,1230kJ,3.3g,13.1g,7.0g,40.1g,17.2g,272mg,4,TRUE,3,FALSE,,,1534279781.0-W-2717
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Apple Pie Snack,Freezer,4 pack,125.0g,4,,Approx. 1190.0kJ,Approx. 3.2g,Approx. 11.6g,Approx. 6.0g,Approx. 41.0g,Approx. 17.0g,Approx. 260.0mg,2.8,FALSE,2.8,FALSE,,,1534279781.0-W-2718
+2018-08-15 06:49:41 UTC,nanna's,Nanna's Multipack Pies & Desserts Lite Apple Pie,Freezer,4 pack,113g,4,,1025kJ,3.3g,8.4g,5.3g,38.1g,13.7g,236mg,4,TRUE,3,FALSE,,,1534279781.0-W-2719
+2018-08-15 06:49:41 UTC,nanna's ,Nanna's Multipack Pies & Desserts Apricot Pie,Freezer,4 pack,113g,4,,1250kJ,3.4g,13.2g,7.0g,40.6g,17.5g,278mg,4,TRUE,3,FALSE,,,1534279781.0-W-2720
+2018-08-15 06:49:41 UTC,nanna's ,Nanna's Multipack Pies & Desserts Apple & Blackberry Pie,Freezer,4 pack,113g,4,,1270kJ,3.4g,13.2g,7.0g,41.8g,18.2g,276mg,4,TRUE,3,FALSE,,,1534279781.0-W-2721
+2018-08-15 06:49:41 UTC,sara lee,Sara Lee Apple & Butterscotch Crumble ,Freezer,400g,g,,,,,,,,,,7.5,TRUE,6,FALSE,,,1534279781.0-W-2722
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Apple Pie Family,Freezer,600g,100.0g,6,,Approx. 994.0kJ,Approx. 2.6g,Approx. 8.9g,Approx. 4.6g,Approx. 36.0g,Approx. 16.0g,Approx. 210.0mg,2.8,FALSE,2.8,FALSE,,,1534279781.0-W-2723
+2018-08-15 06:49:41 UTC,nanna's,Nanna's Family Pies & Desserts Apple Pie,Freezer,600g,100g,6,,1100kJ,2.9g,11.3g,6.0g,36.2g,16.2g,242mg,4,TRUE,3,FALSE,,,1534279781.0-W-2724
+2018-08-15 06:49:41 UTC,sara lee deep dish ,Sara Lee Deep Dish Family Pies & Desserts Baked Apple Pie,Freezer,800g,100g,8,,1070kJ,2.4g,12.3g,6.2g,33.0g,16.9g,141mg,7.5,TRUE,6,FALSE,,,1534279781.0-W-2725
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Chocolate Bavarian ,Freezer,450g,75g,6,,1510kJ,4.3g,23.8g,15.6g,32.5g,20.7g,70mg,3,FALSE,3,FALSE,,,1534279781.0-W-2726
+2018-08-15 06:49:41 UTC,woolworths,Woolworths French Style Cheesecake,Freezer,450g,75g,6,,1280kJ,4.6g,16.0g,9.8g,35.8g,23.8g,143mg,3,FALSE,3,FALSE,,,1534279781.0-W-2727
+2018-08-15 06:49:41 UTC,," Pepperoni Pizza, Chocolate Swirl And Coke No Sugar Bundle ",Freezer,,,,,,,,,,,,13,FALSE,13,FALSE,,,1534279781.0-W-2728
+2018-08-15 06:49:41 UTC,nanna's,Nanna's Waffles Original,Freezer,200g,17g,12,,1050kJ,5.6g,5.5g,1.5g,44.1g,5.6g,790mg,4.6,TRUE,4,FALSE,,,1534279781.0-W-2729
+2018-08-15 06:49:41 UTC,sara lee,Sara Lee Chocolate Fudge Dessert Brownie,Freezer,350g,g,,,,,,,,,,6.25,TRUE,5,FALSE,,,1534279781.0-W-2730
+2018-08-15 06:49:41 UTC,sara lee,Sara Lee Incredibly Crunchy Salted Caramel Cheesecake,Freezer,425g,70g,6,,1320kJ,3.4g,17.2g,10.7g,36.7g,32.3g,135mg,7,FALSE,7,FALSE,,,1534279781.0-W-2731
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Passionfruit Cheesecake,Freezer,450g,,,,,,,,,23.7g,,3,FALSE,3,FALSE,,,1534279781.0-W-2732
+2018-08-15 06:49:41 UTC,sara lee,Sara Lee Brownie & Cheesecake,Freezer,475g,g,,,,,,,,,,7.5,TRUE,6,FALSE,,,1534279781.0-W-2733
+2018-08-15 06:49:41 UTC,," Hawaiian Pizza Lovers Dinner, Dessert And Coke No Sugar Bundle ",Freezer,,,,,,,,,,,,13,FALSE,13,FALSE,,,1534279781.0-W-2734
+2018-08-15 06:49:41 UTC,sara lee,Sara Lee Red Velvet Cake,Freezer,350g,g,,,,,,,,,,6.25,FALSE,6.25,FALSE,,,1534279781.0-W-2735
+2018-08-15 06:49:41 UTC,maggie beer,Maggie Beer Chocolate & Salted Caramel Dessert Pots,Freezer,2 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534279781.0-W-2736
+2018-08-15 06:49:41 UTC,sara lee,Sara Lee Bavarian Peanut Butter,Freezer,400g,g,,,,,,,,,,6.25,FALSE,6.25,FALSE,,,1534279781.0-W-2737
+2018-08-15 06:49:41 UTC,peters,Peters Ice Cream Cake Party,Freezer,1.5l,49g,15,,755kJ,1.9g,6.6g,4.3g,27.9g,22.2g,70mg,13,FALSE,13,FALSE,,,1534279781.0-W-2738
+2018-08-15 06:49:41 UTC,sara lee,Sara Lee Butter Chocolate Cake ,Freezer,400g,Approx.43.5g,8,,1590kJ,3.7g,16.3g,8.9g,55.3g,40.0g,402mg,6.25,FALSE,6.25,FALSE,,,1534279781.0-W-2739
+2018-08-15 06:49:41 UTC,maggie beer,Maggie Beer Chocolate & Mint Dessert Pots,Freezer,2 pack,,,,,,,,,,,6,FALSE,6,FALSE,,,1534279781.0-W-2740
+2018-08-15 06:49:41 UTC,sara lee ,Sara Lee French Cream Cheesecake,Freezer,360g,60g,6,,1560kJ,3.8g,42.1g,13.6g,35.8g,18.5g,201mg,6.25,FALSE,6.25,FALSE,,,1534279781.0-W-2741
+2018-08-15 06:49:41 UTC,sara lee,Sara Lee Chocolate Swirl Bavarian ,Freezer,375g,62.5g,6,,1380kJ,3.3g,18.4g,10.2g,37.5g,22.5g,101mg,6.25,FALSE,6.25,FALSE,,,1534279781.0-W-2742
+2018-08-15 06:49:41 UTC,sara lee,Sara Lee Carrot Cake ,Freezer,400g,50g,8,,1530kJ,4.0g,18.6g,5.0g,44.7g,31.9g,356mg,6.25,FALSE,6.25,FALSE,,,1534279781.0-W-2743
+2018-08-15 06:49:41 UTC,sara lee,Sara Lee Strawberry Cheesecake ,Freezer,410g,Approx.68g,6,,1340kJ,3.2g,19.0g,10.7g,33.9g,,165mg,6.25,FALSE,6.25,FALSE,,,1534279781.0-W-2744
+2018-08-15 06:49:41 UTC,cadbury dairy milk,Cadbury Dairy Milk Ice Cream Cake Freddo,Freezer,1.5l,71g (125mL),12,,872kJ,2.7g,11.1g,7.4g,24.5g,22.5g,50mg,14,FALSE,14,FALSE,,,1534279781.0-W-2745
+2018-08-15 06:49:41 UTC,woolworths select,Woolworths Select Pastry Shortcrust,Freezer,1kg,50g,20,,Approx. 1560kJ,Approx. 6.3g,Approx. 19.4g,Approx. 10.4g,Approx. 40.2g,Approx. 0.8g,Approx. 345mg,2.3,FALSE,2.3,FALSE,,,1534279781.0-W-2746
+2018-08-15 06:49:41 UTC,pampas,Pampas Pastry Savoury Flan Pie Base,Freezer,220g,g,,,,,,,,,,3.45,FALSE,3.45,FALSE,,,1534279781.0-W-2747
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Puff Pastry Sheets,Freezer,1kg,50g,20,,Approx. 1410kJ,Approx. 6.5g,Approx. 15.8g,Approx. 7.8g,Approx. 40.2g,Approx. 1.2g,Approx. 410mg,2.3,FALSE,2.3,FALSE,,,1534279781.0-W-2748
+2018-08-15 06:49:41 UTC,trangs,Trangs Pastry Spring Roll Sheets,Freezer,300g,50g,6,,1300kJ,6.6g,5.1g,0.8g,5.4g,1.8g,610mg,2.3,FALSE,2.3,FALSE,,,1534279781.0-W-2749
+2018-08-15 06:49:41 UTC,borg's,Borg's Frozen Fillo Pastry Sheets,Freezer,375g,75g,5,,1091kJ,9.1g,3.1g,0.6g,47.1g,<0.1g,508mg,4,TRUE,3.5,FALSE,,,1534279781.0-W-2750
+2018-08-15 06:49:41 UTC,, Double Merino Pastry Wonton Skin 275g X3 Bundle ,Freezer,,,,,,,,,,,,7,FALSE,7,FALSE,,,1534279781.0-W-2751
+2018-08-15 06:49:41 UTC,, Borgs Traditional Puff Pastry 1.9kg X3 Bundle ,Freezer,,,,,,,,,,,,16,FALSE,16,FALSE,,,1534279781.0-W-2752
+2018-08-15 06:49:41 UTC,borg's,Borg's Traditional Puff Pastry,Freezer,1.9kg,39.58g,48,,1290kJ,6.3g,13.6g,6.4g,40.1g,0.9g,413mg,6,FALSE,6,FALSE,,,1534279781.0-W-2755
+2018-08-15 06:49:41 UTC,borg's,Borg's Shortcrust Pastry Value,Freezer,1.7kg,42.5g,40,,1600kJ,6.2g,22.2g,12.7g,39.2g,0.8g,568mg,6,TRUE,5,FALSE,,,1534279781.0-W-2758
+2018-08-15 06:49:41 UTC,pampas ,Pampas Pastry Sweet Tart Cases Sweet Tart Cases,Freezer,12 pack,23g,12,,1850kJ,4.8kJ,22.8g,10.2g,53.6g,13.8g,220mg,5.1,FALSE,5.1,FALSE,,,1534279781.0-W-2759
+2018-08-15 06:49:41 UTC,pampas ,Pampas Shortcrust Pastry 5 Sheets,Freezer,1kg,50g,20,,1710kJ,6.6g,22.6g,10.3g,44.6g,2.0g,425mg,5.5,TRUE,4,FALSE,,,1534279781.0-W-2760
+2018-08-15 06:49:41 UTC,pampas ,Pampas Puff Pastry 6 Sheets,Freezer,1kg,42g,24,,1380kJ,5.5g,16.3g,7.9g,39.3g,<1g,360mg,5.5,FALSE,5.5,FALSE,,,1534279781.0-W-2762
+2018-08-15 06:49:41 UTC,scotts,Scotts Pies Meat,Freezer,6pk 900g,150g,6,,1070kJ,8.6g,14.0g,7.0g,23.0g,1.6g,370mg,6.99,TRUE,6,FALSE,,,1534279781.0-W-2763
+2018-08-15 06:49:41 UTC,four n twenty,Four N Twenty Sausage Roll Jumbo,Freezer,6 pack,117g,6,,1170kJ,7.8g,15.0g,7.8g,27.3g,0.5g,628mg,7.5,TRUE,6,FALSE,,,1534279781.0-W-2764
+2018-08-15 06:49:41 UTC,four n twenty,Four N Twenty Pies Chicken & Vegetable,Freezer,4pk 700g,175g,4,,969kJ,6.5g,11.7g,5.3g,24.6g,2.8g,557mg,8,FALSE,8,FALSE,,,1534279781.0-W-2765
+2018-08-15 06:49:41 UTC,sargents premium ,Sargents Premium Pies Aussie Angus Beef,Freezer,4pk 700g,190g,1,,1070kJ,8.3g,14.8g,6.9g,22.2g,0.5g,375mg,8.5,TRUE,6,FALSE,,,1534279781.0-W-2766
+2018-08-15 06:49:41 UTC,sargents traditional,Sargents Traditional Pies Steak & Onion,Freezer,4pk 700g,175g,4,,964,7.7g,11.1g,5.7g,23.4g,1.1g,,5,TRUE,4.5,FALSE,,,1534279781.0-W-2767
+2018-08-15 06:49:41 UTC,four n twenty,Four N Twenty Pies Beef & Cheese,Freezer,700g,175g,4,,1100kJ,8.7g,14.6g,7.4g,23.4g,0.7g,465mg,8,FALSE,8,FALSE,,,1534279781.0-W-2768
+2018-08-15 06:49:41 UTC,sargents,Sargents Pies Traditional Meat & Cheese,Freezer,700g,g,,,,,,,,,,5,TRUE,4.5,FALSE,,,1534279781.0-W-2769
+2018-08-15 06:49:41 UTC,sargents,Sargents Pies Meat,Freezer,4 pack,175g ( 1 Pie),4,,1043kJ,9.1g,12.3g,5.8g,25.5g,1.4g,440mg,5,TRUE,4.5,FALSE,,,1534279781.0-W-2771
+2018-08-15 06:49:41 UTC,four n twenty,Four N Twenty Egg & Bacon Pies,Freezer,4 pack,,,,,,,,,,,8,FALSE,8,FALSE,,,1534279781.0-W-2772
+2018-08-15 06:49:41 UTC,four n twenty,Four N Twenty Pies Angus Beef,Freezer,4pk 760g,190g,4,,1030kJ,8.5g,13.0g,6.4g,23.1g,0.2g,445mg,8.7,FALSE,8.7,FALSE,,,1534279781.0-W-2773
+2018-08-15 06:49:41 UTC,herbert adams,Herbert Adams Pies Slow Cooked Beef & Pepper,Freezer,2 pack,200g,2,,915kJ,9.6g,10.2g,6.3g,20.2g,1.1g,485mg,6.3,TRUE,4,FALSE,,,1534279781.0-W-2774
+2018-08-15 06:49:41 UTC,four n twenty,Four N Twenty Angus Beef Pie Single Wrap Angus Beef,Freezer,220g,g,,,,,,,,,,3.3,TRUE,2.5,FALSE,,,1534279781.0-W-2775
+2018-08-15 06:49:41 UTC,four n twenty,Four N Twenty Pies Meat,Freezer,4 pack,,,,,,,,,,,8,FALSE,8,FALSE,,,1534279781.0-W-2776
+2018-08-15 06:49:41 UTC,sargents,Sargents Pies Chunky Chicken Supreme,Freezer,4 pack,175g,4,,806kJ,9.9g,7.3g,3.9g,20.2g,1.1g,395mg,8.5,FALSE,8.5,FALSE,,,1534279781.0-W-2777
+2018-08-15 06:49:41 UTC,sargents,Sargents Pies Chunky Beef Royale,Freezer,4 pack,175(1 Pie),4,,938kJ,10.9g,9.4g,4.4g,23.8g,1.6g,370mg,8.5,FALSE,8.5,FALSE,,,1534279781.0-W-2778
+2018-08-15 06:49:41 UTC,sargents,Sargents Pies Chicken & Vegetable,Freezer,4 pack,175g,4,,971kJ,7.5g,10.8g,4.5g,24.9g,0.5g,405mg,5,TRUE,4.5,FALSE,,,1534279781.0-W-2779
+2018-08-15 06:49:41 UTC,woolworths,Woolworths Frozen Meat Pies,Freezer,4 pack,175g,4,,903kJ,8.5g,10.0g,5.9g,22.0g,1.1g,330mg,3.5,FALSE,3.5,FALSE,,,1534279781.0-W-2780
+2018-08-15 06:49:41 UTC,essentials,Essentials Meat Pies 6 Pack,Freezer,900g,150g (1 Pie),6,,906kJ,7.3g,11.1g,4.6g,21.1g,1.8g,344mg,3.55,FALSE,3.55,FALSE,,,1534279781.0-W-2781
+2018-08-15 06:49:41 UTC,mrs quick,Mrs Quick Sausage Roll ,Freezer,1kg,25g,48,,1141kJ,7.5g,15.5g,8.0g,25.9g,2.2g,529mg,7.5,FALSE,7.5,FALSE,,,1534279781.0-W-2782
+2018-08-15 06:49:41 UTC,herbert adams,Herbert Adams Pies Chunky Slow Cooked Beef & Mush,Freezer,2 pack,200g,2,,920kJ,9.7g,10.2g,6.3g,20.9g,0.9g,420mg,6.3,TRUE,4,FALSE,,,1534279781.0-W-2783
+2018-08-15 06:49:41 UTC,herbert adams,Herbert Adams Pies King Island Beef,Freezer,2 pack,210g,2,,972kJ,9.3g,12.7g,6.0g,19.5g,0.8g,460mg,6.3,TRUE,4,FALSE,,,1534279781.0-W-2784
+2018-08-15 06:49:41 UTC,herbert adams,Herbert Adams Pies Chunky Slow Cooked Beef,Freezer,2 pack,200g,2,,925kJ,9.3g,10.5g,6.4g,20.5g,1.0g,480mg,6.3,TRUE,4,FALSE,,,1534279781.0-W-2785
+2018-08-15 06:49:41 UTC,herbert adams,Herbert Adams Pies Creamy Chicken & Leek,Freezer,2 pack,210g,2,,1000kJ,8.7g,12.0g,6.4g,23.6g,1.2g,350mg,6.3,TRUE,4,FALSE,,,1534279781.0-W-2786
+2018-08-15 06:49:41 UTC,mccain,Mccain Superfries Crinkle Cut,Freezer,900g,g,,,,,,,,,,3.79,TRUE,3,FALSE,,,1534279781.0-W-2794
+2018-08-15 06:49:41 UTC,mccain,Mccain Superfries Shoestring ,Freezer,900g,100g,9,,677kJ,3.1g,5.9g,0.5g,22.8g,0.2g,34mg,3.79,TRUE,3,FALSE,,,1534279781.0-W-2795
+2018-08-15 06:49:41 UTC,mccain,Mccain Straight Cut Healthy Choice,Freezer,1kg,100g,10,,547kJ,2.7g,2.9g,0.6g,22.1g,0.3g,60mg,4.29,FALSE,4.29,FALSE,,,1534279781.0-W-2796
+2018-08-15 06:49:41 UTC,homebrand,Homebrand Crinkle Cut Chips,Freezer,1kg,125g,8,,569kJ,2.0g,4.0g,0.5g,23.0g,1.0g,30mg,1.89,FALSE,1.89,FALSE,,,1534279781.0-W-2797
+2018-08-15 06:49:41 UTC,birds eye,Birds Eye Golden Crunch Hash Browns,Freezer,800g,64g,12,,795kJ,1.9g,10.8g,0.8g,20.2g,<1.0g,150mg,3.79,TRUE,3.3,FALSE,,,1534279781.0-W-2894
+2018-08-15 06:49:41 UTC,homebrand frozen,Homebrand Frozen Straight Cut Potato Chips,Freezer,1kg,125g,8,,569kJ,2.0g,4.0g,0.5g,23.0g,1.0g,30mg,1.89,FALSE,1.89,FALSE,,,1534279781.0-W-2895
+2018-08-15 06:49:41 UTC,birds eye deli,"Birds Eye Deli Seasoned Chips Parmesan, Garlic & Basil",Freezer,600g,100g,6,,727kJ,1.9g,7.9g,0.6g,22.7g,<1.0g,319mg,3.95,FALSE,3.95,FALSE,,,1534279781.0-W-2896
+2018-08-15 06:49:42 UTC,essentials,Essentials French Fries ,Freezer,1kg,100g,10,,592kJ,2.5g,4.0g,<1.0g,22.6g,0.6g,29mg,1.89,FALSE,1.89,FALSE,,,1534279782.0-W-2994
+2018-08-15 06:49:42 UTC,birds eye deli,Birds Eye Deli Seasoned Chips Sea Salt & Rosemary,Freezer,600g,100.0g,6,,709kJ,2.0g,7.9g,0.6g,21.3g,<1.0g,273mg,3.95,FALSE,3.95,FALSE,,,1534279782.0-W-2995
+2018-08-15 06:49:42 UTC,mccain,Mccain Superfries Straight Cut ,Freezer,900g,100,9,,576kJ,2.9g,3.6g,0.3g,22.1g,0.2g,43mg,3.79,TRUE,3,FALSE,,,1534279782.0-W-2996
+2018-08-15 07:09:46 UTC,weight watchers,Weight Watchers Meal Chicken Risotto,Freezer,320g,320g,1,,405kJ,3.7g,1.8g,0.9g,15.9g,2.6g,265mg,5.79,TRUE,4,FALSE,,,1534280986.0-W-4359
+2018-08-15 07:09:46 UTC,weight watchers,Weight Watchers Beef Cannelloni,Freezer,320g,320g,1,,330kJ,3.7g,1.7g,0.9g,11.5g,4.0g,245mg,5.79,TRUE,4,FALSE,,,1534280986.0-W-4360
+2018-08-15 07:09:46 UTC,weight watchers,Weight Watchers Bowl Cottage Pie,Freezer,320g,320g,1,,405kJ,4.0g,2.3g,0.9g,10.8g,3.4g,270mg,5.79,TRUE,4,FALSE,,,1534280986.0-W-4361
+2018-08-15 07:09:46 UTC,weight watchers,Weight Watchers Frozen Meal Bowl Creamy Tuna Bake,Freezer,320g,320g,1,,410kJ,6.0g,2.1g,1.0g,12.5g,1.5g,280mg,5.79,TRUE,4,FALSE,,,1534280986.0-W-4362
+2018-08-15 07:09:46 UTC,weight watchers,Weight Watchers Classic Mushroom & Pumpkin Risotto,Freezer,320g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534280986.0-W-4363
+2018-08-15 07:09:46 UTC,weight watchers,Weight Watchers Classic Beef Bolognese ,Freezer,320g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534280986.0-W-4364
+2018-08-15 07:09:46 UTC,weight watchers,Weight Watchers Cannelloni Pumpkin Ricotta,Freezer,330g,330g,1,,300kJ,2.4g,1.3g,0.6g,12.1g,2.5g,225mg,5.79,TRUE,4,FALSE,,,1534280986.0-W-4365
+2018-08-15 07:09:46 UTC,mccain healthy choice ,Mccain Healthy Choice Honey Stir Fry Chicken Stir Fry,Freezer,330g,g,,,,,,,,,,5.59,TRUE,4,FALSE,,,1534280986.0-W-4366
+2018-08-15 07:09:46 UTC,mccain healthy choice,Mccain Healthy Choice Wholegrain Frozen Meal Pumpkin Pasta Bake,Freezer,340g,320g,1,,477kJ,4.4g,3.0g,2.0g,16.0g,2.5g,260mg,6.6,TRUE,5,FALSE,,,1534280986.0-W-4367
+2018-08-15 07:09:46 UTC,lean cuisine bowl,Lean Cuisine Bowl Beef Stroganoff Beef Stroganoff With Pasta,Freezer,280g,280g,1,,455kJ,5.6g,2.6g,1.1g,14.9g,1.7g,285mg,5.7,FALSE,5.7,FALSE,,,1534280986.0-W-4369
+2018-08-15 07:09:46 UTC,lean cuisine bowl,Lean Cuisine Bowl Lamb Hot Pot Lamb & Rosemary Hot Pot,Freezer,290g,290g,1,,365kJ,5.0g,2.2g,1.0g,11.1g,3.3g,260mg,5.7,FALSE,5.7,FALSE,,,1534280986.0-W-4370
+2018-08-15 07:09:46 UTC,lean cuisine bowl,Lean Cuisine Bowl Spaghetti Bolognese Spaghetti Bolognaise,Freezer,300g,g,,,,,,,,,,5.7,FALSE,5.7,FALSE,,,1534280986.0-W-4371
+2018-08-15 07:09:46 UTC,quorn,Quorn Cottage Pie ,Freezer,300g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534280986.0-W-4372
+2018-08-15 07:09:46 UTC,lean cuisine bowl,Lean Cuisine Bowl Salmon Linguine Salmon & Dill Linguine,Freezer,300g,300g,1,,442kJ,5.8g,2.7g,1.2g,13.8g,2.8g,290mg,5.7,FALSE,5.7,FALSE,,,1534280986.0-W-4373
+2018-08-15 07:09:46 UTC,lean cuisine bowl,Lean Cuisine Bowl Beef With Red Wine,Freezer,300g,300g,1,,360kJ,4.7g,1.7g,1.1g,12.0g,3.1g,245mg,5.7,FALSE,5.7,FALSE,,,1534280986.0-W-4374
+2018-08-15 07:09:46 UTC,lean cuisine bowl,Lean Cuisine Bowl Chicken & Basil Spaghetti Creamy Chicken Basil Spaghetti,Freezer,300g,300g,1,,440kJ,6.6g,2.1g,0.9g,14.0g,2.8g,300mg,5.7,FALSE,5.7,FALSE,,,1534280986.0-W-4375
+2018-08-15 07:09:46 UTC,lean cuisine,Lean Cuisine Creamy Fish Mornay With Potato Mash,Freezer,300g,g,,,,,,,,,,5.7,FALSE,5.7,FALSE,,,1534280986.0-W-4376
+2018-08-15 07:09:46 UTC,weight watchers,Weight Watchers Frozen Meal Bowl Beef Hot Pot,Freezer,320g,320g,1,,260kJ,3.6g,1.2g,0.3g,8.3g,1.4g,265mg,5.79,TRUE,4,FALSE,,,1534280986.0-W-4377
+2018-08-15 07:09:46 UTC,quorn,Quorn Lasagne ,Freezer,300g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534280986.0-W-4378
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Mixed Grill ,Freezer,320g,320g,1,,706kJ,7.2g,9.8g,3.1g,12.7g,4.1g,383mg,6.5,TRUE,6,FALSE,,,1534280986.0-W-4379
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Frozen Meal Beef Schnitzel,Freezer,320g,320g,1,,671kJ,5.8g,8.3g,2.9g,15.1g,2.7g,405mg,6.5,TRUE,6,FALSE,,,1534280986.0-W-4380
+2018-08-15 07:09:46 UTC,mccain ,Mccain Dinner Chicken Parmagiana,Freezer,320g,320g,1,,600kJ,5.8g,7.5g,3.0g,12.0g,2.0g,240mg,7,TRUE,6,FALSE,,,1534280986.0-W-4381
+2018-08-15 07:09:46 UTC,lean cuisine bowl,Lean Cuisine Bowl Thai Green Curry With Rice,Freezer,280g,280g,1,,465kJ,4.3g,1.7g,1.1g,18.8g,1.1g,225mg,5.7,FALSE,5.7,FALSE,,,1534280986.0-W-4382
+2018-08-15 07:09:46 UTC,lean cuisine bowl,Lean Cuisine Bowl Malaysian Chicken Malaysian Chicken Curry Rice,Freezer,280g,280g,1,,445kJ,4.5g,1.8g,1.4g,17.2g,1.3g,270mg,5.7,FALSE,5.7,FALSE,,,1534280986.0-W-4383
+2018-08-15 07:09:46 UTC,super nature,Super Nature Super Pulses Lamb Hot Pot Slow Cooked Lamb Hot Pot,Freezer,300g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534280986.0-W-4384
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Frozen Meal Lamb Shank,Freezer,320g,320g,1,,463kJ,4.9g,5.7g,2.2g,9.3g,2.1g,234mg,6.5,TRUE,6,FALSE,,,1534280986.0-W-4385
+2018-08-15 07:09:46 UTC,mccain,Mccain Healthy Choice Honey Mustard Chicken,Freezer,300g,300g,1,,412kJ,3.9g,2.5g,1.3g,14.5g,1.8g,265mg,5.59,TRUE,4,FALSE,,,1534280986.0-W-4386
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Chicken Parmigiana,Freezer,320g,320g,1,,515kJ,8.0g,4.5g,1.7g,10.9g,2.5g,373mg,6.5,TRUE,6,FALSE,,,1534280986.0-W-4387
+2018-08-15 07:09:46 UTC,mccain,Mccain Herb & Parmasan Chicken Schnitzel,Freezer,310g,g,,,,,,,,,,7,TRUE,6,FALSE,,,1534280986.0-W-4388
+2018-08-15 07:09:46 UTC,mccain,Mccain Healthy Choice Chicken Carbonara,Freezer,300g,300g,1,,466kJ,6.1g,3.0g,1.8g,14.5g,1.5g,269mg,5.59,TRUE,4,FALSE,,,1534280986.0-W-4389
+2018-08-15 07:09:46 UTC,weight watchers,Weight Watchers Chicken & Mushroom Fettucini,Freezer,300g,300g,1,,415kJ,5.2g,2.3g,1.2g,13.7g,2.3g,300mg,5.79,TRUE,4,FALSE,,,1534280986.0-W-4390
+2018-08-15 07:09:46 UTC,mccain,Mccain Healthy Choice Butter Chicken Bowl,Freezer,300g,300g,1,,433kJ,4.9g,3.0g,1.7g,13.8g,1.8g,250mg,5.59,TRUE,4,FALSE,,,1534280986.0-W-4391
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Chicken Kiev,Freezer,320g,g,,,,,,,,,,6.5,TRUE,6,FALSE,,,1534280986.0-W-4392
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Roast Chicken ,Freezer,320g,320g,1,,359kJ,5.9g,2.4g,0.7g,7.8g,1.4g,326mg,6.5,TRUE,6,FALSE,,,1534280986.0-W-4393
+2018-08-15 07:09:46 UTC,super nature,Super Nature Super Pulses Creamy Chicken Carbonara,Freezer,300g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534280986.0-W-4394
+2018-08-15 07:09:46 UTC,mccain,Mccain Healthy Choice Penne Tomato Bacon,Freezer,280g,300g,1,,490kJ,3.9g,1.8g,0.8g,20.0g,3.0g,240mg,5.59,TRUE,4,FALSE,,,1534280986.0-W-4395
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Beef Lasagne ,Freezer,2kg,200g,10,,484kJ,5.4g,4.6g,1.9g,14.2g,2.4g,301mg,9.49,FALSE,9.49,FALSE,,,1534280986.0-W-4396
+2018-08-15 07:09:46 UTC,super nature,Super Nature Super Pulses Chinese Chia Chicken,Freezer,300g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534280986.0-W-4397
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Lasagne Vegetable ,Freezer,260g,260g,1,,438kJ,2.8g,3.6g,1.4g,14.8g,3.2g,220mg,3,TRUE,2,FALSE,,,1534280986.0-W-4398
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Spagheti & Meatballs ,Freezer,260g,260g,1,,458kJ,5.7g,2.9g,0.9g,14.5g,2.1g,167mg,3,TRUE,2,FALSE,,,1534280986.0-W-4399
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Cottage Pie,Freezer,260g,260g,1,,406kJ,3.0g,3.9g,1.5g,12.6g,2.2g,397mg,3,TRUE,2,FALSE,,,1534280986.0-W-4400
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Chicken Fettucine,Freezer,260g,260g,1,,419kJ,3.6g,3.9g,,12.3g,0.7g,432mg,3,TRUE,2,FALSE,,,1534280986.0-W-4401
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Beef Ragu Pappardelle,Freezer,260g,260g,1,,447kJ,4.7g,2.9g,1.1g,15.2g,2.2g,311mg,3,TRUE,2,FALSE,,,1534280986.0-W-4402
+2018-08-15 07:09:46 UTC,mccain,Mccain Healthy Choice Chinese Chicken Cashew,Freezer,280g,280g,1,,423kJ,3.9g,3.0g,0.7g,14.0g,2.0g,240mg,5.59,TRUE,4,FALSE,,,1534280986.0-W-4403
+2018-08-15 07:09:46 UTC,coco & lucas,Coco & Lucas Beef Cottage Pie ,Freezer,220g,220g,1,,612kJ,8.4g,9.1g,5.1g,7.0g,1.2g,216mg,5,FALSE,5,FALSE,,,1534280986.0-W-4404
+2018-08-15 07:09:46 UTC,coco & lucas,Coco & Lucas Butter Chicken & Jasmine Rice,Freezer,220g,220g,1,,648kJ,9.9g,4.5g,2.5g,17.6g,1.7g,156mg,5,FALSE,5,FALSE,,,1534280986.0-W-4405
+2018-08-15 07:09:46 UTC,coco & lucas,Coco & Lucas Spaghetti Bolognese ,Freezer,220g,220g,1,,498kJ,6.9g,3.7g,1.2g,14.3g,2.7g,287mg,5,FALSE,5,FALSE,,,1534280986.0-W-4406
+2018-08-15 07:09:46 UTC,coco & lucas,Coco & Lucas Macaroni Cheese ,Freezer,220g,220g,1,,648kJ,6.9g,6.7g,4.4g,15.9g,2.2g,196mg,5,FALSE,5,FALSE,,,1534280986.0-W-4407
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Three Cheese Macaroni ,Freezer,260g,260g,1,,511kJ,4.9g,3.7g,2.1g,17.0g,0.5g,249mg,3,TRUE,2,FALSE,,,1534280986.0-W-4408
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Lasagne Beef ,Freezer,260g,g,,,,,,,,,,3,TRUE,2,FALSE,,,1534280986.0-W-4409
+2018-08-15 07:09:46 UTC,on the menu,On The Menu Beef Lasagne ,Freezer,1kg,250g,4,,562kJ,5.7g,5.4g,2.6g,15.3g,2.3g,272mg,7,TRUE,6,FALSE,,,1534280986.0-W-4410
+2018-08-15 07:09:46 UTC,coco & lucas,Coco & Lucas Mini Bangers & Mash With Gravy,Freezer,220g,g,,,,,,,,,,5,FALSE,5,FALSE,,,1534280986.0-W-4411
+2018-08-15 07:09:46 UTC,woolworths,Woolworths Frozen Beef Lasagne,Freezer,375g,375g,1,,536kJ,5.5g,5.9g,2.8g,12.8g,2.7g,272mg,3.5,TRUE,3,FALSE,,,1534280986.0-W-4412
+2018-08-15 07:09:46 UTC,ready go eat,Ready Go Eat Burgers Cheese,Freezer,161g,161g,1,,1030kJ,9.2g,,,9.2g,3.2g,,3.15,TRUE,2.85,FALSE,,,1534280986.0-W-4413
+2018-08-15 07:09:46 UTC,ready go eat,Ready Go Eat Burgers Fried Chicken,Freezer,165g,165g,,,,,,1.6g,30.0g,,,3.15,TRUE,2.85,FALSE,,,1534280986.0-W-4414
+2018-08-15 07:09:46 UTC,ready go eat,Ready Go Eat Rolls Chicken,Freezer,179g,179g,1,,946kJ,12.3g,7.4g,1.2g,26.7g,2.3g,607mg,4,FALSE,4,FALSE,,,1534280986.0-W-4415
+2018-08-15 07:09:46 UTC,essentials,Essentials Frozen Beef Lasagne,Freezer,400g,200g,2,,580kJ,6.5g,6.0g,2.7g,14.0g,1.3g,270mg,2.25,FALSE,2.25,FALSE,,,1534280986.0-W-4416
+2018-08-15 07:09:46 UTC,super nature,Super Nature Wellness Bowl Green Chickpea Curry With Quinoa & Brown Rice,Freezer,350g,g,,,,,,,,,,6.3,TRUE,5,FALSE,,,1534280986.0-W-4417
+2018-08-15 07:09:46 UTC,vegie delights,Vegie Delights Tender Crumbed Schnitzel ,Freezer,300g,75g (1 Schnitzel),4,,732kJ,16.9g,9.2g,0.9g,12.21g,1.1g,390mg,6.5,FALSE,6.5,FALSE,,,1534280986.0-W-4418
+2018-08-15 07:09:46 UTC,vegie delights,Vegie Delights Not Burger,Freezer,340g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534280986.0-W-4419
+2018-08-15 07:09:46 UTC,super nature,Super Nature Super Green Sri Lankan Bowl ,Freezer,350g,g,,,,,,,,,,6.3,TRUE,5,FALSE,,,1534280986.0-W-4420
+2018-08-15 07:09:46 UTC,linda mccartney,Linda Mccartney Vegetarian Country Pie,Freezer,380g,183g,2,,Approx. 1025kJ,Approx. 5.6g,Approx. 13.5g,Approx. 5.9g,Approx. 23.9g,Approx. 2.3g,Approx. 407mg,6,TRUE,5,FALSE,,,1534280986.0-W-4421
+2018-08-15 07:09:46 UTC,quorn,Quorn Mince ,Freezer,300g,75g,4,,413kJ,14.9g,1.9g,0.4g,1.6g,<1.0g,58mg,6.2,FALSE,6.2,FALSE,,,1534280986.0-W-4422
+2018-08-15 07:09:46 UTC,fry's meat free,Fry's Meat Free Schnitzels With Soy & Flaxseed,Freezer,320g,80g,4,,998kJ,10g,14.4g,2g,15.4g,2.5g,570mg,6,FALSE,6,TRUE,2,5,1534280986.0-W-4423
+2018-08-15 07:09:46 UTC,super nature,Super Nature Split Pea & Lentil Dhal,Freezer,350g,350g,1,,568kJ,6.4g,2.8g,0.9g,19.5g,2.6g,329mg,6.3,TRUE,5,FALSE,,,1534280986.0-W-4424
+2018-08-15 07:09:46 UTC,quorn,Quorn Vegan Nuggets ,Freezer,280g,70g,4,,879kJ,12.0g,9.3g,1.2g,17.1g,1.5g,386mg,7,FALSE,7,FALSE,,,1534280986.0-W-4425
+2018-08-15 07:09:46 UTC,, Mccain Beer Batter Wedges 750g X3 Bundle ,Freezer,,,,,,,,,,,,10.5,FALSE,10.5,FALSE,,,1534280986.0-W-4426
+2018-08-15 07:09:46 UTC,mccain,Mccain Potato Wedges Crunchy Hot Bandito,Freezer,750g,,,,,,,,,0.2g,,3.99,FALSE,3.99,FALSE,,,1534280986.0-W-4427
+2018-08-15 07:09:46 UTC,, Birds Eye Potato Gems 1kg X3 Bundle ,Freezer,,,,,,,,,,,,10.5,FALSE,10.5,FALSE,,,1534280986.0-W-4428
+2018-08-15 07:09:46 UTC,, Birds Eye Hash Browns 800g X3 Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534280986.0-W-4429
+2018-08-15 07:09:46 UTC,mccain,Mccain Beer Batter Wedges,Freezer,750g,125g,6,,633kJ,2.8g,5.9g,0.5g,20.7g,0.3g,250mg,3.99,FALSE,3.99,FALSE,,,1534280986.0-W-4430
+2018-08-15 07:09:46 UTC,mccain,Mccain Potato Wedges Original,Freezer,750g,125g,6,,629kJ,3.1g,4.8g,0.4g,22.4g,0.3g,280mg,3.99,FALSE,3.99,FALSE,,,1534280986.0-W-4431
+2018-08-15 07:09:46 UTC,, Pepperoni Pizza And Sides Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534280986.0-W-4432
+2018-08-15 07:09:46 UTC,, Hawaiian Pizza And Sides Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534280986.0-W-4433
+2018-08-15 07:09:46 UTC,fry's meat free,Fry's Meat Free Nuggets With Rice Protein & Chia,Freezer,240g,60g,4,,921kJ,8.1g,14.4g,2.2g,12.1g,2.5g,409.7mg,6,FALSE,6,TRUE,2,5,1534280986.0-W-4434
+2018-08-15 07:09:46 UTC,birds eye ,Birds Eye Pommes Noisettes ,Freezer,350g,87.0g,4,,739kJ,3.0g,7.2g,0.6g,23.8g,<1g,380mg,3.95,FALSE,3.95,FALSE,,,1534280986.0-W-4435
+2018-08-15 07:09:46 UTC,mccain,Mccain Shake Shake Fries Chicken,Freezer,500g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534280986.0-W-4436
+2018-08-15 07:09:46 UTC,mccain,Mccain Hash Browns Shredded,Freezer,750g,g,,,,,,,,,,3.29,FALSE,3.29,FALSE,,,1534280986.0-W-4437
+2018-08-15 07:09:46 UTC,bannisters' farm,Bannisters' Farm Cheese & Baked Bean Potato Skins,Freezer,260g,Approx.65g per skin,4,,471kJ,4,2.8g,1.3g,16.0g,2.6,140mg,4,FALSE,4,FALSE,,,1534280986.0-W-4438
+2018-08-15 07:09:46 UTC,bell farms,Bell Farms Bubble 'n Squeak Potato & Vegetable Pattie,Freezer,600g,75g (1 Pattie),8,,705kJ,2.2g,8.5g,1.1g,19.6g,1.7g,330mg,2.8,FALSE,2.8,FALSE,,,1534280986.0-W-4439
+2018-08-15 07:09:46 UTC,mccain,Mccain Traditional Roast Potato ,Freezer,650g,g,,,,,,,,,,3.69,FALSE,3.69,FALSE,,,1534280986.0-W-4440
+2018-08-15 07:09:46 UTC,birds eye ,Birds Eye Bubble & Squeak Vegetable Patties,Freezer,8pk 620g,77g,8,,932kJ,2.8g,13.1g,1.0g,22.2g,<1g,417mg,4.89,FALSE,4.89,FALSE,,,1534280986.0-W-4441
+2018-08-15 07:09:46 UTC,mccain,Mccain Shake Shake Fries Salt & Vinegar,Freezer,500g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534280986.0-W-4442
+2018-08-15 07:09:46 UTC,mccain,Mccain Shake Shake Fries Cheese & Onion,Freezer,500g,g,,,,,,,,,,4,FALSE,4,FALSE,,,1534280986.0-W-4443
+2018-08-15 07:09:46 UTC,mccain,Mccain Roast Potato With Rosemary & Garlic,Freezer,650g,g,,,,,,,,,,3.69,FALSE,3.69,FALSE,,,1534280986.0-W-4444
+2018-08-15 07:09:46 UTC,," Hawaiian Pizza, Sweet Potato Chips And Lime Mineral Water Super Bundle ",Freezer,,,,,,,,,,,,12,FALSE,12,FALSE,,,1534280986.0-W-4445
+2018-08-15 07:09:46 UTC,bannisters' farm,Bannisters' Farm Cheese & Roasted Onion Potato Skins,Freezer,260g,Approx.65g per skin,4,,659kJ,5.3g,8.8g,3.6g,13.4g,1.8,,4,FALSE,4,FALSE,,,1534280986.0-W-4446
+2018-08-15 07:09:46 UTC,birds eye ,Birds Eye Potato Gems ,Freezer,1kg,kg,,,,,,,,,,4.29,FALSE,4.29,FALSE,,,1534280986.0-W-4447
+2018-08-15 07:09:46 UTC,bannisters' farm,Bannisters' Farm Cheese & Jalapeno Potato Skins,Freezer,260g,Approx.65g per skin,4,,633kJ,6.7g,7.6g,4.5g,13.1g,1.5g,212mg,4,FALSE,4,FALSE,,,1534280986.0-W-4448
+2018-08-15 07:09:46 UTC,, Chips And Gravy Bundle ,Freezer,,,,,,,,,,,,5,FALSE,5,FALSE,,,1534280986.0-W-4449
+2018-08-15 07:09:46 UTC,," Pepperoni Pizza, Sweet Potato Chips And Mineral Water Super Bundle ",Freezer,,,,,,,,,,,,12,FALSE,12,FALSE,,,1534280986.0-W-4450
+2018-08-15 07:09:46 UTC,, Mccain Beer Batter Shoestring Chips 750g X3 Bundle ,Freezer,,,,,,,,,,,,10.5,FALSE,10.5,FALSE,,,1534280986.0-W-4451
+2018-08-15 07:09:46 UTC,, Mccain Beer Batter Steakhouse Chips 750g X3 Bundle ,Freezer,,,,,,,,,,,,10.5,FALSE,10.5,FALSE,,,1534280986.0-W-4452
+2018-08-15 07:09:46 UTC,the real yorkshire pudding,The Real Yorkshire Pudding Snacks ,Freezer,12 pack,19g ( 1 pudding),12,,1180kJ,7.7g,9.1g,0.9g,41.8g,3.8g,280mg,4.39,FALSE,4.39,FALSE,,,1534280986.0-W-4453
+2018-08-15 07:09:46 UTC,," Pepperoni Pizza, Sweet Potato Chips And Lemon Mineral Water Super Bundle ",Freezer,,,,,,,,,,,,12,FALSE,12,FALSE,,,1534280986.0-W-4454
+2018-08-15 07:09:46 UTC,birds eye,Birds Eye Deli French Fries Garlic Herb & Lemon,Freezer,600g,g,,,,,,,,,,3.95,FALSE,3.95,FALSE,,,1534280986.0-W-4455
+2018-08-15 07:09:46 UTC,mccain,Mccain Beer Batter Steakhouse Chips,Freezer,750g,125g,6,,662kJ,2.8g,5.8g,0.5g,22.6g,0.3g,260mg,3.99,FALSE,3.99,FALSE,,,1534280986.0-W-4456
+2018-08-15 07:09:46 UTC,mccain,Mccain Beer Batter Chips Shoestring,Freezer,750g,125g,6,,764kJ,2.8g,8.3g,0.7g,23.0g,0.3g,270mg,3.99,FALSE,3.99,FALSE,,,1534280986.0-W-4457
+2018-08-15 07:09:46 UTC,bell farms,Bell Farms Sweet Potato Chips ,Freezer,750g,g,,,,,,,,,,4.8,FALSE,4.8,FALSE,,,1534280986.0-W-4458
+2018-08-15 07:09:46 UTC,mccain,Mccain Straight Sweet Potato Chips,Freezer,750g,100g,7.5,,809kJ,1.5g,7.4g,1.0g,29.1g,9.4g,216mg,5.7,FALSE,5.7,FALSE,,,1534280986.0-W-4459
+2018-08-15 07:09:46 UTC,mccain original fries,Mccain Original Fries Straight Cut ,Freezer,750g,g,,,,,,,,,,3.99,FALSE,3.99,FALSE,,,1534280986.0-W-4460
+2018-08-15 07:09:46 UTC,mccain,Mccain Rustic Skin On Thin Cut,Freezer,750g,g,,,,,,,,,,3.69,FALSE,3.69,FALSE,,,1534280986.0-W-4461
+2018-08-15 07:09:46 UTC,," Hawaiian Pizza, Sweet Potato Chips And Mineral Water Super Bundle ",Freezer,,,,,,,,,,,,12,FALSE,12,FALSE,,,1534280986.0-W-4462
+2018-08-15 07:09:46 UTC,birds eye,Birds Eye Golden Ale Chips ,Freezer,600g,g,,,,,,,,,,3.95,FALSE,3.95,FALSE,,,1534280986.0-W-4463
+2018-08-15 07:09:46 UTC,mccain,Mccain Rustic Skin On Chunky Cut,Freezer,750g,g,,,,,,,,,,3.69,FALSE,3.69,FALSE,,,1534280986.0-W-4464
+2018-08-15 08:49:36 UTC,golden wok ,Golden Wok Asian Mini Dim Sims,Freezer,660g,g,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-8871
+2018-08-15 08:49:36 UTC,herbert adams,Herbert Adams Rolls Flaky Cheese & Spinach,Freezer,440g,220g,2,,1100kJ,5.6g,15.6g,8.8g,24.0g,2.7g,629mg,5,FALSE,5,FALSE,,,1534286976.0-W-8872
+2018-08-15 08:49:36 UTC,marathon,Marathon Puffy Dogs,Freezer,600g,1puffy dog (32g),20,,1250kJ,8.0g,17.2g,7.4g,28.4g,1.9g,550mg,6.7,FALSE,6.7,FALSE,,,1534286976.0-W-8873
+2018-08-15 08:49:36 UTC,mr chens,Mr Chens Family Pack Steam Dumpling Selection,Freezer,625g,30g,5,,"SCallop Dumpling -772kJ, ginger Prawn - 711kJ, Prawn Hargow - 730kJ, Shitake Dumpling - 730kJ","SCallop Dumpling -4.3g, ginger Prawn - 9.1g, Prawn Hargow - 5.0g, Shitake Dumpling - 5.0g","SCallop Dumpling -7.3g, ginger Prawn - 5.2g, Prawn Hargow - 6.3g, Shitake Dumpling - 6.3g","SCallop Dumpling -1.2g, ginger Prawn - 0.8g, Prawn Hargow - 1.1g, Shitake Dumpling - 1.1g","SCallop Dumpling -25.2g, ginger Prawn - 21.1g, Prawn Hargow - 23.9g, Shitake Dumpling - 23.9g","SCallop Dumpling -1.2g, ginger Prawn - 2.7g, Prawn Hargow - 1.8g, Shitake Dumpling - 1.8g","SCallop Dumpling -320mg, ginger Prawn - 560mg, Prawn Hargow - 560mg, Shitake Dumpling - 560mg",17,FALSE,17,FALSE,,,1534286976.0-W-8874
+2018-08-15 08:49:36 UTC,golden wok ,Golden Wok Asian Mini Chicken Dim Sims,Freezer,660g,17g,40,,708kJ,6.4g,7.4g,3.2g,19.2g,0.3g,582mg,10,FALSE,10,FALSE,,,1534286976.0-W-8875
+2018-08-15 08:49:36 UTC,chiko,Chiko Corn Jacks ,Freezer,575g,115g,5,,901kJ,5.2g,7.2g,3.5g,30.8g,5.4g,420mg,5.4,FALSE,5.4,FALSE,,,1534286976.0-W-8878
+2018-08-15 08:49:36 UTC,marathon,Marathon Spring Rolls 4pk,Freezer,640g,1Spring Rpll (160g),4,,631kJ,4.2g,4.6g,2.6g,21.9g,3.5g,650mg,5.2,FALSE,5.2,FALSE,,,1534286976.0-W-8879
+2018-08-15 08:49:36 UTC,asiana,Asiana Spring Rolls Cocktail Value Pack,Freezer,430g,36g ( 2 pices),12,,1180kJ,4.0g,14.0g,6.2g,35.0g,1.5g,485mg,5,FALSE,5,FALSE,,,1534286976.0-W-8881
+2018-08-15 08:49:36 UTC,, Boost Smoothie Mix 'tropical Sunrise' 660g 3pk X3 Bundle ,Freezer,,,,,,,,,,,,18,FALSE,18,FALSE,,,1534286976.0-W-8882
+2018-08-15 08:49:36 UTC,, Boost Smoothie Mix 'green Pastures' 660g 3pk X3 Bundle ,Freezer,,,,,,,,,,,,18,FALSE,18,FALSE,,,1534286976.0-W-8883
+2018-08-15 08:49:36 UTC,, Boost Smoothie Mix 'rise & Shine' 660g 3pk X3 Bundle ,Freezer,,,,,,,,,,,,18,FALSE,18,FALSE,,,1534286976.0-W-8884
+2018-08-15 08:49:36 UTC,, Boost Smoothie Mix 'rawesome' 660g 3pk X3 Bundle ,Freezer,,,,,,,,,,,,18,FALSE,18,FALSE,,,1534286976.0-W-8885
+2018-08-15 08:49:36 UTC,, Streets Blue Ribbon Gaytime 1.25l X 2 Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-8886
+2018-08-15 08:49:36 UTC,patties,Patties Southern Style Chicken Bites,Freezer,420g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534286976.0-W-8887
+2018-08-15 08:49:36 UTC,, Oob Frozen Organic Sliced Banana 450g X3 Bundle ,Freezer,,,,,,,,,,,,20.5,FALSE,20.5,FALSE,,,1534286976.0-W-8888
+2018-08-15 08:49:36 UTC,chiko,Chiko Original Rolls,Freezer,4 pack,162g,4,,801kJ,5.4g,5.7g,2.4g,28.2g,2.1g,399mg,5.4,FALSE,5.4,FALSE,,,1534286976.0-W-8889
+2018-08-15 08:49:36 UTC,patties,Patties Jalapeno & Cheese Bites,Freezer,420g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534286976.0-W-8890
+2018-08-15 08:49:36 UTC,blue ribbon,Blue Ribbon Reduced Fat Ice Cream Cookies & Cream,Freezer,2l tub,44g,20,,761kJ,3.3g,4.9g,3.3g,30.6g,20.7g,60mg,7.49,TRUE,4.9,FALSE,,,1534286976.0-W-8891
+2018-08-15 08:49:36 UTC,bulla creamy classics,Bulla Creamy Classics Ice Cream Mint Choc Chip,Freezer,2l tub,47g,20,,921kJ,3.1g,12.3g,8.6g,24.3g,21.9g,49mg,8,TRUE,5,FALSE,,,1534286976.0-W-8892
+2018-08-15 08:49:36 UTC,blue ribbon,Blue Ribbon Reduced Fat Ice Cream Vanilla,Freezer,2l tub,43g,20,,781kJ,2.8g,7.0g,5.1g,27.8g,17.9g,40mg,7.49,TRUE,4.9,FALSE,,,1534286976.0-W-8893
+2018-08-15 08:49:36 UTC,bulla creamy classics,Bulla Creamy Classics Ice Cream Cookies & Cream,Freezer,2l tub,47g,20,,934kJ,3.2g,11.7g,7.5g,26.4g,20.5g,92mg,8,TRUE,5,FALSE,,,1534286976.0-W-8894
+2018-08-15 08:49:36 UTC,bulla creamy classics,Bulla Creamy Classics Ice Cream Rich Choc Chip,Freezer,2l tub,46g,20,,961kJ,3.6g,12.8g,9.4g,25.1g,21.5g,42mg,8,TRUE,5,FALSE,,,1534286976.0-W-8895
+2018-08-15 08:49:36 UTC,bulla creamy classics,Bulla Creamy Classics Ice Cream Vanilla,Freezer,2l tub,Litre,,,,,,,,,,8,TRUE,5,FALSE,,,1534286976.0-W-8896
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Reduced Fat Ice Cream Hokey Pokey,Freezer,2l tub,47g,20,,Approx. 760kJ,Approx. 1.9g,Approx. 4.5g,Approx. 2.8g,Approx. 33g,Approx. 23.8g,Approx. 55mg,4.5,FALSE,4.5,FALSE,,,1534286976.0-W-8897
+2018-08-15 08:49:36 UTC,bulla,Bulla Creamy Classics Cheesecake Ice Cream,Freezer,2l tub,Litre,,,,,,,,,,8,TRUE,5,FALSE,,,1534286976.0-W-8898
+2018-08-15 08:49:36 UTC,skinny cow,Skinny Cow Triple Choc Sundaes Triple Choc,Freezer,4 pack,,,,,,,,,,,8,TRUE,6,FALSE,,,1534286976.0-W-8899
+2018-08-15 08:49:36 UTC,skinny cow,Skinny Cow Ice Cream Sundae Double Choc Vanilla Caramel,Freezer,4 pack,"Double chocolate91g, vaNilla caramel 88g",4,,"Double Chocolate:550kJ, VaNilla Caramel: 495kJ","Double Chocolate:4.2g, VaNilla Caramel: 5.1g","Double Chocolate:2.5g, VaNilla Caramel: 2.4g","Double Chocolate:1.5g, VaNilla Caramel: 1.6g",Double Chocolate:12.4gVaNilla Caramel: 8.8g,"Double Chocolate:7.9g, VaNilla Caramel: 8.0g","Double Chocolate:92mg, VaNilla Caramel: 64mg",8,TRUE,6,FALSE,,,1534286976.0-W-8900
+2018-08-15 08:49:36 UTC,woolworths mini,Woolworths Mini Ice Cream Sticks Almond,Freezer,6 pack,49g,6,,1530kJ,5.4g,23.4g,14.3g,33.7g,25.3g,65mg,4,FALSE,4,FALSE,,,1534286976.0-W-8901
+2018-08-15 08:49:36 UTC,peters original,Peters Original Neapolitan ,Freezer,4l tub,46g,40,,740kJ,1.9g,6.6g,"4,4g",27.1g,21.3g,83mg,9.5,FALSE,9.5,FALSE,,,1534286976.0-W-8902
+2018-08-15 08:49:36 UTC,peters,Peters Original Neapolitan ,Freezer,2l,46g,20,,740kJ,1.9g,6.6g,"4,4g",27.1g,21.3g,83mg,5,FALSE,5,FALSE,,,1534286976.0-W-8903
+2018-08-15 08:49:36 UTC,bulla,Bulla Real Dairy Nut Free,Freezer,2l,Litre,,,,,,,,,,7,FALSE,7,FALSE,,,1534286976.0-W-8904
+2018-08-15 08:49:36 UTC,essentials,"Essentials Neapolitan Chocolate, Vanilla, Strawberry",Freezer,4l,47.0g,40,,Approx. 709.0kJ,Approx. 2.0g,Approx. 4.5g,Approx. 3.0g,Approx. 30.0g,Approx. 21.3g,Approx. 42.0mg,5.2,FALSE,5.2,FALSE,,,1534286976.0-W-8905
+2018-08-15 08:49:36 UTC,essentials,Essentials Vanilla Ice Cream,Freezer,4l,47.0g,40,,Approx. 705.0kJ,Approx. 1.9g,Approx. 4.4g,Approx. 3.0g,Approx. 30.0g,Approx. 21.4g,Approx. 42.0mg,5.2,FALSE,5.2,FALSE,,,1534286976.0-W-8906
+2018-08-15 08:49:36 UTC,bulla,Bulla Real Dairy Chocolate Ice Cream,Freezer,2l,Litre,,,,,,,,,,4,FALSE,4,FALSE,,,1534286976.0-W-8907
+2018-08-15 08:49:36 UTC,blue ribbon,Blue Ribbon Neapolitan Ice Cream,Freezer,2l,Litre,,,,,,,,,,4.9,FALSE,4.9,FALSE,,,1534286976.0-W-8908
+2018-08-15 08:49:36 UTC,essentials,Essentials Neapolitan Neapolitan,Freezer,2l,100.0g,20,,Approx. 709.0kJ,Approx. 2.0g,Approx. 4.5g,Approx. 3.0g,Approx. 30.0g,Approx. 21.3g,Approx. 42.0mg,2.65,FALSE,2.65,FALSE,,,1534286976.0-W-8909
+2018-08-15 08:49:36 UTC,essentials,Essentials Vanilla Ice Cream,Freezer,2l,47.0g,20,,Approx. 705.0kJ,Approx. 1.9g,Approx. 4.4g,Approx. 3.0g,Approx. 30.0g,Approx. 21.4g,Approx. 42.0mg,2.65,FALSE,2.65,FALSE,,,1534286976.0-W-8910
+2018-08-15 08:49:36 UTC,bounty,Bounty Frozen Bars ,Freezer,6 pack,39.1g,6,,1480kJ,4.0g,20.8g,14.9g,37.0g,30.0g,56mg,8,TRUE,6,FALSE,,,1534286976.0-W-8911
+2018-08-15 08:49:36 UTC,peters drumstick,Peters Drumstick Mini Chocolate Caramel,Freezer,6 pack,53g,6,,1390kJ,4.2g,17.3g,12.7g,39.3g,28.2g,130mg,8,FALSE,8,FALSE,,,1534286976.0-W-8912
+2018-08-15 08:49:36 UTC,connoisseur minis,Connoisseur Minis Salted Caramel & Macadamia,Freezer,6 pack,50g,6,,1610kJ,4.8g,26.6g,14.4g,32.3g,28.4g,80mg,8.4,TRUE,4.2,FALSE,,,1534286976.0-W-8913
+2018-08-15 08:49:36 UTC,mars,Mars Frozen Bars ,Freezer,6 pack,41.8g,6,,1440kJ,3.8g,18.3g,12.3g,40.4g,30.7g,91mg,8,TRUE,6,FALSE,,,1534286976.0-W-8914
+2018-08-15 08:49:36 UTC,snickers,Snickers Frozen Bars ,Freezer,6 pack,48g,6,,1550kJ,6.3g,20.3g,11.1g,40.2g,28.9g,86mg,8,TRUE,6,FALSE,,,1534286976.0-W-8915
+2018-08-15 08:49:36 UTC,bulla creamy classics,Bulla Creamy Classics Ice Cream Choc Vanilla Twins,Freezer,6 pack,62g,6,,1405kJ,4.1g,22.2g,13.9g,30.0g,27.90%,56mg,7.5,FALSE,7.5,FALSE,,,1534286976.0-W-8916
+2018-08-15 08:49:36 UTC,woolworths mini,Woolworths Mini Ice Cream Sticks Classic Vanilla,Freezer,6 pack,46g,6,,1430kJ,4.3g,21.6g,14.1g,32.6g,26.5g,45mg,4,FALSE,4,FALSE,,,1534286976.0-W-8917
+2018-08-15 08:49:36 UTC,proud & punch,Proud & Punch Sticks Orange You Glad,Freezer,6 pack,71g,6,,200kJ,<1g,<1g,<1g,11.4g,11.4g,5mg,8,FALSE,8,FALSE,,,1534286976.0-W-8918
+2018-08-15 08:49:36 UTC,streets magnum,Streets Magnum Ice Cream Mini Double Caramel,Freezer,6 pack,59g,6,,1460kJ,3.3g,22.8g,16.5g,32.6g,28.9g,60mg,8.5,FALSE,8.5,FALSE,,,1534286976.0-W-8919
+2018-08-15 08:49:36 UTC,connoisseur,Connoisseur Mini Vanilla Ice Cream Sticks,Freezer,6 pack,,,,,,,,,,,8.4,TRUE,4.2,FALSE,,,1534286976.0-W-8920
+2018-08-15 08:49:36 UTC,harry's,Harry's Triple Choc Ice Cream,Freezer,520ml tub,104mL (66g),5,,976.6kJ,3.5g,12.7g,8.8g,27.2g,22.5g,48mg,6,FALSE,6,FALSE,,,1534286976.0-W-8925
+2018-08-15 08:49:36 UTC,fropro,Fropro Chocolate Ice Cream Tub,Freezer,520ml,67g,5,,509kj,10.4g,4g,2.6g,9.8g,4.8g,50mg,14,TRUE,10,FALSE,,,1534286976.0-W-8926
+2018-08-15 08:49:36 UTC,harry's,Harry's Peppermint Brownie Ice Cream,Freezer,520ml tub,104mL (66g),5,,963.9kJ,3.9g,12.1g,8.3g,28.1g,23.7g,54mg,6,FALSE,6,FALSE,,,1534286976.0-W-8927
+2018-08-15 08:49:36 UTC,harry's,Harry's Peanut Butter Ice Cream,Freezer,520ml tub,104mL (66g),5,,1223.9kJ,6.1g,17.9g,8.8g,24.3g,23.0g,134mg,6,FALSE,6,FALSE,,,1534286976.0-W-8928
+2018-08-15 08:49:36 UTC,golden north,Golden North Jam Berliner Doughnut Ice Cream,Freezer,525ml,Ml,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-8929
+2018-08-15 08:49:36 UTC,golden north,Golden North Classic Glazed Vanilla Doughnut Ice Cream,Freezer,525ml,Ml,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-8930
+2018-08-15 08:49:36 UTC,fropro,Fropro Peanut Butter Ice Cream Tub,Freezer,520ml,67g,5,,539kj,10.4g,4.9g,2.4g,9.9g,4.9g,51mg,14,TRUE,10,FALSE,,,1534286976.0-W-8931
+2018-08-15 08:49:36 UTC,fropro,Fropro Salted Caramel Ice Cream Tub,Freezer,520ml,67g,5,,486kj,10.4g,3.3g,2.2g,9.8g,4.8g,140mg,14,TRUE,10,FALSE,,,1534286976.0-W-8932
+2018-08-15 08:49:36 UTC,harry's,Harry's Salted Caramel Ice Cream,Freezer,520ml tub,104mL (66g),5,,1059.0kJ,3.3g,12.2g,8.9g,31.7g,31.0g,131mg,6,FALSE,6,FALSE,,,1534286976.0-W-8933
+2018-08-15 08:49:36 UTC,golden north,Golden North Chocolate Iced Doughnut Ice Cream,Freezer,525ml,Ml,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-8934
+2018-08-15 08:49:36 UTC,mars frozen m&m's,Mars Frozen M&m's Chocolate Sticks ,Freezer,4x82ml,Ml,,,,,,,,,,8,TRUE,6,FALSE,,,1534286976.0-W-8935
+2018-08-15 08:49:36 UTC,over the moo,Over The Moo Vanilla Bean Missing You Ice Cream,Freezer,500ml,61g,5,,731kJ,1.6g,14.1g,12.9g,21.9g,18.1g,45mg,10,TRUE,9,FALSE,,,1534286976.0-W-8936
+2018-08-15 08:49:36 UTC,over the moo,Over The Moo Dream Team Cookies'n Cream Ice Cream,Freezer,500ml,Ml,,,,,,,,,,10,TRUE,9,FALSE,,,1534286976.0-W-8937
+2018-08-15 08:49:36 UTC,over the moo,Over The Moo Choc! Choc! Who's There? Ice Cream,Freezer,500ml,61g,5,,882kJ,2.3g,14.0g,11.8g,26.9g,23.1g,36mg,10,TRUE,9,FALSE,,,1534286976.0-W-8938
+2018-08-15 08:49:36 UTC,maggie beer,Maggie Beer Chocolate Coffee & Biscuit Ice Cream,Freezer,500ml,Ml,,,,,,,,,,10,TRUE,7.5,FALSE,,,1534286976.0-W-8939
+2018-08-15 08:49:36 UTC,maggie beer,Maggie Beer Burnt Fig & Honeycomb Ice Cream,Freezer,500ml tub,100mL,5,,947kJ,3.4g,15.3g,10.2g,17.5g,15.8g,41mg,10,TRUE,7.5,FALSE,,,1534286976.0-W-8940
+2018-08-15 08:49:36 UTC,mars frozen m&m's,Mars Frozen M&m's Peanut Sticks ,Freezer,4x82ml,Ml,,,,,,,,,,8,TRUE,6,FALSE,,,1534286976.0-W-8941
+2018-08-15 08:49:36 UTC,over the moo,Over The Moo I Fell For Caramel Ice Cream,Freezer,500ml,Ml,,,,,,,,,,10,TRUE,9,FALSE,,,1534286976.0-W-8942
+2018-08-15 08:49:36 UTC,over the moo,Over The Moo We're Mint To Be Ice Cream,Freezer,500ml,Ml,,,,,,,,,,10,TRUE,9,FALSE,,,1534286976.0-W-8943
+2018-08-15 08:49:36 UTC,baileys,Baileys Ice Cream ,Freezer,500ml tub,79g/125mL,4,,858kJ,3.0g,10.3g,7.2g,25.2g,21.7g,42.0mg,8,FALSE,8,FALSE,,,1534286976.0-W-8944
+2018-08-15 08:49:36 UTC,peters,Peters Drumstick Raspberry White Choc,Freezer,4pack 475ml,pack,,,,,,,,,,8,FALSE,8,FALSE,,,1534286976.0-W-8945
+2018-08-15 08:49:36 UTC,streets,Streets Golden Gaytime Ice Cream Original,Freezer,4pk 400ml,78g,4,,1283kJ,3.6g,19.4g,10.5g,29.4g,21.8g,65mg,8.5,FALSE,8.5,FALSE,,,1534286976.0-W-8946
+2018-08-15 08:49:36 UTC,magnum,Magnum Mini Ice Cream Classic,Freezer,6 pack,47g,6,,1380kJ,3.8g,22.4g,15.2g,27.9g,27.2g,50mg,8.5,FALSE,8.5,FALSE,,,1534286976.0-W-8947
+2018-08-15 08:49:36 UTC,sanitarium,Sanitarium So Good Almond Salted Caramel,Freezer,475ml,Ml,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534286976.0-W-8948
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Ice Cream Cones Caramel,Freezer,475ml,78g (Approx. 118mL),4,,1320kJ,5.0g,17.1g,11.8g,35.4g,25.6g,72mg,3.7,FALSE,3.7,FALSE,,,1534286976.0-W-8949
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Ice Cream Cones Boysenberry,Freezer,475ml,78g (Approx. 118mL),4,,,3.3g,,,,26.9g,71mg,3.7,FALSE,3.7,FALSE,,,1534286976.0-W-8950
+2018-08-15 08:49:36 UTC,sanitarium so good,Sanitarium So Good Choc Almond ,Freezer,475ml tub,69g(119mL),4,,781kJ,1.9g,6.6g,1.1g,27.1g,16.1g,53mg,6.5,FALSE,6.5,FALSE,,,1534286976.0-W-8951
+2018-08-15 08:49:36 UTC,twisted frozen,Twisted Frozen Greek Style Yoghurt  Juciy Qld Mangoes & Original Tart,Freezer,480ml,Ml,,,,,,,,,,6.99,FALSE,6.99,FALSE,,,1534286976.0-W-8952
+2018-08-15 08:49:36 UTC,gaytime,Gaytime Ice Cream Sanga,Freezer,480ml,Ml,,,,,,,,,,8.5,FALSE,8.5,FALSE,,,1534286976.0-W-8953
+2018-08-15 08:49:36 UTC,magnum mini,Magnum Mini Ice Cream Almond,Freezer,6 pack,49g,6,,1520kJ,5.0g,25.2g,15.1g,28.9g,,55mg,8.5,FALSE,8.5,FALSE,,,1534286976.0-W-8954
+2018-08-15 08:49:36 UTC,halo top,Halo Top Mint Choc Chip Ice Cream,Freezer,473ml,Ml,,,,,,,,,,10,FALSE,10,TRUE,5,8,1534286976.0-W-8955
+2018-08-15 08:49:36 UTC,arnott's,Arnott's Frozen Caramel Crown Tub,Freezer,470ml,Ml,,,,,,,,,,7,FALSE,7,FALSE,,,1534286976.0-W-8956
+2018-08-15 08:49:36 UTC,cabdury,Cabdury Boost Tub Ice Cream,Freezer,473ml,Ml,,,,,,,,,,7,FALSE,7,FALSE,,,1534286976.0-W-8957
+2018-08-15 08:49:36 UTC,cadbury,Cadbury Crunchie Ice Cream,Freezer,473ml tub,Ml,,,,,,,,,,7,FALSE,7,FALSE,,,1534286976.0-W-8958
+2018-08-15 08:49:36 UTC,halo top,Halo Top Chocolate Ice Cream,Freezer,473ml,Ml,,,,,,,,,,10,FALSE,10,TRUE,5,8,1534286976.0-W-8959
+2018-08-15 08:49:36 UTC,cadbury,Cadbury Picnic Ice Cream,Freezer,473ml tub,Ml,,,,,,,,,,7,FALSE,7,FALSE,,,1534286976.0-W-8960
+2018-08-15 08:49:36 UTC,halo top,Halo Top Vanilla Bean Ice Cream,Freezer,473ml,Ml,,,,,,,,,,10,FALSE,10,TRUE,5,8,1534286976.0-W-8961
+2018-08-15 08:49:36 UTC,halo,Halo Top Choc Dairy Free ,Freezer,473ml,Ml,,,,,,,,,,10,FALSE,10,TRUE,5,8,1534286976.0-W-8962
+2018-08-15 08:49:36 UTC,halo,Halo Top Caramel Macchiato Dairy Free,Freezer,473ml,Ml,,,,,,,,,,10,FALSE,10,TRUE,5,8,1534286976.0-W-8963
+2018-08-15 08:49:36 UTC,halo top,Halo Top Birthday Cake Ice Cream,Freezer,473ml,69g,4,,424kJ,9g,2g,1g,17g,7g,159mg,10,FALSE,10,TRUE,5,8,1534286976.0-W-8964
+2018-08-15 08:49:36 UTC,ben & jerry's,Ben & Jerry's Brownie Batter Core Ice Cream,Freezer,458ml,Ml,,,,,,,,,,14,FALSE,14,FALSE,,,1534286976.0-W-8965
+2018-08-15 08:49:36 UTC,ben & jerry's,Ben & Jerry's Non Dairy Peanut Butter & Cookies,Freezer,458ml,Ml,,,,,,,,,,12,FALSE,12,FALSE,,,1534286976.0-W-8966
+2018-08-15 08:49:36 UTC,ben & jerry's,Ben & Jerry's Coffee Caramel Fudge Non-dairy Frozen Dessert,Freezer,458ml,Ml,,,,,,,,,,12,FALSE,12,FALSE,,,1534286976.0-W-8967
+2018-08-15 08:49:36 UTC,ben & jerry's,Ben & Jerry's Coconut Seven Layer Bar Non-dairy Frozen Dessert,Freezer,458ml,Ml,,,,,,,,,,12,FALSE,12,FALSE,,,1534286976.0-W-8968
+2018-08-15 08:49:36 UTC,ben & jerry's,Ben & Jerry's Cookies & Cream Core Ice Cream,Freezer,458ml,Ml,,,,,,,,,,14,FALSE,14,FALSE,,,1534286976.0-W-8969
+2018-08-15 08:49:36 UTC,ben & jerry's,Ben & Jerry's Ice Cream Cookie Dough,Freezer,458ml tub,,4,,1110kJ,,,,30.5g,,,12,FALSE,12,FALSE,,,1534286976.0-W-8970
+2018-08-15 08:49:36 UTC,ben & jerry's,Ben & Jerry's Ice Cream Chocolate Fudge Brownie,Freezer,458ml tub,105g / 115mL,4,,245kJ,4.3g,12.7g,7.5g,28.9g,25.7g,65mg,12,FALSE,12,FALSE,,,1534286976.0-W-8971
+2018-08-15 08:49:36 UTC,ben & jerry's,Ben & Jerry's Ice Cream The Tonight Dough Starring Jimmy Fallon,Freezer,458ml tub,115mL,4,,1200kJ,4.3g,15.4g,,32.6g,,95mg,12,FALSE,12,FALSE,,,1534286976.0-W-8972
+2018-08-15 08:49:36 UTC,nestle,Nestle Milo Ice Cream Tub,Freezer,470ml,50g,4.7,,810kJ,2.8g,6.6g,5.7g,30.5g,21.1g,78mg,7,FALSE,7,FALSE,,,1534286976.0-W-8973
+2018-08-15 08:49:36 UTC,nestle,Nestle Frozen Fruit Tingles Tub,Freezer,470ml,53g (approx. 2 scoops),4.7,,710kJ,2.4g,3.4g,3.0g,32.0g,24.3g,195mg,7,FALSE,7,FALSE,,,1534286976.0-W-8974
+2018-08-15 08:49:36 UTC,, Peters Ice Cream Vanilla Drumstick 4pk X4 Bundle ,Freezer,,,,,,,,,,,,22,FALSE,22,FALSE,,,1534286976.0-W-8975
+2018-08-15 08:49:36 UTC,," Bulla Icy Pops Lemonade, Raspberry & Cola Multi 10pk X3 Bundle ",Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-8976
+2018-08-15 08:49:36 UTC,h  agen-dazs,H  agen-dazs Strawberries & Cream Ice Cream,Freezer,457ml,83g,5,,1013kJ,3.9g,15.5g,9.4g,21.8g,21.7g,57mg,11.5,FALSE,11.5,FALSE,,,1534286976.0-W-8977
+2018-08-15 08:49:36 UTC,, Streets Magnum Mini Classic 360ml 6pk X 2 Bundle ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534286976.0-W-8978
+2018-08-15 08:49:36 UTC,, Peters Ice Cream Caramel Drumstick 4pk X4 Bundle ,Freezer,,,,,,,,,,,,22,FALSE,22,FALSE,,,1534286976.0-W-8979
+2018-08-15 08:49:36 UTC,, Peters Ice Cream Boysenberry Swirl Drumstick 4pk X4 Bundle ,Freezer,,,,,,,,,,,,22,FALSE,22,FALSE,,,1534286976.0-W-8980
+2018-08-15 08:49:36 UTC,, Peters Ice Cream Vanilla 4l X2 Bundle ,Freezer,,,,,,,,,,,,16,FALSE,16,FALSE,,,1534286976.0-W-8981
+2018-08-15 08:49:36 UTC,h  agen-dazs,H  agen-dazs Salted Caramel Ice Cream,Freezer,457ml,83g,5,,1172kJ,4.0g,17.2g,10.7g,27.5g,24.1g,233mg,11.5,FALSE,11.5,FALSE,,,1534286976.0-W-8982
+2018-08-15 08:49:36 UTC,h  agen dazs,H  agen Dazs Peanut Butter Crunch Ice Cream ,Freezer,457ml,Ml,,,,,,,,,,11.5,FALSE,11.5,FALSE,,,1534286976.0-W-8983
+2018-08-15 08:49:36 UTC,h  agen-dazs,H  agen-dazs Caramel Biscuit & Cream Speculoos Ice Cream,Freezer,457ml,Ml,,,,,,,,,,11.5,FALSE,11.5,FALSE,,,1534286976.0-W-8984
+2018-08-15 08:49:36 UTC,, Streets Calippo Mini Raspberry Pineapple 575ml 10pk X 2 Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-8985
+2018-08-15 08:49:36 UTC,, Peters Ice Cream Neapolitan 4l X2 Bundle ,Freezer,,,,,,,,,,,,16,FALSE,16,FALSE,,,1534286976.0-W-8986
+2018-08-15 08:49:36 UTC,, Streets Magnum Mini Almond 360ml 6pk X 2 Bundle ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534286976.0-W-8987
+2018-08-15 08:49:36 UTC,, Streets Paddle Pop Cyclone 688ml 8pk X 2 Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-8988
+2018-08-15 08:49:36 UTC,, Peters Ice Cream Vanilla Mini Drumstick 6pk X4 Bundle ,Freezer,,,,,,,,,,,,22,FALSE,22,FALSE,,,1534286976.0-W-8989
+2018-08-15 08:49:36 UTC,, Peters Ice Cream Chocolate Mint Drumstick 4pk X4 Bundle ,Freezer,,,,,,,,,,,,22,FALSE,22,FALSE,,,1534286976.0-W-8990
+2018-08-15 08:49:36 UTC,, Peters Ice Cream Chocolate Caramel Mini Drumstick 6pk X4 Bundle ,Freezer,,,,,,,,,,,,22,FALSE,22,FALSE,,,1534286976.0-W-8991
+2018-08-15 08:49:36 UTC,, Peters Ice Cream Super Chocolate Drumstick 4pk X4 Bundle ,Freezer,,,,,,,,,,,,22,FALSE,22,FALSE,,,1534286976.0-W-8992
+2018-08-15 08:49:36 UTC,, Streets Paddle Pop Banana 680ml 10pk X 2 Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-8993
+2018-08-15 08:49:36 UTC,, Streets Splice Pine Lime 584ml 8pk X 2 Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-8994
+2018-08-15 08:49:36 UTC,peters,Peters Lifesavers Icy Poles Lifesavers,Freezer,8 pack,66g,8,,250kJ,<1g,<0.1g,<0.1g,14.3g,14.2g,<5mg,7,FALSE,7,FALSE,,,1534286976.0-W-8995
+2018-08-15 08:49:36 UTC,splice,Splice Fruit Ice Pine Lime,Freezer,8 pack,62g,8,,534kJ,1.2g,2.1g,1.5g,25.3g,18.5g,20mg,7,FALSE,7,FALSE,,,1534286976.0-W-8996
+2018-08-15 08:49:36 UTC,peters,Peters Icy Pole Lemonade,Freezer,8 pack,75g,8,,250kJ,<0.1g,<0.1g,<0.1g,14.3g,14.3g,<5mg,4.6,FALSE,4.6,FALSE,,,1534286976.0-W-8997
+2018-08-15 08:49:36 UTC,streets blue ribbon gelateria,Streets Blue Ribbon Gelateria Creme Brulee ,Freezer,900ml,56g,9,,890kJ,2.5g,8.0g,5.0g,31g,29g,35mg,8,TRUE,7,FALSE,,,1534286976.0-W-8998
+2018-08-15 08:49:36 UTC,, Streets Paddle Pop Rainbow 680ml 10pk X 2 Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-8999
+2018-08-15 08:49:36 UTC,bulla,Bulla Crunch Caramel Strawberry & Honey,Freezer,8 pack,60g,8,,1258%,2.7g,20.0g,15.0g,27.2g,,47mg,6.8,TRUE,4.5,FALSE,,,1534286976.0-W-9000
+2018-08-15 08:49:36 UTC,peters frosty fruits,Peters Frosty Fruits Tropical ,Freezer,8 pack,80g,8,,440kJ,<1g,<0.1g,<0.1g,25.4g,20.9g,<5mg,6.7,FALSE,6.7,FALSE,,,1534286976.0-W-9001
+2018-08-15 08:49:36 UTC,paddle pop,Paddle Pop Water Ice Cyclone,Freezer,8 pack,92g,8,,409kJ,<0.1g,<0.1g,<0.1g,24.0g,22.0g,5mg,7,FALSE,7,FALSE,,,1534286976.0-W-9002
+2018-08-15 08:49:36 UTC,blue ribbon,Blue Ribbon Gelateria Lemon Meringue Pie,Freezer,900ml,Ml,,,,,,,,,,8,TRUE,7,FALSE,,,1534286976.0-W-9003
+2018-08-15 08:49:36 UTC,, Streets Paddle Pop Chocolate 680ml 10pk X 2 Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-9004
+2018-08-15 08:49:36 UTC,arnott's,Arnott's Frozen Wagon Wheel,Freezer,4 pack,,,,,,,,,,,8,TRUE,6,FALSE,,,1534286976.0-W-9005
+2018-08-15 08:49:36 UTC,skinny cow,Skinny Cow Mint Cookie ,Freezer,4 pack,60g,4,,860kJ,4.6g,2.7g,1.4g,38.9g,16.8g,155mg,8,TRUE,6,FALSE,,,1534286976.0-W-9006
+2018-08-15 08:49:36 UTC,paw patrol,Paw Patrol Frozen Dessert Treats 6pk 360ml,Freezer,6x360ml,Ml,,,,,,,,,,5,FALSE,5,TRUE,2,3.5,1534286976.0-W-9007
+2018-08-15 08:49:36 UTC,bulla crunch,Bulla Crunch Ice Cream Orange Mint Vanilla,Freezer,8 pack,60g,8,,1258kJ,2.70%,20.0g,15.0g,27.2g,24.0g,47mg,6.8,TRUE,4.5,FALSE,,,1534286976.0-W-9008
+2018-08-15 08:49:36 UTC,cadbury dairy milk,Cadbury Dairy Milk Ice Cream Caramello,Freezer,4 pack,64g/90mL,4,,1400kJ,4.0g,21.1g,13.7g,32.1g,29.7g,59mg,5,TRUE,4,FALSE,,,1534286976.0-W-9009
+2018-08-15 08:49:36 UTC,cadbury,Cadbury Top Deck Sticks ,Freezer,4 pack,,,,,,,,,,,5,TRUE,4,FALSE,,,1534286976.0-W-9010
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Biscuit Sandwch Orginal,Freezer,440ml 4pk,66.0g,4,,Approx. 1130.0kJ,Approx. 3.6g,Approx. 9.1g,Approx. 6.0g,Approx. 40.9g,Approx. 20.4g,Approx. 180.0mg,3,FALSE,3,FALSE,,,1534286976.0-W-9011
+2018-08-15 08:49:36 UTC,peppa pig,Peppa Pig Frozen Dessert Treats ,Freezer,6 pack,60mL (32g),6,,752kJ,2.9g,8.1g,7.3g,23.6g,20.1g,80mg,5,FALSE,5,TRUE,2,3.5,1534286976.0-W-9012
+2018-08-15 08:49:36 UTC,bulla,Bulla Frozen Yoghurt Strawb Mango Wildberry,Freezer,8 pack,59g,8,,534kJ,4.5g,3.0g,2.0g,20.7g,19.4g,55mg,6.8,TRUE,4.5,FALSE,,,1534286976.0-W-9013
+2018-08-15 08:49:36 UTC,bulla,Bulla Crunch Double Choc,Freezer,8 pack,60g,8,,1258kJ,2.7g,20.0g,15.0g,27.2g,24.0g,47mg,6.8,TRUE,4.5,FALSE,,,1534286976.0-W-9014
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Ice Cream Sandwich Cookies & Cream,Freezer,4 pack,64g,4,,1140kJ,4.2g,7.8g,4.7g,43.8g,23.0g,250mg,3,FALSE,3,FALSE,,,1534286976.0-W-9015
+2018-08-15 08:49:36 UTC,peters maxibon,Peters Maxibon Monster Cookie ,Freezer,4 pack,,,,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534286976.0-W-9016
+2018-08-15 08:49:36 UTC,peters,Peters Choc'a Block Maxibon,Freezer,4 pack,,,,,,,,,,,8.4,FALSE,8.4,FALSE,,,1534286976.0-W-9017
+2018-08-15 08:49:36 UTC,skinny cow,Skinny Cow Ice Cream Cookies Vanilla,Freezer,4 pack,60g,4,,900kJ,4.8g,2.7g,1.4g,40.8g,20.8g,165mg,8,TRUE,6,FALSE,,,1534286976.0-W-9018
+2018-08-15 08:49:36 UTC,peters maxibon,Peters Maxibon Ice Cream Caramel Rough Nut,Freezer,4 pack,102g,4,,1340kJ,4.0g,15.3g,10.9g,41.6g,28.6g,99mg,8.4,FALSE,8.4,FALSE,,,1534286976.0-W-9019
+2018-08-15 08:49:36 UTC,bulla,Bulla Creamy Classics Double Choc Fudge Sandwiches,Freezer,4 pack,,,,,,,,,,,8,FALSE,8,FALSE,,,1534286976.0-W-9020
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Almond Ice Cream Sticks,Freezer,4 pack,74g,4,,1410kJ,5.4g,21.8g,11.1g,30.3g,26.3g,52mg,4,FALSE,4,FALSE,,,1534286976.0-W-9024
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Vanilla Ice Cream Sticks,Freezer,4 pack,72g,4,,1380kJ,4.4g,20.8g,13.7g,31.3g,25.9g,45mg,4,FALSE,4,FALSE,,,1534286976.0-W-9025
+2018-08-15 08:49:36 UTC,woolworths,Woolworths Ice Cream Cones Choc Mint,Freezer,4 pack,100.0g,4,,Approx. 1290.0kJ,Approx. 3.7g,Approx. 16.0g,Approx. 11.7g,Approx. 37.2g,Approx. 26.1g,Approx. 67.0mg,3.7,FALSE,3.7,FALSE,,,1534286976.0-W-9026
+2018-08-15 08:49:36 UTC,woolworths ,Woolworths Ice Cream Cones Vanilla,Freezer,4 pack,74g (Approx. 118mL),4,,1320kJ,4.1g,17.5g,12.1g,35.4g,24.1g,61mg,3.7,FALSE,3.7,FALSE,,,1534286976.0-W-9027
+2018-08-15 08:49:36 UTC,maltesers,Maltesers Ice Cream Honeycomb Teasers,Freezer,4 pack,60g,1,,1510kJ,4.0g,21.7g,13.5g,37.2g,32.0g,65mg,8,TRUE,6,FALSE,,,1534286976.0-W-9028
+2018-08-15 08:49:36 UTC,magnum,Magnum Ice Cream Almond,Freezer,4 pack,86g,4,,1470kJ,,24.2g,15.0g,29.1g,28.8g,55mg,8.5,FALSE,8.5,FALSE,,,1534286976.0-W-9029
+2018-08-15 08:49:36 UTC,cornetto classic,Cornetto Classic Ice Cream Classic Vanilla,Freezer,4 pack,70g,4,,1210kJ,2.8g,15.1g,12.8g,35.4g,22.3g,10mg,7,FALSE,7,FALSE,,,1534286976.0-W-9030
+2018-08-15 08:49:36 UTC,streets cornetto,Streets Cornetto Cookies ,Freezer,4 pack,80g,4,,1368kJ,3.4g,15.9g,12.5g,41.7g,27.4g,<1mg,7,FALSE,7,FALSE,,,1534286976.0-W-9031
+2018-08-15 08:49:36 UTC,birds eye ,Birds Eye Stir Fry Mix Chinese,Freezer,850g,125g,6.8,,171kJ,2.1g,0.4g,0.1g,5.6g,3.4g,21mg,5,FALSE,5,FALSE,,,1534286976.0-W-9032
+2018-08-15 08:49:36 UTC,cornetto classic,Cornetto Classic Ice Cream Classic Chocolate,Freezer,4 pack,,,,1210kJ,,,,,,,7,FALSE,7,FALSE,,,1534286976.0-W-9033
+2018-08-15 08:49:36 UTC,streets,Streets Cornetto Golden Gaytime,Freezer,4 pack,,,,,,,,,,,7,FALSE,7,FALSE,,,1534286976.0-W-9034
+2018-08-15 08:49:36 UTC,mars,Mars Teasers Frozen Bars,Freezer,4 pack,60g,4,,1520kJ,4.0g,21.8g,13.6g,37.3g,27.7g,66mg,8,TRUE,6,FALSE,,,1534286976.0-W-9035
+2018-08-15 08:49:36 UTC,connoisseur,Connoisseur Vanilla Ice Cream ,Freezer,4 pack,,,,,,,,,,,8.4,TRUE,4.2,FALSE,,,1534286976.0-W-9036
+2018-08-15 08:49:36 UTC,magnum,Magnum Ice Cream Classic,Freezer,4 pack,82g,4,,1330kJ,3.9g,21.3g,14.6g,27.1g,26.7g,60mg,8.5,FALSE,8.5,FALSE,,,1534286976.0-W-9037
+2018-08-15 08:49:36 UTC,, Dr Oetker Ristorante Pizza Hawaiian 355g X4 Bundle ,Freezer,,,,,,,,,,,,20,FALSE,20,FALSE,,,1534286976.0-W-9038
+2018-08-15 08:49:36 UTC,, Movie Night Pizza Bundle ,Freezer,,,,,,,,,,,,12,FALSE,12,FALSE,,,1534286976.0-W-9039
+2018-08-15 08:49:36 UTC,, Papa Giuseppi Bakehouse Crust Meatlovers 460g X4 Bundle ,Freezer,,,,,,,,,,,,20,FALSE,20,FALSE,,,1534286976.0-W-9040
+2018-08-15 08:49:36 UTC,, Mccain Meatlovers Pizza Slices 600g 6pk X2 Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534286976.0-W-9041
+2018-08-15 08:49:36 UTC,, Papa Giuseppi Bakehouse Crust Meatlovers 460g X2 Bundle ,Freezer,,,,,,,,,,,,12,FALSE,12,FALSE,,,1534286976.0-W-9042
+2018-08-15 08:49:36 UTC,, Thick And Thin Crust Bundle ,Freezer,,,,,,,,,,,,12,FALSE,12,FALSE,,,1534286976.0-W-9043
+2018-08-15 08:49:37 UTC,, Mega Meaty Pizza Bundle ,Freezer,,,,,,,,,,,,20,FALSE,20,FALSE,,,1534286977.0-W-9044
+2018-08-15 08:49:37 UTC,, Dr Oetker Ristorante Pizza Hawaiian 355g X2 Bundle ,Freezer,,,,,,,,,,,,12,FALSE,12,FALSE,,,1534286977.0-W-9045
+2018-08-15 08:49:37 UTC,, Dr Oetker Ristorante Pizza Pepperoni 310g X4 Bundle ,Freezer,,,,,,,,,,,,20,FALSE,20,FALSE,,,1534286977.0-W-9046
+2018-08-15 08:49:37 UTC,, Dr Oetker Ristorante Pizza Pepperoni 310g X2 Bundle ,Freezer,,,,,,,,,,,,12,FALSE,12,FALSE,,,1534286977.0-W-9047
+2018-08-15 08:49:37 UTC,birds eye oven bake lightly ,Birds Eye Oven Bake Lightly Battered Fish ,Freezer,6pk 425,141g,6,,678kJ,12.1g,7.7g,0.8g,10.7g,2.3g,320mg,8.79,FALSE,8.79,FALSE,,,1534286977.0-W-9048
+2018-08-15 08:49:37 UTC,, Mccain Ham & Pineapple Pizza Slices 600g 6pk X2 Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534286977.0-W-9049
+2018-08-15 08:49:37 UTC,, Mccain Cheese & Bacon Pizza Slices 600g 6pk X2 Bundle ,Freezer,,,,,,,,,,,,10,FALSE,10,FALSE,,,1534286977.0-W-9050
+2018-08-15 08:49:37 UTC,, Ingham's Crumbed Chicken Nuggets 700g X2 Bundle ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534286977.0-W-9051
+2018-08-15 08:49:37 UTC,, Birds Eye Oven Bake Crumbed Lemon Pepper 425g 6pk X3 Bundle ,Freezer,,,,,,,,,,,,22,FALSE,22,FALSE,,,1534286977.0-W-9052
+2018-08-15 08:49:37 UTC,, Birds Eye Oven Bake Lightly Battered Fish 425g 6pk X3 Bundle ,Freezer,,,,,,,,,,,,22,FALSE,22,FALSE,,,1534286977.0-W-9053
+2018-08-15 08:49:37 UTC,, Birds Eye Oven Bake Crumbed Fish 425g 6pk X3 Bundle ,Freezer,,,,,,,,,,,,22,FALSE,22,FALSE,,,1534286977.0-W-9054
+2018-08-15 08:49:37 UTC,, Birds Eye Oven Bake Crumbed Lemon 425g 6pk X3 Bundle ,Freezer,,,,,,,,,,,,22,FALSE,22,FALSE,,,1534286977.0-W-9055
+2018-08-15 08:49:37 UTC,papa giuseppis,Papa Giuseppis Rising Stuffed Crust Supreme Pizza,Freezer,525g,g,,,,,,,,,,8,FALSE,8,FALSE,,,1534286977.0-W-9056
+2018-08-15 08:49:37 UTC,mccain,Mccain Pizza Slice Meatlovers,Freezer,600g,Approx.100g,6,,998kJ,13.0g,7.4g,4.1g,28.8g,5.5g,420mg,7,FALSE,7,FALSE,,,1534286977.0-W-9057
+2018-08-15 08:49:37 UTC,woolworths,Woolworths Crumbed Chilli Chicken Pieces ,Freezer,850g,g,,,,,,,,,,9,FALSE,9,FALSE,,,1534286977.0-W-9058
+2018-08-15 08:49:37 UTC,woolworths,Woolworths Crunchy Hot & Spicy Chicken Bites,Freezer,400g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534286977.0-W-9059
+2018-08-15 08:49:37 UTC,steggles,Steggles Chicken Pieces Burger Southern Style,Freezer,450g,90g,5,,867kJ,11.6g,12.6g,3.4g,12.0g,3.5g,775mg,6.25,FALSE,6.25,FALSE,,,1534286977.0-W-9060
+2018-08-15 08:49:37 UTC,wingin' it,Wingin' It Southern Style Chicken Pieces,Freezer,700g,g,,,,,,,,,,9.99,FALSE,9.99,FALSE,,,1534286977.0-W-9061
+2018-08-15 08:49:37 UTC,woolworths,Woolworths Southern Style Crumbed Chicken Pieces,Freezer,850g,g,,,,,,,,,,9,FALSE,9,FALSE,,,1534286977.0-W-9062
+2018-08-15 08:49:37 UTC,essentials,Essentials Crumbed Chicken Nuggets,Freezer,500g,100g,5,,1050kJ,10.3g,16.0g,2.8g,17.2g,0.8g,481mg,2.89,FALSE,2.89,FALSE,,,1534286977.0-W-9066
+2018-08-15 08:49:37 UTC,ingham's,Ingham's Chicken Pieces Chicken Buffalo Wings,Freezer,700g,Approx93g (2 Wings - Edible Portion),Approx.6,,1172kJ,16.9g,19.5g,5.8g,9.6g,0.6g,698mg,9.15,FALSE,9.15,FALSE,,,1534286977.0-W-9067
+2018-08-15 09:09:37 UTC,mccain,Mccain Healthy Choice Wholegrains Teriyaki Chicken,Freezer,340g,340g,1,,566kJ,6.0g,2.0g,0.6g,22.0g,5.0g,260mg,6.6,TRUE,5,FALSE,,,1534288177.0-W-10382
+2018-08-15 09:09:37 UTC,weight watchers,Weight Watchers Frozen Meal Thai Green Chicken Curry,Freezer,340g,340g,1,,425kJ,5.8g,2.9g,1.1g,12.2g,2.0g,265mg,6.5,FALSE,6.5,FALSE,,,1534288177.0-W-10389
+2018-08-15 09:09:37 UTC,ever green,Ever Green Fresh Fried Chow Mein Noodles,Freezer,350g,125g,4,,1142kJ,13.7g,1.5g,0.4g,48.6g,<0.5g,507mg,3.5,FALSE,3.5,FALSE,,,1534288177.0-W-10390
+2018-08-15 09:09:37 UTC,on the menu,On The Menu Kransky Sausage With Potatoes & Vegetebales,Freezer,320g,g,,,,,,,,,,6,FALSE,6,FALSE,,,1534288177.0-W-10391
+2018-08-15 09:09:37 UTC,mccain ,Mccain Dinner Veal Cordon Bleu,Freezer,320g,320g,1,,654kJ,6.0g,8.4g,3.5g,13.4g,3.2g,330mg,7,TRUE,6,FALSE,,,1534288177.0-W-10392
+2018-08-15 09:09:37 UTC,mccain ,Mccain Dinner Lamb Cutlet & Gravy,Freezer,320g,320g,1,,531kJ,4.7g,6.1g,2.6g,12.5g,3.2g,300mg,7,TRUE,6,FALSE,,,1534288177.0-W-10393
+2018-08-15 09:09:37 UTC,mccain ,Mccain Dinner Roast Lamb,Freezer,320g,320g,1,,402kJ,6.3g,3.0g,1.3g,10.0g,1.7g,330mg,7,TRUE,6,FALSE,,,1534288177.0-W-10394
+2018-08-15 09:09:37 UTC,on the menu,On The Menu Beer Battered Fish & Chips,Freezer,320g,g,,,,,,,,,,6,FALSE,6,FALSE,,,1534288177.0-W-10395
+2018-08-15 09:09:37 UTC,mccain ,Mccain Dinner Roast Chicken,Freezer,320g,320g,1,,364kJ,6.4g,2.0g,0.9g,10.0g,1.2g,250mg,7,TRUE,6,FALSE,,,1534288177.0-W-10396
+2018-08-15 09:09:37 UTC,mccain ,Mccain Healthy Choice Wholegrains Chicken & Mushroom Risotto,Freezer,350g,350g,1,,492kJ,6.0g,3.0g,1.8g,15.7g,0.8g,320mg,6.6,TRUE,5,FALSE,,,1534288177.0-W-10397
+2018-08-15 09:09:37 UTC,woolworths,Woolworths Frozen Meal Chicken Korma & Rice,Freezer,350g,375g,1,,558kJ,4.6g,4.0g,1.2g,19.1g,1.5g,203mg,3.5,TRUE,3,FALSE,,,1534288177.0-W-10398
+2018-08-15 09:09:37 UTC,woolworths,Woolworths Delicious Nutritious Meals Beef & Tomato Casserole,Freezer,350g,350g,1,,344kJ,7.5g,2.4g,0.7g,6.2g,1.1g,138mg,7.99,TRUE,6.5,FALSE,,,1534288177.0-W-10399
+2018-08-15 09:09:37 UTC,on the menu,On The Menu Roast Pork,Freezer,320g,,,, 1030 kj, 17.0 g, 6.7 g, 1.9 g, 28.1 g, 6.7 g, 1130 mg,6.5,TRUE,6,FALSE,,,1534288177.0-W-10400
+2018-08-15 09:09:37 UTC,weight watchers,Weight Watchers Gourmet Beef Massaman Curry ,Freezer,350g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534288177.0-W-10401
+2018-08-15 09:09:37 UTC,mccain,Mccain Slow Cooked Beef ,Freezer,300g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534288177.0-W-10402
+2018-08-15 09:09:37 UTC,super nature super foods,Super Nature Super Foods Middle Eastern Chicken With Quinoa Tabbouleh,Freezer,350g,350g,1,,618kJ,5.2g,7.4g,0.8g,14.4g,4.1g,504mg,6.3,TRUE,5,FALSE,,,1534288177.0-W-10403
+2018-08-15 09:09:37 UTC,super nature wellness bowl,Super Nature Wellness Bowl Wholegrain Chicken Porcini Mushroom & Truffle Risotto,Freezer,350g,g,,,,,,,,,,6.3,TRUE,5,FALSE,,,1534288177.0-W-10404
+2018-08-15 09:09:37 UTC,super nature,Super Nature Super Collagen Bowl ,Freezer,350g,g,,,,,,,,,,6.3,TRUE,5,FALSE,,,1534288177.0-W-10405
+2018-08-15 09:09:37 UTC,lean cuisine steam,Lean Cuisine Steam Slow Cooked Beef Beef With Tomato & Red Wine,Freezer,350g,350g,1,,443kJ,6.8g,2.4g,0.9g,13.4g,1.4g,197mg,6.7,TRUE,5,FALSE,,,1534288177.0-W-10406
+2018-08-15 09:09:37 UTC,mccain,Mccain Healthy Choice Wholegrains Italian Beef & Chia Meatballs,Freezer,350g,350g,1,,458kJ,6.0g,3.0g,1.3g,13.2g,2.9g,280mg,6.6,TRUE,5,FALSE,,,1534288177.0-W-10407
+2018-08-15 09:09:37 UTC,woolworths,Woolworths Delicious Nutritious Meals Salmon Fishcakes,Freezer,350g,350g,1,,485kJ,6.4g,6.2g,1.1g,7.0g,2.0g,234mg,7.99,TRUE,6.5,FALSE,,,1534288177.0-W-10408
+2018-08-15 09:09:37 UTC,woolworths,Woolworths Frozen Meal Chicken Satay & Rice,Freezer,375g,375g,1,,590kJ,5.3g,4.4g,1.2g,19.5g,2.2g,172mg,3.5,TRUE,3,FALSE,,,1534288177.0-W-10409
+2018-08-15 09:09:37 UTC,woolworths,Woolworths Frozen Meal Thai Green Curry & Rice,Freezer,375g,375g,1,,471kJ,3.9g,2.0g,1.2g,19.2g,1.6g,196mg,3.5,TRUE,3,FALSE,,,1534288177.0-W-10410
+2018-08-15 09:09:37 UTC,lean cuisine,Lean Cuisine Steam Korean Beef With Rice,Freezer,380g,g,,,,,,,,,,6.7,TRUE,5,FALSE,,,1534288177.0-W-10411
+2018-08-15 09:09:37 UTC,lean cuisine steam,Lean Cuisine Steam Thai Chicken Thai Chicken,Freezer,380g,380g,1,,394kJ,4.5g,1.8g,1.3g,14.2g,1.9g,240mg,6.7,TRUE,5,FALSE,,,1534288177.0-W-10412
+2018-08-15 09:09:37 UTC,lean cuisine steam,Lean Cuisine Steam Spicy Meatball Arrabiata Spaghetti,Freezer,380g,380g,1,,367kJ,5.1g,1.5g,0.4g,12.4g,1.7g,179mg,6.7,TRUE,5,FALSE,,,1534288177.0-W-10413
+2018-08-15 09:09:37 UTC,lean cuisine steam,Lean Cuisine Steam Chicken Cheese & Pepper Pasta,Freezer,380g,,,,,,,0.6g,,,,6.7,TRUE,5,FALSE,,,1534288177.0-W-10414
+2018-08-15 09:09:37 UTC,mccain,Mccain Slow Cooked Pork ,Freezer,300g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534288177.0-W-10415
+2018-08-15 09:09:37 UTC,woolworths,Woolworths Delicious Nutritious Meals Asian Style Chicken,Freezer,375g,375g,1,,326kJ,5.4g,2.6g,0.5g,7.0g,3.8g,140mg,7.99,TRUE,6.5,FALSE,,,1534288177.0-W-10416
+2018-08-15 09:09:37 UTC,lean cuisine steam,Lean Cuisine Steam Satay Beef With Rice,Freezer,390g,390g,1,,419kJ,5.4g,2.1g,0.7g,14.1g,1.9g,218mg,6.7,TRUE,5,FALSE,,,1534288177.0-W-10417
+2018-08-15 09:09:37 UTC,mccain,Mccain Slow Cooked Lamb ,Freezer,300g,g,,,,,,,,,,7,FALSE,7,FALSE,,,1534288177.0-W-10418
+2018-08-15 09:09:37 UTC,woolworths,Woolworths Frozen Meal Linguine Carbonara,Freezer,375g,375g,1,,386kJ,3.5g,2.9g,1.1g,12.5g,0.9g,251mg,3.5,TRUE,3,FALSE,,,1534288177.0-W-10419
+2018-08-15 09:09:37 UTC,woolworths,Woolworths Delicious Nutritious Meals Mild Massaman Beef,Freezer,365g,365g,1,,353kJ,5.5g,2.2g,1.4g,9.4g,3.2g,140mg,7.99,TRUE,6.5,FALSE,,,1534288177.0-W-10420
+2018-08-15 09:09:37 UTC,lean cuisine steam,Lean Cuisine Steam Sundried Tomato & Chicken Pasta,Freezer,370g,g,,,,,,,,,,6.7,TRUE,5,FALSE,,,1534288177.0-W-10421
+2018-08-15 09:09:37 UTC,lean cuisine steam,Lean Cuisine Steam Butter Chicken Butter Chicken,Freezer,370g,370g,1,,435kJ,5.0g,2.2g,1.4g,15.3g,1.3g,238mg,6.7,TRUE,5,FALSE,,,1534288177.0-W-10422
+2018-08-15 09:09:38 UTC,mccain ,Mccain Fettuccine Carbonara,Freezer,375g,375g,1,,690kJ,5.0g,7.4g,4.5g,19.0g,0.8g,240mg,6,TRUE,4.5,FALSE,,,1534288178.0-W-10423
+2018-08-15 09:09:38 UTC,woolworths,Woolworths Frozen Meal Butter Chicken & Rice,Freezer,375g,350g,1,,520kJ,5.4g,4.9g,2.6g,14.5g,<0.5g,200mg,3.5,TRUE,3,FALSE,,,1534288178.0-W-10424
+2018-08-15 09:09:38 UTC,weight watchers,Weight Watchers Lasagne Beef Large Serve,Freezer,370g,370g,1,,385kJ,5.1g,1.5g,0.7g,13.9g,3.3g,220mg,5.79,TRUE,4,FALSE,,,1534288178.0-W-10425
+2018-08-15 09:09:38 UTC,lean cuisine steam,Lean Cuisine Steam Salmon & Pasta Salmon & Pasta,Freezer,370g,370g,1,,399kJ,5.6g,2.6g,0.8g,11.6g,2.5g,155mg,6.7,TRUE,5,FALSE,,,1534288178.0-W-10426
+2018-08-15 09:09:38 UTC,weight watchers,Weight Watchers Gourmet Creamy Chicken Lasagne ,Freezer,370g,g,,,,,,,,,,6.5,FALSE,6.5,FALSE,,,1534288178.0-W-10427
+2018-08-15 09:09:38 UTC,woolworths,Woolworths Frozen Meal Chicken & Mushroom Risotto,Freezer,375g,375g,1,,405kJ,3.8g,3.8g,1.4g,10.9g,1.0g,238mg,3.5,TRUE,3,FALSE,,,1534288178.0-W-10428
+2018-08-15 09:09:38 UTC,on the menu,On The Menu Power Bowl Beef In Belgain Ale ,Freezer,450g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534288178.0-W-10429
+2018-08-15 09:09:38 UTC,on the menu,On The Menu Power Bowl Satay Chicken ,Freezer,450g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534288178.0-W-10430
+2018-08-15 09:09:38 UTC,on the menu,On The Menu Power Bowl Chicken Burrito Bowl,Freezer,450g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534288178.0-W-10431
+2018-08-15 09:09:38 UTC,on the menu,On The Menu Power Bowl Slow Cooked Lamb In Red Wine,Freezer,450g,g,,,,,,,,,,7.5,FALSE,7.5,FALSE,,,1534288178.0-W-10432
+2018-08-15 09:09:38 UTC,mccain,Mccain Man Size Chicken Kiev,Freezer,480g,g,,,,,,,,,,8,TRUE,6,FALSE,,,1534288178.0-W-10433
+2018-08-15 09:09:38 UTC,ever green,Ever Green Fresh Egg Noodles,Freezer,500g,125g,,,,,,0.5g,,,,3.5,FALSE,3.5,FALSE,,,1534288178.0-W-10434
+2018-08-15 09:09:38 UTC,mccain ,Mccain Tuna Mornay,Freezer,400g,400g,1,,662kJ,6.0g,7.6g,5.0g,16.0g,2.1g,270mg,6,TRUE,4.5,FALSE,,,1534288178.0-W-10435
+2018-08-15 09:09:38 UTC,mccain,Mccain Man Size Butter Chicken ,Freezer,480g,g,,,,,,,,,,8,TRUE,6,FALSE,,,1534288178.0-W-10436
+2018-08-15 09:09:38 UTC,mccain,Mccain Man Size Spaghetti & Meatballs ,Freezer,500g,g,,,,,,,,,,8,TRUE,6,FALSE,,,1534288178.0-W-10437
+2018-08-15 09:09:38 UTC,lean cuisine wholegrain,Lean Cuisine Wholegrain Beef Rendang Curry With Turmeric Rice,Freezer,365g,g,,,,,,,,,,6.7,TRUE,5,FALSE,,,1534288178.0-W-10438
+2018-08-15 09:09:38 UTC,mccain,Mccain Man Size Bangers & Mash,Freezer,500g,g,,,,,,,,,,8,TRUE,6,FALSE,,,1534288178.0-W-10439
+2018-08-15 09:09:38 UTC,, Linda Mccartney Vegetarian Sausage Roll 6pk X5 Bundle ,Freezer,,,,,,,,,,,,20,FALSE,20,FALSE,,,1534288178.0-W-10440
+2018-08-15 09:09:38 UTC,lean cuisine,Lean Cuisine Wholegrain Beef Lasagna,Freezer,400g,400g,1,,406kJ,5.7g,2.3g,1.2g,12.3g,4.2g,180mg,6.7,TRUE,5,FALSE,,,1534288178.0-W-10441
+2018-08-15 09:09:38 UTC,, Quorn 'meat Free' Mince 300g X5 Bundle ,Freezer,,,,,,,,,,,,20,FALSE,20,FALSE,,,1534288178.0-W-10442
+2018-08-15 09:09:38 UTC,, Annabel Karmel Children's Chicken Favourites Bundle ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534288178.0-W-10443
+2018-08-15 09:09:38 UTC,lean cuisine,Lean Cuisine Wholegrain Vegetable Cannelloni,Freezer,400g,400g,1,,366kJ,4.9g,1.5g,0.9g,12.5g,4.7g,200mg,6.7,TRUE,5,FALSE,,,1534288178.0-W-10444
+2018-08-15 09:09:38 UTC,lean cuisine,Lean Cuisine Wholegrain Lasagna Pumpkin Spinach & Ricotta,Freezer,400g,400g,1,,388kJ,5.0g,1.2g,0.7g,14.3g,4.8g,270mg,6.7,TRUE,5,FALSE,,,1534288178.0-W-10445
+2018-08-15 09:09:38 UTC,mccain,Mccain Beef & Bacon Pasta Bake,Freezer,400g,g,,,,,,,,,,4.5,FALSE,4.5,FALSE,,,1534288178.0-W-10446
+2018-08-15 09:09:38 UTC,mccain ,Mccain Lasagne ,Freezer,400g,400g,1,,618kJ,5.0g,5.0g,2.8g,20.0g,2.2g,340mg,6,TRUE,4.5,FALSE,,,1534288178.0-W-10447
+2018-08-15 09:09:38 UTC,mccain ,Mccain Spaghetti Bolognese,Freezer,400g,400g,1,,460kJ,4.7g,3.6g,1.4g,14.0g,2.5g,270mg,6,TRUE,4.5,FALSE,,,1534288178.0-W-10448
+2018-08-15 09:09:38 UTC,, Annabel Karmel Children's Beef Favourites Bundle ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534288178.0-W-10449
+2018-08-15 09:09:38 UTC,, Annabel Karmel Children's Chicken And Beef Favourites Bundle ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534288178.0-W-10450
+2018-08-15 09:09:38 UTC,, Annabel Karmel Children's Pasta Favourites Bundle ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534288178.0-W-10451
+2018-08-15 09:09:38 UTC,, Annabel Karmel Children's Favourites Bundles ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534288178.0-W-10457
+2018-08-15 09:09:38 UTC,, Annabel Karmel Children's Meat Free Favourites Bundle ,Freezer,,,,,,,,,,,,14,FALSE,14,FALSE,,,1534288178.0-W-10458
+2018-08-15 09:49:37 UTC,sara lee,Sara Lee Triple Chocolate Bavarian,Freezer,510g,g,,,,,,,,,,7,TRUE,5.5,FALSE,,,1534290577.0-W-12483
+2018-08-15 09:49:37 UTC,connoisseur,Connoisseur Ice Cream Classic Vanilla,Freezer,1l tub,92g,10,,950kj,3.5g,13.5g,9.1g,22.7g,17.9g,42mg,10,TRUE,7,FALSE,,,1534290577.0-W-12484
+2018-08-15 09:49:37 UTC,connoisseur,Connoisseur Ice Cream Cookies & Cream,Freezer,1l tub,64g,10,,1170kJ,4.3g,14.8g,9.4g,32.1g,20.4g,140mg,10,TRUE,7,FALSE,,,1534290577.0-W-12485
+2018-08-15 09:49:37 UTC,birds eye oven bake,Birds Eye Oven Bake Crumbed Lemon Pepper,Freezer,425g,141g,6,,878kJ,12.1g,8.8g,0.9g,19.8g,3.8g,250mg,8.79,FALSE,8.79,FALSE,,,1534290577.0-W-12487
