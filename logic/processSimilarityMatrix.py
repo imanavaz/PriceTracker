@@ -53,11 +53,9 @@ def processSimilarItemsNoTraining(inputFirst, inputSecond, simPath, funfacts, fu
         for i in range(0,len(indices)):
             print(" ")
             if (swMat[indices[i][0]][indices[i][1]] > 0): #if the item is not already matched in current batch
-                print(first[indices[i][0]]['Brand'] + " - " +  first[indices[i][0]]['Product name'] + " - " + first[indices[i][0]]['Pack size'] +
-                        " <===> " + 
-                        second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'] + " -- similarity is %s :" % swMat[indices[i][0]][indices[i][1]])
-                
-                print ('Is this recommendation true (y|n)?')
+                print("1st: " + first[indices[i][0]]['Brand'] + " - " +  first[indices[i][0]]['Product name'] + " - " + first[indices[i][0]]['Pack size'])
+                print("2nd: " + second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'])
+                print("Is this recommendation true (y|n)? -- similarity is (%s) : " % swMat[indices[i][0]][indices[i][1]])
                 getch = rc.readchar()
 
                 while not (getch == b'y' or getch == b'Y' or getch == b'n' or getch == b'N' or getch == b'q' or getch == b'Q'):
@@ -396,17 +394,19 @@ def processSimilarItemsWithTraining(inputFirst, inputSecond, weights, simPath, f
         umW.writeheader()    
 
     simMatrix = np.zeros(shape=(len(first), len(second)), dtype=float)
+    #print("sim matrix: "+str(simMatrix.shape))
     
-    levS = np.genfromtxt(simPath + 'LEVn.csv', delimiter=',')
-    levSim = np.multiply(levS, wLev)
-    simMatrix += levSim
-    levSim = None #release memory 
-
     nameS = np.genfromtxt(simPath + 'NAMEn.csv', delimiter=',')
     nameSim = np.multiply(nameS, wName)
     simMatrix += nameSim
     nameSim = None
-
+    
+    levS = np.genfromtxt(simPath + 'LEVn.csv', delimiter=',')
+    #print("levS matrix: "+ str(levS.shape))
+    levSim = np.multiply(levS, wLev)
+    simMatrix += levSim
+    levSim = None #release memory 
+    
     hamS = np.genfromtxt(simPath + 'HAMn.csv', delimiter=',')
     hamSim = np.multiply(hamS, wHam)
     simMatrix += hamSim
@@ -437,11 +437,9 @@ def processSimilarItemsWithTraining(inputFirst, inputSecond, weights, simPath, f
         for i in range(0,len(indices)):
             print(" ")
             if (swMat[indices[i][0]][indices[i][1]] > 0): #if the item is not already matched in current batch
-                print(first[indices[i][0]]['Brand'] + " - " +  first[indices[i][0]]['Product name'] + " - " + first[indices[i][0]]['Pack size'] +
-                        " <===> " + 
-                        second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'] + " -- similarity is %s :" % swMat[indices[i][0]][indices[i][1]])
-                
-                print ('Is this recommendation true (y|n)?')
+                print("1st: " + first[indices[i][0]]['Brand'] + " - " +  first[indices[i][0]]['Product name'] + " - " + first[indices[i][0]]['Pack size'])
+                print("2nd: " + second[indices[i][1]]['Brand'] + " - " +  second[indices[i][1]]['Product name'] + " - " + second[indices[i][1]]['Pack size'])
+                print("Is this recommendation true (y|n)? -- similarity is (%s) : " % swMat[indices[i][0]][indices[i][1]])
                 getch = rc.readchar()
 
                 while not (getch == b'y' or getch == b'Y' or getch == b'n' or getch == b'N' or getch == b'q' or getch == b'Q'):

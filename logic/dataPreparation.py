@@ -46,10 +46,10 @@ def partitionData(inputCSV, outputCSV, category):
 #end of partitionData
 
 
-#this function will append a uniques ID to each row, reading the timestamp of each row, and adding a number to it.
+#this function will append a unique ID to each row, reading the timestamp of each row, and adding a number to it.
 #This is how it is used: append ID to coles
 #appendIDtoRow('coles.csv', 'coles2.csv','C') #these would be the files with unique IDs
-def appendIDtoRow (inputCSV, outputCSV, seperator):
+def appendIDtoRow (inputCSV, outputCSV, supermarketIndicator):
     with open(inputCSV,'r') as csvinput:
         with open(outputCSV, 'w') as csvoutput:
             writer = csv.writer(csvoutput, lineterminator='\n')
@@ -67,7 +67,7 @@ def appendIDtoRow (inputCSV, outputCSV, seperator):
                 if row[0] != "":
                     rdate = datetime.datetime.strptime(row[0], "%Y-%m-%d %H:%M:%S %Z")
                     unixtime = time.mktime(rdate.timetuple())
-                    newid = str(unixtime)+"-"+seperator+"-"+str(count)
+                    newid = str(unixtime)+"-"+ supermarketIndicator +"-"+str(count)
                     count = count + 1
                     row.append(newid)
                     all.append(row)
@@ -77,3 +77,6 @@ def appendIDtoRow (inputCSV, outputCSV, seperator):
         csvoutput.close()
 #end of appendIDtoRow
 
+if __name__ == '__main__':
+    pass
+    #appendIDtoRow('../data/c-5.csv', '../data/c-5-i.csv', 'C')

@@ -1,40 +1,91 @@
 import time
 import csv
 from tqdm import tqdm
-from jellyfish import *
 import numpy as np
 
 
 def checkTheSame (row1, row2):#higher is better
     simScore = 0
-    if (row1['Brand'].strip().lower() == row2['Brand'].strip().lower()):
+    
+    if ((row1['Brand'] is not None)
+         and (row2['Brand'] is not None)
+         and (row1['Brand'].strip().lower() == row2['Brand'].strip().lower())):
         simScore = simScore + 1
-    if (row1['Product name'].strip().lower() == row2['Product name'].strip().lower()):
+    if ((row1['Product name'] is not None)
+         and (row2['Product name'] is not None)
+         and (row1['Product name'].strip().lower() == row2['Product name'].strip().lower())):
         simScore = simScore + 1
-    if (row1['Pack size'].strip().lower() == row2['Pack size'].strip().lower()):
+    if ((row1['Pack size'] is not None)
+         and (row2['Pack size'] is not None)
+         and (row1['Pack size'].strip().lower() == row2['Pack size'].strip().lower())):
         simScore = simScore + 1
     return simScore
 
 
 def checkSimilarJWink(row1, row2): #lower is better  
+    #check values and sanitization 
+    if (row1['Brand'] is None):
+        row1['Brand'] = ""
+    if (row1['Product name'] is None):
+        row1['Product name'] = ""
+    if (row1['Pack size'] is None):
+        row1['Pack size'] = ""
+
+    if (row2['Brand'] is None):
+        row2['Brand'] = ""
+    if (row2['Product name'] is None):
+        row2['Product name'] = ""
+    if (row2['Pack size'] is None):
+        row2['Pack size'] = ""
+
     simScore2 = (jaro_winkler(row1['Brand'].strip().lower(), row2['Brand'].strip().lower()) + jaro_winkler(row1['Product name'].strip().lower(), row2['Product name'].strip().lower()) + jaro_winkler(row1['Pack size'].strip().lower(), row2['Pack size'].strip().lower()))
     return simScore2
 
 
 def checkSimilarLev(row1, row2): #lower is better
+    #check values and sanitization 
+    if (row1['Brand'] is None):
+        row1['Brand'] = ""
+    if (row1['Product name'] is None):
+        row1['Product name'] = ""
+    if (row1['Pack size'] is None):
+        row1['Pack size'] = ""
+
+    if (row2['Brand'] is None):
+        row2['Brand'] = ""
+    if (row2['Product name'] is None):
+        row2['Product name'] = ""
+    if (row2['Pack size'] is None):
+        row2['Pack size'] = ""
+        
     simScore3 = (levenshtein_distance(row1['Brand'].strip().lower(), row2['Brand'].strip().lower()) + levenshtein_distance(row1['Product name'].strip().lower(), row2['Product name'].strip().lower()) + levenshtein_distance(row1['Pack size'].strip().lower(), row2['Pack size'].strip().lower()))
     return simScore3
 
 
 def checkSimilarHamming(row1, row2): #lower is better
+    #check values and sanitization 
+    if (row1['Brand'] is None):
+        row1['Brand'] = ""
+    if (row1['Product name'] is None):
+        row1['Product name'] = ""
+    if (row1['Pack size'] is None):
+        row1['Pack size'] = ""
+
+    if (row2['Brand'] is None):
+        row2['Brand'] = ""
+    if (row2['Product name'] is None):
+        row2['Product name'] = ""
+    if (row2['Pack size'] is None):
+        row2['Pack size'] = ""
+    
     simScore4 = hamming_distance(row1['Brand'].strip().lower(), row2['Brand'].strip().lower()) + hamming_distance(row1['Product name'].strip().lower(), row2['Product name'].strip().lower()) + hamming_distance(row1['Pack size'].strip().lower(), row2['Pack size'].strip().lower())
     return simScore4
 
 
 #this creates individual similarity matrix for the given input files
-def generateSimialrityMatrices(inputCSV1, inputCSV2, simPath): 
+def generateSimialrity(inputCSV1, inputCSV2, simPath): 
 
-    print("--- Process started ---")
+    print("--- Process started at: " + simPath + " ---")
     
     #first = genfromtxt('data\Woolies.csv', delimiter=',', skip_header=1, usecols=np.arange(0,22))
 
