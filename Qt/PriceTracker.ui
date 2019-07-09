@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1280</width>
-    <height>748</height>
+    <height>750</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -52,9 +52,9 @@
              <property name="geometry">
               <rect>
                <x>0</x>
-               <y>140</y>
+               <y>160</y>
                <width>1270</width>
-               <height>541</height>
+               <height>521</height>
               </rect>
              </property>
              <property name="currentIndex">
@@ -88,9 +88,9 @@
                <property name="geometry">
                 <rect>
                  <x>0</x>
-                 <y>0</y>
+                 <y>4</y>
                  <width>1228</width>
-                 <height>515</height>
+                 <height>491</height>
                 </rect>
                </property>
               </widget>
@@ -105,7 +105,7 @@
                  <x>0</x>
                  <y>0</y>
                  <width>1228</width>
-                 <height>515</height>
+                 <height>521</height>
                 </rect>
                </property>
                <property name="editTriggers">
@@ -155,7 +155,7 @@
                  <x>0</x>
                  <y>0</y>
                  <width>1228</width>
-                 <height>515</height>
+                 <height>501</height>
                 </rect>
                </property>
                <property name="editTriggers">
@@ -199,10 +199,10 @@
             <widget class="QGroupBox" name="groupBox">
              <property name="geometry">
               <rect>
-               <x>700</x>
+               <x>610</x>
                <y>10</y>
-               <width>571</width>
-               <height>131</height>
+               <width>661</width>
+               <height>151</height>
               </rect>
              </property>
              <property name="title">
@@ -213,8 +213,8 @@
                <rect>
                 <x>0</x>
                 <y>20</y>
-                <width>571</width>
-                <height>110</height>
+                <width>661</width>
+                <height>131</height>
                </rect>
               </property>
               <property name="editTriggers">
@@ -229,9 +229,9 @@
              <property name="geometry">
               <rect>
                <x>0</x>
-               <y>0</y>
-               <width>691</width>
-               <height>140</height>
+               <y>10</y>
+               <width>601</width>
+               <height>151</height>
               </rect>
              </property>
              <property name="title">
@@ -240,9 +240,9 @@
              <widget class="QDateEdit" name="fromDateEdit">
               <property name="geometry">
                <rect>
-                <x>120</x>
-                <y>80</y>
-                <width>130</width>
+                <x>80</x>
+                <y>110</y>
+                <width>141</width>
                 <height>30</height>
                </rect>
               </property>
@@ -276,9 +276,9 @@
              <widget class="QLineEdit" name="brandLineEdit">
               <property name="geometry">
                <rect>
-                <x>60</x>
+                <x>80</x>
                 <y>30</y>
-                <width>150</width>
+                <width>181</width>
                 <height>30</height>
                </rect>
               </property>
@@ -292,7 +292,7 @@
              <widget class="QLabel" name="label_4">
               <property name="geometry">
                <rect>
-                <x>220</x>
+                <x>280</x>
                 <y>30</y>
                 <width>47</width>
                 <height>30</height>
@@ -306,7 +306,7 @@
               <property name="geometry">
                <rect>
                 <x>270</x>
-                <y>80</y>
+                <y>110</y>
                 <width>51</width>
                 <height>30</height>
                </rect>
@@ -318,8 +318,8 @@
              <widget class="QLabel" name="label_5">
               <property name="geometry">
                <rect>
-                <x>420</x>
-                <y>30</y>
+                <x>20</x>
+                <y>70</y>
                 <width>47</width>
                 <height>30</height>
                </rect>
@@ -331,9 +331,9 @@
              <widget class="QDateEdit" name="toDateEdit">
               <property name="geometry">
                <rect>
-                <x>325</x>
-                <y>80</y>
-                <width>130</width>
+                <x>320</x>
+                <y>110</y>
+                <width>121</width>
                 <height>30</height>
                </rect>
               </property>
@@ -355,21 +355,21 @@
               <property name="geometry">
                <rect>
                 <x>20</x>
-                <y>80</y>
+                <y>110</y>
                 <width>101</width>
                 <height>30</height>
                </rect>
               </property>
               <property name="text">
-               <string>Report from date : </string>
+               <string>From date : </string>
               </property>
              </widget>
              <widget class="QLineEdit" name="nameLineEdit">
               <property name="geometry">
                <rect>
-                <x>260</x>
+                <x>320</x>
                 <y>30</y>
-                <width>150</width>
+                <width>161</width>
                 <height>30</height>
                </rect>
               </property>
@@ -383,9 +383,9 @@
              <widget class="QPushButton" name="searchProductButton">
               <property name="geometry">
                <rect>
-                <x>580</x>
-                <y>30</y>
-                <width>100</width>
+                <x>511</x>
+                <y>70</y>
+                <width>81</width>
                 <height>30</height>
                </rect>
               </property>
@@ -406,9 +406,9 @@
              <widget class="QLineEdit" name="packSizeLineEdit">
               <property name="geometry">
                <rect>
-                <x>480</x>
-                <y>30</y>
-                <width>81</width>
+                <x>80</x>
+                <y>70</y>
+                <width>141</width>
                 <height>30</height>
                </rect>
               </property>
@@ -422,9 +422,9 @@
              <widget class="QPushButton" name="reportButton">
               <property name="geometry">
                <rect>
-                <x>580</x>
-                <y>80</y>
-                <width>100</width>
+                <x>510</x>
+                <y>110</y>
+                <width>81</width>
                 <height>30</height>
                </rect>
               </property>
@@ -437,6 +437,35 @@
               </property>
               <property name="shortcut">
                <string>Alt+R</string>
+              </property>
+             </widget>
+             <widget class="QLabel" name="label_8">
+              <property name="geometry">
+               <rect>
+                <x>264</x>
+                <y>70</y>
+                <width>47</width>
+                <height>30</height>
+               </rect>
+              </property>
+              <property name="text">
+               <string>Category:</string>
+              </property>
+             </widget>
+             <widget class="QLineEdit" name="categoryLineEdit">
+              <property name="geometry">
+               <rect>
+                <x>320</x>
+                <y>70</y>
+                <width>121</width>
+                <height>30</height>
+               </rect>
+              </property>
+              <property name="placeholderText">
+               <string>Category</string>
+              </property>
+              <property name="clearButtonEnabled">
+               <bool>true</bool>
               </property>
              </widget>
             </widget>
@@ -617,6 +646,32 @@
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
+ <tabstops>
+  <tabstop>mainTab</tabstop>
+  <tabstop>brandLineEdit</tabstop>
+  <tabstop>nameLineEdit</tabstop>
+  <tabstop>packSizeLineEdit</tabstop>
+  <tabstop>categoryLineEdit</tabstop>
+  <tabstop>searchProductButton</tabstop>
+  <tabstop>fromDateEdit</tabstop>
+  <tabstop>toDateEdit</tabstop>
+  <tabstop>reportButton</tabstop>
+  <tabstop>itemList</tabstop>
+  <tabstop>nutritionTab</tabstop>
+  <tabstop>exportImageBtn</tabstop>
+  <tabstop>exportDataBtn</tabstop>
+  <tabstop>exportNutDataBtn</tabstop>
+  <tabstop>checkBox</tabstop>
+  <tabstop>newDataFileLe</tabstop>
+  <tabstop>openDataFileBtn</tabstop>
+  <tabstop>loadDataFileBtn</tabstop>
+  <tabstop>testRunAdditionCb</tabstop>
+  <tabstop>additionalPriceDataFileLe</tabstop>
+  <tabstop>openAddedDataFileBtn</tabstop>
+  <tabstop>loadAddedDataFileBtn</tabstop>
+  <tabstop>nutritionTable</tabstop>
+  <tabstop>dataTable</tabstop>
+ </tabstops>
  <resources/>
  <connections/>
 </ui>

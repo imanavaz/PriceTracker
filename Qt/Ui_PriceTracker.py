@@ -1,7 +1,9 @@
 from PyQt5 import QtGui,QtCore
+from PyQt5.QtWidgets  import QFileDialog
 import pyqtgraph as pg
 import psycopg2
-import sys
+import sys, os
+import csv
 from connx import *
 import numpy as np
 from pg_time_axis import *
@@ -31,21 +33,31 @@ class Ui_MainWindow(object):
         #=================
 
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(1280, 720)
+        MainWindow.resize(1280, 750)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.verticalLayoutWidget = QtWidgets.QWidget(self.centralwidget)
-        self.verticalLayoutWidget.setGeometry(QtCore.QRect(0, 0, 1281, 681))
+        self.verticalLayoutWidget.setGeometry(QtCore.QRect(0, 0, 1281, 711))
         self.verticalLayoutWidget.setObjectName("verticalLayoutWidget")
         self.verticalLayout = QtWidgets.QVBoxLayout(self.verticalLayoutWidget)
         self.verticalLayout.setContentsMargins(0, 0, 0, 0)
         self.verticalLayout.setObjectName("verticalLayout")
-        self.widget = QtWidgets.QWidget(self.verticalLayoutWidget)
+        self.mainTab = QtWidgets.QTabWidget(self.verticalLayoutWidget)
+        self.mainTab.setObjectName("mainTab")
+        self.analysisTab = QtWidgets.QWidget()
+        self.analysisTab.setObjectName("analysisTab")
+        self.verticalLayoutWidget_2 = QtWidgets.QWidget(self.analysisTab)
+        self.verticalLayoutWidget_2.setGeometry(QtCore.QRect(-1, -1, 1281, 701))
+        self.verticalLayoutWidget_2.setObjectName("verticalLayoutWidget_2")
+        self.verticalLayout_2 = QtWidgets.QVBoxLayout(self.verticalLayoutWidget_2)
+        self.verticalLayout_2.setContentsMargins(0, 0, 0, 0)
+        self.verticalLayout_2.setObjectName("verticalLayout_2")
+        self.widget = QtWidgets.QWidget(self.verticalLayoutWidget_2)
         self.widget.setLayoutDirection(QtCore.Qt.LeftToRight)
         self.widget.setObjectName("widget")
-        self.tabWidget = QtWidgets.QTabWidget(self.widget)
-        self.tabWidget.setGeometry(QtCore.QRect(5, 140, 1270, 541))
-        self.tabWidget.setObjectName("tabWidget")
+        self.nutritionTab = QtWidgets.QTabWidget(self.widget)
+        self.nutritionTab.setGeometry(QtCore.QRect(0, 160, 1270, 521))
+        self.nutritionTab.setObjectName("nutritionTab")
         self.graphTab = QtWidgets.QWidget()
         self.graphTab.setObjectName("graphTab")
         self.exportImageBtn = QtWidgets.QPushButton(self.graphTab)
@@ -55,14 +67,14 @@ class Ui_MainWindow(object):
         icon.addPixmap(QtGui.QPixmap("../img/export-icon.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         self.exportImageBtn.setIcon(icon)
         self.exportImageBtn.setObjectName("exportImageBtn")
-        self.visBox = QtGui.QWidget(self.graphTab)
-        self.visBox.setGeometry(QtCore.QRect(0, 0, 1228, 515))
+        self.visBox = QtWidgets.QWidget(self.graphTab)
+        self.visBox.setGeometry(QtCore.QRect(0, 4, 1228, 491))
         self.visBox.setObjectName("visBox")
-        self.tabWidget.addTab(self.graphTab, "")
+        self.nutritionTab.addTab(self.graphTab, "")
         self.dataTab = QtWidgets.QWidget()
         self.dataTab.setObjectName("dataTab")
         self.dataTable = QtWidgets.QTableWidget(self.dataTab)
-        self.dataTable.setGeometry(QtCore.QRect(0, 0, 1228, 515))
+        self.dataTable.setGeometry(QtCore.QRect(0, 0, 1228, 521))
         self.dataTable.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
         self.dataTable.setAlternatingRowColors(True)
         self.dataTable.setObjectName("dataTable")
@@ -75,11 +87,11 @@ class Ui_MainWindow(object):
         self.exportDataBtn.setText("")
         self.exportDataBtn.setIcon(icon)
         self.exportDataBtn.setObjectName("exportDataBtn")
-        self.tabWidget.addTab(self.dataTab, "")
-        self.nutritionTab = QtWidgets.QWidget()
-        self.nutritionTab.setObjectName("nutritionTab")
-        self.nutritionTable = QtWidgets.QTableWidget(self.nutritionTab)
-        self.nutritionTable.setGeometry(QtCore.QRect(0, 0, 1228, 515))
+        self.nutritionTab.addTab(self.dataTab, "")
+        self.tab = QtWidgets.QWidget()
+        self.tab.setObjectName("tab")
+        self.nutritionTable = QtWidgets.QTableWidget(self.tab)
+        self.nutritionTable.setGeometry(QtCore.QRect(0, 0, 1228, 501))
         self.nutritionTable.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
         self.nutritionTable.setAlternatingRowColors(True)
         self.nutritionTable.setObjectName("nutritionTable")
@@ -87,25 +99,25 @@ class Ui_MainWindow(object):
         self.nutritionTable.setRowCount(0)
         self.nutritionTable.horizontalHeader().setCascadingSectionResizes(False)
         self.nutritionTable.horizontalHeader().setSortIndicatorShown(False)
-        self.exportNutDataBtn = QtWidgets.QPushButton(self.nutritionTab)
+        self.exportNutDataBtn = QtWidgets.QPushButton(self.tab)
         self.exportNutDataBtn.setGeometry(QtCore.QRect(1228, 0, 36, 35))
         self.exportNutDataBtn.setText("")
         self.exportNutDataBtn.setIcon(icon)
         self.exportNutDataBtn.setObjectName("exportNutDataBtn")
-        self.tabWidget.addTab(self.nutritionTab, "")
+        self.nutritionTab.addTab(self.tab, "")
         self.groupBox = QtWidgets.QGroupBox(self.widget)
-        self.groupBox.setGeometry(QtCore.QRect(740, 10, 531, 131))
+        self.groupBox.setGeometry(QtCore.QRect(610, 10, 661, 151))
         self.groupBox.setObjectName("groupBox")
         self.itemList = QtWidgets.QListWidget(self.groupBox)
-        self.itemList.setGeometry(QtCore.QRect(0, 20, 531, 110))
+        self.itemList.setGeometry(QtCore.QRect(0, 20, 661, 131))
         self.itemList.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
         self.itemList.setSelectionMode(QtWidgets.QAbstractItemView.ExtendedSelection)
         self.itemList.setObjectName("itemList")
         self.groupBox_2 = QtWidgets.QGroupBox(self.widget)
-        self.groupBox_2.setGeometry(QtCore.QRect(6, 10, 691, 131))
+        self.groupBox_2.setGeometry(QtCore.QRect(0, 10, 601, 151))
         self.groupBox_2.setObjectName("groupBox_2")
         self.fromDateEdit = QtWidgets.QDateEdit(self.groupBox_2)
-        self.fromDateEdit.setGeometry(QtCore.QRect(120, 80, 130, 30))
+        self.fromDateEdit.setGeometry(QtCore.QRect(80, 110, 141, 30))
         self.fromDateEdit.setCalendarPopup(True)
         self.fromDateEdit.setDate(QtCore.QDate(2018, 1, 1))
         self.fromDateEdit.setObjectName("fromDateEdit")
@@ -113,48 +125,96 @@ class Ui_MainWindow(object):
         self.label.setGeometry(QtCore.QRect(20, 30, 47, 30))
         self.label.setObjectName("label")
         self.brandLineEdit = QtWidgets.QLineEdit(self.groupBox_2)
-        self.brandLineEdit.setGeometry(QtCore.QRect(60, 30, 150, 30))
+        self.brandLineEdit.setGeometry(QtCore.QRect(80, 30, 181, 30))
         self.brandLineEdit.setClearButtonEnabled(True)
         self.brandLineEdit.setObjectName("brandLineEdit")
         self.label_4 = QtWidgets.QLabel(self.groupBox_2)
-        self.label_4.setGeometry(QtCore.QRect(220, 30, 47, 30))
+        self.label_4.setGeometry(QtCore.QRect(280, 30, 47, 30))
         self.label_4.setObjectName("label_4")
         self.label_3 = QtWidgets.QLabel(self.groupBox_2)
-        self.label_3.setGeometry(QtCore.QRect(270, 80, 51, 30))
+        self.label_3.setGeometry(QtCore.QRect(270, 110, 51, 30))
         self.label_3.setObjectName("label_3")
         self.label_5 = QtWidgets.QLabel(self.groupBox_2)
-        self.label_5.setGeometry(QtCore.QRect(420, 30, 47, 30))
+        self.label_5.setGeometry(QtCore.QRect(20, 70, 47, 30))
         self.label_5.setObjectName("label_5")
         self.toDateEdit = QtWidgets.QDateEdit(self.groupBox_2)
-        self.toDateEdit.setGeometry(QtCore.QRect(325, 80, 130, 30))
+        self.toDateEdit.setGeometry(QtCore.QRect(320, 110, 121, 30))
         self.toDateEdit.setCalendarPopup(True)
         self.toDateEdit.setDate(QtCore.QDate(2020, 1, 1))
         self.toDateEdit.setObjectName("toDateEdit")
         self.label_2 = QtWidgets.QLabel(self.groupBox_2)
-        self.label_2.setGeometry(QtCore.QRect(20, 80, 101, 30))
+        self.label_2.setGeometry(QtCore.QRect(20, 110, 101, 30))
         self.label_2.setObjectName("label_2")
         self.nameLineEdit = QtWidgets.QLineEdit(self.groupBox_2)
-        self.nameLineEdit.setGeometry(QtCore.QRect(260, 30, 150, 30))
+        self.nameLineEdit.setGeometry(QtCore.QRect(320, 30, 161, 30))
         self.nameLineEdit.setClearButtonEnabled(True)
         self.nameLineEdit.setObjectName("nameLineEdit")
         self.searchProductButton = QtWidgets.QPushButton(self.groupBox_2)
-        self.searchProductButton.setGeometry(QtCore.QRect(580, 30, 100, 30))
+        self.searchProductButton.setGeometry(QtCore.QRect(511, 70, 81, 30))
         icon1 = QtGui.QIcon()
         icon1.addPixmap(QtGui.QPixmap("../img/search-icon.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         self.searchProductButton.setIcon(icon1)
         self.searchProductButton.setCheckable(False)
         self.searchProductButton.setObjectName("searchProductButton")
         self.packSizeLineEdit = QtWidgets.QLineEdit(self.groupBox_2)
-        self.packSizeLineEdit.setGeometry(QtCore.QRect(480, 30, 81, 30))
+        self.packSizeLineEdit.setGeometry(QtCore.QRect(80, 70, 141, 30))
         self.packSizeLineEdit.setClearButtonEnabled(True)
         self.packSizeLineEdit.setObjectName("packSizeLineEdit")
         self.reportButton = QtWidgets.QPushButton(self.groupBox_2)
-        self.reportButton.setGeometry(QtCore.QRect(580, 80, 100, 30))
+        self.reportButton.setGeometry(QtCore.QRect(510, 110, 81, 30))
         icon2 = QtGui.QIcon()
         icon2.addPixmap(QtGui.QPixmap("../img/report.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         self.reportButton.setIcon(icon2)
         self.reportButton.setObjectName("reportButton")
-        self.verticalLayout.addWidget(self.widget)
+        self.label_8 = QtWidgets.QLabel(self.groupBox_2)
+        self.label_8.setGeometry(QtCore.QRect(264, 70, 47, 30))
+        self.label_8.setObjectName("label_8")
+        self.categoryLineEdit = QtWidgets.QLineEdit(self.groupBox_2)
+        self.categoryLineEdit.setGeometry(QtCore.QRect(320, 70, 121, 30))
+        self.categoryLineEdit.setClearButtonEnabled(True)
+        self.categoryLineEdit.setObjectName("categoryLineEdit")
+        self.verticalLayout_2.addWidget(self.widget)
+        self.mainTab.addTab(self.analysisTab, "")
+        self.dataImportTab = QtWidgets.QWidget()
+        self.dataImportTab.setObjectName("dataImportTab")
+        self.dataImportGB = QtWidgets.QGroupBox(self.dataImportTab)
+        self.dataImportGB.setGeometry(QtCore.QRect(10, 10, 601, 121))
+        self.dataImportGB.setObjectName("dataImportGB")
+        self.checkBox = QtWidgets.QCheckBox(self.dataImportGB)
+        self.checkBox.setGeometry(QtCore.QRect(20, 75, 121, 25))
+        self.checkBox.setObjectName("checkBox")
+        self.newDataFileLe = QtWidgets.QLineEdit(self.dataImportGB)
+        self.newDataFileLe.setGeometry(QtCore.QRect(70, 40, 441, 25))
+        self.newDataFileLe.setObjectName("newDataFileLe")
+        self.label_6 = QtWidgets.QLabel(self.dataImportGB)
+        self.label_6.setGeometry(QtCore.QRect(20, 40, 111, 25))
+        self.label_6.setObjectName("label_6")
+        self.openDataFileBtn = QtWidgets.QPushButton(self.dataImportGB)
+        self.openDataFileBtn.setGeometry(QtCore.QRect(520, 40, 75, 25))
+        self.openDataFileBtn.setObjectName("openDataFileBtn")
+        self.loadDataFileBtn = QtWidgets.QPushButton(self.dataImportGB)
+        self.loadDataFileBtn.setGeometry(QtCore.QRect(520, 75, 75, 25))
+        self.loadDataFileBtn.setObjectName("loadDataFileBtn")
+        self.dataImportGB_2 = QtWidgets.QGroupBox(self.dataImportTab)
+        self.dataImportGB_2.setGeometry(QtCore.QRect(10, 130, 601, 121))
+        self.dataImportGB_2.setObjectName("dataImportGB_2")
+        self.testRunAdditionCb = QtWidgets.QCheckBox(self.dataImportGB_2)
+        self.testRunAdditionCb.setGeometry(QtCore.QRect(20, 75, 121, 25))
+        self.testRunAdditionCb.setObjectName("testRunAdditionCb")
+        self.additionalPriceDataFileLe = QtWidgets.QLineEdit(self.dataImportGB_2)
+        self.additionalPriceDataFileLe.setGeometry(QtCore.QRect(70, 40, 441, 25))
+        self.additionalPriceDataFileLe.setObjectName("additionalPriceDataFileLe")
+        self.label_7 = QtWidgets.QLabel(self.dataImportGB_2)
+        self.label_7.setGeometry(QtCore.QRect(20, 40, 111, 25))
+        self.label_7.setObjectName("label_7")
+        self.openAddedDataFileBtn = QtWidgets.QPushButton(self.dataImportGB_2)
+        self.openAddedDataFileBtn.setGeometry(QtCore.QRect(520, 40, 75, 25))
+        self.openAddedDataFileBtn.setObjectName("openAddedDataFileBtn")
+        self.loadAddedDataFileBtn = QtWidgets.QPushButton(self.dataImportGB_2)
+        self.loadAddedDataFileBtn.setGeometry(QtCore.QRect(520, 75, 75, 25))
+        self.loadAddedDataFileBtn.setObjectName("loadAddedDataFileBtn")
+        self.mainTab.addTab(self.dataImportTab, "")
+        self.verticalLayout.addWidget(self.mainTab)
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MainWindow)
         self.menubar.setGeometry(QtCore.QRect(0, 0, 1280, 21))
@@ -165,21 +225,38 @@ class Ui_MainWindow(object):
         MainWindow.setStatusBar(self.statusbar)
 
         self.retranslateUi(MainWindow)
-        self.tabWidget.setCurrentIndex(0)
+        self.mainTab.setCurrentIndex(0)
+        self.nutritionTab.setCurrentIndex(0)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
+        MainWindow.setTabOrder(self.mainTab, self.brandLineEdit)
         MainWindow.setTabOrder(self.brandLineEdit, self.nameLineEdit)
         MainWindow.setTabOrder(self.nameLineEdit, self.packSizeLineEdit)
-        MainWindow.setTabOrder(self.packSizeLineEdit, self.searchProductButton)
-        MainWindow.setTabOrder(self.searchProductButton, self.itemList)
-        MainWindow.setTabOrder(self.itemList, self.fromDateEdit)
+        MainWindow.setTabOrder(self.packSizeLineEdit, self.categoryLineEdit)
+        MainWindow.setTabOrder(self.categoryLineEdit, self.searchProductButton)
+        MainWindow.setTabOrder(self.searchProductButton, self.fromDateEdit)
         MainWindow.setTabOrder(self.fromDateEdit, self.toDateEdit)
         MainWindow.setTabOrder(self.toDateEdit, self.reportButton)
-        MainWindow.setTabOrder(self.reportButton, self.tabWidget)
+        MainWindow.setTabOrder(self.reportButton, self.itemList)
+        MainWindow.setTabOrder(self.itemList, self.nutritionTab)
+        MainWindow.setTabOrder(self.nutritionTab, self.exportImageBtn)
+        MainWindow.setTabOrder(self.exportImageBtn, self.exportDataBtn)
+        MainWindow.setTabOrder(self.exportDataBtn, self.exportNutDataBtn)
+        MainWindow.setTabOrder(self.exportNutDataBtn, self.checkBox)
+        MainWindow.setTabOrder(self.checkBox, self.newDataFileLe)
+        MainWindow.setTabOrder(self.newDataFileLe, self.openDataFileBtn)
+        MainWindow.setTabOrder(self.openDataFileBtn, self.loadDataFileBtn)
+        MainWindow.setTabOrder(self.loadDataFileBtn, self.testRunAdditionCb)
+        MainWindow.setTabOrder(self.testRunAdditionCb, self.additionalPriceDataFileLe)
+        MainWindow.setTabOrder(self.additionalPriceDataFileLe, self.openAddedDataFileBtn)
+        MainWindow.setTabOrder(self.openAddedDataFileBtn, self.loadAddedDataFileBtn)
+        MainWindow.setTabOrder(self.loadAddedDataFileBtn, self.nutritionTable)
+        MainWindow.setTabOrder(self.nutritionTable, self.dataTable)
 
         # My Added code
         # ================
         self.searchProductButton.clicked.connect(self.seachForProduct)
         self.reportButton.clicked.connect(self.generateReport)
+        self.exportNutDataBtn.clicked.connect(self.save_sheet)
 
         self.visBox.setLayout(QtGui.QVBoxLayout())
         self.canvas = pg.GraphicsLayoutWidget() # create GrpahicsLayoutWidget obejct  
@@ -192,13 +269,13 @@ class Ui_MainWindow(object):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "Price Tracker"))
         self.exportImageBtn.setToolTip(_translate("MainWindow", "<html><head/><body><p>Export Image</p></body></html>"))
-        self.tabWidget.setTabText(self.tabWidget.indexOf(self.graphTab), _translate("MainWindow", "Graph"))
+        self.nutritionTab.setTabText(self.nutritionTab.indexOf(self.graphTab), _translate("MainWindow", "Graph"))
         self.dataTable.setSortingEnabled(False)
         self.exportDataBtn.setToolTip(_translate("MainWindow", "<html><head/><body><p>Export Data</p></body></html>"))
-        self.tabWidget.setTabText(self.tabWidget.indexOf(self.dataTab), _translate("MainWindow", "Data"))
+        self.nutritionTab.setTabText(self.nutritionTab.indexOf(self.dataTab), _translate("MainWindow", "Data"))
         self.nutritionTable.setSortingEnabled(False)
         self.exportNutDataBtn.setToolTip(_translate("MainWindow", "<html><head/><body><p>Export Data</p></body></html>"))
-        self.tabWidget.setTabText(self.tabWidget.indexOf(self.nutritionTab), _translate("MainWindow", "Nutrition Info"))
+        self.nutritionTab.setTabText(self.nutritionTab.indexOf(self.tab), _translate("MainWindow", "Nutrition Info"))
         self.groupBox.setTitle(_translate("MainWindow", "Search Results: "))
         self.groupBox_2.setTitle(_translate("MainWindow", "Search for products:"))
         self.fromDateEdit.setDisplayFormat(_translate("MainWindow", "dd/MM/yyyy"))
@@ -208,13 +285,27 @@ class Ui_MainWindow(object):
         self.label_3.setText(_translate("MainWindow", "To date : "))
         self.label_5.setText(_translate("MainWindow", "Pack Size: "))
         self.toDateEdit.setDisplayFormat(_translate("MainWindow", "dd/MM/yyyy"))
-        self.label_2.setText(_translate("MainWindow", "Report from date : "))
+        self.label_2.setText(_translate("MainWindow", "From date : "))
         self.nameLineEdit.setPlaceholderText(_translate("MainWindow", " Product Name"))
         self.searchProductButton.setText(_translate("MainWindow", "Search"))
         self.searchProductButton.setShortcut(_translate("MainWindow", "Alt+S"))
         self.packSizeLineEdit.setPlaceholderText(_translate("MainWindow", " Pack Size"))
         self.reportButton.setText(_translate("MainWindow", "Report"))
         self.reportButton.setShortcut(_translate("MainWindow", "Alt+R"))
+        self.label_8.setText(_translate("MainWindow", "Category:"))
+        self.categoryLineEdit.setPlaceholderText(_translate("MainWindow", "Category"))
+        self.mainTab.setTabText(self.mainTab.indexOf(self.analysisTab), _translate("MainWindow", "Analysis"))
+        self.dataImportGB.setTitle(_translate("MainWindow", "Import New Data"))
+        self.checkBox.setText(_translate("MainWindow", "Run a test only "))
+        self.label_6.setText(_translate("MainWindow", "Data file:"))
+        self.openDataFileBtn.setText(_translate("MainWindow", "Open"))
+        self.loadDataFileBtn.setText(_translate("MainWindow", "Load"))
+        self.dataImportGB_2.setTitle(_translate("MainWindow", "Import Additional Price Data"))
+        self.testRunAdditionCb.setText(_translate("MainWindow", "Run a test only "))
+        self.label_7.setText(_translate("MainWindow", "Data file:"))
+        self.openAddedDataFileBtn.setText(_translate("MainWindow", "Open"))
+        self.loadAddedDataFileBtn.setText(_translate("MainWindow", "Load"))
+        self.mainTab.setTabText(self.mainTab.indexOf(self.dataImportTab), _translate("MainWindow", "Data Import"))
 
 
         #++++++ My Code ++++++++
@@ -252,6 +343,7 @@ class Ui_MainWindow(object):
             sql = 'SELECT * FROM product as product'
             sql += ' WHERE LOWER(Brand) LIKE LOWER(\'%' + self.brandLineEdit.text() +'%\')' 
             sql += ' AND LOWER(Product_name) LIKE LOWER(\'%' + self.nameLineEdit.text() + '%\')' 
+            sql += ' AND LOWER(Category) LIKE LOWER(\'%' + self.categoryLineEdit.text() + '%\')'     
             sql += ' AND LOWER(Pack_size) LIKE LOWER(' +'\'%' + self.packSizeLineEdit.text() + '%\');'
 
             #print('====== Product retrieval SQL ======')
@@ -287,17 +379,17 @@ class Ui_MainWindow(object):
             dataResults = []
             dataForVis = []
 
-            for product in selectedProducts:
-                #itemIndexes.append(self.itemList.row(product))
-                print("Selected item's UID :" + self.results[self.itemList.row(product)][0])
-                print("item list row:", self.results[self.itemList.row(product)])
+            try:
+                self.conn = connectDB()
+        
+                if self.conn is None:
+                    print('Failed to connect to DB in Ui_ProceTracker.generateReport(..)...!')
+                    raise Exception('Failed to connect')
 
-                try:
-                    self.conn = connectDB()
-            
-                    if self.conn is None:
-                        print('Failed to connect to DB in Ui_ProceTracker.generateReport(..)...!')
-                        raise Exception('Failed to connect')
+                for product in selectedProducts:
+                    #itemIndexes.append(self.itemList.row(product))
+                    print("Selected item's UID :" + self.results[self.itemList.row(product)][0])
+                    print("item list row:", self.results[self.itemList.row(product)])
 
                     # create a cursor
                     cur = self.conn.cursor()
@@ -433,9 +525,9 @@ class Ui_MainWindow(object):
                                 self.nutritionTable.setItem(rowNo + 9, sIndex + 1, QtGui.QTableWidgetItem(fresult[11]))
                                 
                     
-                except (Exception, psycopg2.DatabaseError) as error:
-                    print(error)
-                    disconnectDB(self.conn)
+            except (Exception, psycopg2.DatabaseError) as error:
+                print(error)
+                disconnectDB(self.conn)
 
                 
             
@@ -446,6 +538,7 @@ class Ui_MainWindow(object):
                 self.dataTable.insertRow(row_number)
                 for column_number, data in enumerate(row_data):
                     self.dataTable.setItem(row_number, column_number, QtWidgets.QTableWidgetItem(str(data)))
+                #print(row_data)    
 
 
             
@@ -453,6 +546,39 @@ class Ui_MainWindow(object):
 
             self.dataTable.resizeColumnsToContents()
             self.nutritionTable.resizeColumnsToContents()         
+
+
+    def save_sheet(self):
+        path = QFileDialog.getSaveFileName(self.nutritionTable, 'Export data to CSV', os.getenv('HOME'), 'CSV(*.csv)')
+        if path[0] != '':
+            #from nutrition table
+            with open(path[0], 'w+', newline='') as csv_file:
+                writer = csv.writer(csv_file)
+                writer.writerow(['  ', 'From Coles', 'Qty per 100 gr/ml','   ','From Woolworth', 'Qty per 100 gr/ml'])
+                for row in range(self.nutritionTable.rowCount()):
+                    row_data = []
+                    for column in range(self.nutritionTable.columnCount()):
+                        item = self.nutritionTable.item(row, column)
+                        if item is not None:
+                            row_data.append(item.text())
+                        else:
+                            row_data.append('')
+                    writer.writerow(row_data)
+            #from price data table 
+            dataPath = path[0].replace(".csv","_pricedata.csv")
+            with open(dataPath, 'w+', newline='') as csv_file:
+                writer = csv.writer(csv_file)
+                writer.writerow(['Brand', 'Name', 'Pack size', 'Product Code', 'Date', 'Original Price', 'Promoted price', 'Multi Buy Special Price'])
+                for row in range(self.dataTable.rowCount()):
+                    row_data = []
+                    for column in range(self.dataTable.columnCount()):
+                        item = self.dataTable.item(row, column)
+                        if item is not None:
+                            row_data.append(item.text())
+                        else:
+                            row_data.append('')
+                    writer.writerow(row_data)        
+        #print('selected tab is: '+ str(self.nutritionTab.currentIndex))            
 
 
     #$ pip install pyqtgraph​
