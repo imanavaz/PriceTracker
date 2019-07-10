@@ -68,13 +68,13 @@ class Ui_MainWindow(object):
         self.exportImageBtn.setIcon(icon)
         self.exportImageBtn.setObjectName("exportImageBtn")
         self.visBox = QtWidgets.QWidget(self.graphTab)
-        self.visBox.setGeometry(QtCore.QRect(0, 4, 1228, 491))
+        self.visBox.setGeometry(QtCore.QRect(0, 4, 1228, 495))
         self.visBox.setObjectName("visBox")
         self.nutritionTab.addTab(self.graphTab, "")
         self.dataTab = QtWidgets.QWidget()
         self.dataTab.setObjectName("dataTab")
         self.dataTable = QtWidgets.QTableWidget(self.dataTab)
-        self.dataTable.setGeometry(QtCore.QRect(0, 0, 1228, 521))
+        self.dataTable.setGeometry(QtCore.QRect(0, 0, 1228, 495))
         self.dataTable.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
         self.dataTable.setAlternatingRowColors(True)
         self.dataTable.setObjectName("dataTable")
@@ -91,7 +91,7 @@ class Ui_MainWindow(object):
         self.tab = QtWidgets.QWidget()
         self.tab.setObjectName("tab")
         self.nutritionTable = QtWidgets.QTableWidget(self.tab)
-        self.nutritionTable.setGeometry(QtCore.QRect(0, 0, 1228, 501))
+        self.nutritionTable.setGeometry(QtCore.QRect(0, 0, 1228, 495))
         self.nutritionTable.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
         self.nutritionTable.setAlternatingRowColors(True)
         self.nutritionTable.setObjectName("nutritionTable")
@@ -256,7 +256,8 @@ class Ui_MainWindow(object):
         # ================
         self.searchProductButton.clicked.connect(self.seachForProduct)
         self.reportButton.clicked.connect(self.generateReport)
-        self.exportNutDataBtn.clicked.connect(self.save_sheet)
+        self.exportNutDataBtn.clicked.connect(self.saveNutritionReport)
+        self.exportDataBtn.clicked.connect(self.savePriceReport)
 
         self.visBox.setLayout(QtGui.QVBoxLayout())
         self.canvas = pg.GraphicsLayoutWidget() # create GrpahicsLayoutWidget obejct  
@@ -343,7 +344,7 @@ class Ui_MainWindow(object):
             sql = 'SELECT * FROM product as product'
             sql += ' WHERE LOWER(Brand) LIKE LOWER(\'%' + self.brandLineEdit.text() +'%\')' 
             sql += ' AND LOWER(Product_name) LIKE LOWER(\'%' + self.nameLineEdit.text() + '%\')' 
-            sql += ' AND LOWER(Category) LIKE LOWER(\'%' + self.categoryLineEdit.text() + '%\')'     
+            sql += ' AND LOWER(Category) LIKE LOWER(\'%' + self.categoryLineEdit.text() + '%\')' #just changed LIKE to =     
             sql += ' AND LOWER(Pack_size) LIKE LOWER(' +'\'%' + self.packSizeLineEdit.text() + '%\');'
 
             #print('====== Product retrieval SQL ======')
@@ -388,8 +389,8 @@ class Ui_MainWindow(object):
 
                 for product in selectedProducts:
                     #itemIndexes.append(self.itemList.row(product))
-                    print("Selected item's UID :" + self.results[self.itemList.row(product)][0])
-                    print("item list row:", self.results[self.itemList.row(product)])
+                    #print("Selected item's UID :" + self.results[self.itemList.row(product)][0])
+                    #print("item list row:", self.results[self.itemList.row(product)])
 
                     # create a cursor
                     cur = self.conn.cursor()
@@ -537,7 +538,10 @@ class Ui_MainWindow(object):
             for row_number, row_data in enumerate(dataResults):
                 self.dataTable.insertRow(row_number)
                 for column_number, data in enumerate(row_data):
-                    self.dataTable.setItem(row_number, column_number, QtWidgets.QTableWidgetItem(str(data)))
+                    itemstr = str(data)
+                    if column_number > 4 and (itemstr == '0' or itemstr == '0.0'):
+                        itemstr = ''
+                    self.dataTable.setItem(row_number, column_number, QtWidgets.QTableWidgetItem(itemstr))
                 #print(row_data)    
 
 
@@ -548,10 +552,9 @@ class Ui_MainWindow(object):
             self.nutritionTable.resizeColumnsToContents()         
 
 
-    def save_sheet(self):
-        path = QFileDialog.getSaveFileName(self.nutritionTable, 'Export data to CSV', os.getenv('HOME'), 'CSV(*.csv)')
+    def saveNutritionReport(self):
+        path = QFileDialog.getSaveFileName(self.nutritionTable, 'Export nutrition data to CSV', os.getenv('HOME'), 'CSV(*.csv)')
         if path[0] != '':
-            #from nutrition table
             with open(path[0], 'w+', newline='') as csv_file:
                 writer = csv.writer(csv_file)
                 writer.writerow(['  ', 'From Coles', 'Qty per 100 gr/ml','   ','From Woolworth', 'Qty per 100 gr/ml'])
@@ -564,9 +567,13 @@ class Ui_MainWindow(object):
                         else:
                             row_data.append('')
                     writer.writerow(row_data)
+
+
+    def savePriceReport(self):                
+        path = QFileDialog.getSaveFileName(self.nutritionTable, 'Export price data to CSV', os.getenv('HOME'), 'CSV(*.csv)')
+        if path[0] != '':
             #from price data table 
-            dataPath = path[0].replace(".csv","_pricedata.csv")
-            with open(dataPath, 'w+', newline='') as csv_file:
+            with open(path[0], 'w+', newline='') as csv_file:
                 writer = csv.writer(csv_file)
                 writer.writerow(['Brand', 'Name', 'Pack size', 'Product Code', 'Date', 'Original Price', 'Promoted price', 'Multi Buy Special Price'])
                 for row in range(self.dataTable.rowCount()):
@@ -578,7 +585,7 @@ class Ui_MainWindow(object):
                         else:
                             row_data.append('')
                     writer.writerow(row_data)        
-        #print('selected tab is: '+ str(self.nutritionTab.currentIndex))            
+          
 
 
     #$ pip install pyqtgraph​

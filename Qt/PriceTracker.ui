@@ -88,9 +88,9 @@
                <property name="geometry">
                 <rect>
                  <x>0</x>
-                 <y>4</y>
+                 <y>1</y>
                  <width>1228</width>
-                 <height>491</height>
+                 <height>495</height>
                 </rect>
                </property>
               </widget>
@@ -105,7 +105,7 @@
                  <x>0</x>
                  <y>0</y>
                  <width>1228</width>
-                 <height>521</height>
+                 <height>495</height>
                 </rect>
                </property>
                <property name="editTriggers">
@@ -155,7 +155,7 @@
                  <x>0</x>
                  <y>0</y>
                  <width>1228</width>
-                 <height>501</height>
+                 <height>495</height>
                 </rect>
                </property>
                <property name="editTriggers">
