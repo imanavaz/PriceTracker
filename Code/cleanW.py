@@ -52,11 +52,12 @@ def cleanWolies (inputDirtyFile, outputCleanFile):
                                             'Multi Buy Price': rows[i]['Multi Buy Price'], 
                                             'UID': rows[i]['UID']})
             #print (brand + ' -- ' + newPName)
+    return True
 
 
 if __name__ == "__main__":
    pass
-   cleanWolies('w-new-i.csv', 'w-new-cc.csv')
+   #cleanWolies('w-new-i.csv', 'w-new-cc.csv')
    #cleanWolies('w-3-i-Bakery-Not clean.csv', 'w-3-i-cc-Bakery.csv')
    #cleanWolies('w-3-i-Drinks-Not clean.csv', 'w-3-i-cc-Drinks.csv')
    

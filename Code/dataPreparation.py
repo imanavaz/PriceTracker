@@ -79,8 +79,9 @@ def appendIDtoRow (inputCSV, outputCSV, supermarketIndicator):
             writer.writerows(all)
 
         csvoutput.close()
+    return True
 #end of appendIDtoRow
 
 if __name__ == '__main__':
     pass
-    appendIDtoRow('../data/w-new.csv', '../data/w-new-i.csv', 'W')
+    #appendIDtoRow('../data/w-new.csv', '../data/w-new-i.csv', 'W')

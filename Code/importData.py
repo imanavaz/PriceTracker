@@ -7,6 +7,8 @@ def importNewProductData(inputFile, testRun=True):
     
     #read scrapped data 
     products = []
+    inputFilePath = inputFile[:inputFile.rindex('/')+1]
+
     with open(inputFile,'r') as csvInput:
         reader = csv.DictReader(csvInput, delimiter=',') 
         for row in reader: # each row is a list
@@ -234,12 +236,13 @@ def importMatches(matchesFile, testRun=True):
     return True
 
 
-def importRecentData(ninputFile, testRun=True):
+def importRecentData(ninputFile, testRun=True, useProductCode=False):
     
     #read scrapped data 
     products = []
     newProducts = []
     existingProducts = []
+    inputFilePath = ninputFile[:ninputFile.rindex('/')+1]
 
     with open(ninputFile,'r') as csvnInput:
         reader = csv.DictReader(csvnInput, delimiter=',') 
@@ -260,7 +263,11 @@ def importRecentData(ninputFile, testRun=True):
             cur = conn.cursor(buffered=True)
 
             print("====== Processing new data, adding new price and newly introduced items ======")
-
+            if (useProductCode == False):
+                print("****** Configured to use Product Name, Brand, and Packsize to find items")
+            elif (useProductCode == True):
+                print("****** Configured to use Product Code to find items")
+            
             for i in tqdm(range(0,len(products))): 
                 #print(products[i])
                 
@@ -281,18 +288,20 @@ def importRecentData(ninputFile, testRun=True):
                 sql += ' Source=' 
                 sql += source
                 
-                #sql += ' AND Brand=' 
-                #sql += '\'' + (products[i]['Brand'].replace('\'', '\'\'') if '\'' in products[i]['Brand'] else products[i]['Brand']) + '\''
-                
-                #sql += ' AND Product_name='
-                #sql += '\'' + (products[i]['Product name'].replace('\'', '\'\'') if '\'' in products[i]['Product name'] else products[i]['Product name']) + '\''
-                
-                #sql += ' AND Pack_size='
-                #sql += '\'' + products[i]['Pack size'] + '\''
+                if (useProductCode == False):
+                    sql += ' AND Brand=' 
+                    sql += '\'' + (products[i]['Brand'].replace('\'', '\'\'') if '\'' in products[i]['Brand'] else products[i]['Brand']) + '\''
+                    
+                    sql += ' AND Product_name='
+                    sql += '\'' + (products[i]['Product name'].replace('\'', '\'\'') if '\'' in products[i]['Product name'] else products[i]['Product name']) + '\''
+                    
+                    sql += ' AND Pack_size='
+                    sql += '\'' + products[i]['Pack size'] + '\''
 
-                sql += ' AND Product_code='
-                sql += '\'' + products[i]['Product code'] + '\';'
-                
+                elif (useProductCode == True):
+                    sql += ' AND Product_code='
+                    sql += '\'' + products[i]['Product code'] + '\';'
+
                 #print('====== Product retrieval SQL ======')
                 #print(sql)
                 cur.execute(sql)
@@ -350,13 +359,14 @@ def importRecentData(ninputFile, testRun=True):
                     else:
                         pass #ignore insertion
 
+            
             #save new products to newItems-date file and insert them to database
             if len(newProducts) > 0:
                 print('====== Preparing New Products ======')
                 #put new items in a separate files to be inserted 
                 insertionTime = datetime.datetime.now(datetime.timezone.utc)
                 insertionTimeStr = insertionTime.strftime('%Y-%m-%d-%H-%M-%S-%Z')
-                newItemsFileName = 'newItems-' + insertionTimeStr + '.csv'
+                newItemsFileName = inputFilePath + 'newItems-' + insertionTimeStr + '.csv'
                 with open(newItemsFileName, 'w+', newline='') as cUM:
                     fUM = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
                     umW = csv.DictWriter(cUM, fieldnames=fUM)
@@ -396,7 +406,7 @@ def importRecentData(ninputFile, testRun=True):
                 #put old items in a separate files to be checked if needed 
                 insertionTime = datetime.datetime.now(datetime.timezone.utc)
                 insertionTimeStr = insertionTime.strftime('%Y-%m-%d-%H-%M-%S-%Z')
-                existingItemsFileName = 'existingItems-' + insertionTimeStr + '.csv'
+                existingItemsFileName = inputFilePath + 'existingItems-' + insertionTimeStr + '.csv'
                 with open(existingItemsFileName, 'w+', newline='') as existFN:
                     exFHeaderNames = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
                     exFPW = csv.DictWriter(existFN, fieldnames=exFHeaderNames)

@@ -329,26 +329,56 @@ class Ui_MainWindow(object):
 
 
     def loadNewDataFile(self):
+        
         testRun = True
-        #if (self.checkBox.isChecked() == True):
-        #    testRun = True
-        #else:
-        #    testRun = False
+        if (self.checkBox.isChecked() == True):
+            testRun = True
+        else:
+            testRun = False
 
         filePath = self.newDataFileLe.text()
         if (filePath == '') or (filePath ==  ' '):
             print("ERROR - File path is empty, please select a file first.")
         else: 
-            
-            
-            
+            #Prepare a folder for files used in the import 
+            folderPath = filePath[:filePath.rindex('.')]
+            fileName = filePath[filePath.rindex('/')+1:filePath.rindex('.')]
+            os.mkdir(folderPath)    
+            print ("Folder created in: " + folderPath)
+            print("File name extracted as: " + fileName)
+
+            #Read supermarket
             supermarket = ''
             if self.supermarketComboBox.currentText() == 'Coles' :
                 supermarket = 'C'
             elif self.supermarketComboBox.currentText() == 'Woolworth' : 
                 supermarket = 'W'
              
-            #importRecentData(filePath, testRun)                         
+            #Generate and append ID to rows 
+            fileWithIDs = folderPath + '/' + fileName + '-i.csv'
+            appendSuccessful = appendIDtoRow(filePath, fileWithIDs, supermarket)
+            if (appendSuccessful != True):
+                print("##### ERROR - ID Generation failed #####")
+            else:
+                print("***** IDs generated successfully *****")
+                
+                #For Woolies remove brands from product names  
+                cleanWooliesSuccessful = False
+                fileToUseForImport = ''
+                if (supermarket == 'W'):
+                    wooliesFileClean = fileWithIDs[:fileWithIDs.rindex('.')]+"-clean.csv"
+                    cleanWooliesSuccessful = cleanWolies(fileWithIDs, wooliesFileClean)
+                    print ("Woolies clean file created: " + wooliesFileClean)
+                    fileToUseForImport = wooliesFileClean
+                else:
+                    fileToUseForImport = fileWithIDs
+
+                
+                #Import file to database
+                if (supermarket == 'W')and(cleanWooliesSuccessful == False):
+                    print("##### ERROR - Cleaning Woolies file failed #####")
+                else:
+                    importRecentData(fileToUseForImport, testRun, False)#setting use product code to false                         
 
 
     def openNewDataFile(self):
