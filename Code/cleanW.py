@@ -26,7 +26,10 @@ def cleanWolies (inputDirtyFile, outputCleanFile):
             newPName = productName
 
             if (productName.startswith(brand) and len(brand)>0): ###### ADDED len(brand)
-                newPName = productName[len(brand)+1:]
+                newPName = productName[len(brand)+1:].strip()
+                if (len(newPName) > 0):
+                    if (newPName[0] == '-'):
+                        newPName = newPName[1:].strip()
 
             umW.writerow({'Date of data Extraction': rows[i]['Date of data Extraction'],
                                             'Brand': rows[i]['Brand'], 
@@ -57,7 +60,7 @@ def cleanWolies (inputDirtyFile, outputCleanFile):
 
 if __name__ == "__main__":
    pass
-   #cleanWolies('w-new-i.csv', 'w-new-cc.csv')
+   #cleanWolies('C:/Users/avaz/OneDrive - Deakin University/Projects/Price Tracker/Data/RData/20200302-woolworths-export/20200302-woolworths-export-i.csv', 'C:/Users/avaz/OneDrive - Deakin University/Projects/Price Tracker/Data/RData/test.csv')
    #cleanWolies('w-3-i-Bakery-Not clean.csv', 'w-3-i-cc-Bakery.csv')
    #cleanWolies('w-3-i-Drinks-Not clean.csv', 'w-3-i-cc-Drinks.csv')
    

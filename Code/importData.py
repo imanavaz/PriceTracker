@@ -112,13 +112,14 @@ def importNewProductData(inputFile, testRun=True):
             # close the cursor 
             cur.close()
         
-        except (Exception, psycopg2.DatabaseError) as error:
-            print(error)
-            disconnectDB(conn)
-        #finally:
-        #    if conn is not None:
-        #        disconnectDB(conn)
-        #        print('Database connection closed.')
+        except mysql.connector.Error as err:
+            if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                print("Could not recognise your user name or password")
+            elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                print("Database does not exist")
+            else:
+                print(err)
+
     return True
  
 
@@ -446,9 +447,14 @@ def importRecentData(ninputFile, testRun=True, useProductCode=False):
             # close the cursor 
             cur.close()
         
-        except (Exception, psycopg2.DatabaseError) as error:
-            print(error)
-            disconnectDB(conn)
+        except mysql.connector.Error as err:
+            if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                print("Could not recognise your user name or password")
+            elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                print("Database does not exist")
+            else:
+                print(err)
+
     return True
 
 
