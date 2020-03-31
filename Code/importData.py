@@ -237,7 +237,7 @@ def importMatches(matchesFile, testRun=True):
     return True
 
 
-def importRecentData(ninputFile, testRun=True, useProductCode=False):
+def importRecentData(ninputFile, testRun=True):
     
     #read scrapped data 
     products = []
@@ -264,10 +264,10 @@ def importRecentData(ninputFile, testRun=True, useProductCode=False):
             cur = conn.cursor(buffered=True)
 
             print("====== Processing new data, adding new price and newly introduced items ======")
-            if (useProductCode == False):
-                print("****** Configured to use Product Name, Brand, and Packsize to find items")
-            elif (useProductCode == True):
-                print("****** Configured to use Product Code to find items")
+            #if (useProductCode == False):
+            #    print("****** Configured to use Product Name, Brand, and Packsize to find items")
+            #elif (useProductCode == True):
+            #    print("****** Configured to use Product Code to find items")
             
             for i in tqdm(range(0,len(products))): 
                 #print(products[i])
@@ -289,26 +289,28 @@ def importRecentData(ninputFile, testRun=True, useProductCode=False):
                 sql += ' Source=' 
                 sql += source
                 
-                if (useProductCode == False):
-                    sql += ' AND Brand=' 
-                    sql += '\'' + (products[i]['Brand'].replace('\'', '\'\'') if '\'' in products[i]['Brand'] else products[i]['Brand']) + '\''
-                    
-                    sql += ' AND Product_name='
-                    sql += '\'' + (products[i]['Product name'].replace('\'', '\'\'') if '\'' in products[i]['Product name'] else products[i]['Product name']) + '\''
-                    
-                    sql += ' AND Pack_size='
-                    sql += '\'' + products[i]['Pack size'] + '\''
+                #check by product code first
+                sql += ' AND Product_code='
+                sql += '\'' + products[i]['Product code'] + '\';'
 
-                elif (useProductCode == True):
-                    sql += ' AND Product_code='
-                    sql += '\'' + products[i]['Product code'] + '\';'
-
-                #print('====== Product retrieval SQL ======')
-                #print(sql)
                 cur.execute(sql)
                 res=None
                 res = cur.fetchone() 
-                
+
+                if (res == None):#try finding the product using brand, name and pack size
+                    sql = None
+                    sql = 'SELECT UID FROM product WHERE'
+                    sql += ' Source=' 
+                    sql += source
+                    sql += ' AND Brand=' 
+                    sql += '\'' + (products[i]['Brand'].replace('\'', '\'\'') if '\'' in products[i]['Brand'] else products[i]['Brand']) + '\''
+                    sql += ' AND Product_name='
+                    sql += '\'' + (products[i]['Product name'].replace('\'', '\'\'') if '\'' in products[i]['Product name'] else products[i]['Product name']) + '\''
+                    sql += ' AND Pack_size='
+                    sql += '\'' + (products[i]['Pack size'].replace('\'', '\'\'') if '\'' in products[i]['Pack size'] else products[i]['Pack size']) + '\''
+                    cur.execute(sql)
+                    res=None
+                    res = cur.fetchone() 
 
                 if res == None: # We have new product
                     newProducts.append(products[i])

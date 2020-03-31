@@ -378,7 +378,7 @@ class Ui_MainWindow(object):
                 if (supermarket == 'W')and(cleanWooliesSuccessful == False):
                     print("##### ERROR - Cleaning Woolies file failed #####")
                 else:
-                    importRecentData(fileToUseForImport, testRun, False)#setting use product code to false                         
+                    importRecentData(fileToUseForImport, testRun)#setting use product code to false                         
 
 
     def openNewDataFile(self):
