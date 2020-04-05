@@ -683,7 +683,7 @@ class Ui_MainWindow(object):
             xData = []#[1, 2, 3 , 4]
             yData = []#[10, 20, 10, 30]
             for d in data[i][1]:
-                xData.append((datetime.strptime(d[0], '%d/%m/%Y')).timestamp())
+                xData.append((datetime.datetime.strptime(d[0], '%d/%m/%Y')).timestamp())
                 yData.append(d[1])
             
             #xdict = dict(enumerate(x)) #x-axis is date
