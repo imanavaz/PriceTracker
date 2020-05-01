@@ -34,7 +34,7 @@ def importNewProductData(inputFile, testRun=True):
                 #print(products[i])
                 #preparesqp query
                 sql = None
-                sql = 'INSERT INTO product(UID, Source, Date_of_insertion, Date_of_data_extraction, Brand, Product_name, Category, Pack_size, Serving_size, Servings_per_Pack, Product_code, Energy_per_100g_or_100ml, Protein_per_100g_or_100ml, Total_fat_per_100g_or_100ml, Saturated_fat_per_100g_or_100ml, Carbohydrate_per_100g_or_100ml, Sugars_per_100g_or_100ml, Sodium_per_100g_or_100ml, Price_at_insertion) VALUES ('
+                sql = 'INSERT INTO product(UID, Source, Date_of_insertion, Date_of_data_extraction, Brand, Product_name, Category, Beverage_category, Food_category, Pack_size, Serving_size, Servings_per_Pack, Product_code, Energy_per_100g_or_100ml, Protein_per_100g_or_100ml, Total_fat_per_100g_or_100ml, Saturated_fat_per_100g_or_100ml, Carbohydrate_per_100g_or_100ml, Sugars_per_100g_or_100ml, Sodium_per_100g_or_100ml, Price_at_insertion) VALUES ('
                 sql += '\'' + products[i]['UID'] + '\','
                 
                 #decide source
@@ -55,6 +55,8 @@ def importNewProductData(inputFile, testRun=True):
                 sql += '\'' + (products[i]['Brand'].replace('\'', '\'\'') if '\'' in products[i]['Brand'] else products[i]['Brand']) + '\','
                 sql += '\'' + (products[i]['Product name'].replace('\'', '\'\'') if '\'' in products[i]['Product name'] else products[i]['Product name']) + '\','
                 sql += '\'' + products[i]['Category'] + '\','
+                sql += '\'' + products[i]['Category2'] + '\','
+                sql += '\'' + products[i]['Category3'] + '\','
                 sql += '\'' + products[i]['Pack size'] + '\','
                 sql += '\'' + products[i]['Serving size'] + '\','
                 sql += '\'' + products[i]['Servings per pack'] + '\','
@@ -151,8 +153,8 @@ def importMatches(matchesFile, testRun=True):
             pTimeStr = pTime.strftime('%Y-%m-%d-%H-%M-%S')
             pItemsFileName = 'newMatches-' + pTimeStr + '.csv'
 
-            with open(pItemsFileName, 'w+', newline='') as mcsvfile:
-                fUM = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
+            with open(pItemsFileName, 'w+', newline='') as mcsvfile:#Category 2/3 have been added but not tested, might cause problems in future
+                fUM = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Category2', 'Category3', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
                 mFile = csv.DictWriter(mcsvfile, fieldnames=fUM)
                 mFile.writeheader()   
 
@@ -226,14 +228,14 @@ def importMatches(matchesFile, testRun=True):
             # close the cursor 
             cur.close()
         
-        except (Exception, psycopg2.DatabaseError) as error:
-            print(error)
-            disconnectDB(conn)
-            print('Database connection closed.')
-        finally:
-            if conn != None:
-                disconnectDB(conn)
-                print('Database connection closed.')
+        except mysql.connector.Error as err:
+            if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                print("Could not recognise your user name or password")
+            elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                print("Database does not exist")
+            else:
+                print(err)
+            
     return True
 
 
@@ -371,7 +373,7 @@ def importRecentData(ninputFile, testRun=True):
                 insertionTimeStr = insertionTime.strftime('%Y-%m-%d-%H-%M-%S-%Z')
                 newItemsFileName = inputFilePath + 'newItems-' + insertionTimeStr + '.csv'
                 with open(newItemsFileName, 'w+', newline='') as cUM:
-                    fUM = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
+                    fUM = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Category2', 'Category3', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
                     umW = csv.DictWriter(cUM, fieldnames=fUM)
                     umW.writeheader()   
 
@@ -381,6 +383,8 @@ def importRecentData(ninputFile, testRun=True):
                                                 'Brand': newProducts[i]['Brand'], 
                                                 'Product name': newProducts[i]['Product name'], 
                                                 'Category': newProducts[i]['Category'], 
+                                                'Category2': newProducts[i]['Category2'],
+                                                'Category3': newProducts[i]['Category3'],  
                                                 'Pack size': newProducts[i]['Pack size'], 
                                                 'Serving size': newProducts[i]['Serving size'], 
                                                 'Servings per pack': newProducts[i][ 'Servings per pack'], 
@@ -411,7 +415,7 @@ def importRecentData(ninputFile, testRun=True):
                 insertionTimeStr = insertionTime.strftime('%Y-%m-%d-%H-%M-%S-%Z')
                 existingItemsFileName = inputFilePath + 'existingItems-' + insertionTimeStr + '.csv'
                 with open(existingItemsFileName, 'w+', newline='') as existFN:
-                    exFHeaderNames = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
+                    exFHeaderNames = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Category2', 'Category3', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
                     exFPW = csv.DictWriter(existFN, fieldnames=exFHeaderNames)
                     exFPW.writeheader()   
 
@@ -421,6 +425,8 @@ def importRecentData(ninputFile, testRun=True):
                                                 'Brand': existingProducts[i]['Brand'], 
                                                 'Product name': existingProducts[i]['Product name'], 
                                                 'Category': existingProducts[i]['Category'], 
+                                                'Category2': existingProducts[i]['Category2'],
+                                                'Category3': existingProducts[i]['Category3'],  
                                                 'Pack size': existingProducts[i]['Pack size'], 
                                                 'Serving size': existingProducts[i]['Serving size'], 
                                                 'Servings per pack': existingProducts[i][ 'Servings per pack'], 
@@ -507,28 +513,37 @@ def updateProductInfoSpecificField(productFile, dBFieldToCheck, dataFieldToCheck
                 sql += ' Source=' 
                 sql += source
                 
-                sql += ' AND Brand=' 
-                sql += '\'' + (products[i]['Brand'].replace('\'', '\'\'') if '\'' in products[i]['Brand'] else products[i]['Brand']) + '\''
-                
-                sql += ' AND Product_name='
-                sql += '\'' + (products[i]['Product name'].replace('\'', '\'\'') if '\'' in products[i]['Product name'] else products[i]['Product name']) + '\''
-                
-                sql += ' AND Pack_size='
-                sql += '\'' + products[i]['Pack size'] + '\''
-
-                #sql += ' AND Product_code='
-                #sql += '\'' + products[i]['Product code'] + '\';'
-                
-                #print('====== Product retrieval SQL ======')
-                #print(sql)
-                cur.execute(sql)
                 res=None
-                res = cur.fetchone() 
-                
+                if (dBFieldToCheck != 'Product_code'): #check by product code first
+                    sql += ' AND Product_code='
+                    sql += '\'' + products[i]['Product code'] + '\';'
 
+                    cur.execute(sql)
+                    res = cur.fetchone() 
+
+                if (res == None):#try finding the product using brand, name and pack size
+                    sql = None
+                    sql = 'SELECT UID, '+ dBFieldToCheck +' FROM product WHERE'
+                    sql += ' Source=' 
+                    sql += source
+                    sql += ' AND Brand=' 
+                    sql += '\'' + (products[i]['Brand'].replace('\'', '\'\'') if '\'' in products[i]['Brand'] else products[i]['Brand']) + '\''
+                    sql += ' AND Product_name='
+                    sql += '\'' + (products[i]['Product name'].replace('\'', '\'\'') if '\'' in products[i]['Product name'] else products[i]['Product name']) + '\''
+                    sql += ' AND Pack_size='
+                    sql += '\'' + (products[i]['Pack size'].replace('\'', '\'\'') if '\'' in products[i]['Pack size'] else products[i]['Pack size']) + '\''
+                    cur.execute(sql)
+                    res=None
+                    res = cur.fetchone() 
+                
+                
                 if res == None: # We have new product
-                    print("*** A new product seems to have been inserted UID:"+res[0]+"!")
-                    print("*** This should not have happend!")
+                    print("*** A new product seems to have been inserted:")
+                    print(" Product code :"+products[i]['Product code'])
+                    print(" Brand :"+products[i]['Brand'])
+                    print(" Name :"+products[i]['Product name'])
+                    print(" Pack size :"+products[i]['Pack size'])
+                    
                 else: #check if data existed already for that field and is different 
                     if (res[1] == None) or (res[1] == '') or (res[1] == ' '): #information did not exist for dbField to check  
                         #run an update query 
@@ -561,7 +576,7 @@ def updateProductInfoSpecificField(productFile, dBFieldToCheck, dataFieldToCheck
                 insertionTimeStr = insertionTime.strftime('%Y-%m-%d-%H-%M-%S-%Z')
                 issuesFileName = 'issues-' + insertionTimeStr + '.csv'
                 with open(issuesFileName, 'w+', newline='') as cUM:
-                    fUM = ['Database UID','Existing Info','Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Ingredients', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
+                    fUM = ['Database UID','Existing Info','Date of data Extraction', 'Brand', 'Product name', 'Category', 'Category2', 'Category3', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Ingredients', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
                     umW = csv.DictWriter(cUM, fieldnames=fUM)
                     umW.writeheader()   
 
@@ -573,6 +588,8 @@ def updateProductInfoSpecificField(productFile, dBFieldToCheck, dataFieldToCheck
                                         'Brand': issues[i][0]['Brand'], 
                                         'Product name': issues[i][0]['Product name'], 
                                         'Category': issues[i][0]['Category'], 
+                                        'Category2': issues[i][0]['Category2'], 
+                                        'Category3': issues[i][0]['Category3'], 
                                         'Pack size': issues[i][0]['Pack size'], 
                                         'Serving size': issues[i][0]['Serving size'], 
                                         'Servings per pack': issues[i][0][ 'Servings per pack'], 
@@ -600,9 +617,14 @@ def updateProductInfoSpecificField(productFile, dBFieldToCheck, dataFieldToCheck
             # close the cursor 
             cur.close()
         
-        except (Exception, psycopg2.DatabaseError) as error:
-            print(error)
-            disconnectDB(conn)
+        except mysql.connector.Error as err:
+            if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                print("Could not recognise your user name or password")
+            elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                print("Database does not exist")
+            else:
+                print(err)
+            
     return True
 
 
@@ -781,9 +803,14 @@ def updateProductNutirtionInfo (productFile, testRun=True):
             # close the cursor 
             cur.close()
         
-        except (Exception, psycopg2.DatabaseError) as error:
-            print(error)
-            disconnectDB(conn)
+        except mysql.connector.Error as err:
+            if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                print("Could not recognise your user name or password")
+            elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                print("Database does not exist")
+            else:
+                print(err)
+            
     return True
  
 

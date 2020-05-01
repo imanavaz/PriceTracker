@@ -13,7 +13,7 @@ def cleanWolies (inputDirtyFile, outputCleanFile):
 
     # new updated data
     with open(outputCleanFile, 'w+', newline='') as cUM:
-        fUM = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Ingredients', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
+        fUM = ['Date of data Extraction', 'Brand', 'Product name', 'Category','Category2','Category3', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Ingredients', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
         umW = csv.DictWriter(cUM, fieldnames=fUM)
         umW.writeheader()   
 
@@ -35,6 +35,8 @@ def cleanWolies (inputDirtyFile, outputCleanFile):
                                             'Brand': rows[i]['Brand'], 
                                             'Product name': newPName, 
                                             'Category': rows[i]['Category'], 
+                                            'Category2': rows[i]['Category2'], 
+                                            'Category3': rows[i]['Category3'], 
                                             'Pack size': rows[i]['Pack size'], 
                                             'Serving size': rows[i]['Serving size'], 
                                             'Servings per pack': rows[i][ 'Servings per pack'], 
@@ -60,7 +62,7 @@ def cleanWolies (inputDirtyFile, outputCleanFile):
 
 if __name__ == "__main__":
    pass
-   #cleanWolies('C:/Users/avaz/OneDrive - Deakin University/Projects/Price Tracker/Data/RData/20200302-woolworths-export/20200302-woolworths-export-i.csv', 'C:/Users/avaz/OneDrive - Deakin University/Projects/Price Tracker/Data/RData/test.csv')
+   #cleanWolies('C:/Users/avaz/OneDrive - Deakin University/Projects/Price Tracker/Data/RData/20200331-woolworths-export/20200331-woolworths-export-i.csv', 'C:/Users/avaz/OneDrive - Deakin University/Projects/Price Tracker/Data/RData/20200331-woolworths-export/test.csv')
    #cleanWolies('w-3-i-Bakery-Not clean.csv', 'w-3-i-cc-Bakery.csv')
    #cleanWolies('w-3-i-Drinks-Not clean.csv', 'w-3-i-cc-Drinks.csv')
    
