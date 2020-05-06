@@ -9,7 +9,7 @@ def importNewProductData(inputFile, testRun=True):
     products = []
     inputFilePath = inputFile[:inputFile.rindex('/')+1]
 
-    with open(inputFile,'r') as csvInput:
+    with open(inputFile,'r', encoding="utf-8") as csvInput:
         reader = csv.DictReader(csvInput, delimiter=',') 
         for row in reader: # each row is a list
             products.append(row)
@@ -129,7 +129,7 @@ def importMatches(matchesFile, testRun=True):
     
     #read matches data
     matches = []
-    with open(matchesFile,'r') as csvMatches:
+    with open(matchesFile,'r', encoding="utf-8") as csvMatches:
         mreader = csv.DictReader(csvMatches, delimiter=',') 
         for row in mreader: # each row is a list
             matches.append(row)
@@ -153,7 +153,7 @@ def importMatches(matchesFile, testRun=True):
             pTimeStr = pTime.strftime('%Y-%m-%d-%H-%M-%S')
             pItemsFileName = 'newMatches-' + pTimeStr + '.csv'
 
-            with open(pItemsFileName, 'w+', newline='') as mcsvfile:#Category 2/3 have been added but not tested, might cause problems in future
+            with open(pItemsFileName, 'w+', newline='', encoding="utf-8") as mcsvfile:#Category 2/3 have been added but not tested, might cause problems in future
                 fUM = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Category2', 'Category3', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
                 mFile = csv.DictWriter(mcsvfile, fieldnames=fUM)
                 mFile.writeheader()   
@@ -247,7 +247,7 @@ def importRecentData(ninputFile, testRun=True):
     existingProducts = []
     inputFilePath = ninputFile[:ninputFile.rindex('/')+1]
 
-    with open(ninputFile,'r') as csvnInput:
+    with open(ninputFile,'r', encoding="utf-8") as csvnInput:
         reader = csv.DictReader(csvnInput, delimiter=',') 
         for row in reader: # each row is a list
             products.append(row)
@@ -372,7 +372,7 @@ def importRecentData(ninputFile, testRun=True):
                 insertionTime = datetime.datetime.now(datetime.timezone.utc)
                 insertionTimeStr = insertionTime.strftime('%Y-%m-%d-%H-%M-%S-%Z')
                 newItemsFileName = inputFilePath + 'newItems-' + insertionTimeStr + '.csv'
-                with open(newItemsFileName, 'w+', newline='') as cUM:
+                with open(newItemsFileName, 'w+', newline='', encoding="utf-8") as cUM:
                     fUM = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Category2', 'Category3', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
                     umW = csv.DictWriter(cUM, fieldnames=fUM)
                     umW.writeheader()   
@@ -414,7 +414,7 @@ def importRecentData(ninputFile, testRun=True):
                 insertionTime = datetime.datetime.now(datetime.timezone.utc)
                 insertionTimeStr = insertionTime.strftime('%Y-%m-%d-%H-%M-%S-%Z')
                 existingItemsFileName = inputFilePath + 'existingItems-' + insertionTimeStr + '.csv'
-                with open(existingItemsFileName, 'w+', newline='') as existFN:
+                with open(existingItemsFileName, 'w+', newline='', encoding="utf-8") as existFN:
                     exFHeaderNames = ['Date of data Extraction', 'Brand', 'Product name', 'Category', 'Category2', 'Category3', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
                     exFPW = csv.DictWriter(existFN, fieldnames=exFHeaderNames)
                     exFPW.writeheader()   
@@ -473,7 +473,7 @@ def updateProductInfoSpecificField(productFile, dBFieldToCheck, dataFieldToCheck
     products = []#products that I want to check for update
     issues = [] #to keep products that have mismatch in what we have recorded in the database and what is being updated 
 
-    with open(productFile,'r') as productInput:
+    with open(productFile,'r', encoding="utf-8") as productInput:
         reader = csv.DictReader(productInput, delimiter=',') 
         for row in reader: # each row is a list
             products.append(row)
@@ -575,7 +575,7 @@ def updateProductInfoSpecificField(productFile, dBFieldToCheck, dataFieldToCheck
                 insertionTime = datetime.datetime.now(datetime.timezone.utc)
                 insertionTimeStr = insertionTime.strftime('%Y-%m-%d-%H-%M-%S-%Z')
                 issuesFileName = 'issues-' + insertionTimeStr + '.csv'
-                with open(issuesFileName, 'w+', newline='') as cUM:
+                with open(issuesFileName, 'w+', newline='', encoding="utf-8") as cUM:
                     fUM = ['Database UID','Existing Info','Date of data Extraction', 'Brand', 'Product name', 'Category', 'Category2', 'Category3', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Ingredients', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
                     umW = csv.DictWriter(cUM, fieldnames=fUM)
                     umW.writeheader()   
@@ -633,7 +633,7 @@ def updateProductNutirtionInfo (productFile, testRun=True):
     products = []#products that I want to check for update
     issues = [] #to keep products that have mismatch in what we have recorded in the database and what is being updated 
 
-    with open(productFile,'r') as productInput:
+    with open(productFile,'r', encoding="utf-8") as productInput:
         reader = csv.DictReader(productInput, delimiter=',') 
         for row in reader: # each row is a list
             products.append(row)
@@ -757,7 +757,7 @@ def updateProductNutirtionInfo (productFile, testRun=True):
                 insertionTimeStr = insertionTime.strftime('%Y-%m-%d-%H-%M-%S-%Z')
                 issuesFileName = 'issues-' + insertionTimeStr + '.csv'
                 
-                with open(issuesFileName, 'w+', newline='') as cUM:
+                with open(issuesFileName, 'w+', newline='', encoding="utf-8") as cUM:
                     fUM = ['Database UID','Energy_from_DB', 'Protein_from_DB', 'Total_fat_from_DB', 'Saturated_fat_from_DB', 'Carbohydrate_from_DB', 'Sugars_from_DB', 'Sodium_from_DB','Date of data Extraction', 'Brand', 'Product name', 'Ingredients', 'Category', 'Pack size', 'Serving size', 'Servings per pack', 'Product code', 'Energy per 100g (or 100ml)', 'Protein per 100g (or 100ml)', 'Total fat per 100g (or 100ml)', 'Saturated fat per 100g (or 100ml)', 'Carbohydrate per 100g (or 100ml)', 'Sugars per 100g (or 100ml)', 'Sodium per 100g (or 100ml)', 'Original Price', 'Price Promoted', 'Price Promoted Price', 'Multi Buy Special', 'Multi Buy Special Details', 'Multi Buy Price', 'UID']
                     umW = csv.DictWriter(cUM, fieldnames=fUM)
                     umW.writeheader()   

@@ -57,8 +57,8 @@ def partitionData(inputCSV, outputCSV, category):
 #This is how it is used: append ID to coles
 #appendIDtoRow('coles.csv', 'coles2.csv','C') #these would be the files with unique IDs
 def appendIDtoRow (inputCSV, outputCSV, supermarketIndicator):
-    with open(inputCSV, 'r') as csvinput:
-        with open(outputCSV, 'w') as csvoutput:
+    with open(inputCSV, 'r', encoding="utf-8") as csvinput:
+        with open(outputCSV, 'w', encoding="utf-8") as csvoutput:
             writer = csv.writer(csvoutput, lineterminator='\n')
             reader = csv.reader(csvinput)
 
@@ -90,5 +90,6 @@ def appendIDtoRow (inputCSV, outputCSV, supermarketIndicator):
 #end of appendIDtoRow
 
 if __name__ == '__main__':
+    #appendIDtoRow('C:/Users/avaz/OneDrive - Deakin University/Projects/Price Tracker/Data/RData/20200302-coles-export-test.csv', 'C:/Users/avaz/OneDrive - Deakin University/Projects/Price Tracker/Data/RData/test.csv', 'W')
     pass
-    #appendIDtoRow('../data/w-new.csv', '../data/w-new-i.csv', 'W')
+    
