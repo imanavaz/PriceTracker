@@ -75,7 +75,7 @@ def appendIDtoRow (inputCSV, outputCSV, supermarketIndicator):
                     rdate = ""
                     if ("UTC" in row[0]):
                         rdate = datetime.datetime.strptime(row[0], "%Y-%m-%d %H:%M:%S %Z")#"%Y-%m-%d %H:%M:%S %Z") #%z for +0000 %Z for UTC
-                    elif ("+0000" in row[0]):
+                    elif ("+0" in row[0]):
                         rdate = datetime.datetime.strptime(row[0], "%Y-%m-%d %H:%M:%S %z")#"%Y-%m-%d %H:%M:%S %Z") #%z for +0000 %Z for UTC
                     unixtime = time.mktime(rdate.timetuple())
                     newid = str(unixtime)+"-"+ supermarketIndicator +"-"+str(count)

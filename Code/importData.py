@@ -68,7 +68,12 @@ def importNewProductData(inputFile, testRun=True):
                 sql += '\'' + products[i]['Carbohydrate per 100g (or 100ml)'] + '\','
                 sql += '\'' + products[i]['Sugars per 100g (or 100ml)'] + '\','
                 sql += '\'' + products[i]['Sodium per 100g (or 100ml)'] + '\','
-                sql += products[i]['Original Price'] 
+                oPrice = '0'
+                if (products[i]['Original Price'] is None or products[i]['Original Price']==' ' or products[i]['Original Price']==''):
+                    oPrice = '0.0'
+                else:
+                    oPrice = products[i]['Original Price']
+                sql += oPrice 
                 sql += ');'
                 #print('====== Product SQL ======')
                 #print (sql)
@@ -81,7 +86,7 @@ def importNewProductData(inputFile, testRun=True):
                 dateOfEx = dateOfEx.replace(' UTC', '')
                 #print('in 3: ' + dateOfEx)
                 sqlPrice += 'STR_TO_DATE(\'' +dateOfEx + '\',\'%Y-%m-%d %H:%i:%s\'),'
-                sqlPrice += products[i]['Original Price'] + ',' 
+                sqlPrice += oPrice + ',' 
                 pp = '0'
                 if products[i]['Price Promoted'] == 'TRUE':
                     pp = '1'
@@ -333,7 +338,13 @@ def importRecentData(ninputFile, testRun=True):
                         
                         sqlPrice += '\'' + res[0] + '\','
                         sqlPrice += 'STR_TO_DATE(\'' +dateOfEx + '\', \'%Y-%m-%d %H:%i:%s\'),'
-                        sqlPrice += products[i]['Original Price'] + ',' 
+                        #sqlPrice += products[i]['Original Price'] + ',' 
+                        oPrice = '0'
+                        if (products[i]['Original Price'] is None or products[i]['Original Price']==' ' or products[i]['Original Price']==''):
+                            oPrice = '0.0'
+                        else:
+                            oPrice = products[i]['Original Price']
+                        sqlPrice += oPrice + ','
                         pp = '0'
                         if products[i]['Price Promoted'] == 'True':
                             pp = '1'
