@@ -224,6 +224,12 @@ class Ui_MainWindow(object):
         self.label_13 = QtWidgets.QLabel(self.dataImportGB_2)
         self.label_13.setGeometry(QtCore.QRect(290, 75, 111, 25))
         self.label_13.setObjectName("label_13")
+        self.label_14 = QtWidgets.QLabel(self.groupBox_2)
+        self.label_14.setGeometry(QtCore.QRect(230, 110, 71, 30))
+        self.label_14.setObjectName("label_14")
+        self.supermarketCBSearch = QtWidgets.QComboBox(self.groupBox_2)
+        self.supermarketCBSearch.setGeometry(QtCore.QRect(300, 110, 131, 30))
+        self.supermarketCBSearch.setObjectName("supermarketCBSearch")
         self.openAddedDataFileBtn = QtWidgets.QPushButton(self.dataImportGB_2)
         self.openAddedDataFileBtn.setGeometry(QtCore.QRect(520, 40, 75, 25))
         self.openAddedDataFileBtn.setObjectName("openAddedDataFileBtn")
@@ -341,6 +347,7 @@ class Ui_MainWindow(object):
         self.label_11.setText(_translate("MainWindow", "Data file:"))
         self.label_12.setText(_translate("MainWindow", "Update:"))
         self.label_13.setText(_translate("MainWindow", "With values from:"))
+        self.label_14.setText(_translate("MainWindow", "Supermarket:"))
         self.openAddedDataFileBtn.setText(_translate("MainWindow", "Open"))
         self.executeUpdateBtn.setText(_translate("MainWindow", "Execute"))
         self.mainTab.setTabText(self.mainTab.indexOf(self.dataImportTab), _translate("MainWindow", "Data Import"))
@@ -348,6 +355,10 @@ class Ui_MainWindow(object):
         self.supermarketComboBox.addItem("Coles")
         self.supermarketComboBox.addItem("Woolworth")
 
+        self.supermarketCBSearch.addItem("All")
+        self.supermarketCBSearch.addItem("Coles")
+        self.supermarketCBSearch.addItem("Woolworth")
+        
         self.dataTable.setColumnCount(11)     #Set 11 columns
         self.dataTable.setHorizontalHeaderLabels(['Brand', 'Name', 'Pack size', 'Product Code', 'Date', 'Original Price', 'Promoted?', 'Promoted price', 'Multibuy?', 'Multi Buy Special Price', 'Multibuy Details'])
         self.dataTable.resizeColumnsToContents()
@@ -373,9 +384,13 @@ class Ui_MainWindow(object):
                     self.dbFieldsCb.addItem(fstr[0])
             
 
-        except (Exception, psycopg2.DatabaseError) as error:
-            print(error)
-
+        except mysql.connector.Error as err:
+            if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                print("Could not recognise your user name or password")
+            elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                print("Database does not exist")
+            else:
+                print(err)
 
         #+++++++++++++++++++++++
 
@@ -414,7 +429,7 @@ class Ui_MainWindow(object):
             testRun = True
         else:
             testRun = False
-
+        
         filePath = self.newDataFileLe.text()
         if (filePath == '') or (filePath ==  ' '):
             print("ERROR - File path is empty, please select a file first.")
@@ -485,7 +500,13 @@ class Ui_MainWindow(object):
             sql += ' AND LOWER(Category) LIKE LOWER(\'%' + self.categoryLineEdit.text() + '%\')' #just changed LIKE to =     
             sql += ' AND LOWER(Food_category) LIKE LOWER(\'%' + self.categoryLineEdit_3.text() + '%\')'      
             sql += ' AND LOWER(Beverage_category) LIKE LOWER(\'%' + self.categoryLineEdit_2.text() + '%\')'      
-            sql += ' AND LOWER(Pack_size) LIKE LOWER(' +'\'%' + self.packSizeLineEdit.text() + '%\');'
+            sql += ' AND LOWER(Pack_size) LIKE LOWER(' +'\'%' + self.packSizeLineEdit.text() + '%\')'
+            #Read supermarket
+            if self.supermarketCBSearch.currentText() == 'Coles' :
+                sql += ' AND Source=\'Coles\''
+            elif self.supermarketCBSearch.currentText() == 'Woolworth' : 
+                sql += ' AND Source=\'Woolworth\''
+            sql += ';'
 
             #print('====== Product retrieval SQL ======')
             #print(sql)
@@ -502,9 +523,13 @@ class Ui_MainWindow(object):
             for i in range(len(self.results)):
                 self.itemList.addItem(self.results[i][1]+" - " + self.results[i][2]+" - " + self.results[i][3]+" - "+self.results[i][4])   
 
-        except (Exception, psycopg2.DatabaseError) as error:
-            print(error)
-            disconnectDB(self.conn)
+        except mysql.connector.Error as err:
+            if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                print("Could not recognise your user name or password")
+            elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                print("Database does not exist")
+            else:
+                print(err)
 
                 
     def generateReport(self):
@@ -677,9 +702,13 @@ class Ui_MainWindow(object):
                                 self.nutritionTable.setItem(rowNo + 9, sIndex + 1, QtGui.QTableWidgetItem(fresult[11]))
                                 
                     
-            except (Exception, psycopg2.DatabaseError) as error:
-                print(error)
-                disconnectDB(self.conn)
+            except mysql.connector.Error as err:
+                if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                    print("Could not recognise your user name or password")
+                elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                    print("Database does not exist")
+                else:
+                    print(err)
 
                 
             
