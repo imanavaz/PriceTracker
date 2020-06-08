@@ -44,7 +44,7 @@ class Ui_MainWindow(object):
         self.analysisTab = QtWidgets.QWidget()
         self.analysisTab.setObjectName("analysisTab")
         self.verticalLayoutWidget_2 = QtWidgets.QWidget(self.analysisTab)
-        self.verticalLayoutWidget_2.setGeometry(QtCore.QRect(-1, -1, 1281, 701))
+        self.verticalLayoutWidget_2.setGeometry(QtCore.QRect(-1, -1, 1273, 683))
         self.verticalLayoutWidget_2.setObjectName("verticalLayoutWidget_2")
         self.verticalLayout_2 = QtWidgets.QVBoxLayout(self.verticalLayoutWidget_2)
         self.verticalLayout_2.setContentsMargins(0, 0, 0, 0)
@@ -65,13 +65,13 @@ class Ui_MainWindow(object):
         self.exportImageBtn.setIcon(icon)
         self.exportImageBtn.setObjectName("exportImageBtn")
         self.visBox = QtWidgets.QWidget(self.graphTab)
-        self.visBox.setGeometry(QtCore.QRect(0, 4, 1228, 495))
+        self.visBox.setGeometry(QtCore.QRect(0, 4, 1228, 441))
         self.visBox.setObjectName("visBox")
         self.nutritionTab.addTab(self.graphTab, "")
         self.dataTab = QtWidgets.QWidget()
         self.dataTab.setObjectName("dataTab")
         self.dataTable = QtWidgets.QTableWidget(self.dataTab)
-        self.dataTable.setGeometry(QtCore.QRect(0, 0, 1228, 495))
+        self.dataTable.setGeometry(QtCore.QRect(0, 0, 1228, 441))
         self.dataTable.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
         self.dataTable.setAlternatingRowColors(True)
         self.dataTable.setObjectName("dataTable")
@@ -88,7 +88,7 @@ class Ui_MainWindow(object):
         self.tab = QtWidgets.QWidget()
         self.tab.setObjectName("tab")
         self.nutritionTable = QtWidgets.QTableWidget(self.tab)
-        self.nutritionTable.setGeometry(QtCore.QRect(0, 0, 1228, 495))
+        self.nutritionTable.setGeometry(QtCore.QRect(0, 0, 1228, 441))
         self.nutritionTable.setEditTriggers(QtWidgets.QAbstractItemView.NoEditTriggers)
         self.nutritionTable.setAlternatingRowColors(True)
         self.nutritionTable.setObjectName("nutritionTable")
@@ -359,8 +359,8 @@ class Ui_MainWindow(object):
         self.supermarketCBSearch.addItem("Coles")
         self.supermarketCBSearch.addItem("Woolworth")
         
-        self.dataTable.setColumnCount(11)     #Set 11 columns
-        self.dataTable.setHorizontalHeaderLabels(['Brand', 'Name', 'Pack size', 'Product Code', 'Date', 'Original Price', 'Promoted?', 'Promoted price', 'Multibuy?', 'Multi Buy Special Price', 'Multibuy Details'])
+        self.dataTable.setColumnCount(14)     #Set 14 columns
+        self.dataTable.setHorizontalHeaderLabels(['Brand', 'Name', 'Pack size', 'Product Code', 'Date', 'Original Price', 'Promoted?', 'Promoted price', 'Multibuy?', 'Multi Buy Special Price', 'Multibuy Details', 'Category', 'Category 2', 'Category 3'])
         self.dataTable.resizeColumnsToContents()
 
         self.nutritionTable.setColumnCount(6)     #Set 5 columns
@@ -571,8 +571,11 @@ class Ui_MainWindow(object):
                     sql += 'price.Multi_Buy_Special_Price, '#7 from here new
                     sql += 'price.Price_Promoted, ' #8
                     sql += 'price.Multi_Buy_Special, ' #9
-                    sql += 'price.Multi_Buy_Special_Details' #10
-                            
+                    sql += 'price.Multi_Buy_Special_Details,' #10
+                    sql += 'product.Category, '#11
+                    sql += 'product.Beverage_category, '#12
+                    sql += 'product.Food_category' #13  
+                    
                     sql += ' from product'
                     sql += ' LEFT JOIN price'
                     sql += ' ON product.UID=price.UID'
@@ -584,7 +587,7 @@ class Ui_MainWindow(object):
                                         
                     for row in cur:
                         #prepare data table data
-                        dataResults.append([row[0], row[1], row[2], row[3], row[4], row[5], row[8], row[6], row[9], row[7], row[10]])
+                        dataResults.append([row[0], row[1], row[2], row[3], row[4], row[5], row[8], row[6], row[9], row[7], row[10], row[11], row[12], row[13]])
                         #print(row)
                         priceDateData.append([row[4],row[5]])
 
@@ -641,12 +644,18 @@ class Ui_MainWindow(object):
                         self.nutritionTable.setItem(rowNo + 8, 0, QtGui.QTableWidgetItem("Sugar"))
                         self.nutritionTable.insertRow(rowNo + 9)
                         self.nutritionTable.setItem(rowNo + 9, 0, QtGui.QTableWidgetItem("Sodium"))
+                        self.nutritionTable.insertRow(rowNo + 10)
+                        self.nutritionTable.setItem(rowNo + 10, 0, QtGui.QTableWidgetItem("Category"))
+                        self.nutritionTable.insertRow(rowNo + 11)
+                        self.nutritionTable.setItem(rowNo + 11, 0, QtGui.QTableWidgetItem("Category 2"))
+                        self.nutritionTable.insertRow(rowNo + 12)
+                        self.nutritionTable.setItem(rowNo + 12, 0, QtGui.QTableWidgetItem("Category 3"))
                         
                         fetchSQL = 'SELECT UID as Uid, Source as ItemSource, Brand as Brand, Product_name as ProductName,'
                         fetchSQL += 'Pack_size as PackSize, Energy_per_100g_or_100ml as Energy, Protein_per_100g_or_100ml as Protein,'
                         fetchSQL += 'Total_fat_per_100g_or_100ml as TotalFat, Saturated_fat_per_100g_or_100ml as  SaturatedFat, '
                         fetchSQL += 'Carbohydrate_per_100g_or_100ml as Carbohydrate, Sugars_per_100g_or_100ml as Sugar, '
-                        fetchSQL += 'Sodium_per_100g_or_100ml as Sodium FROM product WHERE UID=\''+fm[0]+'\''
+                        fetchSQL += 'Sodium_per_100g_or_100ml as Sodium, Category, Beverage_category, Food_category FROM product WHERE UID=\''+fm[0]+'\''
                         cur2.execute(fetchSQL)
                         #print("Fetch SQL :" + fetchSQL)
 
@@ -670,13 +679,16 @@ class Ui_MainWindow(object):
                             self.nutritionTable.setItem(rowNo + 7, sIndex + 1, QtGui.QTableWidgetItem(fresult[9]))
                             self.nutritionTable.setItem(rowNo + 8, sIndex + 1, QtGui.QTableWidgetItem(fresult[10]))
                             self.nutritionTable.setItem(rowNo + 9, sIndex + 1, QtGui.QTableWidgetItem(fresult[11]))
+                            self.nutritionTable.setItem(rowNo + 10, sIndex + 1, QtGui.QTableWidgetItem(fresult[12]))
+                            self.nutritionTable.setItem(rowNo + 11, sIndex + 1, QtGui.QTableWidgetItem(fresult[13]))
+                            self.nutritionTable.setItem(rowNo + 12, sIndex + 1, QtGui.QTableWidgetItem(fresult[14]))
                         
                         if (len(fm) > 1): #there is an actual match found match
                             fetchSQL = 'SELECT UID as Uid, Source as ItemSource, Brand as Brand, Product_name as ProductName,'
                             fetchSQL += 'Pack_size as PackSize, Energy_per_100g_or_100ml as Energy, Protein_per_100g_or_100ml as Protein,'
                             fetchSQL += 'Total_fat_per_100g_or_100ml as TotalFat, Saturated_fat_per_100g_or_100ml as  SaturatedFat, '
                             fetchSQL += 'Carbohydrate_per_100g_or_100ml as Carbohydrate, Sugars_per_100g_or_100ml as Sugar, '
-                            fetchSQL += 'Sodium_per_100g_or_100ml as Sodium FROM product WHERE UID=\''+fm[1]+'\''
+                            fetchSQL += 'Sodium_per_100g_or_100ml as Sodium, Category, Beverage_category, Food_category FROM product WHERE UID=\''+fm[1]+'\''
                             cur2.execute(fetchSQL)
                             #print("Fetch SQL 2:" + fetchSQL)
 
@@ -700,6 +712,9 @@ class Ui_MainWindow(object):
                                 self.nutritionTable.setItem(rowNo + 7, sIndex + 1, QtGui.QTableWidgetItem(fresult[9]))
                                 self.nutritionTable.setItem(rowNo + 8, sIndex + 1, QtGui.QTableWidgetItem(fresult[10]))
                                 self.nutritionTable.setItem(rowNo + 9, sIndex + 1, QtGui.QTableWidgetItem(fresult[11]))
+                                self.nutritionTable.setItem(rowNo + 10, sIndex + 1, QtGui.QTableWidgetItem(fresult[12]))
+                                self.nutritionTable.setItem(rowNo + 11, sIndex + 1, QtGui.QTableWidgetItem(fresult[13]))
+                                self.nutritionTable.setItem(rowNo + 12, sIndex + 1, QtGui.QTableWidgetItem(fresult[14]))
                                 
                     
             except mysql.connector.Error as err:
@@ -760,7 +775,7 @@ class Ui_MainWindow(object):
             #from price data table 
             with open(path[0], 'w+', newline='') as csv_file:
                 writer = csv.writer(csv_file)
-                writer.writerow(['Brand', 'Name', 'Pack size', 'Product Code', 'Date', 'Original Price', 'Price Promoted', 'Promoted price', 'Multibuy Price', 'Multi Buy Special Price', 'Multibuy Details'])
+                writer.writerow(['Brand', 'Name', 'Pack size', 'Product Code', 'Date', 'Original Price', 'Price Promoted', 'Promoted price', 'Multibuy Price', 'Multi Buy Special Price', 'Multibuy Details', 'Category', 'Category 2', 'Category 3'])
                 for row in range(self.dataTable.rowCount()):
                     row_data = []
                     for column in range(self.dataTable.columnCount()):
@@ -775,7 +790,7 @@ class Ui_MainWindow(object):
     #$ pip install pyqtgraph​
     def drawVis(self, data):
         
-        print(data)
+        #print(data)
         
         self.canvas.clear()
         self.visBox.layout().addWidget(self.canvas)
